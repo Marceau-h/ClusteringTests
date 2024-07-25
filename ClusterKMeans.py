@@ -40,7 +40,7 @@ def cluster(docs: List[str]) -> dict:
     svd = SVD(n_components=2)
     X_dist_svd = svd.fit_transform(X_dist)
 
-    max_clusters = min(20, len(docs) - 1)
+    max_clusters = len(docs) // 3
 
     best = None
     best_silhouette = -1
