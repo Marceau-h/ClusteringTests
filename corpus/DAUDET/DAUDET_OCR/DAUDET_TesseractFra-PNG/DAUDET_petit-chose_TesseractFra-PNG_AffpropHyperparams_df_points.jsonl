@@ -1,0 +1,585 @@
+{"text":"mans","x_pos":23.7240182548,"y_pos":0.0121614976,"cluster":0,"centroid":[23.8799059116,-0.0021634005],"is_centroid":true}
+{"text":"uma","x_pos":23.9504015558,"y_pos":-0.1248342888,"cluster":0,"centroid":[23.8799059116,-0.0021634005],"is_centroid":false}
+{"text":"Lak\u00e7amana","x_pos":23.7886220836,"y_pos":0.0478294626,"cluster":0,"centroid":[23.8799059116,-0.0021634005],"is_centroid":false}
+{"text":"Mange","x_pos":23.7929462122,"y_pos":-0.0464118873,"cluster":0,"centroid":[23.8799059116,-0.0021634005],"is_centroid":false}
+{"text":"Pb","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":0,"centroid":[23.8799059116,-0.0021634005],"is_centroid":false}
+{"text":"chambre m\u2019","x_pos":23.7370547868,"y_pos":0.134808288,"cluster":1,"centroid":[23.8388692687,0.1368665443],"is_centroid":true}
+{"text":"sur-le-champ","x_pos":23.8607887318,"y_pos":0.1616606682,"cluster":1,"centroid":[23.8388692687,0.1368665443],"is_centroid":false}
+{"text":"m\u2019","x_pos":24.1351053606,"y_pos":0.1034679076,"cluster":1,"centroid":[23.8388692687,0.1368665443],"is_centroid":false}
+{"text":"Champenoise","x_pos":23.6225281958,"y_pos":0.1475293134,"cluster":1,"centroid":[23.8388692687,0.1368665443],"is_centroid":false}
+{"text":"C\u00e9cilia","x_pos":23.9357481198,"y_pos":0.1115933753,"cluster":2,"centroid":[23.9922224663,0.0331950738],"is_centroid":true}
+{"text":"\u00c9liacin","x_pos":23.8859174767,"y_pos":-0.2076985814,"cluster":2,"centroid":[23.9922224663,0.0331950738],"is_centroid":false}
+{"text":"F","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":2,"centroid":[23.9922224663,0.0331950738],"is_centroid":false}
+{"text":"Cunoc\u00e9pa","x_pos":24.0036828168,"y_pos":0.1284472878,"cluster":2,"centroid":[23.9922224663,0.0331950738],"is_centroid":false}
+{"text":"Com\u00e9die-Fran\u00e7aise","x_pos":23.5182144076,"y_pos":-0.0753589094,"cluster":3,"centroid":[23.6242124115,-0.0306586163],"is_centroid":true}
+{"text":"Marie-feanne","x_pos":23.5376461417,"y_pos":0.0456018332,"cluster":3,"centroid":[23.6242124115,-0.0306586163],"is_centroid":false}
+{"text":"Com\u00e9die","x_pos":23.8327042363,"y_pos":0.1089917839,"cluster":3,"centroid":[23.6242124115,-0.0306586163],"is_centroid":false}
+{"text":"Fran\u00e7ais","x_pos":23.6082848605,"y_pos":-0.201869173,"cluster":3,"centroid":[23.6242124115,-0.0306586163],"is_centroid":false}
+{"text":"Italie","x_pos":23.6795480924,"y_pos":0.0827223834,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":true}
+{"text":"Sit\u00f4t","x_pos":24.0364856137,"y_pos":0.1009881302,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"m'\u2019invitait","x_pos":23.769017465,"y_pos":-0.351870993,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"Italien","x_pos":23.5585403919,"y_pos":0.1104197211,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"salie!.","x_pos":23.7350954537,"y_pos":-0.1085643709,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"Italiens","x_pos":23.5351409381,"y_pos":0.1259525169,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"l'Italie","x_pos":23.7564665537,"y_pos":0.0878897336,"cluster":4,"centroid":[23.7243277869,0.0067910173],"is_centroid":false}
+{"text":"PAPILLON\n\nSans doute","x_pos":23.2706989633,"y_pos":0.2175201046,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"I","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"Papillons","x_pos":23.420986289,"y_pos":0.3989537707,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":true}
+{"text":"Allons","x_pos":23.5874375782,"y_pos":0.3285038735,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"PAPILLON","x_pos":23.4336546918,"y_pos":0.3994882551,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"PAPILLON\n\nTais-toi","x_pos":23.3108409413,"y_pos":0.115023363,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"Papillon","x_pos":23.4336546918,"y_pos":0.3994882551,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"t\u00e2tons","x_pos":23.8783270472,"y_pos":0.1418864728,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"cimeti\u00e8re des Papillons","x_pos":23.1947488956,"y_pos":0.3164546374,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"guide-ballon n\u2019","x_pos":23.6176636603,"y_pos":0.2506284964,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"PAPILLON\n\nC\u2019","x_pos":23.4949133298,"y_pos":0.3764213174,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"Pion","x_pos":23.8434338921,"y_pos":0.091462939,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"PAPILLON\n\nEst","x_pos":23.3945299963,"y_pos":0.3980022345,"cluster":5,"centroid":[23.5403408791,0.2718670718],"is_centroid":false}
+{"text":"l\u00e0-bas","x_pos":23.8910897842,"y_pos":0.1915883681,"cluster":6,"centroid":[23.7930143743,0.1685110675],"is_centroid":true}
+{"text":"I\u00e0-bas","x_pos":23.9063312813,"y_pos":0.1881743312,"cluster":6,"centroid":[23.7930143743,0.1685110675],"is_centroid":false}
+{"text":"Bas","x_pos":23.8276597638,"y_pos":0.2354379173,"cluster":6,"centroid":[23.7930143743,0.1685110675],"is_centroid":false}
+{"text":"ner l\u00e0-bas","x_pos":23.6171970859,"y_pos":0.0395698283,"cluster":6,"centroid":[23.7930143743,0.1685110675],"is_centroid":false}
+{"text":"irons \/\u00e0-bas","x_pos":23.7227939565,"y_pos":0.1877848925,"cluster":6,"centroid":[23.7930143743,0.1685110675],"is_centroid":false}
+{"text":"Pardonne","x_pos":23.6315933457,"y_pos":0.1843011335,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":true}
+{"text":"Pardieu","x_pos":23.6692800958,"y_pos":0.141879488,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":false}
+{"text":"Sonne","x_pos":23.7202764802,"y_pos":0.137413877,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":false}
+{"text":"Chardon","x_pos":23.7496296155,"y_pos":0.1754049478,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":false}
+{"text":"Hanneton","x_pos":23.6510942297,"y_pos":0.1747214692,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":false}
+{"text":"Parth\u00e9non","x_pos":23.7625652124,"y_pos":0.124817146,"cluster":7,"centroid":[23.6974064966,0.1564230103],"is_centroid":false}
+{"text":"Que veux-tu","x_pos":23.7103975416,"y_pos":0.210944388,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Malheureuse-","x_pos":23.7086599807,"y_pos":0.065549701,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Seul","x_pos":23.8975805406,"y_pos":0.1759713014,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Eu","x_pos":23.9713823513,"y_pos":0.1666013765,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":true}
+{"text":"Eu us ns","x_pos":23.9483166712,"y_pos":0.1660844225,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Heulla","x_pos":23.7858383466,"y_pos":0.1977359634,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Eux","x_pos":23.9441261496,"y_pos":0.1696967694,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Horreur!.","x_pos":23.8229447746,"y_pos":0.0404287472,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Adieu","x_pos":23.8311050342,"y_pos":0.0879774973,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"YEUX","x_pos":23.9939428807,"y_pos":0.1541382392,"cluster":8,"centroid":[23.8614294271,0.1435128406],"is_centroid":false}
+{"text":"Suis","x_pos":23.8411108874,"y_pos":0.0788306304,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":true}
+{"text":"buis","x_pos":23.8609790669,"y_pos":0.0720161835,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":false}
+{"text":"Qui t\u2019","x_pos":23.9782865155,"y_pos":0.1295990792,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":false}
+{"text":"suisse","x_pos":23.7484653536,"y_pos":0.1316977093,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":false}
+{"text":"lui!.","x_pos":24.0453061019,"y_pos":0.1011904882,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":false}
+{"text":"Lx","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":9,"centroid":[23.9362815628,0.102295384],"is_centroid":false}
+{"text":"Petit-Cercle","x_pos":23.6391351897,"y_pos":-0.0647677552,"cluster":10,"centroid":[23.5925123608,-0.0048140268],"is_centroid":false}
+{"text":"Grand-Cercle","x_pos":23.6175046259,"y_pos":0.0737115177,"cluster":10,"centroid":[23.5925123608,-0.0048140268],"is_centroid":true}
+{"text":"Grand-Orient","x_pos":23.5208972669,"y_pos":-0.0233858428,"cluster":10,"centroid":[23.5925123608,-0.0048140268],"is_centroid":false}
+{"text":"n'\u2019irais","x_pos":23.6888395069,"y_pos":-0.2767586698,"cluster":11,"centroid":[23.9120865542,-0.0937201136],"is_centroid":false}
+{"text":"n'\u2019irai","x_pos":23.8136694691,"y_pos":-0.270261776,"cluster":11,"centroid":[23.9120865542,-0.0937201136],"is_centroid":true}
+{"text":"N'","x_pos":24.1231147323,"y_pos":0.085571883,"cluster":11,"centroid":[23.9120865542,-0.0937201136],"is_centroid":false}
+{"text":"m'\u2019effraya","x_pos":24.0227225083,"y_pos":0.0865681084,"cluster":11,"centroid":[23.9120865542,-0.0937201136],"is_centroid":false}
+{"text":"Porte","x_pos":23.7632898975,"y_pos":0.1212281852,"cluster":12,"centroid":[23.6950617264,-0.0341354719],"is_centroid":true}
+{"text":"Roberte","x_pos":23.6376442025,"y_pos":-0.0624273831,"cluster":12,"centroid":[23.6950617264,-0.0341354719],"is_centroid":false}
+{"text":"Port-au-Prince","x_pos":23.7452486029,"y_pos":-0.2689068958,"cluster":12,"centroid":[23.6950617264,-0.0341354719],"is_centroid":false}
+{"text":"porte s\u2019","x_pos":23.6340642027,"y_pos":0.0735642061,"cluster":12,"centroid":[23.6950617264,-0.0341354719],"is_centroid":false}
+{"text":"Pierrotte","x_pos":23.2858615981,"y_pos":-0.2926417818,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"PIERROTTE","x_pos":23.2858615981,"y_pos":-0.2926417818,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":true}
+{"text":"Mie Pierrotte","x_pos":23.2444136118,"y_pos":-0.2314170978,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Nizier","x_pos":23.6708957294,"y_pos":-0.3890608703,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Pierrotte!\n\nPierrotte","x_pos":23.3181541622,"y_pos":-0.2709831839,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Mile Pierrotte","x_pos":23.1683878572,"y_pos":-0.1227613084,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Pier-","x_pos":23.5153412106,"y_pos":-0.3397412316,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Pierrotte s\u2019","x_pos":23.2365907193,"y_pos":-0.2616613728,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"Pierrotte \u2014 Pierrotte","x_pos":23.2730565774,"y_pos":-0.2613002897,"cluster":13,"centroid":[23.3331736738,-0.2735787687],"is_centroid":false}
+{"text":"D\u00e9sir-de-plaire","x_pos":23.6521564076,"y_pos":-0.1991071097,"cluster":14,"centroid":[23.880596317,-0.047216075],"is_centroid":true}
+{"text":"Parfait secr\u00e9taire","x_pos":23.5895170908,"y_pos":-0.2629666447,"cluster":14,"centroid":[23.880596317,-0.047216075],"is_centroid":false}
+{"text":"P","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":14,"centroid":[23.880596317,-0.047216075],"is_centroid":false}
+{"text":"EE","x_pos":24.1257693608,"y_pos":0.1089528645,"cluster":14,"centroid":[23.880596317,-0.047216075],"is_centroid":false}
+{"text":"D\u00e9sir-de-","x_pos":23.8919972742,"y_pos":0.0166023009,"cluster":14,"centroid":[23.880596317,-0.047216075],"is_centroid":false}
+{"text":"grand Baghavat","x_pos":23.7474349498,"y_pos":0.1962614613,"cluster":15,"centroid":[23.9353532503,0.1578766891],"is_centroid":true}
+{"text":"Baghavat","x_pos":23.9150833492,"y_pos":0.1769303922,"cluster":15,"centroid":[23.9353532503,0.1578766891],"is_centroid":false}
+{"text":"cs","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":15,"centroid":[23.9353532503,0.1578766891],"is_centroid":false}
+{"text":"Gu\u00e9ri","x_pos":23.9692397952,"y_pos":0.0958299213,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"victoria","x_pos":23.9322036083,"y_pos":0.1079259086,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"Mis\u00e9ricorde","x_pos":23.706751357,"y_pos":0.1443587072,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":true}
+{"text":"Sois s\u00e9rieux","x_pos":23.6056829727,"y_pos":0.1014265195,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"du Nord","x_pos":24.0217971098,"y_pos":0.1138679876,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"Cocorico!","x_pos":23.8105583727,"y_pos":0.2103030473,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"mis\u00e9ra-a-ble!","x_pos":23.7979706524,"y_pos":0.1808799503,"cluster":16,"centroid":[23.8348862669,0.1363702917],"is_centroid":false}
+{"text":"om\n\nru t\u00e9rmi\u00e9tpe der\n\f\nEn\n\n246 LE PETIT","x_pos":23.5001948494,"y_pos":0.1004521242,"cluster":17,"centroid":[23.6509133944,0.1388351941],"is_centroid":true}
+{"text":"APE D Bnit mb","x_pos":23.8116669071,"y_pos":0.1323178502,"cluster":17,"centroid":[23.6509133944,0.1388351941],"is_centroid":false}
+{"text":"ILE\n\n2e ee 2er","x_pos":23.6123381343,"y_pos":0.1164753559,"cluster":17,"centroid":[23.6509133944,0.1388351941],"is_centroid":false}
+{"text":"OR\n\f\n84 LE PETIT","x_pos":23.6794536868,"y_pos":0.2060954461,"cluster":17,"centroid":[23.6509133944,0.1388351941],"is_centroid":false}
+{"text":"Z\u00e9perons","x_pos":23.6806464203,"y_pos":-0.012684864,"cluster":18,"centroid":[23.7714797641,-0.0415213715],"is_centroid":false}
+{"text":"Pers","x_pos":23.7486343179,"y_pos":-0.1505979461,"cluster":18,"centroid":[23.7714797641,-0.0415213715],"is_centroid":true}
+{"text":"rs","x_pos":24.0795644779,"y_pos":0.0899816222,"cluster":18,"centroid":[23.7714797641,-0.0415213715],"is_centroid":false}
+{"text":"SRI EPErR ES","x_pos":23.7012006883,"y_pos":-0.0327801886,"cluster":18,"centroid":[23.7714797641,-0.0415213715],"is_centroid":false}
+{"text":"Grossiers","x_pos":23.6473529161,"y_pos":-0.101525481,"cluster":18,"centroid":[23.7714797641,-0.0415213715],"is_centroid":false}
+{"text":"pyramide d'Egypte","x_pos":23.7489019087,"y_pos":0.1331901203,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"rue des Dames","x_pos":23.448575385,"y_pos":0.1821263544,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":true}
+{"text":"\u00ce as {\n\nPs\n\nA ii\n\f\nD","x_pos":23.9948313349,"y_pos":0.1423360212,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"rue de Lille","x_pos":23.2535763406,"y_pos":0.3223350524,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"RSS RER E SR R\n\n \n\nnn\n\n \n\nDES \u00c0","x_pos":23.5569280615,"y_pos":0.0263266175,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"Rue des Dames","x_pos":23.448575385,"y_pos":0.1821263544,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"s\u00fbmes","x_pos":23.8604914797,"y_pos":0.1511808884,"cluster":19,"centroid":[23.6159828422,0.1628030584],"is_centroid":false}
+{"text":"Palais-Royal","x_pos":23.616531438,"y_pos":-0.1495066434,"cluster":20,"centroid":[23.6791349709,-0.1725851054],"is_centroid":true}
+{"text":"Palais-Mazarin","x_pos":23.4671263082,"y_pos":-0.3803904276,"cluster":20,"centroid":[23.6791349709,-0.1725851054],"is_centroid":false}
+{"text":"Kalat\u00e7ala","x_pos":23.8411160815,"y_pos":0.1014202257,"cluster":20,"centroid":[23.6791349709,-0.1725851054],"is_centroid":false}
+{"text":"voyais","x_pos":23.7838514318,"y_pos":-0.2955051465,"cluster":20,"centroid":[23.6791349709,-0.1725851054],"is_centroid":false}
+{"text":"m'\u2019appelais","x_pos":23.6870495952,"y_pos":-0.1389435352,"cluster":20,"centroid":[23.6791349709,-0.1725851054],"is_centroid":false}
+{"text":"Cap","x_pos":23.9928687679,"y_pos":0.1561647282,"cluster":21,"centroid":[24.0536409421,0.1389745428],"is_centroid":true}
+{"text":"kohl","x_pos":24.1386113564,"y_pos":0.1016815043,"cluster":21,"centroid":[24.0536409421,0.1389745428],"is_centroid":false}
+{"text":"APS","x_pos":24.0294427021,"y_pos":0.1590773959,"cluster":21,"centroid":[24.0536409421,0.1389745428],"is_centroid":false}
+{"text":"terne","x_pos":23.4852829332,"y_pos":-0.1093618922,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":true}
+{"text":"Bernerette","x_pos":23.3654080255,"y_pos":-0.1300303416,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"rue Lanterne","x_pos":23.2338612648,"y_pos":-0.1370678369,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"Habiter l\u2019","x_pos":23.5923659999,"y_pos":0.0398210333,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"J","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"D TER","x_pos":23.6537387516,"y_pos":-0.0856505608,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"Consterna-","x_pos":23.5032003443,"y_pos":0.0654085868,"cluster":22,"centroid":[23.5681998244,-0.0366346854],"is_centroid":false}
+{"text":"\u00ce","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":false}
+{"text":"Lentement","x_pos":23.5170360794,"y_pos":-0.1209851976,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":true}
+{"text":"mnt","x_pos":23.9403313412,"y_pos":-0.3751469483,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":false}
+{"text":"D\u00e9cid\u00e9ment","x_pos":23.8569401422,"y_pos":-0.0435006231,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":false}
+{"text":"Confus\u00e9ment","x_pos":23.7049472851,"y_pos":0.0144101332,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":false}
+{"text":"menc\u00e9","x_pos":23.8279519439,"y_pos":0.1420647436,"cluster":23,"centroid":[23.8317913739,-0.0471199464],"is_centroid":false}
+{"text":"besogne","x_pos":23.7515850952,"y_pos":0.1393590952,"cluster":24,"centroid":[23.7892482128,0.0593620994],"is_centroid":false}
+{"text":"Guigne","x_pos":23.8363636594,"y_pos":0.0994181829,"cluster":24,"centroid":[23.7892482128,0.0593620994],"is_centroid":true}
+{"text":"Araign\u00e9e","x_pos":23.7701002205,"y_pos":-0.1583496118,"cluster":24,"centroid":[23.7892482128,0.0593620994],"is_centroid":false}
+{"text":"Signez","x_pos":23.7989438762,"y_pos":0.1570207313,"cluster":24,"centroid":[23.7892482128,0.0593620994],"is_centroid":false}
+{"text":"Oua","x_pos":23.7721610486,"y_pos":0.1238865538,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":true}
+{"text":"soufHe","x_pos":23.8998763305,"y_pos":0.1085547548,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"Soubeyrol.","x_pos":23.8594383762,"y_pos":0.1094668057,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"Pouah","x_pos":23.8484199079,"y_pos":0.1289888967,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"Debout","x_pos":23.8330084364,"y_pos":0.0814887457,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"oua","x_pos":23.7721610486,"y_pos":0.1238865538,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"Souwaroff","x_pos":23.829341299,"y_pos":0.1117230444,"cluster":25,"centroid":[23.8306294925,0.112570765],"is_centroid":false}
+{"text":"Lyon","x_pos":23.9374697686,"y_pos":0.1405450389,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"Mont-","x_pos":23.6370101498,"y_pos":-0.6214102296,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":true}
+{"text":"Me L\u00e9ontine","x_pos":23.4609776939,"y_pos":-0.2855829897,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"mont-de-pi\u00e9t\u00e9","x_pos":23.702493932,"y_pos":-0.3702160086,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"honte!.","x_pos":23.6625702856,"y_pos":-0.0783489175,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"Mont\u00e9limart","x_pos":23.6580027154,"y_pos":-0.1407513679,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"Montmartre","x_pos":23.5518853733,"y_pos":-0.1542727376,"cluster":26,"centroid":[23.6586299884,-0.2157196017],"is_centroid":false}
+{"text":"Attends","x_pos":23.652956006,"y_pos":0.1587401277,"cluster":27,"centroid":[23.7572956362,0.1414882606],"is_centroid":true}
+{"text":"\u00ca","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":27,"centroid":[23.7572956362,0.1414882606],"is_centroid":false}
+{"text":"Attendons","x_pos":23.5552278899,"y_pos":0.1885536858,"cluster":27,"centroid":[23.7572956362,0.1414882606],"is_centroid":false}
+{"text":"Comprends-tu","x_pos":23.677457197,"y_pos":0.1182210152,"cluster":27,"centroid":[23.7572956362,0.1414882606],"is_centroid":false}
+{"text":"\u00c9ttenez","x_pos":23.5464794291,"y_pos":0.162274932,"cluster":28,"centroid":[23.5678614509,0.1769122507],"is_centroid":false}
+{"text":"Tenez","x_pos":23.5057990801,"y_pos":0.1777536526,"cluster":28,"centroid":[23.5678614509,0.1769122507],"is_centroid":true}
+{"text":"Venez","x_pos":23.6513058435,"y_pos":0.1907081677,"cluster":28,"centroid":[23.5678614509,0.1769122507],"is_centroid":false}
+{"text":"Marseille","x_pos":23.4642631355,"y_pos":0.3241451725,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":true}
+{"text":"soleil","x_pos":23.7971364073,"y_pos":0.2679006762,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":false}
+{"text":"vieille Fe","x_pos":23.4489459278,"y_pos":0.359217998,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":false}
+{"text":"Conseille","x_pos":23.4010158411,"y_pos":0.461763019,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":false}
+{"text":"Travaille","x_pos":23.4903194463,"y_pos":0.1057871653,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":false}
+{"text":"Marsala","x_pos":23.6762536565,"y_pos":-0.1541758608,"cluster":29,"centroid":[23.5463224024,0.227439695],"is_centroid":false}
+{"text":"Gymnase","x_pos":23.910481681,"y_pos":0.1411499264,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"Embrasse","x_pos":23.7942442653,"y_pos":0.1675436404,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"Montparnasse","x_pos":23.5051011395,"y_pos":0.0272370953,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":true}
+{"text":"CHOSE\n\n \n\nMontparnasse","x_pos":23.383598637,"y_pos":0.0982108009,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"boulevard Montparnasse","x_pos":23.4120455169,"y_pos":0.1152990324,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"th\u00e9\u00e2tre Montparnasse","x_pos":23.4031864524,"y_pos":0.0436748743,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"Loyasse","x_pos":23.8130882796,"y_pos":0.1776368418,"cluster":30,"centroid":[23.6031065674,0.1101074588],"is_centroid":false}
+{"text":"Barbette!.","x_pos":23.6366500345,"y_pos":0.1988535715,"cluster":31,"centroid":[23.6480059596,0.1989570297],"is_centroid":false}
+{"text":"Barbette","x_pos":23.6202276143,"y_pos":0.2066916104,"cluster":31,"centroid":[23.6480059596,0.1989570297],"is_centroid":true}
+{"text":"caf\u00e9 Barbette","x_pos":23.7124617586,"y_pos":0.1932460174,"cluster":31,"centroid":[23.6480059596,0.1989570297],"is_centroid":false}
+{"text":"mettez","x_pos":23.6226844309,"y_pos":0.1970369195,"cluster":31,"centroid":[23.6480059596,0.1989570297],"is_centroid":false}
+{"text":"Quartier-","x_pos":23.4938958142,"y_pos":-0.1460598339,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"Quartier Latin","x_pos":23.3457079748,"y_pos":-0.2749390009,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"Quartier-Latin","x_pos":23.3979084881,"y_pos":-0.2853107473,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":true}
+{"text":"Latin","x_pos":23.6505815698,"y_pos":-0.3154715022,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"Quartier\nLatin!","x_pos":23.451683346,"y_pos":-0.264006958,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"Lamartine d\u2019Elvire","x_pos":23.4044891951,"y_pos":-0.1300242841,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"Moustier","x_pos":23.4641956032,"y_pos":-0.1108794989,"cluster":32,"centroid":[23.458351713,-0.2180988322],"is_centroid":false}
+{"text":"bordeaux","x_pos":23.8506418879,"y_pos":0.1001246573,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":false}
+{"text":"Pruneaux","x_pos":23.846761366,"y_pos":0.0611513825,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":true}
+{"text":"lune","x_pos":23.9236611727,"y_pos":0.0945183239,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":false}
+{"text":"huppe jaune","x_pos":23.846498157,"y_pos":0.1023513591,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":false}
+{"text":"Sceaux","x_pos":23.9491375787,"y_pos":0.1061374786,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":false}
+{"text":"Caveau","x_pos":23.9576324345,"y_pos":0.1227555351,"cluster":33,"centroid":[23.8957220995,0.0978397894],"is_centroid":false}
+{"text":"\u00c9cris","x_pos":23.7707017523,"y_pos":0.0980328682,"cluster":34,"centroid":[23.7170585383,0.0432213894],"is_centroid":false}
+{"text":"Cristaux","x_pos":23.7274651392,"y_pos":0.1142694254,"cluster":34,"centroid":[23.7170585383,0.0432213894],"is_centroid":true}
+{"text":"Sapristi","x_pos":23.6530087234,"y_pos":-0.0826381255,"cluster":34,"centroid":[23.7170585383,0.0432213894],"is_centroid":false}
+{"text":"Batignolles","x_pos":23.4893407473,"y_pos":0.4068153828,"cluster":35,"centroid":[23.4416359781,0.3970558569],"is_centroid":true}
+{"text":"des Batignolles","x_pos":23.3939312089,"y_pos":0.387296331,"cluster":35,"centroid":[23.4416359781,0.3970558569],"is_centroid":false}
+{"text":"Sanctus","x_pos":23.8104058363,"y_pos":-0.0212110162,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"Languedoc","x_pos":23.7902522527,"y_pos":0.1529471264,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"Blanc","x_pos":23.6669755822,"y_pos":0.2120194954,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":true}
+{"text":"m'\u2019attablai","x_pos":23.7832228823,"y_pos":-0.1178079298,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"Langlumeau","x_pos":23.7614775634,"y_pos":0.0946042241,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"blanche","x_pos":23.6451939727,"y_pos":0.1861220083,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"Blanc s\u2019","x_pos":23.7287854631,"y_pos":0.1577892419,"cluster":36,"centroid":[23.7409019361,0.0949233072],"is_centroid":false}
+{"text":"Pot","x_pos":24.0081542296,"y_pos":0.088442173,"cluster":37,"centroid":[24.0090665274,0.0984639074],"is_centroid":false}
+{"text":"Od\u00e9on","x_pos":23.9575392625,"y_pos":0.1097204349,"cluster":37,"centroid":[24.0090665274,0.0984639074],"is_centroid":false}
+{"text":"Pod","x_pos":24.0615060902,"y_pos":0.0972291144,"cluster":37,"centroid":[24.0090665274,0.0984639074],"is_centroid":true}
+{"text":"S","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":38,"centroid":[23.8743145791,0.0059042565],"is_centroid":false}
+{"text":"LS","x_pos":24.1134589263,"y_pos":0.0957541312,"cluster":38,"centroid":[23.8743145791,0.0059042565],"is_centroid":false}
+{"text":"Alsacien","x_pos":23.6366735465,"y_pos":-0.0668401398,"cluster":38,"centroid":[23.8743145791,0.0059042565],"is_centroid":true}
+{"text":"Alsace","x_pos":23.8368316729,"y_pos":-0.0759165726,"cluster":38,"centroid":[23.8743145791,0.0059042565],"is_centroid":false}
+{"text":"l\u2019Alsacien","x_pos":23.6410672979,"y_pos":-0.0239143499,"cluster":38,"centroid":[23.8743145791,0.0059042565],"is_centroid":false}
+{"text":"Jusque","x_pos":23.8917166984,"y_pos":0.1967202375,"cluster":39,"centroid":[24.011640138,0.1452348384],"is_centroid":false}
+{"text":"qu\u2019","x_pos":23.9727378927,"y_pos":0.1506799841,"cluster":39,"centroid":[24.011640138,0.1452348384],"is_centroid":false}
+{"text":"jusqu\u2019","x_pos":23.9799384084,"y_pos":0.1540087047,"cluster":39,"centroid":[24.011640138,0.1452348384],"is_centroid":true}
+{"text":"j\u2019","x_pos":24.1337543414,"y_pos":0.1060179335,"cluster":39,"centroid":[24.011640138,0.1452348384],"is_centroid":false}
+{"text":"V\u00e9nus","x_pos":24.0800533493,"y_pos":0.1187473324,"cluster":39,"centroid":[24.011640138,0.1452348384],"is_centroid":false}
+{"text":"Agen","x_pos":23.8520621513,"y_pos":0.0511106877,"cluster":40,"centroid":[23.940048036,0.0812075018],"is_centroid":true}
+{"text":"vages","x_pos":23.8245405049,"y_pos":0.0920736039,"cluster":40,"centroid":[23.940048036,0.0812075018],"is_centroid":false}
+{"text":"J'","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":40,"centroid":[23.940048036,0.0812075018],"is_centroid":false}
+{"text":"Eyssette","x_pos":23.6869644799,"y_pos":0.2007861415,"cluster":41,"centroid":[23.5984452295,0.1971764022],"is_centroid":true}
+{"text":"Mne Evyssette","x_pos":23.5905298945,"y_pos":0.1858867049,"cluster":41,"centroid":[23.5984452295,0.1971764022],"is_centroid":false}
+{"text":"Lalouette","x_pos":23.4696988488,"y_pos":0.1998662615,"cluster":41,"centroid":[23.5984452295,0.1971764022],"is_centroid":false}
+{"text":"Musette","x_pos":23.646587695,"y_pos":0.2021665009,"cluster":41,"centroid":[23.5984452295,0.1971764022],"is_centroid":false}
+{"text":"Pr\u00e9sentez","x_pos":23.5838199261,"y_pos":-0.137111849,"cluster":42,"centroid":[23.8437743722,-0.0683548651],"is_centroid":false}
+{"text":"gr\u00e9sil","x_pos":23.9388642912,"y_pos":0.0571084358,"cluster":42,"centroid":[23.8437743722,-0.0683548651],"is_centroid":false}
+{"text":"Pr\u00e9s","x_pos":24.0086388995,"y_pos":-0.1250611819,"cluster":42,"centroid":[23.8437743722,-0.0683548651],"is_centroid":true}
+{"text":"Maintenant","x_pos":23.2544992007,"y_pos":-1.2748582629,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Pr\u00e9s-Saint-Gervais","x_pos":23.3150650422,"y_pos":-1.8470131078,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"faubourg Saint-Germain","x_pos":23.2264431545,"y_pos":-2.0945561591,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"clocher de Saint-Germain","x_pos":23.0267912762,"y_pos":-2.036758843,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Saint-Germain","x_pos":23.2029408465,"y_pos":-2.5587678071,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":true}
+{"text":"tour de Saint-Germain","x_pos":23.0380436862,"y_pos":-2.1495689196,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Saint-Germain-des-Pr\u00e9s","x_pos":23.1827819182,"y_pos":-2.1076429606,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Saint-Germain-des-\nPr\u00e9s","x_pos":23.2114007751,"y_pos":-2.0595500111,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Germane","x_pos":23.5125971179,"y_pos":-0.4733617904,"cluster":43,"centroid":[23.2189514464,-1.844675318],"is_centroid":false}
+{"text":"Pr\u00eatez","x_pos":23.8188319887,"y_pos":0.1249965662,"cluster":44,"centroid":[23.776316999,0.1283913425],"is_centroid":true}
+{"text":"Arr\u00eatez","x_pos":23.7338020093,"y_pos":0.1317861188,"cluster":44,"centroid":[23.776316999,0.1283913425],"is_centroid":false}
+{"text":"Saumon","x_pos":23.7572113126,"y_pos":-0.1416209938,"cluster":45,"centroid":[23.792925488,0.087812402],"is_centroid":false}
+{"text":"Saumon l\u2019","x_pos":23.646484172,"y_pos":-0.0025177163,"cluster":45,"centroid":[23.792925488,0.087812402],"is_centroid":true}
+{"text":"qu\u2019on l\u2019","x_pos":23.7441370884,"y_pos":0.2288021427,"cluster":45,"centroid":[23.792925488,0.087812402],"is_centroid":false}
+{"text":"On l\u2019","x_pos":23.7037035551,"y_pos":0.2406440487,"cluster":45,"centroid":[23.792925488,0.087812402],"is_centroid":false}
+{"text":"cn -\n\n \n\n \n\nX","x_pos":24.113091312,"y_pos":0.1137545286,"cluster":45,"centroid":[23.792925488,0.087812402],"is_centroid":false}
+{"text":"M. Serri\u00e8res","x_pos":23.5220565278,"y_pos":-0.0782844846,"cluster":46,"centroid":[23.5484565242,-0.1248614231],"is_centroid":false}
+{"text":"Serri\u00e8res","x_pos":23.4476594202,"y_pos":-0.0809804007,"cluster":46,"centroid":[23.5484565242,-0.1248614231],"is_centroid":true}
+{"text":"Ser-","x_pos":23.6558183275,"y_pos":-0.1443836523,"cluster":46,"centroid":[23.5484565242,-0.1248614231],"is_centroid":false}
+{"text":"Derri\u00e8re","x_pos":23.5596038944,"y_pos":-0.1522445715,"cluster":46,"centroid":[23.5484565242,-0.1248614231],"is_centroid":false}
+{"text":"serrure","x_pos":23.557144451,"y_pos":-0.1684140063,"cluster":46,"centroid":[23.5484565242,-0.1248614231],"is_centroid":false}
+{"text":"Sais-tu qu\u2019","x_pos":23.6222740419,"y_pos":-0.4025513119,"cluster":47,"centroid":[23.7854789891,-0.0183388371],"is_centroid":false}
+{"text":"Voix","x_pos":24.028139579,"y_pos":0.1177342346,"cluster":47,"centroid":[23.7854789891,-0.0183388371],"is_centroid":false}
+{"text":"Vois-tu!","x_pos":23.7457511677,"y_pos":0.1057308644,"cluster":47,"centroid":[23.7854789891,-0.0183388371],"is_centroid":true}
+{"text":"vois-tu!","x_pos":23.7457511677,"y_pos":0.1057308644,"cluster":47,"centroid":[23.7854789891,-0.0183388371],"is_centroid":false}
+{"text":"Bamban!.","x_pos":23.8246445408,"y_pos":0.2153682656,"cluster":48,"centroid":[23.7978709348,0.2102591384],"is_centroid":false}
+{"text":"Bandit","x_pos":23.767169011,"y_pos":0.1874888334,"cluster":48,"centroid":[23.7978709348,0.2102591384],"is_centroid":false}
+{"text":"Bamban","x_pos":23.8017992525,"y_pos":0.2279203162,"cluster":48,"centroid":[23.7978709348,0.2102591384],"is_centroid":true}
+{"text":"diras-tu","x_pos":23.7602713281,"y_pos":0.1148247339,"cluster":49,"centroid":[23.819688096,0.0913864608],"is_centroid":true}
+{"text":"Midi","x_pos":24.0498397155,"y_pos":0.1135363007,"cluster":49,"centroid":[23.819688096,0.0913864608],"is_centroid":false}
+{"text":"l\u2019as-tu","x_pos":23.8328250018,"y_pos":0.1465068194,"cluster":49,"centroid":[23.819688096,0.0913864608],"is_centroid":false}
+{"text":"feras-tu","x_pos":23.6358163384,"y_pos":-0.0093220106,"cluster":49,"centroid":[23.819688096,0.0913864608],"is_centroid":false}
+{"text":"Ferrouillat","x_pos":23.3441602096,"y_pos":-0.0208117604,"cluster":50,"centroid":[23.46794205,0.0470412792],"is_centroid":false}
+{"text":"Ferouillat","x_pos":23.3865630977,"y_pos":0.0389313576,"cluster":50,"centroid":[23.46794205,0.0470412792],"is_centroid":true}
+{"text":"Condillac","x_pos":23.5381324474,"y_pos":0.265850368,"cluster":50,"centroid":[23.46794205,0.0470412792],"is_centroid":false}
+{"text":"Fougeroux","x_pos":23.6029124453,"y_pos":-0.0958048485,"cluster":50,"centroid":[23.46794205,0.0470412792],"is_centroid":false}
+{"text":"califourchon","x_pos":23.6981589744,"y_pos":0.1040616932,"cluster":51,"centroid":[23.7870564741,-0.0088572637],"is_centroid":false}
+{"text":"Luxembourg","x_pos":23.8790707589,"y_pos":0.0231546358,"cluster":51,"centroid":[23.7870564741,-0.0088572637],"is_centroid":false}
+{"text":"Bonjour","x_pos":23.7919689894,"y_pos":0.0705353796,"cluster":51,"centroid":[23.7870564741,-0.0088572637],"is_centroid":true}
+{"text":"tournai","x_pos":23.695719836,"y_pos":-0.2886971545,"cluster":51,"centroid":[23.7870564741,-0.0088572637],"is_centroid":false}
+{"text":"Pourvu","x_pos":23.8703638119,"y_pos":0.0466591274,"cluster":51,"centroid":[23.7870564741,-0.0088572637],"is_centroid":false}
+{"text":"mer\n\n \n\f\n \n\n \n\f\n \n\nLE ROMAN","x_pos":23.3962721824,"y_pos":0.0163554397,"cluster":52,"centroid":[23.6724945244,0.1528500334],"is_centroid":false}
+{"text":"le Rh\u00f4ne","x_pos":23.6785642468,"y_pos":0.2362782469,"cluster":52,"centroid":[23.6724945244,0.1528500334],"is_centroid":false}
+{"text":"Le Rh\u00f4ne","x_pos":23.6785642468,"y_pos":0.2362782469,"cluster":52,"centroid":[23.6724945244,0.1528500334],"is_centroid":true}
+{"text":"Rh\u00f4ne","x_pos":23.9365774216,"y_pos":0.1224882003,"cluster":52,"centroid":[23.6724945244,0.1528500334],"is_centroid":false}
+{"text":"Raspail","x_pos":23.6928102869,"y_pos":-0.146999237,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":false}
+{"text":"SRE\n\nTU VENDRAS","x_pos":23.6210357606,"y_pos":0.1630402672,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":false}
+{"text":"VENDRAS","x_pos":23.7207150897,"y_pos":0.1921778143,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":true}
+{"text":"\u00c7udra","x_pos":24.0116528542,"y_pos":0.0946742876,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":false}
+{"text":"cadran","x_pos":23.8218157225,"y_pos":0.1504005122,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":false}
+{"text":"Vendredi","x_pos":23.7627959181,"y_pos":0.144626302,"cluster":53,"centroid":[23.771804272,0.0996533244],"is_centroid":false}
+{"text":"Colombe","x_pos":23.8199980082,"y_pos":0.1867713928,"cluster":54,"centroid":[23.7669514695,0.0899954299],"is_centroid":false}
+{"text":"Combien","x_pos":23.6724131652,"y_pos":0.1379953995,"cluster":54,"centroid":[23.7669514695,0.0899954299],"is_centroid":false}
+{"text":"C\u00e9nevol","x_pos":23.9306705576,"y_pos":0.1281226781,"cluster":54,"centroid":[23.7669514695,0.0899954299],"is_centroid":false}
+{"text":"Colombine","x_pos":23.6447241469,"y_pos":-0.0929077508,"cluster":54,"centroid":[23.7669514695,0.0899954299],"is_centroid":true}
+{"text":"Chinois","x_pos":23.6492374409,"y_pos":-0.2162778727,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":false}
+{"text":"Chine","x_pos":23.6552206011,"y_pos":-0.3481175153,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":true}
+{"text":"Chili","x_pos":23.8310115502,"y_pos":0.0783817926,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":false}
+{"text":"Polichinelle","x_pos":23.4795140628,"y_pos":0.077012082,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":false}
+{"text":"Coquine","x_pos":23.6701261919,"y_pos":-0.1793089707,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":false}
+{"text":"Philistine","x_pos":23.5689452508,"y_pos":-0.2117262927,"cluster":55,"centroid":[23.6423425163,-0.1333394628],"is_centroid":false}
+{"text":"Alfort","x_pos":23.9578263785,"y_pos":0.122729685,"cluster":56,"centroid":[23.9016605825,0.1620877694],"is_centroid":false}
+{"text":"d\u2019","x_pos":24.1146505393,"y_pos":0.1094417642,"cluster":56,"centroid":[23.9016605825,0.1620877694],"is_centroid":false}
+{"text":"\u00c9cole d\u2019Alfort","x_pos":23.6325048298,"y_pos":0.254091859,"cluster":56,"centroid":[23.9016605825,0.1620877694],"is_centroid":true}
+{"text":"Grande nouvelle!","x_pos":23.3687730531,"y_pos":0.3406953747,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"C\u2019","x_pos":24.1356689635,"y_pos":0.1084141819,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"lamoelle de sos","x_pos":23.3665114679,"y_pos":0.2675459089,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Quelles","x_pos":23.3854447022,"y_pos":0.5456648106,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"A","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"R\u00e9veries de Rosellen","x_pos":23.1447722305,"y_pos":0.2347795812,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Le","x_pos":23.6583805871,"y_pos":0.4200635833,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Telle","x_pos":23.4165809354,"y_pos":0.518919408,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":true}
+{"text":"Vatel","x_pos":23.7645337127,"y_pos":0.1848006713,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Grenelle","x_pos":23.4060178051,"y_pos":0.3743033212,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Tell","x_pos":23.5950494216,"y_pos":0.352680767,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Te rappelles","x_pos":23.3550990906,"y_pos":0.4224016573,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Rosellen","x_pos":23.465810133,"y_pos":0.427592183,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Mlle","x_pos":23.6677190066,"y_pos":0.460523804,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Allez","x_pos":23.5869286218,"y_pos":0.4450092688,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Laquelle","x_pos":23.524490101,"y_pos":0.4461634019,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Mademoiselle","x_pos":23.426347521,"y_pos":0.2741057859,"cluster":57,"centroid":[23.5536275768,0.3484765837],"is_centroid":false}
+{"text":"Chers","x_pos":23.6976205428,"y_pos":-0.1360782358,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"Perrache","x_pos":23.6176662766,"y_pos":-0.0946603904,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"Mon cher","x_pos":23.6027682176,"y_pos":-0.0223571978,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"Approche","x_pos":23.856294059,"y_pos":0.0717198337,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"Pacheco","x_pos":23.8005806275,"y_pos":0.1788320528,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"Cher","x_pos":23.6530745284,"y_pos":-0.1797342675,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":true}
+{"text":"Ev\u00each\u00e9","x_pos":24.0410801706,"y_pos":0.1038017274,"cluster":58,"centroid":[23.7527263461,-0.0112109254],"is_centroid":false}
+{"text":"kss!.","x_pos":24.0384752558,"y_pos":0.126839628,"cluster":59,"centroid":[23.7483910728,0.1449497143],"is_centroid":false}
+{"text":"Pilois","x_pos":23.6108360322,"y_pos":0.1609780278,"cluster":59,"centroid":[23.7483910728,0.1449497143],"is_centroid":false}
+{"text":"Pilois!.","x_pos":23.6506202154,"y_pos":0.1645740763,"cluster":59,"centroid":[23.7483910728,0.1449497143],"is_centroid":true}
+{"text":"mois!.","x_pos":23.762663059,"y_pos":0.1267325998,"cluster":59,"centroid":[23.7483910728,0.1449497143],"is_centroid":false}
+{"text":"Pilouitt!.","x_pos":23.6793608018,"y_pos":0.1456242398,"cluster":59,"centroid":[23.7483910728,0.1449497143],"is_centroid":false}
+{"text":"R\u00caVE 229\n\nD So","x_pos":23.84267083,"y_pos":0.1331302233,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":false}
+{"text":"R\u00caVE 25\n\nD","x_pos":23.852477215,"y_pos":0.1601017019,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":false}
+{"text":"\u00ca \u2014","x_pos":24.1342699318,"y_pos":0.101800591,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":false}
+{"text":"R\u00caVE 233\n\n \n\nMoi","x_pos":23.8304093053,"y_pos":0.1676759426,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":false}
+{"text":"R\u00caVE\n\n\u2014","x_pos":23.8481911427,"y_pos":0.1652106222,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":true}
+{"text":"R\u00caVE 227\n\ner LL","x_pos":23.6661199126,"y_pos":0.1006318159,"cluster":60,"centroid":[23.8623563896,0.1380918162],"is_centroid":false}
+{"text":"65\n\nSd","x_pos":24.0625948848,"y_pos":0.06187601,"cluster":61,"centroid":[23.9449637772,0.1407713648],"is_centroid":false}
+{"text":"PSS Sd\n\n \n\nLL","x_pos":23.8500277781,"y_pos":0.1947323664,"cluster":61,"centroid":[23.9449637772,0.1407713648],"is_centroid":false}
+{"text":"LL Sd","x_pos":23.9222686686,"y_pos":0.1657057181,"cluster":61,"centroid":[23.9449637772,0.1407713648],"is_centroid":true}
+{"text":"Th\u00e9\u00e2tre-","x_pos":23.8692556218,"y_pos":0.0641035275,"cluster":62,"centroid":[23.599681889,0.0194080508],"is_centroid":true}
+{"text":"Th\u00e9\u00e2tre-Fran\u00e7ais","x_pos":23.5876390824,"y_pos":-0.1204868194,"cluster":62,"centroid":[23.599681889,0.0194080508],"is_centroid":false}
+{"text":"th\u00e9\u00e2tre de Paris","x_pos":23.342150963,"y_pos":0.1146074442,"cluster":62,"centroid":[23.599681889,0.0194080508],"is_centroid":false}
+{"text":"\u00cb","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":63,"centroid":[23.7685878848,0.1093998423],"is_centroid":false}
+{"text":"Ch\u00e2teau-","x_pos":23.8209615768,"y_pos":0.1252526155,"cluster":63,"centroid":[23.7685878848,0.1093998423],"is_centroid":false}
+{"text":"Ch\u00e2teau-\nNeuf-des-Papes","x_pos":23.5243277585,"y_pos":0.1073366948,"cluster":63,"centroid":[23.7685878848,0.1093998423],"is_centroid":true}
+{"text":"Neuf-des-Papes","x_pos":23.5855207519,"y_pos":0.1045718452,"cluster":63,"centroid":[23.7685878848,0.1093998423],"is_centroid":false}
+{"text":"sanglots!.","x_pos":23.8175014567,"y_pos":-0.0021279556,"cluster":64,"centroid":[23.8070106893,0.1151700971],"is_centroid":false}
+{"text":"Rana-Valo","x_pos":23.7366385605,"y_pos":0.1661436687,"cluster":64,"centroid":[23.8070106893,0.1151700971],"is_centroid":false}
+{"text":"Loupi","x_pos":23.7726821338,"y_pos":0.1113088681,"cluster":64,"centroid":[23.8070106893,0.1151700971],"is_centroid":false}
+{"text":"Lo","x_pos":23.8963722751,"y_pos":0.1650843889,"cluster":64,"centroid":[23.8070106893,0.1151700971],"is_centroid":true}
+{"text":"Ebloui","x_pos":23.8118590202,"y_pos":0.1354415156,"cluster":64,"centroid":[23.8070106893,0.1151700971],"is_centroid":false}
+{"text":"Nice","x_pos":24.0020727168,"y_pos":0.0718089458,"cluster":65,"centroid":[23.9650350241,0.0778353794],"is_centroid":false}
+{"text":"RCE S","x_pos":23.773752813,"y_pos":0.0375064266,"cluster":65,"centroid":[23.9650350241,0.0778353794],"is_centroid":false}
+{"text":"Turc","x_pos":24.0033805163,"y_pos":0.0687381018,"cluster":65,"centroid":[23.9650350241,0.0778353794],"is_centroid":false}
+{"text":"\u00abCe","x_pos":24.0497640111,"y_pos":0.1081723717,"cluster":65,"centroid":[23.9650350241,0.0778353794],"is_centroid":false}
+{"text":"RCE","x_pos":23.9962050634,"y_pos":0.102951051,"cluster":65,"centroid":[23.9650350241,0.0778353794],"is_centroid":true}
+{"text":"Fe","x_pos":24.0524334502,"y_pos":0.1222994297,"cluster":66,"centroid":[23.9853704936,0.0684821381],"is_centroid":false}
+{"text":"fe","x_pos":24.0524334502,"y_pos":0.1222994297,"cluster":66,"centroid":[23.9853704936,0.0684821381],"is_centroid":true}
+{"text":"FER 95\n\nSt dd","x_pos":23.8512445805,"y_pos":-0.0391524452,"cluster":66,"centroid":[23.9853704936,0.0684821381],"is_centroid":false}
+{"text":"Bah","x_pos":23.9536188497,"y_pos":0.2007680318,"cluster":67,"centroid":[23.9568429855,0.1809485565],"is_centroid":false}
+{"text":"Cuba","x_pos":24.0216372834,"y_pos":0.1527875009,"cluster":67,"centroid":[23.9568429855,0.1809485565],"is_centroid":false}
+{"text":"Bach\u2019","x_pos":23.8984969594,"y_pos":0.1694706616,"cluster":67,"centroid":[23.9568429855,0.1809485565],"is_centroid":false}
+{"text":"bah","x_pos":23.9536188497,"y_pos":0.2007680318,"cluster":67,"centroid":[23.9568429855,0.1809485565],"is_centroid":true}
+{"text":"Da\u00e7aratha","x_pos":23.8785505738,"y_pos":0.1157113026,"cluster":68,"centroid":[23.8848760924,0.1129720425],"is_centroid":false}
+{"text":"BE","x_pos":24.035144393,"y_pos":0.060150025,"cluster":68,"centroid":[23.8848760924,0.1129720425],"is_centroid":false}
+{"text":"Scarab\u00e9e","x_pos":23.9167618944,"y_pos":0.1245309844,"cluster":68,"centroid":[23.8848760924,0.1129720425],"is_centroid":false}
+{"text":"Arabes","x_pos":23.7090475083,"y_pos":0.1514958581,"cluster":68,"centroid":[23.8848760924,0.1129720425],"is_centroid":true}
+{"text":"rue Bonaparte","x_pos":23.4793523788,"y_pos":0.1695096438,"cluster":69,"centroid":[23.7784861583,0.1352707107],"is_centroid":false}
+{"text":"A TRUE","x_pos":23.9389315803,"y_pos":0.1222849136,"cluster":69,"centroid":[23.7784861583,0.1352707107],"is_centroid":false}
+{"text":"rue","x_pos":23.9171745158,"y_pos":0.1140175747,"cluster":69,"centroid":[23.7784861583,0.1352707107],"is_centroid":true}
+{"text":"portier Cassagne","x_pos":23.4574372434,"y_pos":-0.1505161353,"cluster":70,"centroid":[23.6871605029,-0.0056375706],"is_centroid":false}
+{"text":"Cassagne","x_pos":23.7235748939,"y_pos":-0.0209947162,"cluster":70,"centroid":[23.6871605029,-0.0056375706],"is_centroid":true}
+{"text":"pagna","x_pos":23.8804693714,"y_pos":0.1545981398,"cluster":70,"centroid":[23.6871605029,-0.0056375706],"is_centroid":false}
+{"text":"Paris","x_pos":23.5253413782,"y_pos":0.1499129623,"cluster":71,"centroid":[23.4465633332,0.1414711718],"is_centroid":false}
+{"text":"parisiens","x_pos":23.3592382716,"y_pos":0.145596357,"cluster":71,"centroid":[23.4465633332,0.1414711718],"is_centroid":false}
+{"text":"Charivaris","x_pos":23.6179364953,"y_pos":0.1335078634,"cluster":71,"centroid":[23.4465633332,0.1414711718],"is_centroid":false}
+{"text":"Parisien","x_pos":23.3710622493,"y_pos":0.1327423192,"cluster":71,"centroid":[23.4465633332,0.1414711718],"is_centroid":true}
+{"text":"Parisiens","x_pos":23.3592382716,"y_pos":0.145596357,"cluster":71,"centroid":[23.4465633332,0.1414711718],"is_centroid":false}
+{"text":"Lovelaces","x_pos":23.6841226394,"y_pos":0.203534753,"cluster":72,"centroid":[23.7441688077,0.1379474766],"is_centroid":false}
+{"text":"clac","x_pos":23.8868031882,"y_pos":0.0899180526,"cluster":72,"centroid":[23.7441688077,0.1379474766],"is_centroid":false}
+{"text":"Place!","x_pos":23.8609428424,"y_pos":0.1228141327,"cluster":72,"centroid":[23.7441688077,0.1379474766],"is_centroid":true}
+{"text":"place d\u2019Armes","x_pos":23.5448065606,"y_pos":0.135522968,"cluster":72,"centroid":[23.7441688077,0.1379474766],"is_centroid":false}
+{"text":"Rien","x_pos":23.5055793797,"y_pos":0.0615558682,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Viot.","x_pos":24.0381018007,"y_pos":0.1047182264,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Souviens-toi","x_pos":23.5509479377,"y_pos":0.1227612828,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Viens","x_pos":23.5958264201,"y_pos":0.1214268918,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":true}
+{"text":"VI","x_pos":24.0220870942,"y_pos":0.1373299602,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Tiens","x_pos":23.5515847845,"y_pos":0.0947445032,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Eh bien","x_pos":23.8102527937,"y_pos":0.0934471582,"cluster":73,"centroid":[23.7249114586,0.1051405558],"is_centroid":false}
+{"text":"Toloco-","x_pos":23.8596806907,"y_pos":0.1837293221,"cluster":74,"centroid":[23.9015120712,0.1427240772],"is_centroid":false}
+{"text":"R\u00e0","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":74,"centroid":[23.9015120712,0.1427240772],"is_centroid":false}
+{"text":"kakato\u00e8s","x_pos":24.0638782194,"y_pos":0.1003201881,"cluster":74,"centroid":[23.9015120712,0.1427240772],"is_centroid":false}
+{"text":"Tolocototignan","x_pos":23.6827789601,"y_pos":0.1777445395,"cluster":74,"centroid":[23.9015120712,0.1427240772],"is_centroid":true}
+{"text":"Tologototignan","x_pos":23.7576810342,"y_pos":0.1513881226,"cluster":74,"centroid":[23.9015120712,0.1427240772],"is_centroid":false}
+{"text":"\u00c0 l\u2019","x_pos":23.8969715782,"y_pos":0.2024753462,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"A l\u2019","x_pos":23.8702693795,"y_pos":0.2040579643,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"De l\u2019","x_pos":23.5506369735,"y_pos":0.2007830681,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"b\u00e9sigue l\u2019","x_pos":23.7020571295,"y_pos":0.1807749379,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"j\u2019eus l\u2019","x_pos":23.8490280208,"y_pos":0.2150426796,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"titis de l\u2019","x_pos":23.4429435007,"y_pos":0.1663119182,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"Je l\u2019","x_pos":23.6884860838,"y_pos":0.2259694927,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":true}
+{"text":"C\u00e9venol l\u2019","x_pos":23.777162547,"y_pos":0.2055847618,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"l\u2019","x_pos":23.958766799,"y_pos":0.1861790074,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"je l\u2019","x_pos":23.6884860838,"y_pos":0.2259694927,"cluster":75,"centroid":[23.7424808096,0.2013148669],"is_centroid":false}
+{"text":"Prairie","x_pos":23.5710024345,"y_pos":-0.3261584229,"cluster":76,"centroid":[23.5690146311,-0.2863433116],"is_centroid":false}
+{"text":"la Prairie","x_pos":23.5670268277,"y_pos":-0.2465282002,"cluster":76,"centroid":[23.5690146311,-0.2863433116],"is_centroid":true}
+{"text":"Rendez","x_pos":23.6166555482,"y_pos":0.1179007331,"cluster":77,"centroid":[23.7066545053,0.1302487225],"is_centroid":false}
+{"text":"Regardez","x_pos":23.7157381708,"y_pos":0.1215869514,"cluster":77,"centroid":[23.7066545053,0.1302487225],"is_centroid":false}
+{"text":"gardes-du-corps","x_pos":23.7164979295,"y_pos":0.1317870032,"cluster":77,"centroid":[23.7066545053,0.1302487225],"is_centroid":false}
+{"text":"Gardez","x_pos":23.7777263728,"y_pos":0.1497202022,"cluster":77,"centroid":[23.7066545053,0.1302487225],"is_centroid":true}
+{"text":"tic-tac","x_pos":23.9288019135,"y_pos":0.1319443899,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"Titan","x_pos":23.7116880925,"y_pos":0.1578787398,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"TA","x_pos":23.9818986682,"y_pos":0.1420975827,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"Oc\u00e9an","x_pos":23.9305986213,"y_pos":0.1417434642,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"Fanfan-la-Tulipe","x_pos":23.7998586203,"y_pos":0.1254099518,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"Tan","x_pos":23.7449529315,"y_pos":0.184040975,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":true}
+{"text":"Annou","x_pos":23.7144225073,"y_pos":0.1492123933,"cluster":78,"centroid":[23.8303173364,0.1474753567],"is_centroid":false}
+{"text":"Providence","x_pos":23.7513436097,"y_pos":0.1026145539,"cluster":79,"centroid":[23.7268276913,0.0990474292],"is_centroid":true}
+{"text":"La Providence","x_pos":23.7023117729,"y_pos":0.0954803045,"cluster":79,"centroid":[23.7268276913,0.0990474292],"is_centroid":false}
+{"text":"Qu'on s\u2019","x_pos":23.8565812332,"y_pos":0.1336375418,"cluster":80,"centroid":[23.8169099359,0.0630955584],"is_centroid":false}
+{"text":"Muse badine","x_pos":23.5922911611,"y_pos":-0.0708697093,"cluster":80,"centroid":[23.8169099359,0.0630955584],"is_centroid":false}
+{"text":"s\u2019","x_pos":24.0962638355,"y_pos":0.1069974253,"cluster":80,"centroid":[23.8169099359,0.0630955584],"is_centroid":false}
+{"text":"Muse s\u2019","x_pos":23.7225035136,"y_pos":0.0826169757,"cluster":80,"centroid":[23.8169099359,0.0630955584],"is_centroid":true}
+{"text":"coll\u00e8ge c\u00e8l\u00e8bre la saint Th\u00e9ophile","x_pos":23.2927269507,"y_pos":-0.6388718704,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":false}
+{"text":"coll\u00e8ge n\u2019","x_pos":23.6842156521,"y_pos":0.2234386968,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":false}
+{"text":"Vieux-Coll\u00e8ge","x_pos":23.6647991452,"y_pos":0.1946758201,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":false}
+{"text":"R\u00e9collets","x_pos":23.6506216773,"y_pos":0.3760609834,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":false}
+{"text":"Coll\u00e8ge","x_pos":23.764698171,"y_pos":0.2229483749,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":true}
+{"text":"coll\u00e8ge de Lyon","x_pos":23.4201621546,"y_pos":0.2240203876,"cluster":81,"centroid":[23.5795372918,0.1003787321],"is_centroid":false}
+{"text":"C\u00e9vennes","x_pos":23.6366953119,"y_pos":0.1976548692,"cluster":82,"centroid":[23.5385265999,0.1341825257],"is_centroid":false}
+{"text":"mienne","x_pos":23.5697660714,"y_pos":0.0942235729,"cluster":82,"centroid":[23.5385265999,0.1341825257],"is_centroid":false}
+{"text":"tiennes","x_pos":23.4084357174,"y_pos":0.1289296766,"cluster":82,"centroid":[23.5385265999,0.1341825257],"is_centroid":true}
+{"text":"Vienne","x_pos":23.539209299,"y_pos":0.1159219842,"cluster":82,"centroid":[23.5385265999,0.1341825257],"is_centroid":false}
+{"text":"d\u2019Espagne","x_pos":23.7290346865,"y_pos":0.1584979295,"cluster":83,"centroid":[23.6954510154,0.1388219597],"is_centroid":false}
+{"text":"la Bretagne","x_pos":23.6661195602,"y_pos":0.1267992653,"cluster":83,"centroid":[23.6954510154,0.1388219597],"is_centroid":false}
+{"text":"Bretagne","x_pos":23.6911987994,"y_pos":0.1311686843,"cluster":83,"centroid":[23.6954510154,0.1388219597],"is_centroid":true}
+{"text":"Quelquefois","x_pos":23.7154788019,"y_pos":0.2187104194,"cluster":84,"centroid":[23.683888093,0.2430383724],"is_centroid":false}
+{"text":"Jacques","x_pos":23.737613389,"y_pos":0.2415719011,"cluster":84,"centroid":[23.683888093,0.2430383724],"is_centroid":true}
+{"text":"Hacqueville","x_pos":23.5567648455,"y_pos":0.4171889975,"cluster":84,"centroid":[23.683888093,0.2430383724],"is_centroid":false}
+{"text":"ENL\u00c8VEMENT 219\n\nAt\n\n \n\n \n\nJacques","x_pos":23.6716227667,"y_pos":0.1039624076,"cluster":84,"centroid":[23.683888093,0.2430383724],"is_centroid":false}
+{"text":"Facques","x_pos":23.737960662,"y_pos":0.2337581365,"cluster":84,"centroid":[23.683888093,0.2430383724],"is_centroid":false}
+{"text":"Clytemnestre","x_pos":23.6388988035,"y_pos":0.1202203588,"cluster":85,"centroid":[23.7204110991,0.1339441705],"is_centroid":false}
+{"text":"Restez","x_pos":23.5112827233,"y_pos":0.1834552897,"cluster":85,"centroid":[23.7204110991,0.1339441705],"is_centroid":false}
+{"text":"Faust","x_pos":23.9810022293,"y_pos":0.0905005032,"cluster":85,"centroid":[23.7204110991,0.1339441705],"is_centroid":false}
+{"text":"Est","x_pos":23.7317526815,"y_pos":0.2096105172,"cluster":85,"centroid":[23.7204110991,0.1339441705],"is_centroid":true}
+{"text":"masto\u00efdes","x_pos":23.739119058,"y_pos":0.0659341838,"cluster":85,"centroid":[23.7204110991,0.1339441705],"is_centroid":false}
+{"text":"t\u2019","x_pos":24.0868254807,"y_pos":0.1281439081,"cluster":86,"centroid":[24.0183325465,0.1340923542],"is_centroid":false}
+{"text":"Va-t\u2019","x_pos":23.9757729023,"y_pos":0.13932347,"cluster":86,"centroid":[24.0183325465,0.1340923542],"is_centroid":false}
+{"text":"va-t\u2019","x_pos":23.9757729023,"y_pos":0.13932347,"cluster":86,"centroid":[24.0183325465,0.1340923542],"is_centroid":true}
+{"text":"Vi\u00e7va-","x_pos":24.0349589007,"y_pos":0.1295785687,"cluster":86,"centroid":[24.0183325465,0.1340923542],"is_centroid":false}
+{"text":"Ja l\u00e8vre","x_pos":23.8968365405,"y_pos":0.1146484393,"cluster":87,"centroid":[23.8801846562,0.1045141641],"is_centroid":false}
+{"text":"givre","x_pos":23.9482223775,"y_pos":0.0776055347,"cluster":87,"centroid":[23.8801846562,0.1045141641],"is_centroid":false}
+{"text":"S\u00e8vres","x_pos":23.7954950507,"y_pos":0.1212885183,"cluster":87,"centroid":[23.8801846562,0.1045141641],"is_centroid":true}
+{"text":"Magnifique","x_pos":23.8353915208,"y_pos":0.0888291185,"cluster":88,"centroid":[23.8392219483,0.0618474682],"is_centroid":false}
+{"text":"Frinc","x_pos":23.7865863522,"y_pos":-0.2940170819,"cluster":88,"centroid":[23.8392219483,0.0618474682],"is_centroid":false}
+{"text":"M\u00e9nalque","x_pos":23.8660461393,"y_pos":0.1781842258,"cluster":88,"centroid":[23.8392219483,0.0618474682],"is_centroid":false}
+{"text":"l'Afrique","x_pos":23.8742687531,"y_pos":0.1643722274,"cluster":88,"centroid":[23.8392219483,0.0618474682],"is_centroid":false}
+{"text":"Afrique","x_pos":23.8338169759,"y_pos":0.1718688512,"cluster":88,"centroid":[23.8392219483,0.0618474682],"is_centroid":true}
+{"text":"le Muguet","x_pos":23.6985781812,"y_pos":0.2600800913,"cluster":89,"centroid":[23.6915358792,0.197670266],"is_centroid":false}
+{"text":"Trouves-tu mon Muguet","x_pos":23.5207791307,"y_pos":0.2008459474,"cluster":89,"centroid":[23.6915358792,0.197670266],"is_centroid":true}
+{"text":"trouves-tu","x_pos":23.6018419836,"y_pos":0.158117017,"cluster":89,"centroid":[23.6915358792,0.197670266],"is_centroid":false}
+{"text":"Muguets","x_pos":23.9449442211,"y_pos":0.1716380084,"cluster":89,"centroid":[23.6915358792,0.197670266],"is_centroid":false}
+{"text":"Inde","x_pos":23.744101015,"y_pos":-0.386196687,"cluster":90,"centroid":[23.7583335701,-0.1656542353],"is_centroid":false}
+{"text":"\u00c8","x_pos":24.1435414517,"y_pos":0.1004382136,"cluster":90,"centroid":[23.7583335701,-0.1656542353],"is_centroid":false}
+{"text":"Sarlandais","x_pos":23.4855621765,"y_pos":-0.2974274645,"cluster":90,"centroid":[23.7583335701,-0.1656542353],"is_centroid":false}
+{"text":"Sarlande","x_pos":23.5874421351,"y_pos":-0.0513504263,"cluster":90,"centroid":[23.7583335701,-0.1656542353],"is_centroid":true}
+{"text":"Sar-","x_pos":23.831021072,"y_pos":-0.1937348123,"cluster":90,"centroid":[23.7583335701,-0.1656542353],"is_centroid":false}
+{"text":"Bouzanquet","x_pos":23.7031779703,"y_pos":0.1906267386,"cluster":91,"centroid":[23.8341955268,0.118967481],"is_centroid":false}
+{"text":"N\u00e9cro-","x_pos":24.0032746764,"y_pos":0.1015954528,"cluster":91,"centroid":[23.8341955268,0.118967481],"is_centroid":false}
+{"text":"Broum-Broum","x_pos":23.8216770228,"y_pos":0.0880227491,"cluster":91,"centroid":[23.8341955268,0.118967481],"is_centroid":false}
+{"text":"P\u00e9rou","x_pos":23.8170132903,"y_pos":0.0983852163,"cluster":91,"centroid":[23.8341955268,0.118967481],"is_centroid":false}
+{"text":"Crouzat","x_pos":23.8258346741,"y_pos":0.116207248,"cluster":91,"centroid":[23.8341955268,0.118967481],"is_centroid":true}
+{"text":"Carm\u00e9lites","x_pos":23.6562405652,"y_pos":0.1097817898,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"Amal\u00e9cites","x_pos":23.6664005942,"y_pos":0.0987653068,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"Tes\n\nl\u2019air monotone","x_pos":23.385233216,"y_pos":0.0148752786,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"TE","x_pos":23.5599477438,"y_pos":0.1624353443,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"Jardin des Plantes","x_pos":23.3139733697,"y_pos":-0.0904439318,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"tES\n\nEE","x_pos":23.6746657179,"y_pos":0.210270852,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"PTE","x_pos":23.7896097219,"y_pos":0.1438012618,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"TES","x_pos":23.434156335,"y_pos":0.2156452605,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":true}
+{"text":"tES","x_pos":23.434156335,"y_pos":0.2156452605,"cluster":92,"centroid":[23.5460426221,0.1200862692],"is_centroid":false}
+{"text":"aimais","x_pos":23.5985263596,"y_pos":-0.7419617931,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Soudain","x_pos":23.6152580252,"y_pos":-0.7809878696,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Nina","x_pos":23.8153122946,"y_pos":-0.4236222118,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Touraine","x_pos":23.4123520021,"y_pos":-0.7992009179,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Mathurine","x_pos":23.6699454827,"y_pos":-0.2946415584,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Porcelaines","x_pos":23.4398580065,"y_pos":-0.5383831918,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"Maine","x_pos":23.4183471961,"y_pos":-1.3248192225,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":true}
+{"text":"romains","x_pos":23.5579928964,"y_pos":-0.9930134859,"cluster":93,"centroid":[23.5659490329,-0.7370787814],"is_centroid":false}
+{"text":"R\u00e9fl\u00e9chissez l\u00e0-dessus","x_pos":23.6580633022,"y_pos":0.1292382805,"cluster":94,"centroid":[23.7123681941,0.1699786554],"is_centroid":false}
+{"text":"Pouss\u00e9","x_pos":23.8302997165,"y_pos":0.1440038549,"cluster":94,"centroid":[23.7123681941,0.1699786554],"is_centroid":false}
+{"text":"secousse","x_pos":23.6487415636,"y_pos":0.2366938306,"cluster":94,"centroid":[23.7123681941,0.1699786554],"is_centroid":true}
+{"text":"Les \u00e9l\u00e8ves n\u2019","x_pos":23.7072041412,"y_pos":0.2853617814,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":false}
+{"text":"t\u2019habilles","x_pos":23.5639397315,"y_pos":0.4203922077,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":false}
+{"text":"\u00eeles Marquises","x_pos":23.4531776674,"y_pos":0.2113954292,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":false}
+{"text":"fillesen","x_pos":23.3484655134,"y_pos":0.4732273453,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":false}
+{"text":"\u00c9vangiles","x_pos":23.6286299657,"y_pos":0.2784689964,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":false}
+{"text":"Les Chenilles","x_pos":23.3233788107,"y_pos":0.4363231099,"cluster":95,"centroid":[23.5041326383,0.3508614783],"is_centroid":true}
+{"text":"Figurez","x_pos":23.8207552906,"y_pos":0.0880235163,"cluster":96,"centroid":[23.8207552906,0.0880235163],"is_centroid":true}
+{"text":"figurez","x_pos":23.8207552906,"y_pos":0.0880235163,"cluster":96,"centroid":[23.8207552906,0.0880235163],"is_centroid":false}
+{"text":"Danielo","x_pos":23.6722425744,"y_pos":0.1098494579,"cluster":97,"centroid":[23.8249638422,0.0957467818],"is_centroid":false}
+{"text":"Dani-Dan","x_pos":23.8468648832,"y_pos":0.10882133,"cluster":97,"centroid":[23.8249638422,0.0957467818],"is_centroid":false}
+{"text":"G\u00e9ni\u00e8s","x_pos":24.0794427079,"y_pos":0.0753414289,"cluster":97,"centroid":[23.8249638422,0.0957467818],"is_centroid":false}
+{"text":"Daniel","x_pos":23.7013052035,"y_pos":0.0889749105,"cluster":97,"centroid":[23.8249638422,0.0957467818],"is_centroid":true}
+{"text":"Mile Coucou","x_pos":23.4122421742,"y_pos":0.347588257,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Mile Coucou-Blanc","x_pos":23.291237576,"y_pos":0.3766743225,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Coucou-","x_pos":23.6016387483,"y_pos":0.3097667304,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Coucou-\nBlanc","x_pos":23.4949380029,"y_pos":0.3082158356,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Coucou","x_pos":23.590826096,"y_pos":0.3034587366,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Coucou-Blanc!","x_pos":23.46703038,"y_pos":0.3284462213,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"COUCOU-BLANC","x_pos":23.440963927,"y_pos":0.3355554563,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Coucou-Blanc","x_pos":23.440963927,"y_pos":0.3355554563,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":true}
+{"text":"Boucoyran","x_pos":23.6480182818,"y_pos":0.2036566681,"cluster":98,"centroid":[23.4875399015,0.3165464093],"is_centroid":false}
+{"text":"Anastasie","x_pos":23.6488104371,"y_pos":0.1556305402,"cluster":99,"centroid":[23.5345185039,0.3308521936],"is_centroid":false}
+{"text":"Bastille","x_pos":23.4717180317,"y_pos":0.4418147935,"cluster":99,"centroid":[23.5345185039,0.3308521936],"is_centroid":false}
+{"text":"Anastagille","x_pos":23.4830270428,"y_pos":0.395111247,"cluster":99,"centroid":[23.5345185039,0.3308521936],"is_centroid":true}
+{"text":"Immobile","x_pos":23.8423826295,"y_pos":0.2025930059,"cluster":100,"centroid":[23.8685466221,0.0373614933],"is_centroid":false}
+{"text":"Limoux","x_pos":23.8128700116,"y_pos":0.1070875674,"cluster":100,"centroid":[23.8685466221,0.0373614933],"is_centroid":false}
+{"text":"Moi-m\u00eame","x_pos":23.9574917358,"y_pos":0.1160662843,"cluster":100,"centroid":[23.8685466221,0.0373614933],"is_centroid":false}
+{"text":"Moi","x_pos":23.8923151858,"y_pos":0.1261188571,"cluster":100,"centroid":[23.8685466221,0.0373614933],"is_centroid":true}
+{"text":"Foin","x_pos":23.8376735476,"y_pos":-0.365058248,"cluster":100,"centroid":[23.8685466221,0.0373614933],"is_centroid":false}
+{"text":"Pierre Dupont","x_pos":23.296713829,"y_pos":-0.3530288222,"cluster":101,"centroid":[23.3206447639,-0.2049184753],"is_centroid":false}
+{"text":"place des\nTerreaux","x_pos":23.269782029,"y_pos":-0.0221272992,"cluster":101,"centroid":[23.3206447639,-0.2049184753],"is_centroid":false}
+{"text":"Nanterre","x_pos":23.3045879916,"y_pos":-0.3612812001,"cluster":101,"centroid":[23.3206447639,-0.2049184753],"is_centroid":false}
+{"text":"Angleterre","x_pos":23.372752388,"y_pos":-0.0236157061,"cluster":101,"centroid":[23.3206447639,-0.2049184753],"is_centroid":false}
+{"text":"terre","x_pos":23.359387582,"y_pos":-0.2645393489,"cluster":101,"centroid":[23.3206447639,-0.2049184753],"is_centroid":true}
+{"text":"Circulez","x_pos":23.865192243,"y_pos":0.2051264112,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"noire!.","x_pos":23.7893102298,"y_pos":0.0650375779,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"Avez","x_pos":23.9580382084,"y_pos":0.17949437,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"m'\u2019introduire","x_pos":23.6748068252,"y_pos":-0.4304092441,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"Beaucaire","x_pos":23.7105887219,"y_pos":-0.2099560133,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"Lire","x_pos":23.7564544199,"y_pos":0.0128089042,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"Observatoire","x_pos":23.6421320049,"y_pos":-0.0396303364,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":false}
+{"text":"irez","x_pos":23.7230125134,"y_pos":0.0658167391,"cluster":102,"centroid":[23.7649418958,-0.0189639489],"is_centroid":true}
+{"text":"Chose l\u2019","x_pos":23.5738113287,"y_pos":0.247110822,"cluster":103,"centroid":[23.7788606323,0.1898974064],"is_centroid":false}
+{"text":"CHOSE\n\n_","x_pos":23.7221056615,"y_pos":0.1834582881,"cluster":103,"centroid":[23.7788606323,0.1898974064],"is_centroid":false}
+{"text":"Petit Chose","x_pos":23.741476812,"y_pos":0.184949703,"cluster":103,"centroid":[23.7788606323,0.1898974064],"is_centroid":false}
+{"text":"Chose","x_pos":23.8187328985,"y_pos":0.1888968485,"cluster":103,"centroid":[23.7788606323,0.1898974064],"is_centroid":true}
+{"text":"Hol\u00e0","x_pos":24.0381764609,"y_pos":0.1450713702,"cluster":103,"centroid":[23.7788606323,0.1898974064],"is_centroid":false}
+{"text":"Saint-Th\u00e9ophile","x_pos":23.4573247174,"y_pos":-1.4126266663,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"rue Saint-Guillaume","x_pos":23.1823933416,"y_pos":-1.4281429943,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Nizier","x_pos":23.3116810788,"y_pos":-1.9229126413,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Guillaume","x_pos":23.2866354985,"y_pos":-1.5417572275,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"\u00e9glise Saint-Pierre","x_pos":23.0219035731,"y_pos":-1.6291509431,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Pierre","x_pos":23.0814620792,"y_pos":-1.9993040102,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"rue Saint-Beno\u00eet","x_pos":23.3270417383,"y_pos":-1.5403736019,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-P\u00e9tesbourg","x_pos":23.3247407432,"y_pos":-1.4453645024,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Beno\u00eet","x_pos":23.4527833926,"y_pos":-1.7201665736,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-\nNizier","x_pos":23.3443541009,"y_pos":-1.8455046293,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Emilion","x_pos":23.4175095714,"y_pos":-1.5714868912,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-","x_pos":23.3313956999,"y_pos":-2.5531265412,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":true}
+{"text":"Saint-Esprit","x_pos":23.3711604633,"y_pos":-1.6749846875,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"Saint-Cloud","x_pos":23.3992877361,"y_pos":-1.7444141126,"cluster":104,"centroid":[23.3078338382,-1.7163797159],"is_centroid":false}
+{"text":"rade de Rio","x_pos":23.546556446,"y_pos":0.1092306503,"cluster":105,"centroid":[23.4235765563,0.1229767565],"is_centroid":false}
+{"text":"Biblioth\u00e8que nationale de France","x_pos":23.3426158257,"y_pos":0.206004008,"cluster":105,"centroid":[23.4235765563,0.1229767565],"is_centroid":false}
+{"text":"coupe-papier de nacre","x_pos":23.2704434427,"y_pos":-0.0322817188,"cluster":105,"centroid":[23.4235765563,0.1229767565],"is_centroid":false}
+{"text":"Naples","x_pos":23.6688223829,"y_pos":0.2936167486,"cluster":105,"centroid":[23.4235765563,0.1229767565],"is_centroid":false}
+{"text":"baie de Naples","x_pos":23.2894446844,"y_pos":0.0383140944,"cluster":105,"centroid":[23.4235765563,0.1229767565],"is_centroid":true}
+{"text":"connais","x_pos":23.5416226176,"y_pos":-0.1770784818,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"Sois","x_pos":23.7424833541,"y_pos":0.1118456008,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"niais","x_pos":23.713726612,"y_pos":-0.3894785162,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"Pise","x_pos":23.6795089637,"y_pos":0.0872965468,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"VriSmi\u00c9e\u00e9\n\npat","x_pos":23.8461984061,"y_pos":0.1152170201,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"boiserie","x_pos":23.4073029087,"y_pos":-0.072828871,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"Chauve-Souris","x_pos":23.6422873129,"y_pos":0.0832049539,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"crois\u00e9e","x_pos":23.7996914393,"y_pos":0.10558177,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"titis","x_pos":23.7452037285,"y_pos":0.0915425602,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":false}
+{"text":"Is","x_pos":23.6576995674,"y_pos":0.0451987582,"cluster":106,"centroid":[23.677572491,0.0000501341],"is_centroid":true}
+{"text":"Rime am\n\nEPS\n\f\n244","x_pos":23.8456838777,"y_pos":0.140154496,"cluster":107,"centroid":[23.8791725962,0.1174101478],"is_centroid":false}
+{"text":"Grimpe","x_pos":23.9410740363,"y_pos":0.1126867651,"cluster":107,"centroid":[23.8791725962,0.1174101478],"is_centroid":false}
+{"text":"Rime","x_pos":23.8507598745,"y_pos":0.0993891823,"cluster":107,"centroid":[23.8791725962,0.1174101478],"is_centroid":true}
+{"text":"Tribou","x_pos":23.7878305706,"y_pos":0.0968029822,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":false}
+{"text":"mitra","x_pos":23.8824064135,"y_pos":0.1120520239,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":false}
+{"text":"trompe-la-mort","x_pos":23.8112780749,"y_pos":0.102049032,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":false}
+{"text":"t\u2019es trahi","x_pos":23.8056813207,"y_pos":0.1740831184,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":false}
+{"text":"n\u2019","x_pos":24.1219301188,"y_pos":0.1149096748,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":false}
+{"text":"Tr","x_pos":24.0168146627,"y_pos":0.119147391,"cluster":108,"centroid":[23.9043235269,0.1198407037],"is_centroid":true}
+{"text":"Desinit","x_pos":23.6353406063,"y_pos":-0.2138690658,"cluster":109,"centroid":[23.7579909568,-0.1436091674],"is_centroid":false}
+{"text":"Robinson","x_pos":23.7332154643,"y_pos":-0.1597308932,"cluster":109,"centroid":[23.7579909568,-0.1436091674],"is_centroid":false}
+{"text":"Madagas-","x_pos":23.8954289734,"y_pos":0.0286710467,"cluster":109,"centroid":[23.7579909568,-0.1436091674],"is_centroid":false}
+{"text":"Magasins","x_pos":23.7679787832,"y_pos":-0.2295077573,"cluster":109,"centroid":[23.7579909568,-0.1436091674],"is_centroid":true}
+{"text":"Palerme","x_pos":23.579214781,"y_pos":-0.0358198055,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"Boh\u00eame","x_pos":24.0271086256,"y_pos":0.0958041833,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"Irma","x_pos":23.8933719961,"y_pos":-0.2169767402,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"Pme","x_pos":23.9986204928,"y_pos":0.1004436643,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"Rome","x_pos":23.8724798245,"y_pos":0.0718804261,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"mez","x_pos":23.8699226483,"y_pos":0.1510071639,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":false}
+{"text":"RME","x_pos":23.9371209733,"y_pos":-0.011902354,"cluster":110,"centroid":[23.8825484774,0.0220623626],"is_centroid":true}
+{"text":"REP","x_pos":23.8463711383,"y_pos":0.0426230316,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"SRE","x_pos":23.8395191844,"y_pos":0.0447678164,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"TIRER","x_pos":23.5495524453,"y_pos":-0.1686689124,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"Br\u00fbler","x_pos":23.7759310844,"y_pos":0.0216066077,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"P\u00e9cai\u00efre","x_pos":23.8556323516,"y_pos":-0.2110512074,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"\u00c9re-eR","x_pos":23.7430963939,"y_pos":-0.1257465393,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"ER","x_pos":23.4763021573,"y_pos":-0.4913517348,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":false}
+{"text":"RER","x_pos":23.4483067243,"y_pos":-0.3103704479,"cluster":111,"centroid":[23.6918389349,-0.1497739233],"is_centroid":true}
