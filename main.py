@@ -67,9 +67,9 @@ def do_1_text(path: Path) -> None:
     for name, cluster_method in cluster_methods.items():
         points, clusters, dp, dpc = cluster_method(entities)
         with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
-            json.dump(points, f, ensure_ascii=False, indent=4, default=numpyToPythonType)
+            json.dump(points, f, ensure_ascii=False, default=numpyToPythonType)
         with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
-            json.dump(clusters, f, ensure_ascii=False, indent=4, default=numpyToPythonType)
+            json.dump(clusters, f, ensure_ascii=False, default=numpyToPythonType)
 
         dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
         dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
