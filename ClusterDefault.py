@@ -8,6 +8,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_distances
 from sklearn.decomposition import TruncatedSVD as SVD
 
+cols_to_keep = ['text', 'cluster']
+
 
 def numpyToPythonType(obj):
     if isinstance(obj, np.integer):
@@ -62,9 +64,8 @@ def cluster(docs: List[str]) -> Tuple[list, dict]:
         clusters[str(cluster_id)] = cluster
 
     df_points = pd.DataFrame(points)
-    cols_to_keep = ['text', 'cluster']
-    df_points_for_corr = df_points[cols_to_keep]
-    df_points_for_corr['cluster_corrected'] = [""] * len(df_points_for_corr)
+    df_points_for_corr = df_points[cols_to_keep].copy()
+    df_points_for_corr['cluster_corrected'] = ""
 
     return points, clusters, df_points, df_points_for_corr
 
