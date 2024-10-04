@@ -1,7 +1,4 @@
-*.json
-*.txt
 .idea/
-corpus/
 data/
 tests/
 processed_ners/
