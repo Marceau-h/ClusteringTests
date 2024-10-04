@@ -2,6 +2,7 @@ import json
 from typing import List, Tuple
 
 import numpy as np
+import pandas as pd
 from sklearn.cluster import AffinityPropagation
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_distances
@@ -60,7 +61,12 @@ def cluster(docs: List[str]) -> Tuple[list, dict]:
         cluster = {docs[i] for i in range(len(docs)) if affprop.labels_[i] == cluster_id}
         clusters[str(cluster_id)] = cluster
 
-    return points, clusters
+    df_points = pd.DataFrame(points)
+    cols_to_keep = ['text', 'cluster']
+    df_points_for_corr = df_points[cols_to_keep]
+    df_points_for_corr['cluster_corrected'] = [""] * len(df_points_for_corr)
+
+    return points, clusters, df_points, df_points_for_corr
 
 
 if __name__ == "__main__":
@@ -70,7 +76,7 @@ if __name__ == "__main__":
     with open("lg_entities.json", "r", encoding="utf-8") as f:
         lg_entities = set(json.load(f))
 
-    points, clusters = cluster(list(sm_entities | lg_entities))
+    points, clusters, dp, dpc = cluster(list(sm_entities | lg_entities))
 
     # Name of the script \wo the `Cluster` prefix and the .py extension
     filename = __file__.rsplit("/", 1)[1][7:-3]
@@ -80,3 +86,8 @@ if __name__ == "__main__":
 
     with open(f"tests/clusters_{filename}.json", "w", encoding="utf-8") as f:
         json.dump(clusters, f, ensure_ascii=False, indent=4, default=numpyToPythonType)
+
+
+    dp.to_json(f"tests/df_points_{filename}.jsonl", orient="records", lines=True)
+    dpc.to_json(f"tests/df_points_for_corr_{filename}.jsonl", orient="records", lines=True)
+    dpc.to_csv(f"tests/df_points_for_corr_{filename}.csv", index=False)
