@@ -19,7 +19,7 @@ def nerMin(text, model='sm'):
         nlp = nlp_lg
 
     doc = nlp(text)
-    return {ent.text.strip() for ent in doc.ents}
+    return {ent.text.strip() for ent in doc.ents if ent.label_ in ['LOC']}
 
 
 if __name__ == "__main__":
