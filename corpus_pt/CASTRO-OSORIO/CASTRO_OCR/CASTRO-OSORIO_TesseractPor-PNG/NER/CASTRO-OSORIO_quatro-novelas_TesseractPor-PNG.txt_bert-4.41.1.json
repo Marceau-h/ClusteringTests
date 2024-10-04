@@ -1,0 +1,8658 @@
+{
+  "entite_0": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      283,
+      287
+    ]
+  },
+  "entite_1": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      184,
+      187
+    ]
+  },
+  "entite_2": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      187,
+      191
+    ]
+  },
+  "entite_3": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      151,
+      154
+    ]
+  },
+  "entite_4": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      154,
+      158
+    ]
+  },
+  "entite_5": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      195,
+      199
+    ]
+  },
+  "entite_6": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      70,
+      74
+    ]
+  },
+  "entite_7": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      298,
+      302
+    ]
+  },
+  "entite_8": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      342,
+      346
+    ]
+  },
+  "entite_9": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      349,
+      352
+    ]
+  },
+  "entite_10": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      352,
+      356
+    ]
+  },
+  "entite_11": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      215,
+      218
+    ]
+  },
+  "entite_12": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      218,
+      222
+    ]
+  },
+  "entite_13": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      385,
+      389
+    ]
+  },
+  "entite_14": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      346,
+      350
+    ]
+  },
+  "entite_15": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      296,
+      299
+    ]
+  },
+  "entite_16": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      299,
+      303
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      425,
+      428
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "##b",
+    "jalons": [
+      428,
+      429
+    ]
+  },
+  "entite_19": {
+    "label": "LOC",
+    "text": "##ôa",
+    "jalons": [
+      429,
+      431
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Portugal",
+    "jalons": [
+      170,
+      178
+    ]
+  },
+  "entite_21": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      412,
+      415
+    ]
+  },
+  "entite_22": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      415,
+      419
+    ]
+  },
+  "entite_23": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      188,
+      191
+    ]
+  },
+  "entite_24": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      191,
+      195
+    ]
+  },
+  "entite_25": {
+    "label": "PESSOA",
+    "text": "D",
+    "jalons": [
+      159,
+      160
+    ]
+  },
+  "entite_26": {
+    "label": "PESSOA",
+    "text": "Engracia",
+    "jalons": [
+      162,
+      170
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Roc",
+    "jalons": [
+      457,
+      460
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "##io",
+    "jalons": [
+      460,
+      462
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Cardoso",
+    "jalons": [
+      211,
+      218
+    ]
+  },
+  "entite_30": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      165,
+      167
+    ]
+  },
+  "entite_31": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      167,
+      169
+    ]
+  },
+  "entite_32": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      235,
+      238
+    ]
+  },
+  "entite_33": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      238,
+      242
+    ]
+  },
+  "entite_34": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      470,
+      474
+    ]
+  },
+  "entite_35": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      8,
+      12
+    ]
+  },
+  "entite_36": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      112,
+      115
+    ]
+  },
+  "entite_37": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      115,
+      119
+    ]
+  },
+  "entite_38": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      335,
+      340
+    ]
+  },
+  "entite_39": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      354,
+      359
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "Baixa",
+    "jalons": [
+      200,
+      205
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Tejo",
+    "jalons": [
+      338,
+      342
+    ]
+  },
+  "entite_42": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      477,
+      481
+    ]
+  },
+  "entite_43": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      15,
+      19
+    ]
+  },
+  "entite_44": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      425,
+      429
+    ]
+  },
+  "entite_45": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      209,
+      213
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      285,
+      288
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "##ôa",
+    "jalons": [
+      289,
+      291
+    ]
+  },
+  "entite_48": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      354,
+      358
+    ]
+  },
+  "entite_49": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      151,
+      155
+    ]
+  },
+  "entite_50": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      388,
+      392
+    ]
+  },
+  "entite_51": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      501,
+      504
+    ]
+  },
+  "entite_52": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_53": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      39,
+      42
+    ]
+  },
+  "entite_54": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      42,
+      46
+    ]
+  },
+  "entite_55": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      177,
+      181
+    ]
+  },
+  "entite_56": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      151,
+      155
+    ]
+  },
+  "entite_57": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      358,
+      361
+    ]
+  },
+  "entite_58": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      361,
+      365
+    ]
+  },
+  "entite_59": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      144,
+      148
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "VI",
+    "jalons": [
+      9,
+      11
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "##SA",
+    "jalons": [
+      11,
+      13
+    ]
+  },
+  "entite_62": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      371,
+      375
+    ]
+  },
+  "entite_63": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      90,
+      93
+    ]
+  },
+  "entite_64": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      93,
+      97
+    ]
+  },
+  "entite_65": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      53,
+      57
+    ]
+  },
+  "entite_66": {
+    "label": "PESSOA",
+    "text": "António",
+    "jalons": [
+      505,
+      512
+    ]
+  },
+  "entite_67": {
+    "label": "PESSOA",
+    "text": "António",
+    "jalons": [
+      43,
+      50
+    ]
+  },
+  "entite_68": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      307,
+      310
+    ]
+  },
+  "entite_69": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      310,
+      314
+    ]
+  },
+  "entite_70": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      63,
+      66
+    ]
+  },
+  "entite_71": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      66,
+      70
+    ]
+  },
+  "entite_72": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      473,
+      476
+    ]
+  },
+  "entite_73": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      476,
+      480
+    ]
+  },
+  "entite_74": {
+    "label": "PESSOA",
+    "text": "Edu",
+    "jalons": [
+      11,
+      14
+    ]
+  },
+  "entite_75": {
+    "label": "PESSOA",
+    "text": "##arda",
+    "jalons": [
+      14,
+      18
+    ]
+  },
+  "entite_76": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      278,
+      282
+    ]
+  },
+  "entite_77": {
+    "label": "PESSOA",
+    "text": "Luis",
+    "jalons": [
+      66,
+      70
+    ]
+  },
+  "entite_78": {
+    "label": "PESSOA",
+    "text": "Manoel da",
+    "jalons": [
+      286,
+      295
+    ]
+  },
+  "entite_79": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      296,
+      301
+    ]
+  },
+  "entite_80": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      94,
+      100
+    ]
+  },
+  "entite_81": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_82": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      248,
+      254
+    ]
+  },
+  "entite_83": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      80,
+      86
+    ]
+  },
+  "entite_84": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      199,
+      205
+    ]
+  },
+  "entite_85": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      408,
+      414
+    ]
+  },
+  "entite_86": {
+    "label": "PESSOA",
+    "text": "Manoel da",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_87": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      117,
+      122
+    ]
+  },
+  "entite_88": {
+    "label": "PESSOA",
+    "text": "Rez",
+    "jalons": [
+      271,
+      274
+    ]
+  },
+  "entite_89": {
+    "label": "PESSOA",
+    "text": "##adeira",
+    "jalons": [
+      274,
+      280
+    ]
+  },
+  "entite_90": {
+    "label": "PESSOA",
+    "text": "Clara do",
+    "jalons": [
+      374,
+      382
+    ]
+  },
+  "entite_91": {
+    "label": "PESSOA",
+    "text": "Rezadeira",
+    "jalons": [
+      383,
+      392
+    ]
+  },
+  "entite_92": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      446,
+      452
+    ]
+  },
+  "entite_93": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      484,
+      490
+    ]
+  },
+  "entite_94": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      22,
+      28
+    ]
+  },
+  "entite_95": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      194,
+      196
+    ]
+  },
+  "entite_96": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      424,
+      430
+    ]
+  },
+  "entite_97": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      239,
+      245
+    ]
+  },
+  "entite_98": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      323,
+      328
+    ]
+  },
+  "entite_99": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_100": {
+    "label": "PESSOA",
+    "text": "Tereza",
+    "jalons": [
+      403,
+      409
+    ]
+  },
+  "entite_101": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      414,
+      418
+    ]
+  },
+  "entite_102": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      418,
+      423
+    ]
+  },
+  "entite_103": {
+    "label": "PESSOA",
+    "text": "J",
+    "jalons": [
+      502,
+      503
+    ]
+  },
+  "entite_104": {
+    "label": "PESSOA",
+    "text": "##idal",
+    "jalons": [
+      503,
+      507
+    ]
+  },
+  "entite_105": {
+    "label": "PESSOA",
+    "text": "##ga",
+    "jalons": [
+      507,
+      509
+    ]
+  },
+  "entite_106": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      489,
+      493
+    ]
+  },
+  "entite_107": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      493,
+      498
+    ]
+  },
+  "entite_108": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      27,
+      31
+    ]
+  },
+  "entite_109": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      31,
+      36
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      134,
+      137
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "##ôa",
+    "jalons": [
+      138,
+      140
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      273,
+      276
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "##a",
+    "jalons": [
+      278,
+      279
+    ]
+  },
+  "entite_114": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      260,
+      264
+    ]
+  },
+  "entite_115": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      264,
+      269
+    ]
+  },
+  "entite_116": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      361,
+      365
+    ]
+  },
+  "entite_117": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      416,
+      418
+    ]
+  },
+  "entite_118": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      288,
+      291
+    ]
+  },
+  "entite_119": {
+    "label": "PESSOA",
+    "text": "##trudes",
+    "jalons": [
+      291,
+      297
+    ]
+  },
+  "entite_120": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      298,
+      305
+    ]
+  },
+  "entite_121": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      413,
+      416
+    ]
+  },
+  "entite_122": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      416,
+      419
+    ]
+  },
+  "entite_123": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      419,
+      422
+    ]
+  },
+  "entite_124": {
+    "label": "PESSOA",
+    "text": "Ze",
+    "jalons": [
+      100,
+      102
+    ]
+  },
+  "entite_125": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      64,
+      67
+    ]
+  },
+  "entite_126": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      67,
+      70
+    ]
+  },
+  "entite_127": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      70,
+      73
+    ]
+  },
+  "entite_128": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      415,
+      419
+    ]
+  },
+  "entite_129": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_130": {
+    "label": "PESSOA",
+    "text": "Fer",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_131": {
+    "label": "PESSOA",
+    "text": "##c",
+    "jalons": [
+      126,
+      127
+    ]
+  },
+  "entite_132": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      196,
+      200
+    ]
+  },
+  "entite_133": {
+    "label": "PESSOA",
+    "text": "##za",
+    "jalons": [
+      200,
+      202
+    ]
+  },
+  "entite_134": {
+    "label": "PESSOA",
+    "text": "Clara do",
+    "jalons": [
+      128,
+      136
+    ]
+  },
+  "entite_135": {
+    "label": "PESSOA",
+    "text": "Rezadeira",
+    "jalons": [
+      137,
+      146
+    ]
+  },
+  "entite_136": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      314,
+      316
+    ]
+  },
+  "entite_137": {
+    "label": "PESSOA",
+    "text": "Maria do",
+    "jalons": [
+      418,
+      426
+    ]
+  },
+  "entite_138": {
+    "label": "PESSOA",
+    "text": "Pr",
+    "jalons": [
+      427,
+      429
+    ]
+  },
+  "entite_139": {
+    "label": "PESSOA",
+    "text": "##pero",
+    "jalons": [
+      431,
+      435
+    ]
+  },
+  "entite_140": {
+    "label": "PESSOA",
+    "text": "Maria do",
+    "jalons": [
+      155,
+      163
+    ]
+  },
+  "entite_141": {
+    "label": "PESSOA",
+    "text": "Prósporo",
+    "jalons": [
+      164,
+      172
+    ]
+  },
+  "entite_142": {
+    "label": "PESSOA",
+    "text": "Man",
+    "jalons": [
+      188,
+      191
+    ]
+  },
+  "entite_143": {
+    "label": "PESSOA",
+    "text": "##il",
+    "jalons": [
+      191,
+      193
+    ]
+  },
+  "entite_144": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      376,
+      380
+    ]
+  },
+  "entite_145": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      380,
+      385
+    ]
+  },
+  "entite_146": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      424,
+      426
+    ]
+  },
+  "entite_147": {
+    "label": "PESSOA",
+    "text": "##fa",
+    "jalons": [
+      426,
+      428
+    ]
+  },
+  "entite_148": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      367,
+      371
+    ]
+  },
+  "entite_149": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      371,
+      376
+    ]
+  },
+  "entite_150": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      168,
+      173
+    ]
+  },
+  "entite_151": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      241,
+      245
+    ]
+  },
+  "entite_152": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      245,
+      250
+    ]
+  },
+  "entite_153": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      429,
+      434
+    ]
+  },
+  "entite_154": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_155": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      474,
+      479
+    ]
+  },
+  "entite_156": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      12,
+      17
+    ]
+  },
+  "entite_157": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      161,
+      167
+    ]
+  },
+  "entite_158": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      316,
+      320
+    ]
+  },
+  "entite_159": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      320,
+      325
+    ]
+  },
+  "entite_160": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      453,
+      458
+    ]
+  },
+  "entite_161": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_162": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      441,
+      446
+    ]
+  },
+  "entite_163": {
+    "label": "PESSOA",
+    "text": "Mano",
+    "jalons": [
+      228,
+      232
+    ]
+  },
+  "entite_164": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      300,
+      305
+    ]
+  },
+  "entite_165": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      445,
+      450
+    ]
+  },
+  "entite_166": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      150,
+      155
+    ]
+  },
+  "entite_167": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      244,
+      249
+    ]
+  },
+  "entite_168": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      385,
+      388
+    ]
+  },
+  "entite_169": {
+    "label": "PESSOA",
+    "text": "##trudes",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_170": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      395,
+      402
+    ]
+  },
+  "entite_171": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      192,
+      197
+    ]
+  },
+  "entite_172": {
+    "label": "PESSOA",
+    "text": "Manoel da",
+    "jalons": [
+      76,
+      85
+    ]
+  },
+  "entite_173": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      86,
+      91
+    ]
+  },
+  "entite_174": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      181,
+      187
+    ]
+  },
+  "entite_175": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      55,
+      57
+    ]
+  },
+  "entite_176": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      57,
+      59
+    ]
+  },
+  "entite_177": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      184,
+      190
+    ]
+  },
+  "entite_178": {
+    "label": "PESSOA",
+    "text": "Maria do",
+    "jalons": [
+      399,
+      407
+    ]
+  },
+  "entite_179": {
+    "label": "PESSOA",
+    "text": "Próspero",
+    "jalons": [
+      408,
+      416
+    ]
+  },
+  "entite_180": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      152,
+      158
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Cambo",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "##ço",
+    "jalons": [
+      214,
+      216
+    ]
+  },
+  "entite_183": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      76,
+      82
+    ]
+  },
+  "entite_184": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      341,
+      346
+    ]
+  },
+  "entite_185": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      156,
+      161
+    ]
+  },
+  "entite_186": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      483,
+      489
+    ]
+  },
+  "entite_187": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      21,
+      27
+    ]
+  },
+  "entite_188": {
+    "label": "PESSOA",
+    "text": "Fic",
+    "jalons": [
+      182,
+      185
+    ]
+  },
+  "entite_189": {
+    "label": "PESSOA",
+    "text": "Gertrndos",
+    "jalons": [
+      246,
+      255
+    ]
+  },
+  "entite_190": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      256,
+      263
+    ]
+  },
+  "entite_191": {
+    "label": "PESSOA",
+    "text": "Marques",
+    "jalons": [
+      424,
+      431
+    ]
+  },
+  "entite_192": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      241,
+      244
+    ]
+  },
+  "entite_193": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      244,
+      247
+    ]
+  },
+  "entite_194": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      247,
+      250
+    ]
+  },
+  "entite_195": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      63,
+      66
+    ]
+  },
+  "entite_196": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      66,
+      69
+    ]
+  },
+  "entite_197": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      93,
+      99
+    ]
+  },
+  "entite_198": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      318,
+      324
+    ]
+  },
+  "entite_199": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      421,
+      423
+    ]
+  },
+  "entite_200": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      423,
+      425
+    ]
+  },
+  "entite_201": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      70,
+      76
+    ]
+  },
+  "entite_202": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      388,
+      394
+    ]
+  },
+  "entite_203": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      285,
+      294
+    ]
+  },
+  "entite_204": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      295,
+      302
+    ]
+  },
+  "entite_205": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      63,
+      68
+    ]
+  },
+  "entite_206": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      101,
+      104
+    ]
+  },
+  "entite_207": {
+    "label": "PESSOA",
+    "text": "Za",
+    "jalons": [
+      301,
+      303
+    ]
+  },
+  "entite_208": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      238,
+      244
+    ]
+  },
+  "entite_209": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      412,
+      418
+    ]
+  },
+  "entite_210": {
+    "label": "PESSOA",
+    "text": "Clara de",
+    "jalons": [
+      132,
+      140
+    ]
+  },
+  "entite_211": {
+    "label": "PESSOA",
+    "text": "Rezedeira",
+    "jalons": [
+      141,
+      150
+    ]
+  },
+  "entite_212": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_213": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_214": {
+    "label": "PESSOA",
+    "text": "Maria do",
+    "jalons": [
+      39,
+      47
+    ]
+  },
+  "entite_215": {
+    "label": "PESSOA",
+    "text": "Próspero",
+    "jalons": [
+      48,
+      56
+    ]
+  },
+  "entite_216": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      116,
+      121
+    ]
+  },
+  "entite_217": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      308,
+      314
+    ]
+  },
+  "entite_218": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      487,
+      490
+    ]
+  },
+  "entite_219": {
+    "label": "PESSOA",
+    "text": "##trudes",
+    "jalons": [
+      490,
+      496
+    ]
+  },
+  "entite_220": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      497,
+      504
+    ]
+  },
+  "entite_221": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      25,
+      34
+    ]
+  },
+  "entite_222": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      35,
+      42
+    ]
+  },
+  "entite_223": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      171,
+      177
+    ]
+  },
+  "entite_224": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      422,
+      425
+    ]
+  },
+  "entite_225": {
+    "label": "PESSOA",
+    "text": "##tr",
+    "jalons": [
+      425,
+      427
+    ]
+  },
+  "entite_226": {
+    "label": "PESSOA",
+    "text": "##ndes",
+    "jalons": [
+      427,
+      431
+    ]
+  },
+  "entite_227": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      92,
+      98
+    ]
+  },
+  "entite_228": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      299,
+      305
+    ]
+  },
+  "entite_229": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      340,
+      343
+    ]
+  },
+  "entite_230": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      343,
+      346
+    ]
+  },
+  "entite_231": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      346,
+      349
+    ]
+  },
+  "entite_232": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      267,
+      272
+    ]
+  },
+  "entite_233": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      216,
+      219
+    ]
+  },
+  "entite_234": {
+    "label": "PESSOA",
+    "text": "##in",
+    "jalons": [
+      219,
+      221
+    ]
+  },
+  "entite_235": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      335,
+      338
+    ]
+  },
+  "entite_236": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      338,
+      341
+    ]
+  },
+  "entite_237": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      341,
+      344
+    ]
+  },
+  "entite_238": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_239": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      201,
+      203
+    ]
+  },
+  "entite_240": {
+    "label": "PESSOA",
+    "text": "##la",
+    "jalons": [
+      203,
+      205
+    ]
+  },
+  "entite_241": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      209,
+      214
+    ]
+  },
+  "entite_242": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      48,
+      52
+    ]
+  },
+  "entite_243": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      52,
+      57
+    ]
+  },
+  "entite_244": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      163,
+      166
+    ]
+  },
+  "entite_245": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      166,
+      169
+    ]
+  },
+  "entite_246": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      169,
+      172
+    ]
+  },
+  "entite_247": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      364,
+      370
+    ]
+  },
+  "entite_248": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      406,
+      411
+    ]
+  },
+  "entite_249": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      358,
+      363
+    ]
+  },
+  "entite_250": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      384,
+      387
+    ]
+  },
+  "entite_251": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      387,
+      390
+    ]
+  },
+  "entite_252": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      390,
+      393
+    ]
+  },
+  "entite_253": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      462,
+      465
+    ]
+  },
+  "entite_254": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      465,
+      468
+    ]
+  },
+  "entite_255": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      468,
+      471
+    ]
+  },
+  "entite_256": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_257": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_258": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      6,
+      9
+    ]
+  },
+  "entite_259": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      48,
+      52
+    ]
+  },
+  "entite_260": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      52,
+      57
+    ]
+  },
+  "entite_261": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      254,
+      260
+    ]
+  },
+  "entite_262": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      96,
+      100
+    ]
+  },
+  "entite_263": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      100,
+      105
+    ]
+  },
+  "entite_264": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      395,
+      400
+    ]
+  },
+  "entite_265": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      285,
+      291
+    ]
+  },
+  "entite_266": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      86,
+      89
+    ]
+  },
+  "entite_267": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      175,
+      180
+    ]
+  },
+  "entite_268": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      380,
+      386
+    ]
+  },
+  "entite_269": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      222,
+      227
+    ]
+  },
+  "entite_270": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      413,
+      419
+    ]
+  },
+  "entite_271": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      426,
+      430
+    ]
+  },
+  "entite_272": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      305,
+      311
+    ]
+  },
+  "entite_273": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      478,
+      481
+    ]
+  },
+  "entite_274": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      481,
+      484
+    ]
+  },
+  "entite_275": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      484,
+      487
+    ]
+  },
+  "entite_276": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      16,
+      19
+    ]
+  },
+  "entite_277": {
+    "label": "PESSOA",
+    "text": "##tru",
+    "jalons": [
+      19,
+      22
+    ]
+  },
+  "entite_278": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      22,
+      25
+    ]
+  },
+  "entite_279": {
+    "label": "PESSOA",
+    "text": "Maria do",
+    "jalons": [
+      108,
+      116
+    ]
+  },
+  "entite_280": {
+    "label": "PESSOA",
+    "text": "Pr",
+    "jalons": [
+      117,
+      119
+    ]
+  },
+  "entite_281": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      242,
+      245
+    ]
+  },
+  "entite_282": {
+    "label": "PESSOA",
+    "text": "##trudes",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_283": {
+    "label": "PESSOA",
+    "text": "Zarôlha",
+    "jalons": [
+      252,
+      259
+    ]
+  },
+  "entite_284": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      310,
+      316
+    ]
+  },
+  "entite_285": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      432,
+      437
+    ]
+  },
+  "entite_286": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      168,
+      174
+    ]
+  },
+  "entite_287": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_288": {
+    "label": "PESSOA",
+    "text": "Tere",
+    "jalons": [
+      436,
+      440
+    ]
+  },
+  "entite_289": {
+    "label": "PESSOA",
+    "text": "##zinha",
+    "jalons": [
+      440,
+      445
+    ]
+  },
+  "entite_290": {
+    "label": "PESSOA",
+    "text": "Manoel da",
+    "jalons": [
+      452,
+      461
+    ]
+  },
+  "entite_291": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_292": {
+    "label": "PESSOA",
+    "text": "Clara",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_293": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      146,
+      151
+    ]
+  },
+  "entite_294": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      501,
+      506
+    ]
+  },
+  "entite_295": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      39,
+      44
+    ]
+  },
+  "entite_296": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      393,
+      398
+    ]
+  },
+  "entite_297": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      232,
+      237
+    ]
+  },
+  "entite_298": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      479,
+      484
+    ]
+  },
+  "entite_299": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      17,
+      22
+    ]
+  },
+  "entite_300": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_301": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      263,
+      265
+    ]
+  },
+  "entite_302": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      265,
+      269
+    ]
+  },
+  "entite_303": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      109,
+      114
+    ]
+  },
+  "entite_304": {
+    "label": "PESSOA",
+    "text": "Ros",
+    "jalons": [
+      373,
+      376
+    ]
+  },
+  "entite_305": {
+    "label": "PESSOA",
+    "text": "##ita",
+    "jalons": [
+      376,
+      379
+    ]
+  },
+  "entite_306": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      383,
+      386
+    ]
+  },
+  "entite_307": {
+    "label": "PESSOA",
+    "text": "##icas",
+    "jalons": [
+      386,
+      390
+    ]
+  },
+  "entite_308": {
+    "label": "PESSOA",
+    "text": "Ann",
+    "jalons": [
+      396,
+      399
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      94,
+      97
+    ]
+  },
+  "entite_310": {
+    "label": "PESSOA",
+    "text": "José",
+    "jalons": [
+      434,
+      438
+    ]
+  },
+  "entite_311": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      58,
+      63
+    ]
+  },
+  "entite_312": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      64,
+      71
+    ]
+  },
+  "entite_313": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      252,
+      257
+    ]
+  },
+  "entite_314": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      258,
+      265
+    ]
+  },
+  "entite_315": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      387,
+      392
+    ]
+  },
+  "entite_316": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      393,
+      400
+    ]
+  },
+  "entite_317": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      233,
+      235
+    ]
+  },
+  "entite_318": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      235,
+      238
+    ]
+  },
+  "entite_319": {
+    "label": "PESSOA",
+    "text": "##da",
+    "jalons": [
+      238,
+      240
+    ]
+  },
+  "entite_320": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      349,
+      354
+    ]
+  },
+  "entite_321": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      355,
+      362
+    ]
+  },
+  "entite_322": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_323": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      47,
+      49
+    ]
+  },
+  "entite_324": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      49,
+      52
+    ]
+  },
+  "entite_325": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      63,
+      65
+    ]
+  },
+  "entite_326": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      65,
+      68
+    ]
+  },
+  "entite_327": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      55,
+      57
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "D",
+    "jalons": [
+      104,
+      105
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "##O DUN",
+    "jalons": [
+      109,
+      114
+    ]
+  },
+  "entite_330": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      160,
+      162
+    ]
+  },
+  "entite_331": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      162,
+      165
+    ]
+  },
+  "entite_332": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      115,
+      118
+    ]
+  },
+  "entite_333": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      463,
+      465
+    ]
+  },
+  "entite_334": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      465,
+      468
+    ]
+  },
+  "entite_335": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      3,
+      6
+    ]
+  },
+  "entite_336": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_337": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      53,
+      55
+    ]
+  },
+  "entite_338": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      55,
+      58
+    ]
+  },
+  "entite_339": {
+    "label": "PESSOA",
+    "text": "##da",
+    "jalons": [
+      58,
+      60
+    ]
+  },
+  "entite_340": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_341": {
+    "label": "PESSOA",
+    "text": "Ton",
+    "jalons": [
+      300,
+      303
+    ]
+  },
+  "entite_342": {
+    "label": "PESSOA",
+    "text": "##ito",
+    "jalons": [
+      303,
+      306
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Serra da",
+    "jalons": [
+      216,
+      224
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Estrella",
+    "jalons": [
+      225,
+      233
+    ]
+  },
+  "entite_345": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      165,
+      171
+    ]
+  },
+  "entite_346": {
+    "label": "PESSOA",
+    "text": "José",
+    "jalons": [
+      359,
+      363
+    ]
+  },
+  "entite_347": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      167,
+      169
+    ]
+  },
+  "entite_348": {
+    "label": "PESSOA",
+    "text": "José",
+    "jalons": [
+      384,
+      388
+    ]
+  },
+  "entite_349": {
+    "label": "PESSOA",
+    "text": "Man",
+    "jalons": [
+      426,
+      429
+    ]
+  },
+  "entite_350": {
+    "label": "PESSOA",
+    "text": "##cel",
+    "jalons": [
+      429,
+      432
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Afric",
+    "jalons": [
+      152,
+      157
+    ]
+  },
+  "entite_352": {
+    "label": "LOC",
+    "text": "##a",
+    "jalons": [
+      157,
+      158
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      484,
+      487
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "##r",
+    "jalons": [
+      489,
+      490
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      22,
+      25
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "##r",
+    "jalons": [
+      27,
+      28
+    ]
+  },
+  "entite_357": {
+    "label": "PESSOA",
+    "text": "Ga",
+    "jalons": [
+      182,
+      184
+    ]
+  },
+  "entite_358": {
+    "label": "PESSOA",
+    "text": "##varny",
+    "jalons": [
+      184,
+      189
+    ]
+  },
+  "entite_359": {
+    "label": "PESSOA",
+    "text": "Miguel",
+    "jalons": [
+      53,
+      59
+    ]
+  },
+  "entite_360": {
+    "label": "PESSOA",
+    "text": "##ho",
+    "jalons": [
+      62,
+      64
+    ]
+  },
+  "entite_361": {
+    "label": "PESSOA",
+    "text": "Atra",
+    "jalons": [
+      44,
+      48
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Ha",
+    "jalons": [
+      160,
+      162
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "##vana",
+    "jalons": [
+      162,
+      166
+    ]
+  },
+  "entite_364": {
+    "label": "PESSOA",
+    "text": "Pedro",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_365": {
+    "label": "PESSOA",
+    "text": "Cem",
+    "jalons": [
+      226,
+      229
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Espanha",
+    "jalons": [
+      345,
+      352
+    ]
+  },
+  "entite_367": {
+    "label": "PESSOA",
+    "text": "Colombo",
+    "jalons": [
+      399,
+      406
+    ]
+  },
+  "entite_368": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      300,
+      306
+    ]
+  },
+  "entite_369": {
+    "label": "LOC",
+    "text": "San",
+    "jalons": [
+      327,
+      330
+    ]
+  },
+  "entite_370": {
+    "label": "LOC",
+    "text": "Sebastian",
+    "jalons": [
+      331,
+      340
+    ]
+  },
+  "entite_371": {
+    "label": "LOC",
+    "text": "Inglaterra",
+    "jalons": [
+      378,
+      388
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Estados",
+    "jalons": [
+      179,
+      186
+    ]
+  },
+  "entite_373": {
+    "label": "LOC",
+    "text": "America",
+    "jalons": [
+      130,
+      137
+    ]
+  },
+  "entite_374": {
+    "label": "PESSOA",
+    "text": "Z",
+    "jalons": [
+      224,
+      225
+    ]
+  },
+  "entite_375": {
+    "label": "PESSOA",
+    "text": "Miguel",
+    "jalons": [
+      355,
+      361
+    ]
+  },
+  "entite_376": {
+    "label": "PESSOA",
+    "text": "José",
+    "jalons": [
+      348,
+      352
+    ]
+  },
+  "entite_377": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      492,
+      495
+    ]
+  },
+  "entite_378": {
+    "label": "LOC",
+    "text": "##ôa",
+    "jalons": [
+      496,
+      498
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      30,
+      33
+    ]
+  },
+  "entite_380": {
+    "label": "LOC",
+    "text": "##bôa",
+    "jalons": [
+      33,
+      36
+    ]
+  },
+  "entite_381": {
+    "label": "PESSOA",
+    "text": "Mi",
+    "jalons": [
+      265,
+      267
+    ]
+  },
+  "entite_382": {
+    "label": "PESSOA",
+    "text": "##gne",
+    "jalons": [
+      267,
+      270
+    ]
+  },
+  "entite_383": {
+    "label": "PESSOA",
+    "text": "##lsinho",
+    "jalons": [
+      270,
+      276
+    ]
+  },
+  "entite_384": {
+    "label": "PESSOA",
+    "text": "Ca",
+    "jalons": [
+      341,
+      343
+    ]
+  },
+  "entite_385": {
+    "label": "PESSOA",
+    "text": "##cil",
+    "jalons": [
+      343,
+      346
+    ]
+  },
+  "entite_386": {
+    "label": "PESSOA",
+    "text": "##da",
+    "jalons": [
+      346,
+      348
+    ]
+  },
+  "entite_387": {
+    "label": "PESSOA",
+    "text": "Miguel",
+    "jalons": [
+      498,
+      504
+    ]
+  },
+  "entite_388": {
+    "label": "PESSOA",
+    "text": "Miguel",
+    "jalons": [
+      36,
+      42
+    ]
+  },
+  "entite_389": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      248,
+      253
+    ]
+  },
+  "entite_390": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      254,
+      261
+    ]
+  },
+  "entite_391": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "##ôa",
+    "jalons": [
+      127,
+      129
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "Lis",
+    "jalons": [
+      170,
+      173
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "##a",
+    "jalons": [
+      175,
+      176
+    ]
+  },
+  "entite_395": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_396": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      212,
+      219
+    ]
+  },
+  "entite_397": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      315,
+      317
+    ]
+  },
+  "entite_398": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      317,
+      319
+    ]
+  },
+  "entite_399": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      163,
+      165
+    ]
+  },
+  "entite_400": {
+    "label": "PESSOA",
+    "text": "Mau",
+    "jalons": [
+      181,
+      184
+    ]
+  },
+  "entite_401": {
+    "label": "PESSOA",
+    "text": "##d",
+    "jalons": [
+      184,
+      185
+    ]
+  },
+  "entite_402": {
+    "label": "PESSOA",
+    "text": "Mau",
+    "jalons": [
+      460,
+      463
+    ]
+  },
+  "entite_403": {
+    "label": "PESSOA",
+    "text": "##d",
+    "jalons": [
+      463,
+      464
+    ]
+  },
+  "entite_404": {
+    "label": "PESSOA",
+    "text": "VI",
+    "jalons": [
+      219,
+      221
+    ]
+  },
+  "entite_405": {
+    "label": "PESSOA",
+    "text": "##ANIO DUNA",
+    "jalons": [
+      221,
+      230
+    ]
+  },
+  "entite_406": {
+    "label": "PESSOA",
+    "text": "CRIA",
+    "jalons": [
+      231,
+      235
+    ]
+  },
+  "entite_407": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      357,
+      360
+    ]
+  },
+  "entite_408": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      360,
+      363
+    ]
+  },
+  "entite_409": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      363,
+      364
+    ]
+  },
+  "entite_410": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      341,
+      344
+    ]
+  },
+  "entite_411": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      344,
+      347
+    ]
+  },
+  "entite_412": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      78,
+      81
+    ]
+  },
+  "entite_413": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      81,
+      84
+    ]
+  },
+  "entite_414": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      254,
+      256
+    ]
+  },
+  "entite_415": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      419,
+      422
+    ]
+  },
+  "entite_416": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      422,
+      425
+    ]
+  },
+  "entite_417": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      169,
+      172
+    ]
+  },
+  "entite_418": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      172,
+      175
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Inglaterra",
+    "jalons": [
+      138,
+      148
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Estados -",
+    "jalons": [
+      156,
+      164
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Unidos",
+    "jalons": [
+      164,
+      170
+    ]
+  },
+  "entite_422": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      217,
+      220
+    ]
+  },
+  "entite_423": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      220,
+      223
+    ]
+  },
+  "entite_424": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      223,
+      228
+    ]
+  },
+  "entite_425": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      130,
+      133
+    ]
+  },
+  "entite_426": {
+    "label": "PESSOA",
+    "text": "##vi",
+    "jalons": [
+      133,
+      135
+    ]
+  },
+  "entite_427": {
+    "label": "PESSOA",
+    "text": "##quin",
+    "jalons": [
+      135,
+      139
+    ]
+  },
+  "entite_428": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      479,
+      483
+    ]
+  },
+  "entite_429": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      483,
+      485
+    ]
+  },
+  "entite_430": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      17,
+      21
+    ]
+  },
+  "entite_431": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      21,
+      23
+    ]
+  },
+  "entite_432": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      120,
+      123
+    ]
+  },
+  "entite_433": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_434": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      126,
+      131
+    ]
+  },
+  "entite_435": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      373,
+      376
+    ]
+  },
+  "entite_436": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      376,
+      379
+    ]
+  },
+  "entite_437": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      411,
+      416
+    ]
+  },
+  "entite_438": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      115,
+      117
+    ]
+  },
+  "entite_439": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      379,
+      382
+    ]
+  },
+  "entite_440": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      382,
+      385
+    ]
+  },
+  "entite_441": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      385,
+      390
+    ]
+  },
+  "entite_442": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      237,
+      242
+    ]
+  },
+  "entite_443": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      455,
+      460
+    ]
+  },
+  "entite_444": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      169,
+      172
+    ]
+  },
+  "entite_445": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      172,
+      175
+    ]
+  },
+  "entite_446": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      284,
+      289
+    ]
+  },
+  "entite_447": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      270,
+      273
+    ]
+  },
+  "entite_448": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      273,
+      276
+    ]
+  },
+  "entite_449": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      286,
+      291
+    ]
+  },
+  "entite_450": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      194,
+      197
+    ]
+  },
+  "entite_451": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      197,
+      200
+    ]
+  },
+  "entite_452": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      200,
+      201
+    ]
+  },
+  "entite_453": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      267,
+      272
+    ]
+  },
+  "entite_454": {
+    "label": "PESSOA",
+    "text": "Ang",
+    "jalons": [
+      273,
+      276
+    ]
+  },
+  "entite_455": {
+    "label": "PESSOA",
+    "text": "En",
+    "jalons": [
+      308,
+      310
+    ]
+  },
+  "entite_456": {
+    "label": "PESSOA",
+    "text": "##lia",
+    "jalons": [
+      312,
+      315
+    ]
+  },
+  "entite_457": {
+    "label": "PESSOA",
+    "text": "E",
+    "jalons": [
+      282,
+      283
+    ]
+  },
+  "entite_458": {
+    "label": "PESSOA",
+    "text": "##ól",
+    "jalons": [
+      283,
+      285
+    ]
+  },
+  "entite_459": {
+    "label": "PESSOA",
+    "text": "##ó",
+    "jalons": [
+      285,
+      286
+    ]
+  },
+  "entite_460": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      183,
+      186
+    ]
+  },
+  "entite_461": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      186,
+      189
+    ]
+  },
+  "entite_462": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      189,
+      190
+    ]
+  },
+  "entite_463": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      480,
+      483
+    ]
+  },
+  "entite_464": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      483,
+      486
+    ]
+  },
+  "entite_465": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      486,
+      491
+    ]
+  },
+  "entite_466": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      18,
+      21
+    ]
+  },
+  "entite_467": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      21,
+      24
+    ]
+  },
+  "entite_468": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      24,
+      29
+    ]
+  },
+  "entite_469": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      458,
+      461
+    ]
+  },
+  "entite_470": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      461,
+      464
+    ]
+  },
+  "entite_471": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      464,
+      469
+    ]
+  },
+  "entite_472": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      474,
+      479
+    ]
+  },
+  "entite_473": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      12,
+      17
+    ]
+  },
+  "entite_474": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      338,
+      341
+    ]
+  },
+  "entite_475": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      341,
+      344
+    ]
+  },
+  "entite_476": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      344,
+      349
+    ]
+  },
+  "entite_477": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      108,
+      111
+    ]
+  },
+  "entite_478": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      111,
+      114
+    ]
+  },
+  "entite_479": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      114,
+      119
+    ]
+  },
+  "entite_480": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      486,
+      489
+    ]
+  },
+  "entite_481": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      381,
+      384
+    ]
+  },
+  "entite_482": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      384,
+      387
+    ]
+  },
+  "entite_483": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      387,
+      392
+    ]
+  },
+  "entite_484": {
+    "label": "PESSOA",
+    "text": "D",
+    "jalons": [
+      269,
+      270
+    ]
+  },
+  "entite_485": {
+    "label": "PESSOA",
+    "text": "##IA",
+    "jalons": [
+      270,
+      272
+    ]
+  },
+  "entite_486": {
+    "label": "PESSOA",
+    "text": "##O DUNA",
+    "jalons": [
+      274,
+      280
+    ]
+  },
+  "entite_487": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      226,
+      231
+    ]
+  },
+  "entite_488": {
+    "label": "PESSOA",
+    "text": "Julio",
+    "jalons": [
+      56,
+      61
+    ]
+  },
+  "entite_489": {
+    "label": "PESSOA",
+    "text": "Diniz",
+    "jalons": [
+      62,
+      67
+    ]
+  },
+  "entite_490": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      206,
+      211
+    ]
+  },
+  "entite_491": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      220,
+      225
+    ]
+  },
+  "entite_492": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      229,
+      232
+    ]
+  },
+  "entite_493": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      232,
+      235
+    ]
+  },
+  "entite_494": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      235,
+      240
+    ]
+  },
+  "entite_495": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      446,
+      449
+    ]
+  },
+  "entite_496": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      449,
+      452
+    ]
+  },
+  "entite_497": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      300,
+      302
+    ]
+  },
+  "entite_498": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      302,
+      306
+    ]
+  },
+  "entite_499": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      456,
+      461
+    ]
+  },
+  "entite_500": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      396,
+      401
+    ]
+  },
+  "entite_501": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      471,
+      474
+    ]
+  },
+  "entite_502": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      474,
+      477
+    ]
+  },
+  "entite_503": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_504": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      153,
+      157
+    ]
+  },
+  "entite_505": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      157,
+      159
+    ]
+  },
+  "entite_506": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      321,
+      323
+    ]
+  },
+  "entite_507": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      323,
+      327
+    ]
+  },
+  "entite_508": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      426,
+      429
+    ]
+  },
+  "entite_509": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      429,
+      432
+    ]
+  },
+  "entite_510": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      432,
+      437
+    ]
+  },
+  "entite_511": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      375,
+      378
+    ]
+  },
+  "entite_512": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      378,
+      381
+    ]
+  },
+  "entite_513": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      381,
+      382
+    ]
+  },
+  "entite_514": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      493,
+      496
+    ]
+  },
+  "entite_515": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      496,
+      499
+    ]
+  },
+  "entite_516": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      499,
+      504
+    ]
+  },
+  "entite_517": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      31,
+      34
+    ]
+  },
+  "entite_518": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      34,
+      37
+    ]
+  },
+  "entite_519": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      336,
+      339
+    ]
+  },
+  "entite_520": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      339,
+      342
+    ]
+  },
+  "entite_521": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      136,
+      139
+    ]
+  },
+  "entite_522": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      98,
+      101
+    ]
+  },
+  "entite_523": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      101,
+      104
+    ]
+  },
+  "entite_524": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      497,
+      500
+    ]
+  },
+  "entite_525": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      500,
+      503
+    ]
+  },
+  "entite_526": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      35,
+      38
+    ]
+  },
+  "entite_527": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      38,
+      41
+    ]
+  },
+  "entite_528": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      243,
+      246
+    ]
+  },
+  "entite_529": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      246,
+      249
+    ]
+  },
+  "entite_530": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      359,
+      362
+    ]
+  },
+  "entite_531": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      362,
+      365
+    ]
+  },
+  "entite_532": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      365,
+      370
+    ]
+  },
+  "entite_533": {
+    "label": "PESSOA",
+    "text": "##as",
+    "jalons": [
+      58,
+      60
+    ]
+  },
+  "entite_534": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      81,
+      86
+    ]
+  },
+  "entite_535": {
+    "label": "PESSOA",
+    "text": "##IA",
+    "jalons": [
+      185,
+      187
+    ]
+  },
+  "entite_536": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      292,
+      295
+    ]
+  },
+  "entite_537": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      295,
+      298
+    ]
+  },
+  "entite_538": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      298,
+      303
+    ]
+  },
+  "entite_539": {
+    "label": "PESSOA",
+    "text": "D",
+    "jalons": [
+      176,
+      177
+    ]
+  },
+  "entite_540": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      179,
+      183
+    ]
+  },
+  "entite_541": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      183,
+      185
+    ]
+  },
+  "entite_542": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      95,
+      98
+    ]
+  },
+  "entite_543": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      98,
+      101
+    ]
+  },
+  "entite_544": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      101,
+      106
+    ]
+  },
+  "entite_545": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      230,
+      235
+    ]
+  },
+  "entite_546": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      146,
+      151
+    ]
+  },
+  "entite_547": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      103,
+      108
+    ]
+  },
+  "entite_548": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      240,
+      243
+    ]
+  },
+  "entite_549": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_550": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      283,
+      288
+    ]
+  },
+  "entite_551": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      152,
+      155
+    ]
+  },
+  "entite_552": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      155,
+      158
+    ]
+  },
+  "entite_553": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      303,
+      308
+    ]
+  },
+  "entite_554": {
+    "label": "LOC",
+    "text": "S",
+    "jalons": [
+      331,
+      332
+    ]
+  },
+  "entite_555": {
+    "label": "LOC",
+    "text": "Emilia",
+    "jalons": [
+      338,
+      344
+    ]
+  },
+  "entite_556": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      51,
+      54
+    ]
+  },
+  "entite_557": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      54,
+      57
+    ]
+  },
+  "entite_558": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      57,
+      62
+    ]
+  },
+  "entite_559": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      347,
+      350
+    ]
+  },
+  "entite_560": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      350,
+      353
+    ]
+  },
+  "entite_561": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      467,
+      472
+    ]
+  },
+  "entite_562": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      5,
+      10
+    ]
+  },
+  "entite_563": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      197,
+      200
+    ]
+  },
+  "entite_564": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      200,
+      203
+    ]
+  },
+  "entite_565": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      322,
+      327
+    ]
+  },
+  "entite_566": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      264,
+      269
+    ]
+  },
+  "entite_567": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      287,
+      289
+    ]
+  },
+  "entite_568": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      289,
+      293
+    ]
+  },
+  "entite_569": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      491,
+      495
+    ]
+  },
+  "entite_570": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      29,
+      33
+    ]
+  },
+  "entite_571": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      155,
+      157
+    ]
+  },
+  "entite_572": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      157,
+      161
+    ]
+  },
+  "entite_573": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      240,
+      245
+    ]
+  },
+  "entite_574": {
+    "label": "PESSOA",
+    "text": "##ter",
+    "jalons": [
+      229,
+      232
+    ]
+  },
+  "entite_575": {
+    "label": "PESSOA",
+    "text": "Eul",
+    "jalons": [
+      312,
+      315
+    ]
+  },
+  "entite_576": {
+    "label": "PESSOA",
+    "text": "##ali",
+    "jalons": [
+      315,
+      318
+    ]
+  },
+  "entite_577": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      318,
+      319
+    ]
+  },
+  "entite_578": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      278,
+      282
+    ]
+  },
+  "entite_579": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      121,
+      124
+    ]
+  },
+  "entite_580": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      124,
+      127
+    ]
+  },
+  "entite_581": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      127,
+      132
+    ]
+  },
+  "entite_582": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      409,
+      413
+    ]
+  },
+  "entite_583": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      413,
+      415
+    ]
+  },
+  "entite_584": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      427,
+      432
+    ]
+  },
+  "entite_585": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      304,
+      309
+    ]
+  },
+  "entite_586": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      393,
+      397
+    ]
+  },
+  "entite_587": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      397,
+      399
+    ]
+  },
+  "entite_588": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      274,
+      278
+    ]
+  },
+  "entite_589": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      278,
+      280
+    ]
+  },
+  "entite_590": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      379,
+      384
+    ]
+  },
+  "entite_591": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      360,
+      362
+    ]
+  },
+  "entite_592": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      362,
+      366
+    ]
+  },
+  "entite_593": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      380,
+      383
+    ]
+  },
+  "entite_594": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      383,
+      386
+    ]
+  },
+  "entite_595": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      207,
+      212
+    ]
+  },
+  "entite_596": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_597": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_598": {
+    "label": "LOC",
+    "text": "Portugal",
+    "jalons": [
+      150,
+      158
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      299,
+      306
+    ]
+  },
+  "entite_600": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      354,
+      356
+    ]
+  },
+  "entite_601": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      356,
+      360
+    ]
+  },
+  "entite_602": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      438,
+      443
+    ]
+  },
+  "entite_603": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      180,
+      182
+    ]
+  },
+  "entite_604": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      182,
+      186
+    ]
+  },
+  "entite_605": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      321,
+      324
+    ]
+  },
+  "entite_606": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      324,
+      327
+    ]
+  },
+  "entite_607": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      327,
+      332
+    ]
+  },
+  "entite_608": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_609": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_610": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      98,
+      103
+    ]
+  },
+  "entite_611": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      124,
+      127
+    ]
+  },
+  "entite_612": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      127,
+      130
+    ]
+  },
+  "entite_613": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      216,
+      218
+    ]
+  },
+  "entite_614": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      218,
+      222
+    ]
+  },
+  "entite_615": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      78,
+      81
+    ]
+  },
+  "entite_616": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      81,
+      84
+    ]
+  },
+  "entite_617": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      84,
+      89
+    ]
+  },
+  "entite_618": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      273,
+      275
+    ]
+  },
+  "entite_619": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      275,
+      279
+    ]
+  },
+  "entite_620": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      324,
+      327
+    ]
+  },
+  "entite_621": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      327,
+      330
+    ]
+  },
+  "entite_622": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      152,
+      157
+    ]
+  },
+  "entite_623": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      172,
+      175
+    ]
+  },
+  "entite_624": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      175,
+      178
+    ]
+  },
+  "entite_625": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      251,
+      253
+    ]
+  },
+  "entite_626": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      253,
+      257
+    ]
+  },
+  "entite_627": {
+    "label": "PESSOA",
+    "text": "Ra",
+    "jalons": [
+      150,
+      152
+    ]
+  },
+  "entite_628": {
+    "label": "PESSOA",
+    "text": "##quel",
+    "jalons": [
+      152,
+      156
+    ]
+  },
+  "entite_629": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      184,
+      189
+    ]
+  },
+  "entite_630": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      54,
+      59
+    ]
+  },
+  "entite_631": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      97,
+      100
+    ]
+  },
+  "entite_632": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      100,
+      103
+    ]
+  },
+  "entite_633": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      103,
+      108
+    ]
+  },
+  "entite_634": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      329,
+      332
+    ]
+  },
+  "entite_635": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      332,
+      335
+    ]
+  },
+  "entite_636": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      335,
+      340
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      377,
+      384
+    ]
+  },
+  "entite_638": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      301,
+      306
+    ]
+  },
+  "entite_639": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      440,
+      442
+    ]
+  },
+  "entite_640": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      241,
+      246
+    ]
+  },
+  "entite_641": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      247,
+      254
+    ]
+  },
+  "entite_642": {
+    "label": "PESSOA",
+    "text": "Miguel",
+    "jalons": [
+      324,
+      330
+    ]
+  },
+  "entite_643": {
+    "label": "PESSOA",
+    "text": "DE",
+    "jalons": [
+      411,
+      413
+    ]
+  },
+  "entite_644": {
+    "label": "PESSOA",
+    "text": "##ARIO DUSA",
+    "jalons": [
+      413,
+      422
+    ]
+  },
+  "entite_645": {
+    "label": "PESSOA",
+    "text": "CRIANÇ",
+    "jalons": [
+      423,
+      429
+    ]
+  },
+  "entite_646": {
+    "label": "PESSOA",
+    "text": "Zé",
+    "jalons": [
+      293,
+      295
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      364,
+      369
+    ]
+  },
+  "entite_648": {
+    "label": "PESSOA",
+    "text": "Maria",
+    "jalons": [
+      233,
+      238
+    ]
+  },
+  "entite_649": {
+    "label": "PESSOA",
+    "text": "Augusta",
+    "jalons": [
+      239,
+      246
+    ]
+  },
+  "entite_650": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      485,
+      490
+    ]
+  },
+  "entite_651": {
+    "label": "PESSOA",
+    "text": "Chico",
+    "jalons": [
+      23,
+      28
+    ]
+  },
+  "entite_652": {
+    "label": "PESSOA",
+    "text": "Mar",
+    "jalons": [
+      438,
+      441
+    ]
+  },
+  "entite_653": {
+    "label": "PESSOA",
+    "text": "##iqu",
+    "jalons": [
+      441,
+      444
+    ]
+  },
+  "entite_654": {
+    "label": "PESSOA",
+    "text": "##inhas",
+    "jalons": [
+      444,
+      449
+    ]
+  },
+  "entite_655": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      465,
+      469
+    ]
+  },
+  "entite_656": {
+    "label": "PESSOA",
+    "text": "##ia",
+    "jalons": [
+      469,
+      471
+    ]
+  },
+  "entite_657": {
+    "label": "PESSOA",
+    "text": "Emil",
+    "jalons": [
+      3,
+      7
+    ]
+  },
+  "entite_658": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      131,
+      136
+    ]
+  },
+  "entite_659": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      137,
+      146
+    ]
+  },
+  "entite_660": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      492,
+      497
+    ]
+  },
+  "entite_661": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      498,
+      507
+    ]
+  },
+  "entite_662": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      30,
+      35
+    ]
+  },
+  "entite_663": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      36,
+      45
+    ]
+  },
+  "entite_664": {
+    "label": "PESSOA",
+    "text": "Mano",
+    "jalons": [
+      402,
+      406
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      380,
+      387
+    ]
+  },
+  "entite_666": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      285,
+      291
+    ]
+  },
+  "entite_667": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      175,
+      181
+    ]
+  },
+  "entite_668": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      181,
+      182
+    ]
+  },
+  "entite_669": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      253,
+      257
+    ]
+  },
+  "entite_670": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      263,
+      269
+    ]
+  },
+  "entite_671": {
+    "label": "PESSOA",
+    "text": "Ma",
+    "jalons": [
+      497,
+      499
+    ]
+  },
+  "entite_672": {
+    "label": "PESSOA",
+    "text": "Ma",
+    "jalons": [
+      35,
+      37
+    ]
+  },
+  "entite_673": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      113,
+      119
+    ]
+  },
+  "entite_674": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      309,
+      314
+    ]
+  },
+  "entite_675": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      315,
+      324
+    ]
+  },
+  "entite_676": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_677": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      413,
+      419
+    ]
+  },
+  "entite_678": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      419,
+      420
+    ]
+  },
+  "entite_679": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_680": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      287,
+      288
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      360,
+      367
+    ]
+  },
+  "entite_682": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      314,
+      320
+    ]
+  },
+  "entite_683": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      24,
+      26
+    ]
+  },
+  "entite_684": {
+    "label": "PESSOA",
+    "text": "##la",
+    "jalons": [
+      26,
+      28
+    ]
+  },
+  "entite_685": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      314,
+      320
+    ]
+  },
+  "entite_686": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      320,
+      321
+    ]
+  },
+  "entite_687": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      166,
+      172
+    ]
+  },
+  "entite_688": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      172,
+      173
+    ]
+  },
+  "entite_689": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      95,
+      100
+    ]
+  },
+  "entite_690": {
+    "label": "PESSOA",
+    "text": "Gertrndes",
+    "jalons": [
+      101,
+      110
+    ]
+  },
+  "entite_691": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      231,
+      237
+    ]
+  },
+  "entite_692": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      237,
+      238
+    ]
+  },
+  "entite_693": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      201,
+      207
+    ]
+  },
+  "entite_694": {
+    "label": "PESSOA",
+    "text": "B",
+    "jalons": [
+      416,
+      417
+    ]
+  },
+  "entite_695": {
+    "label": "PESSOA",
+    "text": "Jesus",
+    "jalons": [
+      322,
+      327
+    ]
+  },
+  "entite_696": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      480,
+      485
+    ]
+  },
+  "entite_697": {
+    "label": "PESSOA",
+    "text": "Gertrndes",
+    "jalons": [
+      486,
+      495
+    ]
+  },
+  "entite_698": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_699": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      18,
+      23
+    ]
+  },
+  "entite_700": {
+    "label": "PESSOA",
+    "text": "Gertrndes",
+    "jalons": [
+      24,
+      33
+    ]
+  },
+  "entite_701": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_702": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      49,
+      50
+    ]
+  },
+  "entite_703": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      208,
+      213
+    ]
+  },
+  "entite_704": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      214,
+      223
+    ]
+  },
+  "entite_705": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      51,
+      56
+    ]
+  },
+  "entite_706": {
+    "label": "PESSOA",
+    "text": "Gortrudes",
+    "jalons": [
+      57,
+      66
+    ]
+  },
+  "entite_707": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      69,
+      75
+    ]
+  },
+  "entite_708": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      407,
+      413
+    ]
+  },
+  "entite_709": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      86,
+      92
+    ]
+  },
+  "entite_710": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      92,
+      93
+    ]
+  },
+  "entite_711": {
+    "label": "PESSOA",
+    "text": "Va",
+    "jalons": [
+      267,
+      269
+    ]
+  },
+  "entite_712": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      237,
+      243
+    ]
+  },
+  "entite_713": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      421,
+      425
+    ]
+  },
+  "entite_714": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      427,
+      436
+    ]
+  },
+  "entite_715": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      186,
+      190
+    ]
+  },
+  "entite_716": {
+    "label": "PESSOA",
+    "text": "Angelica",
+    "jalons": [
+      192,
+      200
+    ]
+  },
+  "entite_717": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      332,
+      336
+    ]
+  },
+  "entite_718": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      338,
+      347
+    ]
+  },
+  "entite_719": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      195,
+      201
+    ]
+  },
+  "entite_720": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      413,
+      417
+    ]
+  },
+  "entite_721": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_722": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      424,
+      427
+    ]
+  },
+  "entite_723": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      97,
+      103
+    ]
+  },
+  "entite_724": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_725": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      194,
+      195
+    ]
+  },
+  "entite_726": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      60,
+      66
+    ]
+  },
+  "entite_727": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      138,
+      143
+    ]
+  },
+  "entite_728": {
+    "label": "PESSOA",
+    "text": "Angelica",
+    "jalons": [
+      144,
+      152
+    ]
+  },
+  "entite_729": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      313,
+      319
+    ]
+  },
+  "entite_730": {
+    "label": "PESSOA",
+    "text": "J",
+    "jalons": [
+      144,
+      145
+    ]
+  },
+  "entite_731": {
+    "label": "PESSOA",
+    "text": "##be",
+    "jalons": [
+      145,
+      147
+    ]
+  },
+  "entite_732": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      188,
+      193
+    ]
+  },
+  "entite_733": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      194,
+      203
+    ]
+  },
+  "entite_734": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      252,
+      258
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Estre",
+    "jalons": [
+      379,
+      384
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "##moz",
+    "jalons": [
+      384,
+      387
+    ]
+  },
+  "entite_737": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      272,
+      277
+    ]
+  },
+  "entite_738": {
+    "label": "PESSOA",
+    "text": "Gertrudes",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_739": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      187,
+      191
+    ]
+  },
+  "entite_740": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      199,
+      200
+    ]
+  },
+  "entite_741": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      78,
+      84
+    ]
+  },
+  "entite_742": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      382,
+      386
+    ]
+  },
+  "entite_743": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      388,
+      393
+    ]
+  },
+  "entite_744": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      193,
+      199
+    ]
+  },
+  "entite_745": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      199,
+      200
+    ]
+  },
+  "entite_746": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      257,
+      262
+    ]
+  },
+  "entite_747": {
+    "label": "PESSOA",
+    "text": "Ger",
+    "jalons": [
+      263,
+      266
+    ]
+  },
+  "entite_748": {
+    "label": "PESSOA",
+    "text": "##des",
+    "jalons": [
+      271,
+      274
+    ]
+  },
+  "entite_749": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      340,
+      344
+    ]
+  },
+  "entite_750": {
+    "label": "PESSOA",
+    "text": "##r",
+    "jalons": [
+      344,
+      345
+    ]
+  },
+  "entite_751": {
+    "label": "PESSOA",
+    "text": "Angelica",
+    "jalons": [
+      346,
+      354
+    ]
+  },
+  "entite_752": {
+    "label": "PESSOA",
+    "text": "Ang",
+    "jalons": [
+      472,
+      475
+    ]
+  },
+  "entite_753": {
+    "label": "PESSOA",
+    "text": "##oli",
+    "jalons": [
+      475,
+      478
+    ]
+  },
+  "entite_754": {
+    "label": "PESSOA",
+    "text": "##ca",
+    "jalons": [
+      478,
+      480
+    ]
+  },
+  "entite_755": {
+    "label": "PESSOA",
+    "text": "Ang",
+    "jalons": [
+      10,
+      13
+    ]
+  },
+  "entite_756": {
+    "label": "PESSOA",
+    "text": "##oli",
+    "jalons": [
+      13,
+      16
+    ]
+  },
+  "entite_757": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      251,
+      256
+    ]
+  },
+  "entite_758": {
+    "label": "PESSOA",
+    "text": "Angelica",
+    "jalons": [
+      257,
+      265
+    ]
+  },
+  "entite_759": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      304,
+      310
+    ]
+  },
+  "entite_760": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      310,
+      311
+    ]
+  },
+  "entite_761": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_762": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      423,
+      424
+    ]
+  },
+  "entite_763": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      219,
+      225
+    ]
+  },
+  "entite_764": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      359,
+      365
+    ]
+  },
+  "entite_765": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      365,
+      366
+    ]
+  },
+  "entite_766": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      183,
+      189
+    ]
+  },
+  "entite_767": {
+    "label": "PESSOA",
+    "text": "Il",
+    "jalons": [
+      71,
+      73
+    ]
+  },
+  "entite_768": {
+    "label": "PESSOA",
+    "text": "Luisa da",
+    "jalons": [
+      246,
+      254
+    ]
+  },
+  "entite_769": {
+    "label": "PESSOA",
+    "text": "Roda",
+    "jalons": [
+      255,
+      259
+    ]
+  },
+  "entite_770": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      63,
+      69
+    ]
+  },
+  "entite_771": {
+    "label": "LOC",
+    "text": "Brazil",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_772": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      116,
+      120
+    ]
+  },
+  "entite_773": {
+    "label": "LOC",
+    "text": "Can",
+    "jalons": [
+      120,
+      123
+    ]
+  },
+  "entite_774": {
+    "label": "LOC",
+    "text": "##dia",
+    "jalons": [
+      123,
+      126
+    ]
+  },
+  "entite_775": {
+    "label": "LOC",
+    "text": "Espanha",
+    "jalons": [
+      141,
+      148
+    ]
+  },
+  "entite_776": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      386,
+      392
+    ]
+  },
+  "entite_777": {
+    "label": "PESSOA",
+    "text": "Jesus",
+    "jalons": [
+      218,
+      223
+    ]
+  },
+  "entite_778": {
+    "label": "PESSOA",
+    "text": "Mano",
+    "jalons": [
+      139,
+      143
+    ]
+  },
+  "entite_779": {
+    "label": "PESSOA",
+    "text": "##cla",
+    "jalons": [
+      143,
+      146
+    ]
+  },
+  "entite_780": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      247,
+      253
+    ]
+  },
+  "entite_781": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      132,
+      136
+    ]
+  },
+  "entite_782": {
+    "label": "PESSOA",
+    "text": "Ang",
+    "jalons": [
+      138,
+      141
+    ]
+  },
+  "entite_783": {
+    "label": "PESSOA",
+    "text": "Ser",
+    "jalons": [
+      461,
+      464
+    ]
+  },
+  "entite_784": {
+    "label": "PESSOA",
+    "text": "##or",
+    "jalons": [
+      464,
+      466
+    ]
+  },
+  "entite_785": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      467,
+      473
+    ]
+  },
+  "entite_786": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      5,
+      11
+    ]
+  },
+  "entite_787": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      11,
+      12
+    ]
+  },
+  "entite_788": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      225,
+      230
+    ]
+  },
+  "entite_789": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      230,
+      233
+    ]
+  },
+  "entite_790": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      424,
+      430
+    ]
+  },
+  "entite_791": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      430,
+      431
+    ]
+  },
+  "entite_792": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      193,
+      198
+    ]
+  },
+  "entite_793": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      199,
+      206
+    ]
+  },
+  "entite_794": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_795": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      471,
+      475
+    ]
+  },
+  "entite_796": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      477,
+      482
+    ]
+  },
+  "entite_797": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      9,
+      13
+    ]
+  },
+  "entite_798": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      15,
+      20
+    ]
+  },
+  "entite_799": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      335,
+      339
+    ]
+  },
+  "entite_800": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_801": {
+    "label": "PESSOA",
+    "text": "Men",
+    "jalons": [
+      174,
+      177
+    ]
+  },
+  "entite_802": {
+    "label": "PESSOA",
+    "text": "##ela",
+    "jalons": [
+      178,
+      181
+    ]
+  },
+  "entite_803": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      17,
+      21
+    ]
+  },
+  "entite_804": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      23,
+      30
+    ]
+  },
+  "entite_805": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      281,
+      286
+    ]
+  },
+  "entite_806": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      287,
+      294
+    ]
+  },
+  "entite_807": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      428,
+      434
+    ]
+  },
+  "entite_808": {
+    "label": "LOC",
+    "text": "Ale",
+    "jalons": [
+      463,
+      466
+    ]
+  },
+  "entite_809": {
+    "label": "LOC",
+    "text": "##jo",
+    "jalons": [
+      469,
+      471
+    ]
+  },
+  "entite_810": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      187,
+      191
+    ]
+  },
+  "entite_811": {
+    "label": "PESSOA",
+    "text": "Angelica",
+    "jalons": [
+      193,
+      201
+    ]
+  },
+  "entite_812": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      317,
+      321
+    ]
+  },
+  "entite_813": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      323,
+      329
+    ]
+  },
+  "entite_814": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      210,
+      216
+    ]
+  },
+  "entite_815": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      327,
+      329
+    ]
+  },
+  "entite_816": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      330,
+      335
+    ]
+  },
+  "entite_817": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      335,
+      338
+    ]
+  },
+  "entite_818": {
+    "label": "PESSOA",
+    "text": "##le",
+    "jalons": [
+      234,
+      236
+    ]
+  },
+  "entite_819": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_820": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      468,
+      471
+    ]
+  },
+  "entite_821": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      1,
+      6
+    ]
+  },
+  "entite_822": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      6,
+      9
+    ]
+  },
+  "entite_823": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_824": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      157,
+      161
+    ]
+  },
+  "entite_825": {
+    "label": "PESSOA",
+    "text": "Claudoa",
+    "jalons": [
+      163,
+      170
+    ]
+  },
+  "entite_826": {
+    "label": "PESSOA",
+    "text": "Mano",
+    "jalons": [
+      186,
+      190
+    ]
+  },
+  "entite_827": {
+    "label": "PESSOA",
+    "text": "##ola",
+    "jalons": [
+      190,
+      193
+    ]
+  },
+  "entite_828": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      237,
+      241
+    ]
+  },
+  "entite_829": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      243,
+      249
+    ]
+  },
+  "entite_830": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      312,
+      314
+    ]
+  },
+  "entite_831": {
+    "label": "PESSOA",
+    "text": "##la",
+    "jalons": [
+      314,
+      316
+    ]
+  },
+  "entite_832": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      65,
+      69
+    ]
+  },
+  "entite_833": {
+    "label": "PESSOA",
+    "text": "Claudea",
+    "jalons": [
+      71,
+      78
+    ]
+  },
+  "entite_834": {
+    "label": "ORG",
+    "text": "Convento das",
+    "jalons": [
+      161,
+      173
+    ]
+  },
+  "entite_835": {
+    "label": "ORG",
+    "text": "Bernardas",
+    "jalons": [
+      174,
+      183
+    ]
+  },
+  "entite_836": {
+    "label": "PESSOA",
+    "text": "Madre",
+    "jalons": [
+      482,
+      487
+    ]
+  },
+  "entite_837": {
+    "label": "PESSOA",
+    "text": "Cla",
+    "jalons": [
+      488,
+      491
+    ]
+  },
+  "entite_838": {
+    "label": "PESSOA",
+    "text": "##nde",
+    "jalons": [
+      491,
+      494
+    ]
+  },
+  "entite_839": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      494,
+      495
+    ]
+  },
+  "entite_840": {
+    "label": "PESSOA",
+    "text": "Madre",
+    "jalons": [
+      20,
+      25
+    ]
+  },
+  "entite_841": {
+    "label": "PESSOA",
+    "text": "Clandea",
+    "jalons": [
+      26,
+      33
+    ]
+  },
+  "entite_842": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      233,
+      238
+    ]
+  },
+  "entite_843": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      238,
+      241
+    ]
+  },
+  "entite_844": {
+    "label": "LOC",
+    "text": "Portugal",
+    "jalons": [
+      129,
+      137
+    ]
+  },
+  "entite_845": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      289,
+      293
+    ]
+  },
+  "entite_846": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      295,
+      301
+    ]
+  },
+  "entite_847": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      477,
+      483
+    ]
+  },
+  "entite_848": {
+    "label": "PESSOA",
+    "text": "##s",
+    "jalons": [
+      483,
+      484
+    ]
+  },
+  "entite_849": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      15,
+      21
+    ]
+  },
+  "entite_850": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      53,
+      57
+    ]
+  },
+  "entite_851": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      59,
+      66
+    ]
+  },
+  "entite_852": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      229,
+      234
+    ]
+  },
+  "entite_853": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      449,
+      455
+    ]
+  },
+  "entite_854": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      236,
+      242
+    ]
+  },
+  "entite_855": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      242,
+      243
+    ]
+  },
+  "entite_856": {
+    "label": "PESSOA",
+    "text": "Madre",
+    "jalons": [
+      417,
+      422
+    ]
+  },
+  "entite_857": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      423,
+      428
+    ]
+  },
+  "entite_858": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      428,
+      431
+    ]
+  },
+  "entite_859": {
+    "label": "PESSOA",
+    "text": "Clande",
+    "jalons": [
+      19,
+      25
+    ]
+  },
+  "entite_860": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      270,
+      274
+    ]
+  },
+  "entite_861": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      276,
+      282
+    ]
+  },
+  "entite_862": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      399,
+      405
+    ]
+  },
+  "entite_863": {
+    "label": "PESSOA",
+    "text": "Mad",
+    "jalons": [
+      98,
+      101
+    ]
+  },
+  "entite_864": {
+    "label": "PESSOA",
+    "text": "##ro",
+    "jalons": [
+      101,
+      103
+    ]
+  },
+  "entite_865": {
+    "label": "PESSOA",
+    "text": "Claudoa",
+    "jalons": [
+      104,
+      111
+    ]
+  },
+  "entite_866": {
+    "label": "PESSOA",
+    "text": "Mad",
+    "jalons": [
+      346,
+      349
+    ]
+  },
+  "entite_867": {
+    "label": "PESSOA",
+    "text": "##ro",
+    "jalons": [
+      349,
+      351
+    ]
+  },
+  "entite_868": {
+    "label": "PESSOA",
+    "text": "Clandea",
+    "jalons": [
+      352,
+      359
+    ]
+  },
+  "entite_869": {
+    "label": "PESSOA",
+    "text": "Man",
+    "jalons": [
+      119,
+      122
+    ]
+  },
+  "entite_870": {
+    "label": "PESSOA",
+    "text": "##cel",
+    "jalons": [
+      122,
+      125
+    ]
+  },
+  "entite_871": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      419,
+      425
+    ]
+  },
+  "entite_872": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      425,
+      426
+    ]
+  },
+  "entite_873": {
+    "label": "PESSOA",
+    "text": "Madre",
+    "jalons": [
+      503,
+      508
+    ]
+  },
+  "entite_874": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      47,
+      52
+    ]
+  },
+  "entite_875": {
+    "label": "PESSOA",
+    "text": "Pam",
+    "jalons": [
+      389,
+      392
+    ]
+  },
+  "entite_876": {
+    "label": "PESSOA",
+    "text": "##bem",
+    "jalons": [
+      392,
+      395
+    ]
+  },
+  "entite_877": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      396,
+      403
+    ]
+  },
+  "entite_878": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      135,
+      140
+    ]
+  },
+  "entite_879": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      140,
+      143
+    ]
+  },
+  "entite_880": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      462,
+      467
+    ]
+  },
+  "entite_881": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      467,
+      470
+    ]
+  },
+  "entite_882": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_883": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      5,
+      8
+    ]
+  },
+  "entite_884": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      281,
+      287
+    ]
+  },
+  "entite_885": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      341,
+      346
+    ]
+  },
+  "entite_886": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      346,
+      349
+    ]
+  },
+  "entite_887": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_888": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      441,
+      442
+    ]
+  },
+  "entite_889": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      101,
+      106
+    ]
+  },
+  "entite_890": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      107,
+      114
+    ]
+  },
+  "entite_891": {
+    "label": "PESSOA",
+    "text": "Mad",
+    "jalons": [
+      350,
+      353
+    ]
+  },
+  "entite_892": {
+    "label": "PESSOA",
+    "text": "Augelica",
+    "jalons": [
+      356,
+      364
+    ]
+  },
+  "entite_893": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      419,
+      424
+    ]
+  },
+  "entite_894": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      425,
+      432
+    ]
+  },
+  "entite_895": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      492,
+      496
+    ]
+  },
+  "entite_896": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      498,
+      503
+    ]
+  },
+  "entite_897": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      30,
+      34
+    ]
+  },
+  "entite_898": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      36,
+      41
+    ]
+  },
+  "entite_899": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      261,
+      266
+    ]
+  },
+  "entite_900": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      266,
+      269
+    ]
+  },
+  "entite_901": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_902": {
+    "label": "PESSOA",
+    "text": "Madre",
+    "jalons": [
+      104,
+      109
+    ]
+  },
+  "entite_903": {
+    "label": "PESSOA",
+    "text": "Gortrndes",
+    "jalons": [
+      110,
+      119
+    ]
+  },
+  "entite_904": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      76,
+      80
+    ]
+  },
+  "entite_905": {
+    "label": "PESSOA",
+    "text": "Manoela",
+    "jalons": [
+      82,
+      89
+    ]
+  },
+  "entite_906": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      442,
+      448
+    ]
+  },
+  "entite_907": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      484,
+      488
+    ]
+  },
+  "entite_908": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      490,
+      495
+    ]
+  },
+  "entite_909": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      22,
+      26
+    ]
+  },
+  "entite_910": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      28,
+      33
+    ]
+  },
+  "entite_911": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      231,
+      235
+    ]
+  },
+  "entite_912": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      237,
+      243
+    ]
+  },
+  "entite_913": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      204,
+      210
+    ]
+  },
+  "entite_914": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      210,
+      211
+    ]
+  },
+  "entite_915": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      123,
+      132
+    ]
+  },
+  "entite_916": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      157,
+      161
+    ]
+  },
+  "entite_917": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      240,
+      246
+    ]
+  },
+  "entite_918": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      246,
+      247
+    ]
+  },
+  "entite_919": {
+    "label": "PESSOA",
+    "text": "Mau",
+    "jalons": [
+      222,
+      225
+    ]
+  },
+  "entite_920": {
+    "label": "PESSOA",
+    "text": "##cel",
+    "jalons": [
+      225,
+      228
+    ]
+  },
+  "entite_921": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      271,
+      275
+    ]
+  },
+  "entite_922": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      100,
+      106
+    ]
+  },
+  "entite_923": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      85,
+      94
+    ]
+  },
+  "entite_924": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      386,
+      395
+    ]
+  },
+  "entite_925": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      175,
+      181
+    ]
+  },
+  "entite_926": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      181,
+      182
+    ]
+  },
+  "entite_927": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      387,
+      391
+    ]
+  },
+  "entite_928": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      117,
+      126
+    ]
+  },
+  "entite_929": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      235,
+      239
+    ]
+  },
+  "entite_930": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      350,
+      356
+    ]
+  },
+  "entite_931": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      356,
+      357
+    ]
+  },
+  "entite_932": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      128,
+      137
+    ]
+  },
+  "entite_933": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      348,
+      357
+    ]
+  },
+  "entite_934": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      205,
+      214
+    ]
+  },
+  "entite_935": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      476,
+      485
+    ]
+  },
+  "entite_936": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      14,
+      23
+    ]
+  },
+  "entite_937": {
+    "label": "PESSOA",
+    "text": "Mau",
+    "jalons": [
+      388,
+      391
+    ]
+  },
+  "entite_938": {
+    "label": "PESSOA",
+    "text": "##cel",
+    "jalons": [
+      391,
+      394
+    ]
+  },
+  "entite_939": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      443,
+      452
+    ]
+  },
+  "entite_940": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      454,
+      463
+    ]
+  },
+  "entite_941": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      203,
+      209
+    ]
+  },
+  "entite_942": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      126,
+      135
+    ]
+  },
+  "entite_943": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      417,
+      423
+    ]
+  },
+  "entite_944": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      423,
+      424
+    ]
+  },
+  "entite_945": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      243,
+      252
+    ]
+  },
+  "entite_946": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      404,
+      409
+    ]
+  },
+  "entite_947": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      136,
+      142
+    ]
+  },
+  "entite_948": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      218,
+      223
+    ]
+  },
+  "entite_949": {
+    "label": "PESSOA",
+    "text": "Den",
+    "jalons": [
+      341,
+      344
+    ]
+  },
+  "entite_950": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      355,
+      359
+    ]
+  },
+  "entite_951": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      361,
+      367
+    ]
+  },
+  "entite_952": {
+    "label": "PESSOA",
+    "text": "El",
+    "jalons": [
+      97,
+      99
+    ]
+  },
+  "entite_953": {
+    "label": "PESSOA",
+    "text": "##lo",
+    "jalons": [
+      99,
+      101
+    ]
+  },
+  "entite_954": {
+    "label": "PESSOA",
+    "text": "Soror",
+    "jalons": [
+      277,
+      282
+    ]
+  },
+  "entite_955": {
+    "label": "PESSOA",
+    "text": "Magyoela",
+    "jalons": [
+      283,
+      291
+    ]
+  },
+  "entite_956": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      90,
+      96
+    ]
+  },
+  "entite_957": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      446,
+      452
+    ]
+  },
+  "entite_958": {
+    "label": "PESSOA",
+    "text": "Mad",
+    "jalons": [
+      342,
+      345
+    ]
+  },
+  "entite_959": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      348,
+      353
+    ]
+  },
+  "entite_960": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      139,
+      143
+    ]
+  },
+  "entite_961": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      145,
+      151
+    ]
+  },
+  "entite_962": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      256,
+      261
+    ]
+  },
+  "entite_963": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_964": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      89,
+      90
+    ]
+  },
+  "entite_965": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      363,
+      368
+    ]
+  },
+  "entite_966": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      368,
+      371
+    ]
+  },
+  "entite_967": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      185,
+      190
+    ]
+  },
+  "entite_968": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      190,
+      193
+    ]
+  },
+  "entite_969": {
+    "label": "PESSOA",
+    "text": "Angel",
+    "jalons": [
+      384,
+      389
+    ]
+  },
+  "entite_970": {
+    "label": "PESSOA",
+    "text": "##ica",
+    "jalons": [
+      389,
+      392
+    ]
+  },
+  "entite_971": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      61,
+      67
+    ]
+  },
+  "entite_972": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      67,
+      68
+    ]
+  },
+  "entite_973": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      166,
+      175
+    ]
+  },
+  "entite_974": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      368,
+      377
+    ]
+  },
+  "entite_975": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      136,
+      142
+    ]
+  },
+  "entite_976": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      231,
+      240
+    ]
+  },
+  "entite_977": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      366,
+      372
+    ]
+  },
+  "entite_978": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      372,
+      373
+    ]
+  },
+  "entite_979": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      93,
+      102
+    ]
+  },
+  "entite_980": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      63,
+      72
+    ]
+  },
+  "entite_981": {
+    "label": "PESSOA",
+    "text": "Ama",
+    "jalons": [
+      309,
+      312
+    ]
+  },
+  "entite_982": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      313,
+      317
+    ]
+  },
+  "entite_983": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      49,
+      55
+    ]
+  },
+  "entite_984": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      55,
+      56
+    ]
+  },
+  "entite_985": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_986": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      314,
+      320
+    ]
+  },
+  "entite_987": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      320,
+      321
+    ]
+  },
+  "entite_988": {
+    "label": "PESSOA",
+    "text": "Man",
+    "jalons": [
+      152,
+      155
+    ]
+  },
+  "entite_989": {
+    "label": "PESSOA",
+    "text": "Soro",
+    "jalons": [
+      445,
+      449
+    ]
+  },
+  "entite_990": {
+    "label": "PESSOA",
+    "text": "##r",
+    "jalons": [
+      449,
+      450
+    ]
+  },
+  "entite_991": {
+    "label": "PESSOA",
+    "text": "Claude",
+    "jalons": [
+      137,
+      143
+    ]
+  },
+  "entite_992": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      143,
+      144
+    ]
+  },
+  "entite_993": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      188,
+      194
+    ]
+  },
+  "entite_994": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      194,
+      195
+    ]
+  },
+  "entite_995": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      383,
+      389
+    ]
+  },
+  "entite_996": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      389,
+      390
+    ]
+  },
+  "entite_997": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_998": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      29,
+      35
+    ]
+  },
+  "entite_999": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      94,
+      98
+    ]
+  },
+  "entite_1000": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      1,
+      10
+    ]
+  },
+  "entite_1001": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      115,
+      121
+    ]
+  },
+  "entite_1002": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      121,
+      122
+    ]
+  },
+  "entite_1003": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      227,
+      233
+    ]
+  },
+  "entite_1004": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      126,
+      135
+    ]
+  },
+  "entite_1005": {
+    "label": "PESSOA",
+    "text": "Mun",
+    "jalons": [
+      70,
+      73
+    ]
+  },
+  "entite_1006": {
+    "label": "PESSOA",
+    "text": "##o",
+    "jalons": [
+      73,
+      74
+    ]
+  },
+  "entite_1007": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      286,
+      292
+    ]
+  },
+  "entite_1008": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      292,
+      293
+    ]
+  },
+  "entite_1009": {
+    "label": "PESSOA",
+    "text": "Ama",
+    "jalons": [
+      161,
+      164
+    ]
+  },
+  "entite_1010": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      166,
+      170
+    ]
+  },
+  "entite_1011": {
+    "label": "PESSOA",
+    "text": "Mor",
+    "jalons": [
+      239,
+      242
+    ]
+  },
+  "entite_1012": {
+    "label": "PESSOA",
+    "text": "##gado",
+    "jalons": [
+      242,
+      246
+    ]
+  },
+  "entite_1013": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      344,
+      350
+    ]
+  },
+  "entite_1014": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      350,
+      351
+    ]
+  },
+  "entite_1015": {
+    "label": "PESSOA",
+    "text": "Ama",
+    "jalons": [
+      399,
+      402
+    ]
+  },
+  "entite_1016": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      403,
+      407
+    ]
+  },
+  "entite_1017": {
+    "label": "PESSOA",
+    "text": "##cel",
+    "jalons": [
+      227,
+      230
+    ]
+  },
+  "entite_1018": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      109,
+      118
+    ]
+  },
+  "entite_1019": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      403,
+      409
+    ]
+  },
+  "entite_1020": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      131,
+      140
+    ]
+  },
+  "entite_1021": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      29,
+      38
+    ]
+  },
+  "entite_1022": {
+    "label": "PESSOA",
+    "text": "Manoel",
+    "jalons": [
+      438,
+      444
+    ]
+  },
+  "entite_1023": {
+    "label": "PESSOA",
+    "text": "##a",
+    "jalons": [
+      444,
+      445
+    ]
+  },
+  "entite_1024": {
+    "label": "PESSOA",
+    "text": "Christina",
+    "jalons": [
+      214,
+      223
+    ]
+  },
+  "entite_1025": {
+    "label": "PESSOA",
+    "text": "Rita",
+    "jalons": [
+      497,
+      501
+    ]
+  },
+  "entite_1026": {
+    "label": "PESSOA",
+    "text": "Lil",
+    "jalons": [
+      476,
+      479
+    ]
+  },
+  "entite_1027": {
+    "label": "PESSOA",
+    "text": "##i",
+    "jalons": [
+      479,
+      480
+    ]
+  },
+  "entite_1028": {
+    "label": "PESSOA",
+    "text": "Pautino de",
+    "jalons": [
+      108,
+      118
+    ]
+  },
+  "entite_1029": {
+    "label": "PESSOA",
+    "text": "Oliveira",
+    "jalons": [
+      119,
+      127
+    ]
+  },
+  "entite_1030": {
+    "label": "PESSOA",
+    "text": "Paulino de",
+    "jalons": [
+      165,
+      175
+    ]
+  },
+  "entite_1031": {
+    "label": "PESSOA",
+    "text": "Oliveira",
+    "jalons": [
+      176,
+      184
+    ]
+  },
+  "entite_1032": {
+    "label": "PESSOA",
+    "text": "Itoqua",
+    "jalons": [
+      396,
+      402
+    ]
+  },
+  "entite_1033": {
+    "label": "PESSOA",
+    "text": "Gameiro",
+    "jalons": [
+      403,
+      410
+    ]
+  },
+  "entite_1034": {
+    "label": "PESSOA",
+    "text": "Anna do",
+    "jalons": [
+      231,
+      238
+    ]
+  },
+  "entite_1035": {
+    "label": "PESSOA",
+    "text": "Castro",
+    "jalons": [
+      239,
+      245
+    ]
+  },
+  "entite_1036": {
+    "label": "PESSOA",
+    "text": "Garlos Malheiro",
+    "jalons": [
+      486,
+      501
+    ]
+  },
+  "entite_1037": {
+    "label": "PESSOA",
+    "text": "Dias",
+    "jalons": [
+      502,
+      506
+    ]
+  },
+  "entite_1038": {
+    "label": "PESSOA",
+    "text": "Garlos Malheiro",
+    "jalons": [
+      24,
+      39
+    ]
+  },
+  "entite_1039": {
+    "label": "PESSOA",
+    "text": "Dias",
+    "jalons": [
+      40,
+      44
+    ]
+  },
+  "entite_1040": {
+    "label": "PESSOA",
+    "text": "Manuel d '",
+    "jalons": [
+      77,
+      86
+    ]
+  },
+  "entite_1041": {
+    "label": "PESSOA",
+    "text": "Arriaga",
+    "jalons": [
+      86,
+      93
+    ]
+  },
+  "entite_1042": {
+    "label": "PESSOA",
+    "text": "José",
+    "jalons": [
+      240,
+      244
+    ]
+  },
+  "entite_1043": {
+    "label": "PESSOA",
+    "text": "Calêae",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_1044": {
+    "label": "PESSOA",
+    "text": "João",
+    "jalons": [
+      282,
+      286
+    ]
+  },
+  "entite_1045": {
+    "label": "PESSOA",
+    "text": "Chagas",
+    "jalons": [
+      287,
+      293
+    ]
+  },
+  "entite_1046": {
+    "label": "PESSOA",
+    "text": "Gomes",
+    "jalons": [
+      358,
+      363
+    ]
+  },
+  "entite_1047": {
+    "label": "PESSOA",
+    "text": "Leal",
+    "jalons": [
+      364,
+      368
+    ]
+  },
+  "entite_1048": {
+    "label": "ORG",
+    "text": "do",
+    "jalons": [
+      393,
+      395
+    ]
+  },
+  "entite_1049": {
+    "label": "ORG",
+    "text": "Coimbra",
+    "jalons": [
+      396,
+      403
+    ]
+  },
+  "entite_1050": {
+    "label": "PESSOA",
+    "text": "Eug",
+    "jalons": [
+      418,
+      421
+    ]
+  },
+  "entite_1051": {
+    "label": "PESSOA",
+    "text": "##enio de",
+    "jalons": [
+      421,
+      428
+    ]
+  },
+  "entite_1052": {
+    "label": "PESSOA",
+    "text": "Castro",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_1053": {
+    "label": "PESSOA",
+    "text": "Polscrates",
+    "jalons": [
+      231,
+      241
+    ]
+  },
+  "entite_1054": {
+    "label": "PESSOA",
+    "text": "E",
+    "jalons": [
+      271,
+      272
+    ]
+  },
+  "entite_1055": {
+    "label": "PESSOA",
+    "text": "Brunswick",
+    "jalons": [
+      274,
+      283
+    ]
+  },
+  "entite_1056": {
+    "label": "PESSOA",
+    "text": "Lima",
+    "jalons": [
+      338,
+      342
+    ]
+  },
+  "entite_1057": {
+    "label": "PESSOA",
+    "text": "Vidal",
+    "jalons": [
+      343,
+      348
+    ]
+  },
+  "entite_1058": {
+    "label": "PESSOA",
+    "text": "Alberto do Sousa",
+    "jalons": [
+      391,
+      407
+    ]
+  },
+  "entite_1059": {
+    "label": "PESSOA",
+    "text": "Costa",
+    "jalons": [
+      408,
+      413
+    ]
+  },
+  "entite_1060": {
+    "label": "PESSOA",
+    "text": "Henrique Trindade",
+    "jalons": [
+      448,
+      465
+    ]
+  },
+  "entite_1061": {
+    "label": "PESSOA",
+    "text": "Coelho",
+    "jalons": [
+      466,
+      472
+    ]
+  },
+  "entite_1062": {
+    "label": "PESSOA",
+    "text": "ade",
+    "jalons": [
+      0,
+      3
+    ]
+  },
+  "entite_1063": {
+    "label": "PESSOA",
+    "text": "Coelho",
+    "jalons": [
+      4,
+      10
+    ]
+  },
+  "entite_1064": {
+    "label": "PESSOA",
+    "text": "Campos",
+    "jalons": [
+      43,
+      49
+    ]
+  },
+  "entite_1065": {
+    "label": "PESSOA",
+    "text": "Lima",
+    "jalons": [
+      50,
+      54
+    ]
+  },
+  "entite_1066": {
+    "label": "PESSOA",
+    "text": "Antonio",
+    "jalons": [
+      247,
+      254
+    ]
+  },
+  "entite_1067": {
+    "label": "PESSOA",
+    "text": "Granjo",
+    "jalons": [
+      255,
+      261
+    ]
+  },
+  "entite_1068": {
+    "label": "PESSOA",
+    "text": "Gandido",
+    "jalons": [
+      299,
+      306
+    ]
+  },
+  "entite_1069": {
+    "label": "PESSOA",
+    "text": "Guerreiro",
+    "jalons": [
+      307,
+      316
+    ]
+  },
+  "entite_1070": {
+    "label": "PESSOA",
+    "text": "Pedroso",
+    "jalons": [
+      348,
+      355
+    ]
+  },
+  "entite_1071": {
+    "label": "PESSOA",
+    "text": "Rodrigues",
+    "jalons": [
+      356,
+      365
+    ]
+  },
+  "entite_1072": {
+    "label": "PESSOA",
+    "text": "Alfredo",
+    "jalons": [
+      394,
+      401
+    ]
+  },
+  "entite_1073": {
+    "label": "PESSOA",
+    "text": "França",
+    "jalons": [
+      402,
+      408
+    ]
+  },
+  "entite_1074": {
+    "label": "PESSOA",
+    "text": "Affonso Lopes",
+    "jalons": [
+      442,
+      455
+    ]
+  },
+  "entite_1075": {
+    "label": "PESSOA",
+    "text": "Vieira",
+    "jalons": [
+      456,
+      462
+    ]
+  },
+  "entite_1076": {
+    "label": "PESSOA",
+    "text": "Iv",
+    "jalons": [
+      17,
+      19
+    ]
+  },
+  "entite_1077": {
+    "label": "PESSOA",
+    "text": "Lino d",
+    "jalons": [
+      89,
+      95
+    ]
+  },
+  "entite_1078": {
+    "label": "PESSOA",
+    "text": "Assump",
+    "jalons": [
+      97,
+      103
+    ]
+  },
+  "entite_1079": {
+    "label": "PESSOA",
+    "text": "Luiz de",
+    "jalons": [
+      233,
+      240
+    ]
+  },
+  "entite_1080": {
+    "label": "PESSOA",
+    "text": "Magalhães",
+    "jalons": [
+      241,
+      250
+    ]
+  },
+  "entite_1081": {
+    "label": "PESSOA",
+    "text": "4",
+    "jalons": [
+      300,
+      301
+    ]
+  }
+}
