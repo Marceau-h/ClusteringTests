@@ -4,19 +4,34 @@ import spacy
 
 nlp_sm = spacy.load('fr_core_news_sm')
 nlp_lg = spacy.load('fr_core_news_lg')
+nlp_por_sm = spacy.load('pt_core_news_sm')
+nlp_por_lg = spacy.load('pt_core_news_lg')
+nlp_en_sm = spacy.load('en_core_web_sm')
+nlp_en = spacy.load('en_core_web_lg')
 
 
-def nerMin(text, model='sm'):
+def nerMin(text, model='sm', lang='fr'):
     """
     Extract named entities from a text
     :param text: The text to analyze
     :param model: The model to use (sm or lg)
     :return: The named entities found
     """
-    if model == 'sm':
-        nlp = nlp_sm
+    if lang == 'fr':
+        if model == 'sm':
+            nlp = nlp_sm
+        else:
+            nlp = nlp_lg
+    elif lang == 'pt':
+        if model == 'sm':
+            nlp = nlp_por_sm
+        else:
+            nlp = nlp_por_lg
     else:
-        nlp = nlp_lg
+        if model == 'sm':
+            nlp = nlp_en_sm
+        else:
+            nlp = nlp_en
 
     doc = nlp(text)
     return {ent.text.strip() for ent in doc.ents if ent.label_ in ['LOC']}

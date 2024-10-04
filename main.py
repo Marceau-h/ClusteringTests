@@ -56,12 +56,12 @@ def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
             yield p
 
 
-def do_1_text(path: Path) -> None:
+def do_1_text(path: Path, lang='fr') -> None:
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
 
-    entities_sm = nerMin(text, "sm")
-    entities_lg = nerMin(text, "lg")
+    entities_sm = nerMin(text, "sm", lang)
+    entities_lg = nerMin(text, "lg", lang)
     entities = list(entities_sm | entities_lg)
 
     for name, cluster_method in cluster_methods.items():
@@ -76,18 +76,18 @@ def do_1_text(path: Path) -> None:
         dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
 
 
-def main(path: Path) -> None:
+def main(path: Path, lang='fr') -> None:
     if path.is_dir():
         files = list(recursive_find_docs(path))
         with ThreadPoolExecutor(4) as executor:
             list(tqdm(executor.map(do_1_text, files), total=len(files)))
 
     elif path.is_file():
-        do_1_text(path)
+        do_1_text(path, lang)
 
     else:
         raise ValueError(f"{path} is not a file or a directory")
 
 
 if __name__ == "__main__":
-    main(Path("corpus"))
+    main(Path("corpus_por"), "pt")
