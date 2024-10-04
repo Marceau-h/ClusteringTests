@@ -1,0 +1,2738 @@
+{
+  "entite_0": {
+    "label": "WORK_OF_ART",
+    "text": "Ceci est une copie numerique d'un",
+    "jalons": [
+      20,
+      53
+    ]
+  },
+  "entite_1": {
+    "label": "WORK_OF_ART",
+    "text": "sont les emotion de la riches de note",
+    "jalons": [
+      782,
+      819
+    ]
+  },
+  "entite_2": {
+    "label": "FAC",
+    "text": "Gaoogle Recherche de Lives",
+    "jalons": [
+      2013,
+      2039
+    ]
+  },
+  "entite_3": {
+    "label": "FAC",
+    "text": "Golden Recherche de Lives",
+    "jalons": [
+      2968,
+      2993
+    ]
+  },
+  "entite_4": {
+    "label": "WORK_OF_ART",
+    "text": "Golden\nRecherche de Lives",
+    "jalons": [
+      3575,
+      3600
+    ]
+  },
+  "entite_5": {
+    "label": "FAC",
+    "text": "Golden Recherche de Lives",
+    "jalons": [
+      4044,
+      4069
+    ]
+  },
+  "entite_6": {
+    "label": "PERSON",
+    "text": "Golden",
+    "jalons": [
+      4430,
+      4436
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Goole",
+    "jalons": [
+      4542,
+      4547
+    ]
+  },
+  "entite_8": {
+    "label": "PERSON",
+    "text": "GEORGE W. M. REYN0",
+    "jalons": [
+      4663,
+      4681
+    ]
+  },
+  "entite_9": {
+    "label": "PERSON",
+    "text": "CATHERINE SAID",
+    "jalons": [
+      4776,
+      4790
+    ]
+  },
+  "entite_10": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      4859,
+      4860
+    ]
+  },
+  "entite_11": {
+    "label": "FAC",
+    "text": "Te Old House",
+    "jalons": [
+      4914,
+      4926
+    ]
+  },
+  "entite_12": {
+    "label": "GPE",
+    "text": "Sin1",
+    "jalons": [
+      4930,
+      4934
+    ]
+  },
+  "entite_13": {
+    "label": "PERSON",
+    "text": "Bouaoir",
+    "jalons": [
+      5063,
+      5070
+    ]
+  },
+  "entite_14": {
+    "label": "WORK_OF_ART",
+    "text": "The Enclanutress\nXVI",
+    "jalons": [
+      5482,
+      5502
+    ]
+  },
+  "entite_15": {
+    "label": "WORK_OF_ART",
+    "text": "Newgate\nXXVII",
+    "jalons": [
+      5505,
+      5518
+    ]
+  },
+  "entite_16": {
+    "label": "NORP",
+    "text": "Republican",
+    "jalons": [
+      5525,
+      5535
+    ]
+  },
+  "entite_17": {
+    "label": "GPE",
+    "text": "Dungon",
+    "jalons": [
+      5571,
+      5577
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "XXIY.-The Bleak Chamber",
+    "jalons": [
+      5579,
+      5602
+    ]
+  },
+  "entite_19": {
+    "label": "WORK_OF_ART",
+    "text": "the Old Bailey\nXXXIV",
+    "jalons": [
+      5691,
+      5711
+    ]
+  },
+  "entite_20": {
+    "label": "DATE",
+    "text": "Two Years\nXXXVIII",
+    "jalons": [
+      5809,
+      5826
+    ]
+  },
+  "entite_21": {
+    "label": "ORG",
+    "text": "Greenwood\nXLII",
+    "jalons": [
+      5900,
+      5914
+    ]
+  },
+  "entite_22": {
+    "label": "WORK_OF_ART",
+    "text": "The Priests Search\nXLV1,-Richard",
+    "jalons": [
+      5982,
+      6014
+    ]
+  },
+  "entite_23": {
+    "label": "WORK_OF_ART",
+    "text": "Isahells\nXLVII.-Elia Sunday",
+    "jalons": [
+      6019,
+      6046
+    ]
+  },
+  "entite_24": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      6056,
+      6057
+    ]
+  },
+  "entite_25": {
+    "label": "CARDINAL",
+    "text": "11",
+    "jalons": [
+      6063,
+      6065
+    ]
+  },
+  "entite_26": {
+    "label": "CARDINAL",
+    "text": "61",
+    "jalons": [
+      6066,
+      6068
+    ]
+  },
+  "entite_27": {
+    "label": "CARDINAL",
+    "text": "1.",
+    "jalons": [
+      6070,
+      6072
+    ]
+  },
+  "entite_28": {
+    "label": "CARDINAL",
+    "text": "19",
+    "jalons": [
+      6080,
+      6082
+    ]
+  },
+  "entite_29": {
+    "label": "QUANTITY",
+    "text": "30\nse",
+    "jalons": [
+      6092,
+      6097
+    ]
+  },
+  "entite_30": {
+    "label": "QUANTITY",
+    "text": "43\n45",
+    "jalons": [
+      6111,
+      6116
+    ]
+  },
+  "entite_31": {
+    "label": "CARDINAL",
+    "text": "61",
+    "jalons": [
+      6135,
+      6137
+    ]
+  },
+  "entite_32": {
+    "label": "QUANTITY",
+    "text": "81\ns6",
+    "jalons": [
+      6158,
+      6163
+    ]
+  },
+  "entite_33": {
+    "label": "CARDINAL",
+    "text": "10",
+    "jalons": [
+      6181,
+      6183
+    ]
+  },
+  "entite_34": {
+    "label": "QUANTITY",
+    "text": "12\n1s",
+    "jalons": [
+      6203,
+      6208
+    ]
+  },
+  "entite_35": {
+    "label": "PERSON",
+    "text": "Dian",
+    "jalons": [
+      6312,
+      6316
+    ]
+  },
+  "entite_36": {
+    "label": "PERSON",
+    "text": "Elis\nLIE",
+    "jalons": [
+      6321,
+      6329
+    ]
+  },
+  "entite_37": {
+    "label": "WORK_OF_ART",
+    "text": "The Result of Murkhams Enterpriss",
+    "jalons": [
+      6666,
+      6699
+    ]
+  },
+  "entite_38": {
+    "label": "WORK_OF_ART",
+    "text": "The  Whispers-a''.\nLL.-The Image, the Picture",
+    "jalons": [
+      6760,
+      6805
+    ]
+  },
+  "entite_39": {
+    "label": "WORK_OF_ART",
+    "text": "the Stars\nLXXI",
+    "jalons": [
+      6811,
+      6825
+    ]
+  },
+  "entite_40": {
+    "label": "ORG",
+    "text": "The House of Commons",
+    "jalons": [
+      6828,
+      6848
+    ]
+  },
+  "entite_41": {
+    "label": "PERSON",
+    "text": "Dapper",
+    "jalons": [
+      6900,
+      6906
+    ]
+  },
+  "entite_42": {
+    "label": "PERSON",
+    "text": "Bill",
+    "jalons": [
+      7059,
+      7063
+    ]
+  },
+  "entite_43": {
+    "label": "PERSON",
+    "text": "C.-Markham's",
+    "jalons": [
+      7376,
+      7388
+    ]
+  },
+  "entite_44": {
+    "label": "NORP",
+    "text": "Italian",
+    "jalons": [
+      7427,
+      7434
+    ]
+  },
+  "entite_45": {
+    "label": "ORG",
+    "text": "Castelclel\nXCIV",
+    "jalons": [
+      7456,
+      7471
+    ]
+  },
+  "entite_46": {
+    "label": "ORG",
+    "text": "The Home Office",
+    "jalons": [
+      7473,
+      7488
+    ]
+  },
+  "entite_47": {
+    "label": "PERSON",
+    "text": "C.-Te",
+    "jalons": [
+      7655,
+      7660
+    ]
+  },
+  "entite_48": {
+    "label": "QUANTITY",
+    "text": "191]\n1s",
+    "jalons": [
+      7823,
+      7830
+    ]
+  },
+  "entite_49": {
+    "label": "QUANTITY",
+    "text": "1s8",
+    "jalons": [
+      7832,
+      7835
+    ]
+  },
+  "entite_50": {
+    "label": "CARDINAL",
+    "text": "16",
+    "jalons": [
+      7860,
+      7862
+    ]
+  },
+  "entite_51": {
+    "label": "QUANTITY",
+    "text": "1]\n22t\nzar",
+    "jalons": [
+      7870,
+      7880
+    ]
+  },
+  "entite_52": {
+    "label": "QUANTITY",
+    "text": "230\nss[",
+    "jalons": [
+      7882,
+      7889
+    ]
+  },
+  "entite_53": {
+    "label": "CARDINAL",
+    "text": "26",
+    "jalons": [
+      7912,
+      7914
+    ]
+  },
+  "entite_54": {
+    "label": "CARDINAL",
+    "text": "96",
+    "jalons": [
+      7979,
+      7981
+    ]
+  },
+  "entite_55": {
+    "label": "PERSON",
+    "text": "Chiclester's Ilouse",
+    "jalons": [
+      8152,
+      8171
+    ]
+  },
+  "entite_56": {
+    "label": "WORK_OF_ART",
+    "text": "The Rautlesneke\nC1I1",
+    "jalons": [
+      8308,
+      8328
+    ]
+  },
+  "entite_57": {
+    "label": "WORK_OF_ART",
+    "text": "The Two Maidens",
+    "jalons": [
+      8332,
+      8347
+    ]
+  },
+  "entite_58": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      8361,
+      8366
+    ]
+  },
+  "entite_59": {
+    "label": "PERSON",
+    "text": "The Rector of saint Did'as",
+    "jalons": [
+      8537,
+      8563
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "The Secret Tribual",
+    "jalons": [
+      8796,
+      8814
+    ]
+  },
+  "entite_61": {
+    "label": "CARDINAL",
+    "text": "221",
+    "jalons": [
+      8831,
+      8834
+    ]
+  },
+  "entite_62": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      8840,
+      8841
+    ]
+  },
+  "entite_63": {
+    "label": "CARDINAL",
+    "text": "36",
+    "jalons": [
+      8862,
+      8864
+    ]
+  },
+  "entite_64": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      8911,
+      8912
+    ]
+  },
+  "entite_65": {
+    "label": "CARDINAL",
+    "text": "496",
+    "jalons": [
+      8938,
+      8941
+    ]
+  },
+  "entite_66": {
+    "label": "CARDINAL",
+    "text": "48",
+    "jalons": [
+      8943,
+      8945
+    ]
+  },
+  "entite_67": {
+    "label": "CARDINAL",
+    "text": "13",
+    "jalons": [
+      8947,
+      8949
+    ]
+  },
+  "entite_68": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      8981,
+      8982
+    ]
+  },
+  "entite_69": {
+    "label": "DATE",
+    "text": "age 20",
+    "jalons": [
+      9033,
+      9039
+    ]
+  },
+  "entite_70": {
+    "label": "CARDINAL",
+    "text": "213",
+    "jalons": [
+      9049,
+      9052
+    ]
+  },
+  "entite_71": {
+    "label": "CARDINAL",
+    "text": "217",
+    "jalons": [
+      9102,
+      9105
+    ]
+  },
+  "entite_72": {
+    "label": "CARDINAL",
+    "text": "217",
+    "jalons": [
+      9115,
+      9118
+    ]
+  },
+  "entite_73": {
+    "label": "CARDINAL",
+    "text": "22",
+    "jalons": [
+      9169,
+      9171
+    ]
+  },
+  "entite_74": {
+    "label": "CARDINAL",
+    "text": "228",
+    "jalons": [
+      9181,
+      9184
+    ]
+  },
+  "entite_75": {
+    "label": "CARDINAL",
+    "text": "23",
+    "jalons": [
+      9203,
+      9205
+    ]
+  },
+  "entite_76": {
+    "label": "PERSON",
+    "text": "Woodcut",
+    "jalons": [
+      9220,
+      9227
+    ]
+  },
+  "entite_77": {
+    "label": "CARDINAL",
+    "text": "233",
+    "jalons": [
+      9236,
+      9239
+    ]
+  },
+  "entite_78": {
+    "label": "CARDINAL",
+    "text": "239",
+    "jalons": [
+      9248,
+      9251
+    ]
+  },
+  "entite_79": {
+    "label": "PERSON",
+    "text": "Woodcut",
+    "jalons": [
+      9287,
+      9294
+    ]
+  },
+  "entite_80": {
+    "label": "DATE",
+    "text": "age 21",
+    "jalons": [
+      9298,
+      9304
+    ]
+  },
+  "entite_81": {
+    "label": "CARDINAL",
+    "text": "248",
+    "jalons": [
+      9314,
+      9317
+    ]
+  },
+  "entite_82": {
+    "label": "CARDINAL",
+    "text": "273",
+    "jalons": [
+      9477,
+      9480
+    ]
+  },
+  "entite_83": {
+    "label": "CARDINAL",
+    "text": "28",
+    "jalons": [
+      9609,
+      9611
+    ]
+  },
+  "entite_84": {
+    "label": "CARDINAL",
+    "text": "292",
+    "jalons": [
+      9621,
+      9624
+    ]
+  },
+  "entite_85": {
+    "label": "CARDINAL",
+    "text": "27",
+    "jalons": [
+      9677,
+      9679
+    ]
+  },
+  "entite_86": {
+    "label": "CARDINAL",
+    "text": "209",
+    "jalons": [
+      9688,
+      9691
+    ]
+  },
+  "entite_87": {
+    "label": "CARDINAL",
+    "text": "102",
+    "jalons": [
+      9715,
+      9718
+    ]
+  },
+  "entite_88": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      9738,
+      9739
+    ]
+  },
+  "entite_89": {
+    "label": "CARDINAL",
+    "text": "30",
+    "jalons": [
+      9748,
+      9750
+    ]
+  },
+  "entite_90": {
+    "label": "CARDINAL",
+    "text": "313",
+    "jalons": [
+      9805,
+      9808
+    ]
+  },
+  "entite_91": {
+    "label": "CARDINAL",
+    "text": "14",
+    "jalons": [
+      9817,
+      9819
+    ]
+  },
+  "entite_92": {
+    "label": "CARDINAL",
+    "text": "121",
+    "jalons": [
+      9853,
+      9856
+    ]
+  },
+  "entite_93": {
+    "label": "CARDINAL",
+    "text": "39",
+    "jalons": [
+      9947,
+      9949
+    ]
+  },
+  "entite_94": {
+    "label": "CARDINAL",
+    "text": "330",
+    "jalons": [
+      9958,
+      9961
+    ]
+  },
+  "entite_95": {
+    "label": "CARDINAL",
+    "text": "12",
+    "jalons": [
+      9982,
+      9984
+    ]
+  },
+  "entite_96": {
+    "label": "CARDINAL",
+    "text": "133",
+    "jalons": [
+      9991,
+      9994
+    ]
+  },
+  "entite_97": {
+    "label": "CARDINAL",
+    "text": "338",
+    "jalons": [
+      10027,
+      10030
+    ]
+  },
+  "entite_98": {
+    "label": "CARDINAL",
+    "text": "152",
+    "jalons": [
+      10134,
+      10137
+    ]
+  },
+  "entite_99": {
+    "label": "CARDINAL",
+    "text": "31",
+    "jalons": [
+      10170,
+      10172
+    ]
+  },
+  "entite_100": {
+    "label": "CARDINAL",
+    "text": "133",
+    "jalons": [
+      10192,
+      10195
+    ]
+  },
+  "entite_101": {
+    "label": "CARDINAL",
+    "text": "135",
+    "jalons": [
+      10204,
+      10207
+    ]
+  },
+  "entite_102": {
+    "label": "CARDINAL",
+    "text": "108",
+    "jalons": [
+      10272,
+      10275
+    ]
+  },
+  "entite_103": {
+    "label": "CARDINAL",
+    "text": "369",
+    "jalons": [
+      10294,
+      10297
+    ]
+  },
+  "entite_104": {
+    "label": "CARDINAL",
+    "text": "369",
+    "jalons": [
+      10306,
+      10309
+    ]
+  },
+  "entite_105": {
+    "label": "CARDINAL",
+    "text": "174",
+    "jalons": [
+      10341,
+      10344
+    ]
+  },
+  "entite_106": {
+    "label": "CARDINAL",
+    "text": "36",
+    "jalons": [
+      10376,
+      10378
+    ]
+  },
+  "entite_107": {
+    "label": "CARDINAL",
+    "text": "177",
+    "jalons": [
+      10399,
+      10402
+    ]
+  },
+  "entite_108": {
+    "label": "GPE",
+    "text": "Waodcut",
+    "jalons": [
+      10420,
+      10427
+    ]
+  },
+  "entite_109": {
+    "label": "CARDINAL",
+    "text": "3835",
+    "jalons": [
+      10436,
+      10440
+    ]
+  },
+  "entite_110": {
+    "label": "CARDINAL",
+    "text": "380",
+    "jalons": [
+      10450,
+      10453
+    ]
+  },
+  "entite_111": {
+    "label": "CARDINAL",
+    "text": "183",
+    "jalons": [
+      10475,
+      10478
+    ]
+  },
+  "entite_112": {
+    "label": "ORG",
+    "text": "Waodcut",
+    "jalons": [
+      10496,
+      10503
+    ]
+  },
+  "entite_113": {
+    "label": "CARDINAL",
+    "text": "393",
+    "jalons": [
+      10512,
+      10515
+    ]
+  },
+  "entite_114": {
+    "label": "CARDINAL",
+    "text": "196",
+    "jalons": [
+      10557,
+      10560
+    ]
+  },
+  "entite_115": {
+    "label": "CARDINAL",
+    "text": "103",
+    "jalons": [
+      10596,
+      10599
+    ]
+  },
+  "entite_116": {
+    "label": "DATE",
+    "text": "age 40",
+    "jalons": [
+      10651,
+      10657
+    ]
+  },
+  "entite_117": {
+    "label": "GPE",
+    "text": "LONDON",
+    "jalons": [
+      10685,
+      10691
+    ]
+  },
+  "entite_118": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      10695,
+      10696
+    ]
+  },
+  "entite_119": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      10757,
+      10758
+    ]
+  },
+  "entite_120": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      10762,
+      10763
+    ]
+  },
+  "entite_121": {
+    "label": "PERSON",
+    "text": "richard",
+    "jalons": [
+      10903,
+      10910
+    ]
+  },
+  "entite_122": {
+    "label": "PERSON",
+    "text": "Fiieeeen",
+    "jalons": [
+      10982,
+      10990
+    ]
+  },
+  "entite_123": {
+    "label": "CARDINAL",
+    "text": "22",
+    "jalons": [
+      11292,
+      11294
+    ]
+  },
+  "entite_124": {
+    "label": "CARDINAL",
+    "text": "ten",
+    "jalons": [
+      12273,
+      12276
+    ]
+  },
+  "entite_125": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      12341,
+      12346
+    ]
+  },
+  "entite_126": {
+    "label": "PERSON",
+    "text": "Mluriau",
+    "jalons": [
+      12392,
+      12399
+    ]
+  },
+  "entite_127": {
+    "label": "PERSON",
+    "text": "Fallen",
+    "jalons": [
+      12601,
+      12607
+    ]
+  },
+  "entite_128": {
+    "label": "ORG",
+    "text": "Golden Te medical",
+    "jalons": [
+      13047,
+      13064
+    ]
+  },
+  "entite_129": {
+    "label": "PERSON",
+    "text": "Ilis",
+    "jalons": [
+      13556,
+      13560
+    ]
+  },
+  "entite_130": {
+    "label": "PERSON",
+    "text": "Markham",
+    "jalons": [
+      13925,
+      13932
+    ]
+  },
+  "entite_131": {
+    "label": "PERSON",
+    "text": "MliG",
+    "jalons": [
+      13974,
+      13978
+    ]
+  },
+  "entite_132": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      14442,
+      14447
+    ]
+  },
+  "entite_133": {
+    "label": "CARDINAL",
+    "text": "Ten",
+    "jalons": [
+      14870,
+      14873
+    ]
+  },
+  "entite_134": {
+    "label": "CARDINAL",
+    "text": "4",
+    "jalons": [
+      15016,
+      15017
+    ]
+  },
+  "entite_135": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      15052,
+      15057
+    ]
+  },
+  "entite_136": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      15232,
+      15237
+    ]
+  },
+  "entite_137": {
+    "label": "PERSON",
+    "text": "No1ll'' parcel Mlurka",
+    "jalons": [
+      15356,
+      15377
+    ]
+  },
+  "entite_138": {
+    "label": "PERSON",
+    "text": "Marian",
+    "jalons": [
+      15909,
+      15915
+    ]
+  },
+  "entite_139": {
+    "label": "PERSON",
+    "text": "Miarkham",
+    "jalons": [
+      16066,
+      16074
+    ]
+  },
+  "entite_140": {
+    "label": "PERSON",
+    "text": "Ellen",
+    "jalons": [
+      16112,
+      16117
+    ]
+  },
+  "entite_141": {
+    "label": "PERSON",
+    "text": "Markham",
+    "jalons": [
+      16127,
+      16134
+    ]
+  },
+  "entite_142": {
+    "label": "PERSON",
+    "text": "Llle",
+    "jalons": [
+      16216,
+      16220
+    ]
+  },
+  "entite_143": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      16756,
+      16757
+    ]
+  },
+  "entite_144": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      16846,
+      16847
+    ]
+  },
+  "entite_145": {
+    "label": "PERSON",
+    "text": "Mlonroe",
+    "jalons": [
+      16915,
+      16922
+    ]
+  },
+  "entite_146": {
+    "label": "PERSON",
+    "text": "Chrs",
+    "jalons": [
+      17350,
+      17354
+    ]
+  },
+  "entite_147": {
+    "label": "TIME",
+    "text": "1 hours",
+    "jalons": [
+      17472,
+      17479
+    ]
+  },
+  "entite_148": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      17526,
+      17527
+    ]
+  },
+  "entite_149": {
+    "label": "PERSON",
+    "text": "Greenwoo",
+    "jalons": [
+      17547,
+      17555
+    ]
+  },
+  "entite_150": {
+    "label": "CARDINAL",
+    "text": "three",
+    "jalons": [
+      17623,
+      17628
+    ]
+  },
+  "entite_151": {
+    "label": "PERSON",
+    "text": "BUtcher",
+    "jalons": [
+      17700,
+      17707
+    ]
+  },
+  "entite_152": {
+    "label": "PERSON",
+    "text": "Greenwood",
+    "jalons": [
+      17871,
+      17880
+    ]
+  },
+  "entite_153": {
+    "label": "PERSON",
+    "text": "Vokes",
+    "jalons": [
+      17938,
+      17943
+    ]
+  },
+  "entite_154": {
+    "label": "PERSON",
+    "text": "M. Tullet",
+    "jalons": [
+      18295,
+      18304
+    ]
+  },
+  "entite_155": {
+    "label": "CARDINAL",
+    "text": "n hundred and twenty",
+    "jalons": [
+      18451,
+      18471
+    ]
+  },
+  "entite_156": {
+    "label": "PERSON",
+    "text": "M. Grcenool",
+    "jalons": [
+      18551,
+      18562
+    ]
+  },
+  "entite_157": {
+    "label": "CARDINAL",
+    "text": "one",
+    "jalons": [
+      18884,
+      18887
+    ]
+  },
+  "entite_158": {
+    "label": "CARDINAL",
+    "text": "ten",
+    "jalons": [
+      18961,
+      18964
+    ]
+  },
+  "entite_159": {
+    "label": "PERSON",
+    "text": "Greenwood",
+    "jalons": [
+      19009,
+      19018
+    ]
+  },
+  "entite_160": {
+    "label": "CARDINAL",
+    "text": "one",
+    "jalons": [
+      19027,
+      19030
+    ]
+  },
+  "entite_161": {
+    "label": "QUANTITY",
+    "text": "uinety-four thousand]\n1g miles",
+    "jalons": [
+      19070,
+      19100
+    ]
+  },
+  "entite_162": {
+    "label": "CARDINAL",
+    "text": "two hundred",
+    "jalons": [
+      19511,
+      19522
+    ]
+  },
+  "entite_163": {
+    "label": "PERSON",
+    "text": "Conisaioer",
+    "jalons": [
+      19552,
+      19562
+    ]
+  },
+  "entite_164": {
+    "label": "PERSON",
+    "text": "Michael",
+    "jalons": [
+      19664,
+      19671
+    ]
+  },
+  "entite_165": {
+    "label": "PERSON",
+    "text": "Mrtin",
+    "jalons": [
+      19713,
+      19718
+    ]
+  },
+  "entite_166": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      20930,
+      20931
+    ]
+  },
+  "entite_167": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      20999,
+      21000
+    ]
+  },
+  "entite_168": {
+    "label": "ORDINAL",
+    "text": "second",
+    "jalons": [
+      21530,
+      21536
+    ]
+  },
+  "entite_169": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      21551,
+      21552
+    ]
+  },
+  "entite_170": {
+    "label": "PERSON",
+    "text": "Vokes",
+    "jalons": [
+      21722,
+      21727
+    ]
+  },
+  "entite_171": {
+    "label": "PERSON",
+    "text": "Grcenood",
+    "jalons": [
+      21943,
+      21951
+    ]
+  },
+  "entite_172": {
+    "label": "CARDINAL",
+    "text": "four-fifths",
+    "jalons": [
+      22300,
+      22311
+    ]
+  },
+  "entite_173": {
+    "label": "PERSON",
+    "text": "Tomlinson",
+    "jalons": [
+      22340,
+      22349
+    ]
+  },
+  "entite_174": {
+    "label": "PERSON",
+    "text": "Greenwood",
+    "jalons": [
+      22547,
+      22556
+    ]
+  },
+  "entite_175": {
+    "label": "MONEY",
+    "text": "seventeen shillings",
+    "jalons": [
+      22589,
+      22608
+    ]
+  },
+  "entite_176": {
+    "label": "CARDINAL",
+    "text": "one",
+    "jalons": [
+      22711,
+      22714
+    ]
+  },
+  "entite_177": {
+    "label": "PERSON",
+    "text": "WeIl",
+    "jalons": [
+      22741,
+      22745
+    ]
+  },
+  "entite_178": {
+    "label": "PERSON",
+    "text": "the CHild Chcellor",
+    "jalons": [
+      22804,
+      22822
+    ]
+  },
+  "entite_179": {
+    "label": "PERSON",
+    "text": "MIr",
+    "jalons": [
+      22831,
+      22834
+    ]
+  },
+  "entite_180": {
+    "label": "PERSON",
+    "text": "Vokes",
+    "jalons": [
+      22836,
+      22841
+    ]
+  },
+  "entite_181": {
+    "label": "PERSON",
+    "text": "Grewool",
+    "jalons": [
+      22991,
+      22998
+    ]
+  },
+  "entite_182": {
+    "label": "PERSON",
+    "text": "Tlinson",
+    "jalons": [
+      23278,
+      23285
+    ]
+  },
+  "entite_183": {
+    "label": "GPE",
+    "text": "LoNDON",
+    "jalons": [
+      23335,
+      23341
+    ]
+  },
+  "entite_184": {
+    "label": "ORDINAL",
+    "text": "second",
+    "jalons": [
+      23390,
+      23396
+    ]
+  },
+  "entite_185": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      24355,
+      24356
+    ]
+  },
+  "entite_186": {
+    "label": "FAC",
+    "text": "Park Lane",
+    "jalons": [
+      24382,
+      24391
+    ]
+  },
+  "entite_187": {
+    "label": "WORK_OF_ART",
+    "text": "' Praise LA",
+    "jalons": [
+      24478,
+      24489
+    ]
+  },
+  "entite_188": {
+    "label": "CARDINAL",
+    "text": "three",
+    "jalons": [
+      24829,
+      24834
+    ]
+  },
+  "entite_189": {
+    "label": "CARDINAL",
+    "text": "1.",
+    "jalons": [
+      25002,
+      25004
+    ]
+  },
+  "entite_190": {
+    "label": "WORK_OF_ART",
+    "text": "LIfe",
+    "jalons": [
+      25446,
+      25450
+    ]
+  },
+  "entite_191": {
+    "label": "PERSON",
+    "text": "W'lot",
+    "jalons": [
+      25598,
+      25603
+    ]
+  },
+  "entite_192": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      25888,
+      25889
+    ]
+  },
+  "entite_193": {
+    "label": "FAC",
+    "text": "hMlorimer street",
+    "jalons": [
+      25894,
+      25910
+    ]
+  },
+  "entite_194": {
+    "label": "FAC",
+    "text": "Vanish Square",
+    "jalons": [
+      25912,
+      25925
+    ]
+  },
+  "entite_195": {
+    "label": "CARDINAL",
+    "text": "Thirteen",
+    "jalons": [
+      26022,
+      26030
+    ]
+  },
+  "entite_196": {
+    "label": "CARDINAL",
+    "text": "one",
+    "jalons": [
+      26451,
+      26454
+    ]
+  },
+  "entite_197": {
+    "label": "CARDINAL",
+    "text": "10",
+    "jalons": [
+      26695,
+      26697
+    ]
+  },
+  "entite_198": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      27837,
+      27838
+    ]
+  },
+  "entite_199": {
+    "label": "GPE",
+    "text": "CALIFORNIA",
+    "jalons": [
+      28834,
+      28844
+    ]
+  },
+  "entite_200": {
+    "label": "GPE",
+    "text": "SANTA CRY2",
+    "jalons": [
+      28846,
+      28856
+    ]
+  },
+  "entite_201": {
+    "label": "CARDINAL",
+    "text": "15",
+    "jalons": [
+      29041,
+      29043
+    ]
+  },
+  "entite_202": {
+    "label": "WORK_OF_ART",
+    "text": "Ceci est une copie numerique d'un",
+    "jalons": [
+      29086,
+      29119
+    ]
+  },
+  "entite_203": {
+    "label": "WORK_OF_ART",
+    "text": "sont les emotion de la riches de note",
+    "jalons": [
+      29848,
+      29885
+    ]
+  },
+  "entite_204": {
+    "label": "FAC",
+    "text": "Gaoogle Recherche de Lives",
+    "jalons": [
+      31079,
+      31105
+    ]
+  },
+  "entite_205": {
+    "label": "FAC",
+    "text": "Golden Recherche de Lives",
+    "jalons": [
+      32034,
+      32059
+    ]
+  },
+  "entite_206": {
+    "label": "WORK_OF_ART",
+    "text": "Golden\nRecherche de Lives",
+    "jalons": [
+      32641,
+      32666
+    ]
+  },
+  "entite_207": {
+    "label": "FAC",
+    "text": "Golden Recherche de Lives",
+    "jalons": [
+      33110,
+      33135
+    ]
+  },
+  "entite_208": {
+    "label": "PERSON",
+    "text": "Golden",
+    "jalons": [
+      33496,
+      33502
+    ]
+  },
+  "entite_209": {
+    "label": "PERSON",
+    "text": "Ipecrlsr\nLI",
+    "jalons": [
+      34085,
+      34096
+    ]
+  },
+  "entite_210": {
+    "label": "PERSON",
+    "text": "YI",
+    "jalons": [
+      34097,
+      34099
+    ]
+  },
+  "entite_211": {
+    "label": "PERSON",
+    "text": "Kenrlek\nLI",
+    "jalons": [
+      34216,
+      34226
+    ]
+  },
+  "entite_212": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      34240,
+      34241
+    ]
+  },
+  "entite_213": {
+    "label": "GPE",
+    "text": "Caataleiealn",
+    "jalons": [
+      34288,
+      34300
+    ]
+  },
+  "entite_214": {
+    "label": "WORK_OF_ART",
+    "text": "Cathsrlna IDIot\nvIII",
+    "jalons": [
+      34386,
+      34406
+    ]
+  },
+  "entite_215": {
+    "label": "PERSON",
+    "text": "Reilly IIarhaerongh-\nLYING-ha",
+    "jalons": [
+      34474,
+      34503
+    ]
+  },
+  "entite_216": {
+    "label": "CARDINAL",
+    "text": "11",
+    "jalons": [
+      34642,
+      34644
+    ]
+  },
+  "entite_217": {
+    "label": "PERSON",
+    "text": "Grecenood",
+    "jalons": [
+      34725,
+      34734
+    ]
+  },
+  "entite_218": {
+    "label": "GPE",
+    "text": "IIolmstor4",
+    "jalons": [
+      34773,
+      34783
+    ]
+  },
+  "entite_219": {
+    "label": "WORK_OF_ART",
+    "text": "Woman\nCLAY III",
+    "jalons": [
+      34906,
+      34920
+    ]
+  },
+  "entite_220": {
+    "label": "PERSON",
+    "text": "Jonraer\ncLXXXIII",
+    "jalons": [
+      35060,
+      35076
+    ]
+  },
+  "entite_221": {
+    "label": "WORK_OF_ART",
+    "text": "The Aristoeratl Villain",
+    "jalons": [
+      35416,
+      35439
+    ]
+  },
+  "entite_222": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      35448,
+      35449
+    ]
+  },
+  "entite_223": {
+    "label": "PERSON",
+    "text": "CatherIne\nCXCVIII",
+    "jalons": [
+      35524,
+      35541
+    ]
+  },
+  "entite_224": {
+    "label": "ORG",
+    "text": "CCI",
+    "jalons": [
+      35602,
+      35605
+    ]
+  },
+  "entite_225": {
+    "label": "WORK_OF_ART",
+    "text": "C0YI,-Th Putrlelan Lady",
+    "jalons": [
+      35732,
+      35755
+    ]
+  },
+  "entite_226": {
+    "label": "WORK_OF_ART",
+    "text": "the Unfortunate Woman\nCHILD",
+    "jalons": [
+      35760,
+      35787
+    ]
+  },
+  "entite_227": {
+    "label": "WORK_OF_ART",
+    "text": "Glow Town\nCCL",
+    "jalons": [
+      35881,
+      35894
+    ]
+  },
+  "entite_228": {
+    "label": "CARDINAL",
+    "text": "40",
+    "jalons": [
+      36147,
+      36149
+    ]
+  },
+  "entite_229": {
+    "label": "PERSON",
+    "text": "Banks's HOuses",
+    "jalons": [
+      36583,
+      36597
+    ]
+  },
+  "entite_230": {
+    "label": "PERSON",
+    "text": "Vernon\ncxYYII",
+    "jalons": [
+      36806,
+      36819
+    ]
+  },
+  "entite_231": {
+    "label": "GPE",
+    "text": "Raanaworth",
+    "jalons": [
+      36831,
+      36841
+    ]
+  },
+  "entite_232": {
+    "label": "CARDINAL",
+    "text": "25",
+    "jalons": [
+      37432,
+      37434
+    ]
+  },
+  "entite_233": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      37452,
+      37453
+    ]
+  },
+  "entite_234": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      37504,
+      37505
+    ]
+  },
+  "entite_235": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      37527,
+      37528
+    ]
+  },
+  "entite_236": {
+    "label": "CARDINAL",
+    "text": "51",
+    "jalons": [
+      37529,
+      37531
+    ]
+  },
+  "entite_237": {
+    "label": "WORK_OF_ART",
+    "text": "Murkham Plses",
+    "jalons": [
+      37686,
+      37699
+    ]
+  },
+  "entite_238": {
+    "label": "CARDINAL",
+    "text": "7",
+    "jalons": [
+      37873,
+      37874
+    ]
+  },
+  "entite_239": {
+    "label": "CARDINAL",
+    "text": "5",
+    "jalons": [
+      37890,
+      37891
+    ]
+  },
+  "entite_240": {
+    "label": "CARDINAL",
+    "text": "9",
+    "jalons": [
+      37950,
+      37951
+    ]
+  },
+  "entite_241": {
+    "label": "CARDINAL",
+    "text": "23",
+    "jalons": [
+      38045,
+      38047
+    ]
+  },
+  "entite_242": {
+    "label": "CARDINAL",
+    "text": "25",
+    "jalons": [
+      38054,
+      38056
+    ]
+  },
+  "entite_243": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      38089,
+      38090
+    ]
+  },
+  "entite_244": {
+    "label": "CARDINAL",
+    "text": "20",
+    "jalons": [
+      38182,
+      38184
+    ]
+  },
+  "entite_245": {
+    "label": "CARDINAL",
+    "text": "25",
+    "jalons": [
+      38307,
+      38309
+    ]
+  },
+  "entite_246": {
+    "label": "CARDINAL",
+    "text": "23",
+    "jalons": [
+      38355,
+      38357
+    ]
+  },
+  "entite_247": {
+    "label": "PERSON",
+    "text": "Woodentoupago",
+    "jalons": [
+      38379,
+      38392
+    ]
+  },
+  "entite_248": {
+    "label": "CARDINAL",
+    "text": "291",
+    "jalons": [
+      38434,
+      38437
+    ]
+  },
+  "entite_249": {
+    "label": "PERSON",
+    "text": "Woocut",
+    "jalons": [
+      38528,
+      38534
+    ]
+  },
+  "entite_250": {
+    "label": "CARDINAL",
+    "text": "35",
+    "jalons": [
+      38543,
+      38545
+    ]
+  },
+  "entite_251": {
+    "label": "PERSON",
+    "text": "Yoaleut",
+    "jalons": [
+      38562,
+      38569
+    ]
+  },
+  "entite_252": {
+    "label": "CARDINAL",
+    "text": "7",
+    "jalons": [
+      38578,
+      38579
+    ]
+  },
+  "entite_253": {
+    "label": "WORK_OF_ART",
+    "text": "I0For '",
+    "jalons": [
+      38589,
+      38596
+    ]
+  },
+  "entite_254": {
+    "label": "WORK_OF_ART",
+    "text": "Face W'out",
+    "jalons": [
+      38635,
+      38645
+    ]
+  },
+  "entite_255": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      38688,
+      38689
+    ]
+  },
+  "entite_256": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      38699,
+      38700
+    ]
+  },
+  "entite_257": {
+    "label": "CARDINAL",
+    "text": "12",
+    "jalons": [
+      38732,
+      38734
+    ]
+  },
+  "entite_258": {
+    "label": "CARDINAL",
+    "text": "337",
+    "jalons": [
+      38754,
+      38757
+    ]
+  },
+  "entite_259": {
+    "label": "CARDINAL",
+    "text": "34",
+    "jalons": [
+      38767,
+      38769
+    ]
+  },
+  "entite_260": {
+    "label": "CARDINAL",
+    "text": "35",
+    "jalons": [
+      38820,
+      38822
+    ]
+  },
+  "entite_261": {
+    "label": "CARDINAL",
+    "text": "153",
+    "jalons": [
+      38943,
+      38946
+    ]
+  },
+  "entite_262": {
+    "label": "CARDINAL",
+    "text": "11",
+    "jalons": [
+      38954,
+      38956
+    ]
+  },
+  "entite_263": {
+    "label": "CARDINAL",
+    "text": "173",
+    "jalons": [
+      39017,
+      39020
+    ]
+  },
+  "entite_264": {
+    "label": "CARDINAL",
+    "text": "37",
+    "jalons": [
+      39068,
+      39070
+    ]
+  },
+  "entite_265": {
+    "label": "CARDINAL",
+    "text": "27",
+    "jalons": [
+      39307,
+      39309
+    ]
+  },
+  "entite_266": {
+    "label": "CARDINAL",
+    "text": "209",
+    "jalons": [
+      39395,
+      39398
+    ]
+  },
+  "entite_267": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      39923,
+      39924
+    ]
+  },
+  "entite_268": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      40039,
+      40040
+    ]
+  },
+  "entite_269": {
+    "label": "CARDINAL",
+    "text": "three",
+    "jalons": [
+      40133,
+      40138
+    ]
+  },
+  "entite_270": {
+    "label": "NORP",
+    "text": "Constisulonal",
+    "jalons": [
+      41016,
+      41029
+    ]
+  },
+  "entite_271": {
+    "label": "PERSON",
+    "text": "Markham",
+    "jalons": [
+      41302,
+      41309
+    ]
+  },
+  "entite_272": {
+    "label": "GPE",
+    "text": "Abrantani",
+    "jalons": [
+      41619,
+      41628
+    ]
+  },
+  "entite_273": {
+    "label": "CARDINAL",
+    "text": "one",
+    "jalons": [
+      44049,
+      44052
+    ]
+  },
+  "entite_274": {
+    "label": "GPE",
+    "text": "Paris",
+    "jalons": [
+      44330,
+      44335
+    ]
+  },
+  "entite_275": {
+    "label": "PERSON",
+    "text": "Mlorosiuo",
+    "jalons": [
+      44387,
+      44396
+    ]
+  },
+  "entite_276": {
+    "label": "FAC",
+    "text": "the Grand Duke",
+    "jalons": [
+      44419,
+      44433
+    ]
+  },
+  "entite_277": {
+    "label": "PERSON",
+    "text": "Richard's",
+    "jalons": [
+      44709,
+      44718
+    ]
+  },
+  "entite_278": {
+    "label": "CARDINAL",
+    "text": "hundred",
+    "jalons": [
+      45041,
+      45048
+    ]
+  },
+  "entite_279": {
+    "label": "CARDINAL",
+    "text": "two",
+    "jalons": [
+      45529,
+      45532
+    ]
+  },
+  "entite_280": {
+    "label": "PERSON",
+    "text": "Catherine",
+    "jalons": [
+      47744,
+      47753
+    ]
+  },
+  "entite_281": {
+    "label": "PERSON",
+    "text": "gIg:g",
+    "jalons": [
+      47876,
+      47881
+    ]
+  },
+  "entite_282": {
+    "label": "PERSON",
+    "text": "Catherine",
+    "jalons": [
+      48089,
+      48098
+    ]
+  },
+  "entite_283": {
+    "label": "PERSON",
+    "text": "Catherine",
+    "jalons": [
+      48896,
+      48905
+    ]
+  },
+  "entite_284": {
+    "label": "CARDINAL",
+    "text": "ten",
+    "jalons": [
+      51130,
+      51133
+    ]
+  },
+  "entite_285": {
+    "label": "PERSON",
+    "text": "Vernon",
+    "jalons": [
+      51463,
+      51469
+    ]
+  },
+  "entite_286": {
+    "label": "PERSON",
+    "text": "Vernon",
+    "jalons": [
+      51492,
+      51498
+    ]
+  },
+  "entite_287": {
+    "label": "GPE",
+    "text": "London",
+    "jalons": [
+      52525,
+      52531
+    ]
+  },
+  "entite_288": {
+    "label": "ORDINAL",
+    "text": "second",
+    "jalons": [
+      52738,
+      52744
+    ]
+  },
+  "entite_289": {
+    "label": "ORDINAL",
+    "text": "third",
+    "jalons": [
+      52850,
+      52855
+    ]
+  },
+  "entite_290": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      53118,
+      53119
+    ]
+  },
+  "entite_291": {
+    "label": "CARDINAL",
+    "text": "two",
+    "jalons": [
+      53126,
+      53129
+    ]
+  },
+  "entite_292": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      53163,
+      53164
+    ]
+  },
+  "entite_293": {
+    "label": "CARDINAL",
+    "text": "11t",
+    "jalons": [
+      53669,
+      53672
+    ]
+  },
+  "entite_294": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      53889,
+      53890
+    ]
+  },
+  "entite_295": {
+    "label": "PERSON",
+    "text": "Ding",
+    "jalons": [
+      53966,
+      53970
+    ]
+  },
+  "entite_296": {
+    "label": "PERSON",
+    "text": "Neron",
+    "jalons": [
+      54191,
+      54196
+    ]
+  },
+  "entite_297": {
+    "label": "PERSON",
+    "text": "Amirahls",
+    "jalons": [
+      54391,
+      54399
+    ]
+  },
+  "entite_298": {
+    "label": "PERSON",
+    "text": "Gilhert",
+    "jalons": [
+      54412,
+      54419
+    ]
+  },
+  "entite_299": {
+    "label": "PERSON",
+    "text": "Rtasenaswortbh",
+    "jalons": [
+      54476,
+      54490
+    ]
+  },
+  "entite_300": {
+    "label": "PERSON",
+    "text": "Vernen",
+    "jalons": [
+      54679,
+      54685
+    ]
+  },
+  "entite_301": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      55402,
+      55403
+    ]
+  },
+  "entite_302": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      55575,
+      55576
+    ]
+  },
+  "entite_303": {
+    "label": "ORDINAL",
+    "text": "first",
+    "jalons": [
+      57006,
+      57011
+    ]
+  },
+  "entite_304": {
+    "label": "PERSON",
+    "text": "Abrsiam'",
+    "jalons": [
+      57303,
+      57311
+    ]
+  },
+  "entite_305": {
+    "label": "PERSON",
+    "text": "Rensswor",
+    "jalons": [
+      57320,
+      57328
+    ]
+  },
+  "entite_306": {
+    "label": "CARDINAL",
+    "text": "Three",
+    "jalons": [
+      57442,
+      57447
+    ]
+  },
+  "entite_307": {
+    "label": "PERSON",
+    "text": "Adline",
+    "jalons": [
+      58099,
+      58105
+    ]
+  },
+  "entite_308": {
+    "label": "LANGUAGE",
+    "text": "english",
+    "jalons": [
+      58398,
+      58405
+    ]
+  },
+  "entite_309": {
+    "label": "PERSON",
+    "text": "Veruon",
+    "jalons": [
+      58458,
+      58464
+    ]
+  },
+  "entite_310": {
+    "label": "PERSON",
+    "text": "Errand",
+    "jalons": [
+      58632,
+      58638
+    ]
+  },
+  "entite_311": {
+    "label": "PERSON",
+    "text": "Lady Adcline",
+    "jalons": [
+      59179,
+      59191
+    ]
+  },
+  "entite_312": {
+    "label": "ORDINAL",
+    "text": "first",
+    "jalons": [
+      60187,
+      60192
+    ]
+  },
+  "entite_313": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      60241,
+      60242
+    ]
+  },
+  "entite_314": {
+    "label": "PERSON",
+    "text": "Kay'",
+    "jalons": [
+      60424,
+      60428
+    ]
+  },
+  "entite_315": {
+    "label": "GPE",
+    "text": "China",
+    "jalons": [
+      60773,
+      60778
+    ]
+  },
+  "entite_316": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      61196,
+      61197
+    ]
+  },
+  "entite_317": {
+    "label": "GPE",
+    "text": "CALIFORNIA",
+    "jalons": [
+      61302,
+      61312
+    ]
+  },
+  "entite_318": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      61563,
+      61564
+    ]
+  },
+  "entite_319": {
+    "label": "CARDINAL",
+    "text": "1 \n1",
+    "jalons": [
+      61590,
+      61594
+    ]
+  },
+  "entite_320": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      61600,
+      61601
+    ]
+  },
+  "entite_321": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      61612,
+      61613
+    ]
+  },
+  "entite_322": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      61652,
+      61653
+    ]
+  },
+  "entite_323": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      61694,
+      61695
+    ]
+  },
+  "entite_324": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      61698,
+      61699
+    ]
+  },
+  "entite_325": {
+    "label": "CARDINAL",
+    "text": "31",
+    "jalons": [
+      61718,
+      61720
+    ]
+  },
+  "entite_326": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      61891,
+      61892
+    ]
+  },
+  "entite_327": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      61917,
+      61918
+    ]
+  },
+  "entite_328": {
+    "label": "CARDINAL",
+    "text": "29",
+    "jalons": [
+      61925,
+      61927
+    ]
+  },
+  "entite_329": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      61951,
+      61952
+    ]
+  },
+  "entite_330": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      61971,
+      61972
+    ]
+  },
+  "entite_331": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      62018,
+      62019
+    ]
+  },
+  "entite_332": {
+    "label": "CARDINAL",
+    "text": "5",
+    "jalons": [
+      62060,
+      62061
+    ]
+  },
+  "entite_333": {
+    "label": "CARDINAL",
+    "text": "1",
+    "jalons": [
+      62063,
+      62064
+    ]
+  },
+  "entite_334": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      62084,
+      62085
+    ]
+  },
+  "entite_335": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      62107,
+      62108
+    ]
+  },
+  "entite_336": {
+    "label": "CARDINAL",
+    "text": "71",
+    "jalons": [
+      62120,
+      62122
+    ]
+  },
+  "entite_337": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      62126,
+      62127
+    ]
+  },
+  "entite_338": {
+    "label": "CARDINAL",
+    "text": "3",
+    "jalons": [
+      62128,
+      62129
+    ]
+  },
+  "entite_339": {
+    "label": "CARDINAL",
+    "text": "2",
+    "jalons": [
+      62135,
+      62136
+    ]
+  },
+  "entite_340": {
+    "label": "CARDINAL",
+    "text": "1.J",
+    "jalons": [
+      62219,
+      62222
+    ]
+  },
+  "entite_341": {
+    "label": "CARDINAL",
+    "text": "2h",
+    "jalons": [
+      62326,
+      62328
+    ]
+  }
+}

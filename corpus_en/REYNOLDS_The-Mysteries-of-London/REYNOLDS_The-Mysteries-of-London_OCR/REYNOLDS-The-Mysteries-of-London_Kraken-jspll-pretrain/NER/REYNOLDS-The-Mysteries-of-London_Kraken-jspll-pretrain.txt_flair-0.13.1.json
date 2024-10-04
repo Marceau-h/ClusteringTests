@@ -1,0 +1,1674 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Google Recherche de Livre",
+    "jalons": [
+      487,
+      512
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      415,
+      441
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      0,
+      26
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Google Recherche de Lilvres En florissant la recherche et",
+    "jalons": [
+      242,
+      299
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Google souhaite",
+    "jalons": [
+      399,
+      414
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      472,
+      498
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres permet aux integrates de decouvrir le patrimoine literature mondial",
+    "jalons": [
+      12,
+      106
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "des recherches en ligne dans le",
+    "jalons": [
+      193,
+      224
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Google",
+    "jalons": [
+      350,
+      356
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Carolina vIt.",
+    "jalons": [
+      451,
+      464
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "The Boudoir",
+    "jalons": [
+      465,
+      476
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "The Beginning of Misfortunes.  XV1I.-A Den of Horrors",
+    "jalons": [
+      167,
+      220
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Newgate XXVII",
+    "jalons": [
+      402,
+      415
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Republican",
+    "jalons": [
+      422,
+      432
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "The Dungeon. XXI.",
+    "jalons": [
+      464,
+      481
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Noemher XXI.-Explanations XXXlI.-The Ol Billy XXiII.-Another Day at the Old Bailey XXXIV.--The Lesson",
+    "jalons": [
+      6,
+      107
+    ]
+  },
+  "entite_16": {
+    "label": "ORG",
+    "text": "Whiteross Street Prison",
+    "jalons": [
+      126,
+      149
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "Te Dark House",
+    "jalons": [
+      301,
+      314
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Elia Sydney",
+    "jalons": [
+      417,
+      428
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "Dian and Elis LII.",
+    "jalons": [
+      185,
+      203
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Miiserrima2",
+    "jalons": [
+      278,
+      289
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "LI",
+    "jalons": [
+      291,
+      293
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Basing-Ksn'' ones mor LII.-The Resurrection Man's History LxIII.-The PIot LX1V.-The Cantrplot LYN",
+    "jalons": [
+      403,
+      500
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "The Wrong",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Stats LXXI.",
+    "jalons": [
+      178,
+      189
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "House of Commons",
+    "jalons": [
+      195,
+      211
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "XxiI.",
+    "jalons": [
+      213,
+      218
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Bleak Chamber",
+    "jalons": [
+      223,
+      236
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "Cont Marconi",
+    "jalons": [
+      332,
+      344
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "Black Chamber",
+    "jalons": [
+      17,
+      30
+    ]
+  },
+  "entite_30": {
+    "label": "ORG",
+    "text": "Markham's",
+    "jalons": [
+      226,
+      235
+    ]
+  },
+  "entite_31": {
+    "label": "ORG",
+    "text": "Ne Irom Castelclel XIV",
+    "jalons": [
+      290,
+      312
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "The Home Office",
+    "jalons": [
+      314,
+      329
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Roger",
+    "jalons": [
+      340,
+      345
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Ceres",
+    "jalons": [
+      397,
+      402
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Raamn",
+    "jalons": [
+      12,
+      17
+    ]
+  },
+  "entite_36": {
+    "label": "ORG",
+    "text": "Rebels Courage",
+    "jalons": [
+      82,
+      96
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Ilouse",
+    "jalons": [
+      491,
+      497
+    ]
+  },
+  "entite_38": {
+    "label": "ORG",
+    "text": "Viola",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "The Rattlesnake'as history CNVI1,-The Rattlesnake CX1I1,---The Two Maidens",
+    "jalons": [
+      85,
+      159
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "His Child?",
+    "jalons": [
+      215,
+      225
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Change of Partner XXIII",
+    "jalons": [
+      236,
+      259
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "Aristocratic Morals",
+    "jalons": [
+      261,
+      280
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Tha Argues at a Desire",
+    "jalons": [
+      287,
+      309
+    ]
+  },
+  "entite_44": {
+    "label": "MISC",
+    "text": "The Reconciliation CxXVI,--The Record of saint Did'as",
+    "jalons": [
+      317,
+      370
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "LONDON",
+    "jalons": [
+      447,
+      453
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "eeervsel Ellen",
+    "jalons": [
+      56,
+      70
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Markhn",
+    "jalons": [
+      80,
+      86
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Mulpuru",
+    "jalons": [
+      115,
+      122
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Fallen",
+    "jalons": [
+      322,
+      328
+    ]
+  },
+  "entite_50": {
+    "label": "LOC",
+    "text": "Morocco",
+    "jalons": [
+      96,
+      103
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Golenl Te",
+    "jalons": [
+      252,
+      261
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "lichen Markham",
+    "jalons": [
+      93,
+      107
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Ellen,'' Exclaimed",
+    "jalons": [
+      103,
+      121
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "lI a Letter nos",
+    "jalons": [
+      368,
+      383
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Iae At my ua oni noi",
+    "jalons": [
+      105,
+      125
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Ellen",
+    "jalons": [
+      204,
+      209
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "OhIO",
+    "jalons": [
+      355,
+      359
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Murray",
+    "jalons": [
+      11,
+      17
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Marian",
+    "jalons": [
+      42,
+      48
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Markham",
+    "jalons": [
+      197,
+      204
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Ellen",
+    "jalons": [
+      241,
+      246
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Markham",
+    "jalons": [
+      256,
+      263
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Lyle",
+    "jalons": [
+      343,
+      347
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Yu",
+    "jalons": [
+      253,
+      255
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Miss Monroe",
+    "jalons": [
+      15,
+      26
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Greenwood",
+    "jalons": [
+      129,
+      138
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Tomlinson",
+    "jalons": [
+      149,
+      158
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "da you2",
+    "jalons": [
+      160,
+      167
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "CHinese",
+    "jalons": [
+      285,
+      292
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "gReenwood",
+    "jalons": [
+      470,
+      479
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "M. Bullet",
+    "jalons": [
+      366,
+      375
+    ]
+  },
+  "entite_72": {
+    "label": "ORG",
+    "text": "Grenoble",
+    "jalons": [
+      115,
+      123
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Greenwood",
+    "jalons": [
+      57,
+      66
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Uoniasioner",
+    "jalons": [
+      159,
+      170
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "tomlinson",
+    "jalons": [
+      190,
+      199
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Conisaioer",
+    "jalons": [
+      84,
+      94
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Michael",
+    "jalons": [
+      195,
+      202
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Martin",
+    "jalons": [
+      243,
+      249
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "1orlinsnu",
+    "jalons": [
+      376,
+      385
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Tomlinson",
+    "jalons": [
+      321,
+      330
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Greenwood",
+    "jalons": [
+      17,
+      26
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Tomlin",
+    "jalons": [
+      51,
+      57
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "ilI",
+    "jalons": [
+      157,
+      160
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "ou Imsre",
+    "jalons": [
+      201,
+      209
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Clinton",
+    "jalons": [
+      238,
+      245
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "LoNDON",
+    "jalons": [
+      295,
+      301
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Let usnewtet har",
+    "jalons": [
+      313,
+      329
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Iluing",
+    "jalons": [
+      4,
+      10
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "In Park One",
+    "jalons": [
+      315,
+      326
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "SYRia Uok",
+    "jalons": [
+      366,
+      375
+    ]
+  },
+  "entite_91": {
+    "label": "MISC",
+    "text": "Who do you see",
+    "jalons": [
+      395,
+      409
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "Praise LA",
+    "jalons": [
+      416,
+      425
+    ]
+  },
+  "entite_93": {
+    "label": "MISC",
+    "text": "Ir i sl try Iii",
+    "jalons": [
+      353,
+      368
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "U DurIng every bongo",
+    "jalons": [
+      475,
+      495
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "mOrtimer",
+    "jalons": [
+      305,
+      313
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Punish Square",
+    "jalons": [
+      322,
+      335
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Iron paris",
+    "jalons": [
+      387,
+      397
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "WHat else do you see",
+    "jalons": [
+      35,
+      55
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "Mixsranss",
+    "jalons": [
+      423,
+      432
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "LoMnos",
+    "jalons": [
+      436,
+      442
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "CALIFORNIA",
+    "jalons": [
+      170,
+      180
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "SANTA CRU2",
+    "jalons": [
+      182,
+      192
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Ils sont les remains de la princess de notre histoire",
+    "jalons": [
+      171,
+      224
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      381,
+      407
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      309,
+      335
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      406,
+      432
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "Google Recherche de Lilvres En florissant la recherche et l'access",
+    "jalons": [
+      136,
+      202
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "Google souhaite",
+    "jalons": [
+      293,
+      308
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres",
+    "jalons": [
+      366,
+      392
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Google Recherche de Livres permet aux integrates de decouvrir le patrimoine",
+    "jalons": [
+      418,
+      493
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "des recherches en ligne dans le",
+    "jalons": [
+      87,
+      118
+    ]
+  },
+  "entite_112": {
+    "label": "ORG",
+    "text": "Google",
+    "jalons": [
+      244,
+      250
+    ]
+  },
+  "entite_113": {
+    "label": "ORG",
+    "text": "DIANA TAU IIIIIIII",
+    "jalons": [
+      430,
+      448
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "CLINIC",
+    "jalons": [
+      261,
+      267
+    ]
+  },
+  "entite_115": {
+    "label": "ORG",
+    "text": "Ipecrlsr LI,YI",
+    "jalons": [
+      316,
+      330
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "Caataleiealn.",
+    "jalons": [
+      6,
+      19
+    ]
+  },
+  "entite_117": {
+    "label": "ORG",
+    "text": "CI,XIII",
+    "jalons": [
+      470,
+      477
+    ]
+  },
+  "entite_118": {
+    "label": "ORG",
+    "text": "TI Tsipras",
+    "jalons": [
+      480,
+      490
+    ]
+  },
+  "entite_119": {
+    "label": "ORG",
+    "text": "IIolmstor4 VIsion",
+    "jalons": [
+      494,
+      511
+    ]
+  },
+  "entite_120": {
+    "label": "ORG",
+    "text": "Montoni I,KYI",
+    "jalons": [
+      48,
+      61
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "The Rssarreecuon Man again",
+    "jalons": [
+      218,
+      244
+    ]
+  },
+  "entite_122": {
+    "label": "ORG",
+    "text": "Estella",
+    "jalons": [
+      311,
+      318
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "BlIss CLAY VIII.-The Battles of Placere",
+    "jalons": [
+      391,
+      430
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "Ta Royal BreakIng CYC,--The Aristocrats Villain",
+    "jalons": [
+      92,
+      139
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "ELlen",
+    "jalons": [
+      215,
+      220
+    ]
+  },
+  "entite_126": {
+    "label": "MISC",
+    "text": "Tho Orphan' fill se CC,-A aden' Loa",
+    "jalons": [
+      266,
+      301
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "Th Putrlelan Lady",
+    "jalons": [
+      440,
+      457
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Tho Resurrection Man'a House",
+    "jalons": [
+      39,
+      67
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Tomlinson",
+    "jalons": [
+      97,
+      106
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "Ruins CCVI.-The Progress of des IIuehason's Vengsesuese",
+    "jalons": [
+      4,
+      59
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "CEcIL--The Prisoner In the subterranean gYYIIL.-The vale Ilo CITY.-Th Murder- CRY.-The Feet of the Orleans These CCXI",
+    "jalons": [
+      61,
+      178
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "England",
+    "jalons": [
+      193,
+      200
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "The MarquIs of IIolmafor4 ccxxYII,-Columba Flee' Puts CCYYIII.",
+    "jalons": [
+      329,
+      391
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Bohlem Hospital",
+    "jalons": [
+      441,
+      456
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Vernon",
+    "jalons": [
+      485,
+      491
+    ]
+  },
+  "entite_136": {
+    "label": "ORG",
+    "text": "Raa",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_137": {
+    "label": "ORG",
+    "text": "Tuo Prt",
+    "jalons": [
+      366,
+      373
+    ]
+  },
+  "entite_138": {
+    "label": "ORG",
+    "text": "Rarantswarth Ilall.",
+    "jalons": [
+      377,
+      396
+    ]
+  },
+  "entite_139": {
+    "label": "ORG",
+    "text": "Tho Strange",
+    "jalons": [
+      405,
+      416
+    ]
+  },
+  "entite_140": {
+    "label": "ORG",
+    "text": "CCXLVIII.",
+    "jalons": [
+      442,
+      451
+    ]
+  },
+  "entite_141": {
+    "label": "ORG",
+    "text": "Egerton",
+    "jalons": [
+      30,
+      37
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Gihbet",
+    "jalons": [
+      335,
+      341
+    ]
+  },
+  "entite_143": {
+    "label": "ORG",
+    "text": "Markham Poses CALVI",
+    "jalons": [
+      345,
+      364
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Congolese",
+    "jalons": [
+      463,
+      472
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Osorno",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Uansttnu",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "Constisulonal anne",
+    "jalons": [
+      116,
+      134
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Irene",
+    "jalons": [
+      274,
+      279
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Markham",
+    "jalons": [
+      403,
+      410
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Abrantani",
+    "jalons": [
+      203,
+      212
+    ]
+  },
+  "entite_151": {
+    "label": "ORG",
+    "text": "La Cnstitutualists",
+    "jalons": [
+      24,
+      42
+    ]
+  },
+  "entite_152": {
+    "label": "LOC",
+    "text": "Markham",
+    "jalons": [
+      276,
+      283
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "Sore",
+    "jalons": [
+      383,
+      387
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "Nungeaneafar tio",
+    "jalons": [
+      424,
+      440
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "isena",
+    "jalons": [
+      0,
+      5
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "olney Morosino",
+    "jalons": [
+      81,
+      95
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "Abrantall",
+    "jalons": [
+      278,
+      287
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Colonial Mlorosiuo",
+    "jalons": [
+      416,
+      434
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Grand Duke",
+    "jalons": [
+      461,
+      471
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "MIy Irinds",
+    "jalons": [
+      473,
+      483
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Ireland",
+    "jalons": [
+      242,
+      249
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "Markham",
+    "jalons": [
+      319,
+      326
+    ]
+  },
+  "entite_163": {
+    "label": "MISC",
+    "text": "american",
+    "jalons": [
+      341,
+      349
+    ]
+  },
+  "entite_164": {
+    "label": "MISC",
+    "text": "loKI   In h ITIIn",
+    "jalons": [
+      132,
+      149
+    ]
+  },
+  "entite_165": {
+    "label": "MISC",
+    "text": "Wilmot",
+    "jalons": [
+      27,
+      33
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "nAto",
+    "jalons": [
+      351,
+      355
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "Kate",
+    "jalons": [
+      266,
+      270
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Catherine",
+    "jalons": [
+      340,
+      349
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "nI",
+    "jalons": [
+      80,
+      82
+    ]
+  },
+  "entite_170": {
+    "label": "ORG",
+    "text": "consirLlC Inc",
+    "jalons": [
+      275,
+      288
+    ]
+  },
+  "entite_171": {
+    "label": "MISC",
+    "text": "Silica",
+    "jalons": [
+      107,
+      113
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Yau",
+    "jalons": [
+      198,
+      201
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "uber Vernon",
+    "jalons": [
+      348,
+      359
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Vernon",
+    "jalons": [
+      381,
+      387
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "Talking, impai",
+    "jalons": [
+      498,
+      512
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Tikrit",
+    "jalons": [
+      78,
+      84
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "Andes",
+    "jalons": [
+      59,
+      64
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Raenswarth lall",
+    "jalons": [
+      272,
+      287
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "London",
+    "jalons": [
+      393,
+      399
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Ilala",
+    "jalons": [
+      435,
+      440
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Bayern",
+    "jalons": [
+      26,
+      32
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Vernon",
+    "jalons": [
+      331,
+      337
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Indians",
+    "jalons": [
+      145,
+      152
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Ding kind of Life",
+    "jalons": [
+      283,
+      300
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "Yraon he 1",
+    "jalons": [
+      393,
+      403
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "nsa Nero",
+    "jalons": [
+      503,
+      511
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Gilbert",
+    "jalons": [
+      218,
+      225
+    ]
+  },
+  "entite_188": {
+    "label": "MISC",
+    "text": "Iis",
+    "jalons": [
+      236,
+      239
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Rtasenaswortbh",
+    "jalons": [
+      282,
+      296
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "cpi Vernon",
+    "jalons": [
+      480,
+      490
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "Interrupted Indians:]",
+    "jalons": [
+      277,
+      298
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "andI'Island",
+    "jalons": [
+      362,
+      373
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Afar",
+    "jalons": [
+      375,
+      379
+    ]
+  },
+  "entite_194": {
+    "label": "MISC",
+    "text": "Ilsurrrtion Mla",
+    "jalons": [
+      463,
+      478
+    ]
+  },
+  "entite_195": {
+    "label": "LOC",
+    "text": "Ilall",
+    "jalons": [
+      61,
+      66
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Iirom",
+    "jalons": [
+      49,
+      54
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Abraham",
+    "jalons": [
+      34,
+      41
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "The Old ma",
+    "jalons": [
+      502,
+      512
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Aline",
+    "jalons": [
+      218,
+      223
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Abrala",
+    "jalons": [
+      41,
+      47
+    ]
+  },
+  "entite_201": {
+    "label": "MISC",
+    "text": "Rarans",
+    "jalons": [
+      339,
+      345
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Lydia liuichinson",
+    "jalons": [
+      74,
+      91
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Lady Adcline",
+    "jalons": [
+      367,
+      379
+    ]
+  },
+  "entite_204": {
+    "label": "MISC",
+    "text": "Los me",
+    "jalons": [
+      341,
+      347
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "China",
+    "jalons": [
+      421,
+      426
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Lu me'''",
+    "jalons": [
+      68,
+      76
+    ]
+  },
+  "entite_207": {
+    "label": "ORG",
+    "text": "UNIVERSITY OF CALIFORNIA",
+    "jalons": [
+      427,
+      451
+    ]
+  },
+  "entite_208": {
+    "label": "MISC",
+    "text": "Lee",
+    "jalons": [
+      59,
+      62
+    ]
+  }
+}

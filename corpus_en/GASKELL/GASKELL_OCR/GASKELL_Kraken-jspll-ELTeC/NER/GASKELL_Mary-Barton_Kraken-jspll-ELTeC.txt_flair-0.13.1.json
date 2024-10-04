@@ -1,0 +1,2098 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "Golden",
+    "jalons": [
+      124,
+      130
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Marks",
+    "jalons": [
+      97,
+      102
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "Golden",
+    "jalons": [
+      298,
+      304
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "Golden Book Search",
+    "jalons": [
+      253,
+      271
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "George",
+    "jalons": [
+      454,
+      460
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Golden Book Search",
+    "jalons": [
+      394,
+      412
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "United Stated",
+    "jalons": [
+      134,
+      147
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Golden Book Search",
+    "jalons": [
+      429,
+      447
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Copyri",
+    "jalons": [
+      506,
+      512
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Golden Book Search George",
+    "jalons": [
+      54,
+      79
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "Golden Book Search",
+    "jalons": [
+      179,
+      197
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Weald Figure Li amP",
+    "jalons": [
+      399,
+      418
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "Paleness",
+    "jalons": [
+      372,
+      380
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "en  Du , en  It",
+    "jalons": [
+      474,
+      489
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "Barn glhlge Creature",
+    "jalons": [
+      109,
+      129
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "manchester",
+    "jalons": [
+      431,
+      441
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Green Hers Fields",
+    "jalons": [
+      478,
+      495
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "watSon Barton.",
+    "jalons": [
+      82,
+      96
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "Alice",
+    "jalons": [
+      463,
+      468
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Do you kn",
+    "jalons": [
+      503,
+      512
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Lancashire",
+    "jalons": [
+      44,
+      54
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Lancashire",
+    "jalons": [
+      90,
+      100
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Od Billy o",
+    "jalons": [
+      372,
+      382
+    ]
+  },
+  "entite_23": {
+    "label": "PER",
+    "text": "Gates",
+    "jalons": [
+      23,
+      28
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      459,
+      465
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Wall",
+    "jalons": [
+      308,
+      312
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Wilsaon",
+    "jalons": [
+      314,
+      321
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Davenport",
+    "jalons": [
+      369,
+      378
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Davenport",
+    "jalons": [
+      463,
+      472
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Davenport",
+    "jalons": [
+      475,
+      484
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Fever Wards",
+    "jalons": [
+      240,
+      251
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Vision",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Davenport",
+    "jalons": [
+      64,
+      73
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Barton",
+    "jalons": [
+      161,
+      167
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "WiIlson",
+    "jalons": [
+      172,
+      179
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      401,
+      405
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      481,
+      486
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      45,
+      49
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      188,
+      192
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      291,
+      295
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Sal",
+    "jalons": [
+      509,
+      512
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "I'I1",
+    "jalons": [
+      47,
+      51
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      176,
+      180
+    ]
+  },
+  "entite_43": {
+    "label": "PER",
+    "text": "Mercy",
+    "jalons": [
+      323,
+      328
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Sallyl",
+    "jalons": [
+      467,
+      473
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "Margaret Jenkins",
+    "jalons": [
+      482,
+      498
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Mlargaret",
+    "jalons": [
+      20,
+      29
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      47,
+      51
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Job Legs",
+    "jalons": [
+      63,
+      71
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      228,
+      232
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      241,
+      246
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "ThrIlling all The heartriags",
+    "jalons": [
+      441,
+      469
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Clung",
+    "jalons": [
+      479,
+      484
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Margaret",
+    "jalons": [
+      333,
+      341
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Mechanics'",
+    "jalons": [
+      492,
+      502
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      175,
+      179
+    ]
+  },
+  "entite_56": {
+    "label": "MISC",
+    "text": "A lie of selF-denial",
+    "jalons": [
+      468,
+      488
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "CTL  TE LaDIES",
+    "jalons": [
+      299,
+      313
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      266,
+      270
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      73,
+      77
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      186,
+      190
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      478,
+      482
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Miss Sum",
+    "jalons": [
+      504,
+      512
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Conqueror",
+    "jalons": [
+      445,
+      454
+    ]
+  },
+  "entite_64": {
+    "label": "MISC",
+    "text": "Pale HOrse",
+    "jalons": [
+      462,
+      472
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Mar",
+    "jalons": [
+      135,
+      138
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      354,
+      358
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Amenl",
+    "jalons": [
+      407,
+      412
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Barton",
+    "jalons": [
+      420,
+      426
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Job",
+    "jalons": [
+      15,
+      18
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      106,
+      110
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Afford",
+    "jalons": [
+      290,
+      296
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      490,
+      494
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      259,
+      263
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Hae",
+    "jalons": [
+      295,
+      298
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "Live",
+    "jalons": [
+      430,
+      434
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Mary7 Tell me.",
+    "jalons": [
+      134,
+      148
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Treil d Creed",
+    "jalons": [
+      48,
+      61
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "English",
+    "jalons": [
+      116,
+      123
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Sully",
+    "jalons": [
+      497,
+      502
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Gardens'",
+    "jalons": [
+      20,
+      28
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Sally2",
+    "jalons": [
+      95,
+      101
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      171,
+      175
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      324,
+      329
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Why I",
+    "jalons": [
+      73,
+      78
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "Manchester",
+    "jalons": [
+      472,
+      482
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      158,
+      163
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      375,
+      380
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      6,
+      10
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      260,
+      264
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Margsrat",
+    "jalons": [
+      161,
+      169
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Margaret",
+    "jalons": [
+      171,
+      179
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Mnrgaret",
+    "jalons": [
+      381,
+      389
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Blesayoul",
+    "jalons": [
+      391,
+      400
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "I'i",
+    "jalons": [
+      489,
+      492
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Margsrat",
+    "jalons": [
+      82,
+      90
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Bolton",
+    "jalons": [
+      217,
+      223
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Bury",
+    "jalons": [
+      229,
+      233
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "HInlifax",
+    "jalons": [
+      252,
+      260
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "mAry",
+    "jalons": [
+      271,
+      275
+    ]
+  },
+  "entite_100": {
+    "label": "PER",
+    "text": "Margaret",
+    "jalons": [
+      374,
+      382
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Em Milton",
+    "jalons": [
+      401,
+      410
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Hlalifix",
+    "jalons": [
+      490,
+      498
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Mary",
+    "jalons": [
+      500,
+      504
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Na",
+    "jalons": [
+      509,
+      511
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Halifax",
+    "jalons": [
+      40,
+      47
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Antipodes",
+    "jalons": [
+      85,
+      94
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      398,
+      402
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "herheart",
+    "jalons": [
+      407,
+      415
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Leigh",
+    "jalons": [
+      5,
+      10
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Oh'a Nal My aunt Jane",
+    "jalons": [
+      456,
+      477
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "In?",
+    "jalons": [
+      158,
+      161
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Hamlin",
+    "jalons": [
+      273,
+      279
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      296,
+      300
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Ilis",
+    "jalons": [
+      369,
+      373
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "A nEighbour Go",
+    "jalons": [
+      440,
+      454
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Far ll en",
+    "jalons": [
+      223,
+      232
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Manchester New Bailey",
+    "jalons": [
+      317,
+      338
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Esther",
+    "jalons": [
+      73,
+      79
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "ContaIn HIm",
+    "jalons": [
+      17,
+      28
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "Missing'' I'I",
+    "jalons": [
+      146,
+      159
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      160,
+      167
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Jems",
+    "jalons": [
+      97,
+      101
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Missis",
+    "jalons": [
+      180,
+      186
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      356,
+      363
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "My Them",
+    "jalons": [
+      494,
+      501
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "lLucifer",
+    "jalons": [
+      95,
+      103
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Mary arton",
+    "jalons": [
+      277,
+      287
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "mAry Bartonl",
+    "jalons": [
+      322,
+      334
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Hereupon",
+    "jalons": [
+      245,
+      253
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      504,
+      508
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      460,
+      464
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      126,
+      128
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "Iridgenorth",
+    "jalons": [
+      130,
+      141
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Davanport",
+    "jalons": [
+      79,
+      88
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      183,
+      187
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      230,
+      236
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      352,
+      356
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "Alice",
+    "jalons": [
+      425,
+      430
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      173,
+      179
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      19,
+      23
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      75,
+      81
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Liverpool",
+    "jalons": [
+      169,
+      178
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      466,
+      470
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "Liveraaol",
+    "jalons": [
+      22,
+      31
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Liverpaol",
+    "jalons": [
+      89,
+      98
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Alice",
+    "jalons": [
+      232,
+      237
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      7,
+      11
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      181,
+      187
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "wAll",
+    "jalons": [
+      369,
+      373
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "A'well",
+    "jalons": [
+      457,
+      463
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "Don't go",
+    "jalons": [
+      21,
+      29
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Nay",
+    "jalons": [
+      335,
+      338
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "Mary Barton",
+    "jalons": [
+      441,
+      452
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      223,
+      227
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "CHAPTER XII",
+    "jalons": [
+      150,
+      161
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "russian",
+    "jalons": [
+      192,
+      199
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "God",
+    "jalons": [
+      237,
+      240
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Ihal",
+    "jalons": [
+      382,
+      386
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "IJem Newson",
+    "jalons": [
+      41,
+      52
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Bob With",
+    "jalons": [
+      23,
+      31
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "RBen Stories",
+    "jalons": [
+      33,
+      45
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Charl Ones",
+    "jalons": [
+      95,
+      105
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Job Leigh",
+    "jalons": [
+      107,
+      116
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Vision",
+    "jalons": [
+      165,
+      171
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "MAry",
+    "jalons": [
+      301,
+      305
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Me",
+    "jalons": [
+      391,
+      393
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "Newson",
+    "jalons": [
+      395,
+      401
+    ]
+  },
+  "entite_168": {
+    "label": "PER",
+    "text": "Job",
+    "jalons": [
+      124,
+      127
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Bridgenorth",
+    "jalons": [
+      188,
+      199
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Sullenly",
+    "jalons": [
+      89,
+      97
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Ilut",
+    "jalons": [
+      412,
+      416
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "LIon Nay",
+    "jalons": [
+      334,
+      342
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      224,
+      228
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Iaem",
+    "jalons": [
+      344,
+      348
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "hMnry",
+    "jalons": [
+      301,
+      306
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Hard Round",
+    "jalons": [
+      320,
+      330
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "john Barton",
+    "jalons": [
+      455,
+      466
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "John ha",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Caress",
+    "jalons": [
+      122,
+      128
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Brown",
+    "jalons": [
+      254,
+      259
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Sally",
+    "jalons": [
+      12,
+      17
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      342,
+      349
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Miss Summons",
+    "jalons": [
+      79,
+      91
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      158,
+      162
+    ]
+  },
+  "entite_185": {
+    "label": "MISC",
+    "text": "Tell em Newson",
+    "jalons": [
+      74,
+      88
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Sally Lend",
+    "jalons": [
+      173,
+      183
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "elle RusilIl",
+    "jalons": [
+      318,
+      330
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "WI II",
+    "jalons": [
+      504,
+      509
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      92,
+      96
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Darling",
+    "jalons": [
+      489,
+      496
+    ]
+  },
+  "entite_191": {
+    "label": "ORG",
+    "text": "Duncombe's",
+    "jalons": [
+      61,
+      71
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      176,
+      180
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Duneombe",
+    "jalons": [
+      153,
+      161
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Manchester",
+    "jalons": [
+      209,
+      219
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      279,
+      283
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      499,
+      503
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "MAnchester",
+    "jalons": [
+      16,
+      26
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Manchester",
+    "jalons": [
+      180,
+      190
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "Canada",
+    "jalons": [
+      245,
+      251
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "Canvas",
+    "jalons": [
+      333,
+      339
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      11,
+      15
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "hamlin",
+    "jalons": [
+      83,
+      89
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      150,
+      154
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Miry",
+    "jalons": [
+      230,
+      234
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Jane Newson",
+    "jalons": [
+      264,
+      275
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Bob Leigh",
+    "jalons": [
+      161,
+      170
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      365,
+      369
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Em",
+    "jalons": [
+      374,
+      376
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Reason",
+    "jalons": [
+      485,
+      491
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "John Bartan",
+    "jalons": [
+      479,
+      490
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "John hBarton",
+    "jalons": [
+      197,
+      209
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "Bi",
+    "jalons": [
+      472,
+      474
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Life To sateh n Life us I 've",
+    "jalons": [
+      123,
+      152
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "God",
+    "jalons": [
+      426,
+      429
+    ]
+  },
+  "entite_215": {
+    "label": "PER",
+    "text": "God",
+    "jalons": [
+      329,
+      332
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      118,
+      122
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "Where's em Newson2' Em",
+    "jalons": [
+      249,
+      271
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Burton",
+    "jalons": [
+      289,
+      295
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      103,
+      107
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      194,
+      201
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      101,
+      105
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Casons'",
+    "jalons": [
+      154,
+      161
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "John",
+    "jalons": [
+      429,
+      433
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      483,
+      487
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Life",
+    "jalons": [
+      164,
+      168
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Job Legs",
+    "jalons": [
+      401,
+      409
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "John",
+    "jalons": [
+      30,
+      34
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      155,
+      162
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Idol",
+    "jalons": [
+      488,
+      492
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Job Leigh",
+    "jalons": [
+      88,
+      97
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Job Leigh",
+    "jalons": [
+      150,
+      159
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "God",
+    "jalons": [
+      161,
+      164
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "8girl",
+    "jalons": [
+      184,
+      189
+    ]
+  },
+  "entite_234": {
+    "label": "PER",
+    "text": "Across'",
+    "jalons": [
+      238,
+      245
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Rarton",
+    "jalons": [
+      62,
+      68
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      347,
+      354
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Barton",
+    "jalons": [
+      377,
+      383
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "W'hen Mr. Curious",
+    "jalons": [
+      234,
+      251
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Gray",
+    "jalons": [
+      79,
+      83
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Person",
+    "jalons": [
+      287,
+      293
+    ]
+  },
+  "entite_241": {
+    "label": "PER",
+    "text": "Lady",
+    "jalons": [
+      321,
+      325
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Carsons",
+    "jalons": [
+      378,
+      385
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "Across'",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "John",
+    "jalons": [
+      126,
+      130
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "John",
+    "jalons": [
+      148,
+      152
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Elizabeth Carsons",
+    "jalons": [
+      158,
+      175
+    ]
+  },
+  "entite_247": {
+    "label": "MISC",
+    "text": "English",
+    "jalons": [
+      55,
+      62
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      247,
+      251
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "do you What do you say",
+    "jalons": [
+      274,
+      296
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Jane Watson",
+    "jalons": [
+      307,
+      318
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Margsret",
+    "jalons": [
+      346,
+      354
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      471,
+      475
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Do you guess, Ma?",
+    "jalons": [
+      157,
+      174
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Margaret",
+    "jalons": [
+      203,
+      211
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Oh Leigh",
+    "jalons": [
+      430,
+      438
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Cry",
+    "jalons": [
+      477,
+      480
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "Canadian",
+    "jalons": [
+      73,
+      81
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Will",
+    "jalons": [
+      91,
+      95
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Dear Job Leigh",
+    "jalons": [
+      159,
+      173
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Mary",
+    "jalons": [
+      181,
+      185
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "CALIFORNIA",
+    "jalons": [
+      257,
+      267
+    ]
+  }
+}
