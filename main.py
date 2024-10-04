@@ -90,4 +90,4 @@ def main(path: Path, lang='fr') -> None:
 
 
 if __name__ == "__main__":
-    main(Path("corpus_por"), "pt")
+    main(Path("corpus_pt"), "pt")
