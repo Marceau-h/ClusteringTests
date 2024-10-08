@@ -33,6 +33,8 @@ def nerMin(text, model='sm', lang='fr'):
         else:
             nlp = nlp_en
 
+    nlp.max_length = 1_000_000_000
+
     doc = nlp(text)
     return {ent.text.strip() for ent in doc.ents if ent.label_ in ['LOC']}
 
