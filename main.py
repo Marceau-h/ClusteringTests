@@ -32,6 +32,7 @@ cluster_methods = {
     "Optics": cluster_optics,
     }
 
+
 def numpyToPythonType(obj):
     if isinstance(obj, np.integer):
         return int(obj)
@@ -58,6 +59,16 @@ def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
 
 
 def do_1_text(path: Path, lang='fr') -> None:
+    error_file = path.parent / f"{path.stem}_error.txt"
+    if error_file.exists():
+        print(f"Skipping {path} because of previous error")
+        return
+
+    result_files = list(path.parent.glob(f"{path.stem}_*.json"))
+    if len(result_files) == len(cluster_methods) * 2:
+        print(f"Skipping {path} because all results are already present")
+        return
+
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
     try:
