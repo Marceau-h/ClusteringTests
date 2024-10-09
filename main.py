@@ -7,6 +7,7 @@ import numpy as np
 from tqdm.auto import tqdm
 
 from nerMin import nerMin
+from errors import SmolBoi, BigBoi
 
 from ClusterDefault import cluster as cluster_default
 from ClusterAffpropHyperparams import cluster as cluster_affprop_hyperparams
@@ -59,9 +60,14 @@ def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
 def do_1_text(path: Path, lang='fr') -> None:
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
+    try:
+        entities_sm = nerMin(text=text, model="sm", lang=lang, enforce_nlp_length=True)
+        entities_lg = nerMin(text=text, model="lg", lang=lang, enforce_nlp_length=True)
+    except (BigBoi, SmolBoi) as e:
+        print(f"Error for {path}: {e}")
+        error_file.touch()
+        return
 
-    entities_sm = nerMin(text, "sm", lang)
-    entities_lg = nerMin(text, "lg", lang)
     entities = list(entities_sm | entities_lg)
 
     for name, cluster_method in cluster_methods.items():
