@@ -8,6 +8,8 @@ from sklearn.decomposition import TruncatedSVD as SVD
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_distances
 
+from errors import SmolBoi
+
 cols_to_keep = ['text', 'cluster']
 
 
@@ -35,7 +37,11 @@ def cluster(docs: List[str]) -> dict:
     :return: The clusters
     """
     V = CountVectorizer(ngram_range=(3, 4), analyzer='char', min_df=3)
-    X = V.fit_transform(docs).toarray()
+    try:
+        X = V.fit_transform(docs).toarray()
+    except ValueError:
+        raise SmolBoi("Not enough data to cluster")
+
     X_dist = cosine_distances(X)
 
     svd = SVD(n_components=2)
