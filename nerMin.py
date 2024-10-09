@@ -2,41 +2,80 @@ import json
 
 import spacy
 
-nlp_sm = spacy.load('fr_core_news_sm')
-nlp_lg = spacy.load('fr_core_news_lg')
-nlp_por_sm = spacy.load('pt_core_news_sm')
-nlp_por_lg = spacy.load('pt_core_news_lg')
-nlp_en_sm = spacy.load('en_core_web_sm')
-nlp_en = spacy.load('en_core_web_lg')
+from errors import BigBoi
 
+# nlp_sm = spacy.load('fr_core_news_sm')
+# nlp_lg = spacy.load('fr_core_news_lg')
+# nlp_por_sm = spacy.load('pt_core_news_sm')
+# nlp_por_lg = spacy.load('pt_core_news_lg')
+# nlp_en_sm = spacy.load('en_core_web_sm')
+# nlp_en = spacy.load('en_core_web_lg')
 
-def nerMin(text, model='sm', lang='fr'):
+nlp_models = {
+    'fr': {
+        'sm': "fr_core_news_sm",
+        'lg': "fr_core_news_lg"
+    },
+    'pt': {
+        'sm': "pt_core_news_sm",
+        'lg': "pt_core_news_lg"
+    },
+    'en': {
+        'sm': "en_core_web_sm",
+        'lg': "en_core_web_lg"
+    }
+}
+
+DEFAULT_NLP_MAX_LENGTH = 1_000_000
+TRESHOLD_NLP_MAX_LENGTH = 5_000_000_000
+
+def nerMin(
+        text:str,
+        model:str='sm',
+        lang:str='fr',
+        enforce_nlp_length:bool=False,
+        nlp_max_length:int=DEFAULT_NLP_MAX_LENGTH,
+        treshold:int=TRESHOLD_NLP_MAX_LENGTH,
+):
     """
     Extract named entities from a text
     :param text: The text to analyze
     :param model: The model to use (sm or lg)
+    :param lang: The language of the text (fr, pt or en)
+    :param enforce_nlp_length: Whether to enforce the NLP length limit (recursive call doubling the max_length each time)
     :return: The named entities found
     """
-    if lang == 'fr':
-        if model == 'sm':
-            nlp = nlp_sm
-        else:
-            nlp = nlp_lg
-    elif lang == 'pt':
-        if model == 'sm':
-            nlp = nlp_por_sm
-        else:
-            nlp = nlp_por_lg
-    else:
-        if model == 'sm':
-            nlp = nlp_en_sm
-        else:
-            nlp = nlp_en
+    # if lang == 'fr':
+    #     if model == 'sm':
+    #         nlp = nlp_sm
+    #     else:
+    #         nlp = nlp_lg
+    # elif lang == 'pt':
+    #     if model == 'sm':
+    #         nlp = nlp_por_sm
+    #     else:
+    #         nlp = nlp_por_lg
+    # else:
+    #     if model == 'sm':
+    #         nlp = nlp_en_sm
+    #     else:
+    #         nlp = nlp_en
+    nlp = spacy.load(nlp_models[lang][model])
 
-    nlp.max_length = 1_000_000_000
+    if DEFAULT_NLP_MAX_LENGTH != nlp_max_length:
+        if nlp_max_length > treshold:
+            raise BigBoi(f"Text is too long: {nlp_max_length} > {treshold}")
+        nlp.max_length = nlp_max_length
 
-    doc = nlp(text)
-    return {ent.text.strip() for ent in doc.ents if ent.label_ in ['LOC']}
+    try:
+        doc = nlp(text)
+        return {ent.text.strip() for ent in doc.ents if ent.label_ in ['LOC']}
+    except ValueError as e:
+        if enforce_nlp_length:
+            print(f"Retrying with max_length = {nlp_max_length * 2:_} for {text[:100]}")
+            return nerMin(text, model, lang, True, nlp_max_length * 2)
+        else:
+            raise BigBoi(f"Text is too long: {e}")
 
 
 if __name__ == "__main__":
