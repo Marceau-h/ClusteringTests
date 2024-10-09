@@ -55,7 +55,7 @@ def cluster(docs: List[str]) -> dict:
                     "y_pos": X_dist_svd[i][1],
                     "cluster": cluster_id,
                     "centroid": centroid,
-                    "is_centroid": dbscan.core_sample_indices_[cluster_id] == i
+                    "is_centroid": dbscan.core_sample_indices_[cluster_id] == i if cluster_id != -1 else False
                 }
             )
 
