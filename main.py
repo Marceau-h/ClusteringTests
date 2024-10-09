@@ -145,6 +145,23 @@ def main(path: Path, lang:str='fr', resume:bool=True) -> None:
     else:
         raise ValueError(f"{path} is not a file or a directory")
 
+def reset_errors(path: Path) -> None:
+    if path.is_dir():
+        files = list(recursive_find_docs(path))
+        for file in files:
+            error_file = file.parent / f"{file.stem}_error.txt"
+            if error_file.exists():
+                error_file.unlink()
+
+    elif path.is_file():
+        error_file = path.parent / f"{path.stem}_error.txt"
+        if error_file.exists():
+            error_file.unlink()
+
+    else:
+        raise ValueError(f"{path} is not a file or a directory")
 
 if __name__ == "__main__":
-    main(Path("corpus_en"), "en")
+    corpus = Path("corpus_en")
+    # reset_errors(corpus)
+    main(corpus, "en", True)
