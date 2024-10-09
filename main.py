@@ -58,16 +58,17 @@ def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
             yield p
 
 
-def do_1_text(path: Path, lang='fr') -> None:
+def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
     error_file = path.parent / f"{path.stem}_error.txt"
-    if error_file.exists():
-        print(f"Skipping {path} because of previous error")
-        return
+    if resume:
+        if error_file.exists():
+            print(f"Skipping {path} because of previous error")
+            return
 
-    result_files = list(path.parent.glob(f"{path.stem}_*.json"))
-    if len(result_files) == len(cluster_methods) * 2:
-        print(f"Skipping {path} because all results are already present")
-        return
+        result_files = list(path.parent.glob(f"{path.stem}_*.json"))
+        if len(result_files) == len(cluster_methods) * 2:
+            print(f"Skipping {path} because all results are already present")
+            return
 
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
@@ -92,17 +93,54 @@ def do_1_text(path: Path, lang='fr') -> None:
         dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
         dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
 
+def do_1_text_constructor(resume:bool=True):
+    def do_1_text(path: Path, lang:str='fr') -> None:
+        error_file = path.parent / f"{path.stem}_error.txt"
+        if resume:
+            if error_file.exists():
+                print(f"Skipping {path} because of previous error")
+                return
 
-def main(path: Path, lang='fr') -> None:
+            result_files = list(path.parent.glob(f"{path.stem}_*.json"))
+            if len(result_files) == len(cluster_methods) * 2:
+                print(f"Skipping {path} because all results are already present")
+                return
+
+        with path.open("r", encoding="utf-8") as f:
+            text = f.read()
+        try:
+            entities_sm = nerMin(text=text, model="sm", lang=lang, enforce_nlp_length=True)
+            entities_lg = nerMin(text=text, model="lg", lang=lang, enforce_nlp_length=True)
+        except (BigBoi, SmolBoi) as e:
+            print(f"Error for {path}: {e}")
+            error_file.touch()
+            return
+
+        entities = list(entities_sm | entities_lg)
+
+        for name, cluster_method in cluster_methods.items():
+            points, clusters, dp, dpc = cluster_method(entities)
+            with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
+                json.dump(points, f, ensure_ascii=False, default=numpyToPythonType)
+            with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
+                json.dump(clusters, f, ensure_ascii=False, default=numpyToPythonType)
+
+            dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
+            dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
+            dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
+    return do_1_text
+
+def main(path: Path, lang:str='fr', resume:bool=True) -> None:
     if path.is_dir():
         files = list(recursive_find_docs(path))
+        # do_1_text = do_1_text_constructor(resume)
         # with ThreadPoolExecutor(4) as executor:
         #     list(tqdm(executor.map(do_1_text, files), total=len(files)))
         for file in tqdm(files):
-            do_1_text(file, lang)
+            do_1_text(file, lang, resume)
 
     elif path.is_file():
-        do_1_text(path, lang)
+        do_1_text(path, lang, resume)
 
     else:
         raise ValueError(f"{path} is not a file or a directory")
