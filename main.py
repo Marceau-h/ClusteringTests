@@ -79,8 +79,10 @@ def do_1_text(path: Path, lang='fr') -> None:
 def main(path: Path, lang='fr') -> None:
     if path.is_dir():
         files = list(recursive_find_docs(path))
-        with ThreadPoolExecutor(4) as executor:
-            list(tqdm(executor.map(do_1_text, files), total=len(files)))
+        # with ThreadPoolExecutor(4) as executor:
+        #     list(tqdm(executor.map(do_1_text, files), total=len(files)))
+        for file in tqdm(files):
+            do_1_text(file, lang)
 
     elif path.is_file():
         do_1_text(path, lang)
