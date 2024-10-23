@@ -46,7 +46,7 @@ pour—;13.0;13.0
 assezlourd;13.0;13.0
 parfaite—;14.0;14.0
 Parfaitement;14.0;14.0
-subite—;14.0;?
+subite—;14.0;14.0
 Faites;14.0;14.0
 Pompadour;15.0;15.0
 Compagnon;15.0;15.0
@@ -115,16 +115,16 @@ soyez sage;30.0;30.0
 Essayez;30.0;30.0
 Soyez;30.0;30.0
 voyez—;30.0;30.0
-Vert de gris;31.0;?
-Luz s’aperçut de l’;31.0;?
-Ils s’;31.0;?
-Luz l’;31.0;?
+Vert de gris;31.0;31.0
+Luz s’aperçut de l’;31.0;31.0
+Ils s’;31.0;31.0
+Luz l’;31.0;31.0
 Apaches;32.0;32.0
 détache—;32.0;32.0
 machete;32.0;32.0
 Caché;32.0;32.0
 Apac;32.0;32.0
-insou—;33.0;?
+insou—;33.0;33.0
 Quisis;33.0;33.0
 coquins;33.0;33.0
 acquiesce—;33.0;33.0
@@ -170,7 +170,7 @@ fréquen—;43.0;43.0
 l’ai oirun i;44.0;44.0
 J ’ai;44.0;44.0
 j’ai l’;44.0;44.0
-ténèbres l’;44.0;?
+ténèbres l’;44.0;44.0
 agita—;45.0;45.0
 indompta—;45.0;45.0
 déta—;45.0;45.0
@@ -182,7 +182,7 @@ l'Europe;46.0;46.0
 physiono—;47.0;47.0
 onclion;47.0;47.0
 no—;47.0;47.0
-Mocksens;48.0;?
+Mocksens;48.0;48.0
 senorita;48.0;48.0
 senora;48.0;48.0
 senorîta;48.0;48.0
@@ -217,7 +217,7 @@ aupara—;55.0;55.0
 Grand Chef;56.0;56.0
 Grand;56.0;56.0
 demanda—;56.0;56.0
-Aucun;56.0;?
+Aucun;56.0;-1
 grats;56.0;56.0
 Grandeur pr15silil(: dela;56.0;56.0
 GRANDS CHEFS;56.0;56.0
@@ -351,8 +351,8 @@ gui—-;83.0;83.0
 "se—
 conde";83.0;83.0
 condui—;83.0;83.0
-Ill—8;84.0;
-&v. ill—S;84.0;
+Ill—8;84.0;-1
+&v. ill—S;84.0;-1
 Sebastopol;85.0;85.0
 castors;85.0;85.0
 Providence;86.0;86.0
@@ -394,7 +394,7 @@ dore;93.0;93.0
 oreil—;93.0;93.0
 dissé—;94.0;94.0
 Poussé;94.0;94.0
-mouss;x;x
+"Mouss ;x";94.0;94.0
 "fran—
 
 302 LES TRAPPEUBS";95.0;95.0
@@ -438,7 +438,7 @@ honora—;101.0;101.0
 Sont;101.0;101.0
 guenarde;102.0;102.0
 regar—;102.0;102.0
-Regardez;lui ;$
+"Regardez ;lui ";102.0;102.0
 Regardez;102.0;102.0
 gard;102.0;102.0
 aper—;103.0;103.0
@@ -617,9 +617,9 @@ bois—chandelle;140.0;140.0
 bituelle;140.0;140.0
 —elle;140.0;140.0
 Elle l’;140.0;140.0
-ditle;141.0;
-Tli\5—gr0s;141.0;
-Iltliitlï'h.;141.0;
+ditle;141.0;-1
+Tli\5—gr0s;141.0;-1
+Iltliitlï'h.;141.0;-1
 sarmés;142.0;142.0
 Isa;142.0;142.0
 NISARD;142.0;142.0
@@ -657,7 +657,7 @@ Répondez;149.0;149.0
 prodigué—;150.0;150.0
 prodi—;150.0;150.0
 DIGKBNS;150.0;150.0
-la plu&fantasüque;151.0;?
+la plu&fantasüque;151.0;151.0
 déses—;151.0;151.0
 posses—;151.0;151.0
 la posses—;151.0;151.0
@@ -825,8 +825,8 @@ gnal du départ";188.0;188.0
 repren—;189.0;189.0
 Prends;189.0;189.0
 pren—;189.0;189.0
-—— C’;190.0;
-Ohl c’;190.0;
+—— C’;190.0;-1
+Ohl c’;190.0;-1
 repré—;191.0;191.0
 prépa—-;191.0;191.0
 préve—;191.0;191.0
@@ -911,10 +911,10 @@ Est;206.0;206.0
 s‘est;206.0;206.0
 l‘Ouest—;206.0;206.0
 Resté;206.0;206.0
-Iii—12;207.0;
+Iii—12;207.0;-1
 D‘ici;207.0;207.0
 princi—;207.0;207.0
-ici—12;207.0;
+ici—12;207.0;-1
 le specta—;208.0;208.0
 respectueuse—;208.0;208.0
 alfectueuse—;208.0;208.0
@@ -931,7 +931,7 @@ France;210.0;210.0
 fran—;210.0;210.0
 eû‘aroucher;211.0;211.0
 Cher;211.0;211.0
-B;chei;$
+"B;chei";211.0;211.0
 cher—;211.0;211.0
 torche;211.0;211.0
 lâcherez;211.0;211.0
@@ -985,7 +985,7 @@ Océans;222.0;222.0
 Mexicaine;223.0;217.0
 gambusinos mexicains;223.0;217.0
 camp des Mexicains;223.0;217.0
-colo—;223.0;
+colo—;223.0;-1
 Lanceros mexicains;223.0;217.0
 Mexicains;223.0;217.0
 Ginctcs mexicains;223.0;217.0
