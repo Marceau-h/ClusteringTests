@@ -1,14 +1,14 @@
 text,cluster,cluster_corrected
-North,0,
-South America,0,
-Algiers,0,
-Greville Manor,0,
-Highland,1,
-Feroe Islands,1,
-Atlantic,1,
-Old England,1,
-"faltered—""Ellen",1,
-the Shetland Isles,1,
-the Sea Queen,1,
-Easter,1,
-British America,1,
+North,0,0
+South America,0,1
+Algiers,0,2
+Greville Manor,0,3
+Highland,1,4
+Feroe Islands,1,5
+Atlantic,1,6
+Old England,1,7
+"faltered—""Ellen",1,-1
+the Shetland Isles,1,8
+the Sea Queen,1,9
+Easter,1,10
+British America,1,11

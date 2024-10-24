@@ -1,25 +1,25 @@
 text,cluster,cluster_corrected
-Old England,0,
-the Shetland Isles,0,
-"birds,—(several sea",0,
-the Feroe Islands,0,
-Highland,0,
-Atlantic,0,
-Cecil,1,
-Earth,1,
+Old England,0,0
+the Shetland Isles,0,1
+"birds,—(several sea",0,-1
+the Feroe Islands,0,2
+Highland,0,3
+Atlantic,0,4
+Cecil,1,5
+Earth,1,6
 "the Sea
-Queen",1,
+Queen",1,7
 "South
-America",1,
-Dearest Eleanor,2,
-North,2,
-Samboese,2,
-Greville Manor,2,
-the Sea Queen,2,
-British America,2,
-Algiers,3,
-Glamorgan,3,
-Easter,4,
-"promise,—if",4,
-Lelly,4,
-STORY.—A CONFESSION,4,
+America",1,8
+Dearest Eleanor,2,9
+North,2,10
+Samboese,2,11
+Greville Manor,2,12
+the Sea Queen,2,7
+British America,2,13
+Algiers,3,14
+Glamorgan,3,15
+Easter,4,16
+"promise,—if",4,-1
+Lelly,4,-1
+STORY.—A CONFESSION,4,-1
