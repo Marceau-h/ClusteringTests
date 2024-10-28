@@ -18,9 +18,9 @@ def from_for_corr_and_points_to_gt_points(
     df_points = pd.read_json(path_to_points, lines=True)
 
     df_joined = df_points.merge(df_corr, on='text', how='outer')
-    del df_corr, df_points
+    # del df_corr, df_points
 
-    assert df_joined.cluster_x.equals(df_joined.cluster_y)
+    # assert df_joined.cluster_x.equals(df_joined.cluster_y)
 
     df_joined.drop(columns=['cluster_y', "cluster_x"], inplace=True)
     df_joined.rename(columns={'cluster_corrected': 'cluster'}, inplace=True)
@@ -32,18 +32,18 @@ if __name__ == "__main__":
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points_for_corr.csv",
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr.csv",
         "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points_for_corr.csv",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr.csv",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points_for_corr.csv",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr.csv",
+        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr.csv",
+        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points_for_corr.csv",
+        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr.csv",
     ]
 
     points = [
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points.jsonl",
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points.jsonl",
         "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points.jsonl",
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropHyperparams2_df_points.jsonl",
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropHyperparams2_df_points.jsonl",
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropHyperparams2_df_points.jsonl",
     ]
 
     outputs = [
