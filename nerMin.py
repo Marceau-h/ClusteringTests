@@ -69,7 +69,14 @@ def nerMin(
 
     try:
         doc = nlp(text)
-        return {ent.text.strip() for ent in doc.ents if ent.label_ in {'LOC', 'GPE'}}
+        return {
+            ent.text.strip()
+            for ent in doc.ents
+            if ent.label_ in {
+                'LOC',
+                # 'GPE'
+            }
+        }
     except ValueError as e:
         if enforce_nlp_length:
             print(f"Retrying with max_length = {nlp_max_length * 2:_} for {text[:100]}")
