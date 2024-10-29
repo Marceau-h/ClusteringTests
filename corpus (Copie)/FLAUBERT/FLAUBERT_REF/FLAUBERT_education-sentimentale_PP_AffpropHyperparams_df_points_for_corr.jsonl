@@ -1,0 +1,893 @@
+{"text":"place du Carrousel","cluster":0,"cluster_corrected":""}
+{"text":"Carrousel","cluster":0,"cluster_corrected":""}
+{"text":"place du March\u00e9","cluster":0,"cluster_corrected":""}
+{"text":"Place du Carrousel","cluster":0,"cluster_corrected":""}
+{"text":"Paris","cluster":1,"cluster_corrected":""}
+{"text":"Parisien","cluster":1,"cluster_corrected":""}
+{"text":"Parly","cluster":1,"cluster_corrected":""}
+{"text":"briskas","cluster":1,"cluster_corrected":""}
+{"text":"Parlote","cluster":1,"cluster_corrected":""}
+{"text":"Poissonni\u00e8re","cluster":2,"cluster_corrected":""}
+{"text":"faubourg Poissonni\u00e8re","cluster":2,"cluster_corrected":""}
+{"text":"boulevard Poissonni\u00e8re","cluster":2,"cluster_corrected":""}
+{"text":"rue Paradis-Poissonni\u00e8re","cluster":2,"cluster_corrected":""}
+{"text":"Napol\u00e9on","cluster":3,"cluster_corrected":""}
+{"text":"Japon","cluster":3,"cluster_corrected":""}
+{"text":"Apollonie","cluster":3,"cluster_corrected":""}
+{"text":"Od\u00e9on","cluster":3,"cluster_corrected":""}
+{"text":"quai Napol\u00e9on","cluster":3,"cluster_corrected":""}
+{"text":"postillon","cluster":4,"cluster_corrected":""}
+{"text":"Postillon russe","cluster":4,"cluster_corrected":""}
+{"text":"Ch\u00e2tillon","cluster":4,"cluster_corrected":""}
+{"text":"Postillon","cluster":4,"cluster_corrected":""}
+{"text":"d'Espagne","cluster":5,"cluster_corrected":""}
+{"text":"Espagnolet","cluster":5,"cluster_corrected":""}
+{"text":"l'Espagne","cluster":5,"cluster_corrected":""}
+{"text":"Bertin","cluster":6,"cluster_corrected":""}
+{"text":"Bertinaux","cluster":6,"cluster_corrected":""}
+{"text":"libertad espa\u00f1ola","cluster":6,"cluster_corrected":""}
+{"text":"Libert\u00e9","cluster":6,"cluster_corrected":""}
+{"text":"Me Berthelmot","cluster":6,"cluster_corrected":""}
+{"text":"Institut","cluster":7,"cluster_corrected":""}
+{"text":"Injustice","cluster":7,"cluster_corrected":""}
+{"text":"Constantinople","cluster":7,"cluster_corrected":""}
+{"text":"Institutes","cluster":7,"cluster_corrected":""}
+{"text":"Norvins","cluster":7,"cluster_corrected":""}
+{"text":"Daumont","cluster":8,"cluster_corrected":""}
+{"text":"la Daumont","cluster":8,"cluster_corrected":""}
+{"text":"Saumon","cluster":8,"cluster_corrected":""}
+{"text":"Vazeille","cluster":9,"cluster_corrected":""}
+{"text":"Mille","cluster":9,"cluster_corrected":""}
+{"text":"la Bastille","cluster":9,"cluster_corrected":""}
+{"text":"Travaillez","cluster":9,"cluster_corrected":""}
+{"text":"Milliet","cluster":9,"cluster_corrected":""}
+{"text":"Feuilles","cluster":9,"cluster_corrected":""}
+{"text":"tranquille","cluster":9,"cluster_corrected":""}
+{"text":"Lille","cluster":9,"cluster_corrected":""}
+{"text":"Castilles !","cluster":9,"cluster_corrected":""}
+{"text":"P\u00e9quillet","cluster":9,"cluster_corrected":""}
+{"text":"Liban","cluster":10,"cluster_corrected":""}
+{"text":"Banque","cluster":10,"cluster_corrected":""}
+{"text":"Blanqui","cluster":10,"cluster_corrected":""}
+{"text":"Salamanque","cluster":10,"cluster_corrected":""}
+{"text":"quinquet","cluster":10,"cluster_corrected":""}
+{"text":"jura","cluster":11,"cluster_corrected":""}
+{"text":"Bray","cluster":11,"cluster_corrected":""}
+{"text":"cura\u00e7ao","cluster":11,"cluster_corrected":""}
+{"text":"Chantilly","cluster":12,"cluster_corrected":""}
+{"text":"Andilly","cluster":12,"cluster_corrected":""}
+{"text":"Billy","cluster":12,"cluster_corrected":""}
+{"text":"Filly","cluster":12,"cluster_corrected":""}
+{"text":"Neuilly","cluster":12,"cluster_corrected":""}
+{"text":"Chailly","cluster":12,"cluster_corrected":""}
+{"text":"Morelly","cluster":12,"cluster_corrected":""}
+{"text":"Etrigny","cluster":13,"cluster_corrected":""}
+{"text":"Savigny","cluster":13,"cluster_corrected":""}
+{"text":"Mignot","cluster":13,"cluster_corrected":""}
+{"text":"Herbigny","cluster":13,"cluster_corrected":""}
+{"text":"rue Grange","cluster":14,"cluster_corrected":""}
+{"text":"B\u00e9ranger","cluster":14,"cluster_corrected":""}
+{"text":"rangs !","cluster":14,"cluster_corrected":""}
+{"text":"Grands Lamas","cluster":14,"cluster_corrected":""}
+{"text":"rue Transnonain","cluster":14,"cluster_corrected":""}
+{"text":"orang-outang","cluster":14,"cluster_corrected":""}
+{"text":"rue Grange-Bateli\u00e8re","cluster":14,"cluster_corrected":""}
+{"text":"gratt\u00e9","cluster":14,"cluster_corrected":""}
+{"text":"pont d'I\u00e9na","cluster":15,"cluster_corrected":""}
+{"text":"pont de Charenton","cluster":15,"cluster_corrected":""}
+{"text":"pont d'Arcole","cluster":15,"cluster_corrected":""}
+{"text":"I\u00e9na","cluster":15,"cluster_corrected":""}
+{"text":"Polonaise","cluster":16,"cluster_corrected":""}
+{"text":"Polonais","cluster":16,"cluster_corrected":""}
+{"text":"gare du Havre","cluster":17,"cluster_corrected":""}
+{"text":"du Havre","cluster":17,"cluster_corrected":""}
+{"text":"le Havre","cluster":17,"cluster_corrected":""}
+{"text":"Havre","cluster":17,"cluster_corrected":""}
+{"text":"Havrais","cluster":17,"cluster_corrected":""}
+{"text":"au Havre","cluster":17,"cluster_corrected":""}
+{"text":"voulez","cluster":18,"cluster_corrected":""}
+{"text":"Moulin-Rouge","cluster":18,"cluster_corrected":""}
+{"text":"Voulez","cluster":18,"cluster_corrected":""}
+{"text":"Berlin","cluster":19,"cluster_corrected":""}
+{"text":"Baslin","cluster":19,"cluster_corrected":""}
+{"text":"Merlin","cluster":19,"cluster_corrected":""}
+{"text":"Peuple","cluster":20,"cluster_corrected":""}
+{"text":"Peuh","cluster":20,"cluster_corrected":""}
+{"text":"Occupez","cluster":20,"cluster_corrected":""}
+{"text":"Temple","cluster":20,"cluster_corrected":""}
+{"text":"Deviens","cluster":21,"cluster_corrected":""}
+{"text":"Tibi","cluster":21,"cluster_corrected":""}
+{"text":"tiens","cluster":21,"cluster_corrected":""}
+{"text":"D\u00e9mocratie","cluster":21,"cluster_corrected":""}
+{"text":"Combien","cluster":21,"cluster_corrected":""}
+{"text":"Ess\u00e9niens","cluster":21,"cluster_corrected":""}
+{"text":"Sens","cluster":21,"cluster_corrected":""}
+{"text":"Rubens","cluster":21,"cluster_corrected":""}
+{"text":"Amiens","cluster":21,"cluster_corrected":""}
+{"text":"Tiens","cluster":21,"cluster_corrected":""}
+{"text":"Le soleil","cluster":22,"cluster_corrected":""}
+{"text":"Corbeil","cluster":22,"cluster_corrected":""}
+{"text":"soleil","cluster":22,"cluster_corrected":""}
+{"text":"soleillant","cluster":22,"cluster_corrected":""}
+{"text":"Absolu","cluster":22,"cluster_corrected":""}
+{"text":"le soleil","cluster":22,"cluster_corrected":""}
+{"text":"Creil","cluster":22,"cluster_corrected":""}
+{"text":"Flambard","cluster":23,"cluster_corrected":""}
+{"text":"Baron","cluster":23,"cluster_corrected":""}
+{"text":"Barb\u00e8s","cluster":23,"cluster_corrected":""}
+{"text":"carbonaro","cluster":23,"cluster_corrected":""}
+{"text":"Rose Bron","cluster":23,"cluster_corrected":""}
+{"text":"Dijon","cluster":23,"cluster_corrected":""}
+{"text":"Croix","cluster":24,"cluster_corrected":""}
+{"text":"la Croix-Rousse","cluster":24,"cluster_corrected":""}
+{"text":"Croyez","cluster":24,"cluster_corrected":""}
+{"text":"Croix des-Petits-Champs et du Bouloi","cluster":24,"cluster_corrected":""}
+{"text":"Delacroix","cluster":24,"cluster_corrected":""}
+{"text":"Turc observa","cluster":25,"cluster_corrected":""}
+{"text":"turboti\u00e8re","cluster":25,"cluster_corrected":""}
+{"text":"Turc","cluster":25,"cluster_corrected":""}
+{"text":"Turcs","cluster":25,"cluster_corrected":""}
+{"text":"Saint-Paul","cluster":26,"cluster_corrected":""}
+{"text":"Comaing","cluster":26,"cluster_corrected":""}
+{"text":"quai Saint-Bernard","cluster":26,"cluster_corrected":""}
+{"text":"Villeneuve-Saint-Georges","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Germain","cluster":26,"cluster_corrected":""}
+{"text":"Compain","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Honor\u00e9","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Gervais","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Roch","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Ferdinand","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Val\u00e9ry","cluster":26,"cluster_corrected":""}
+{"text":"Saint-Thomas","cluster":26,"cluster_corrected":""}
+{"text":"Saintonge","cluster":26,"cluster_corrected":""}
+{"text":"Capitale","cluster":27,"cluster_corrected":""}
+{"text":"Tapez","cluster":27,"cluster_corrected":""}
+{"text":"la Capitale","cluster":27,"cluster_corrected":""}
+{"text":"H\u00f4pital","cluster":27,"cluster_corrected":""}
+{"text":"Piti\u00e9","cluster":27,"cluster_corrected":""}
+{"text":"rue Saint-Jacques","cluster":28,"cluster_corrected":""}
+{"text":"tour Saint-Jacques","cluster":28,"cluster_corrected":""}
+{"text":"Saint-Jacques","cluster":28,"cluster_corrected":""}
+{"text":"rue Saint-Dominique","cluster":28,"cluster_corrected":""}
+{"text":"Anglaise","cluster":29,"cluster_corrected":""}
+{"text":"Anglais","cluster":29,"cluster_corrected":""}
+{"text":"Angleterre","cluster":29,"cluster_corrected":""}
+{"text":"Anglaises","cluster":29,"cluster_corrected":""}
+{"text":"Languedoc","cluster":29,"cluster_corrected":""}
+{"text":"P\u00e8re-Lachaise","cluster":29,"cluster_corrected":""}
+{"text":"P\u00e2tisserie anglaise","cluster":29,"cluster_corrected":""}
+{"text":"Europe","cluster":30,"cluster_corrected":""}
+{"text":"l'Europe","cluster":30,"cluster_corrected":""}
+{"text":"Antony","cluster":31,"cluster_corrected":""}
+{"text":"Panth\u00e9on","cluster":31,"cluster_corrected":""}
+{"text":"Panth\u00e9on transform\u00e9","cluster":31,"cluster_corrected":""}
+{"text":"Consid\u00e9rant","cluster":31,"cluster_corrected":""}
+{"text":"H\u00e9b\u00e9s","cluster":31,"cluster_corrected":""}
+{"text":"Ambreuse","cluster":32,"cluster_corrected":""}
+{"text":"les Dambreuse","cluster":32,"cluster_corrected":""}
+{"text":"Dambreuse","cluster":32,"cluster_corrected":""}
+{"text":"fosse de M. Dambreuse","cluster":32,"cluster_corrected":""}
+{"text":"Ambigu","cluster":32,"cluster_corrected":""}
+{"text":"Gueuse","cluster":32,"cluster_corrected":""}
+{"text":"violences M. Dambreuse","cluster":32,"cluster_corrected":""}
+{"text":"h\u00f4tel Dambreuse","cluster":32,"cluster_corrected":""}
+{"text":"Tuileries","cluster":33,"cluster_corrected":""}
+{"text":"jardin des Tuileries","cluster":33,"cluster_corrected":""}
+{"text":"Jardin des Plantes","cluster":33,"cluster_corrected":""}
+{"text":"Jardin des plantes","cluster":33,"cluster_corrected":""}
+{"text":"d\u00f4me des Tuileries","cluster":33,"cluster_corrected":""}
+{"text":"Saint-Louis","cluster":34,"cluster_corrected":""}
+{"text":"\u00eele Saint-Louis","cluster":34,"cluster_corrected":""}
+{"text":"Gorge-au-Loup","cluster":34,"cluster_corrected":""}
+{"text":"Saint-Cloud","cluster":34,"cluster_corrected":""}
+{"text":"Oui","cluster":34,"cluster_corrected":""}
+{"text":"Lara","cluster":35,"cluster_corrected":""}
+{"text":"Op\u00e9ra","cluster":35,"cluster_corrected":""}
+{"text":"Barante","cluster":35,"cluster_corrected":""}
+{"text":"Paraguay","cluster":35,"cluster_corrected":""}
+{"text":"Balaruc","cluster":35,"cluster_corrected":""}
+{"text":"Niagara","cluster":35,"cluster_corrected":""}
+{"text":"Comines","cluster":36,"cluster_corrected":""}
+{"text":"Rhin","cluster":36,"cluster_corrected":""}
+{"text":"Chine","cluster":36,"cluster_corrected":""}
+{"text":"Sphinx","cluster":36,"cluster_corrected":""}
+{"text":"Lorraine","cluster":36,"cluster_corrected":""}
+{"text":"Chinois","cluster":36,"cluster_corrected":""}
+{"text":"Bains-Chinois","cluster":36,"cluster_corrected":""}
+{"text":"la Chine","cluster":36,"cluster_corrected":""}
+{"text":"Olympe Regimbart","cluster":37,"cluster_corrected":""}
+{"text":"Regimbart","cluster":37,"cluster_corrected":""}
+{"text":"L'Olympe","cluster":37,"cluster_corrected":""}
+{"text":"Ponts","cluster":38,"cluster_corrected":""}
+{"text":"pont Neuf","cluster":38,"cluster_corrected":""}
+{"text":"Pont-Neuf","cluster":38,"cluster_corrected":""}
+{"text":"Dupont","cluster":38,"cluster_corrected":""}
+{"text":"le Pont-Neuf","cluster":38,"cluster_corrected":""}
+{"text":"tarbouch","cluster":39,"cluster_corrected":""}
+{"text":"Boucherie","cluster":39,"cluster_corrected":""}
+{"text":"Cher","cluster":39,"cluster_corrected":""}
+{"text":"Epicerie","cluster":39,"cluster_corrected":""}
+{"text":"P\u00eacherie","cluster":39,"cluster_corrected":""}
+{"text":"Long-Rocher","cluster":39,"cluster_corrected":""}
+{"text":"N\u00e9grier","cluster":39,"cluster_corrected":""}
+{"text":"pont de la Boucherie","cluster":39,"cluster_corrected":""}
+{"text":"gaminerie","cluster":39,"cluster_corrected":""}
+{"text":"Empoigne","cluster":40,"cluster_corrected":""}
+{"text":"ligne du Nord","cluster":40,"cluster_corrected":""}
+{"text":"Ligne","cluster":40,"cluster_corrected":""}
+{"text":"du Nord","cluster":40,"cluster_corrected":""}
+{"text":"le Bas-Br\u00e9au","cluster":41,"cluster_corrected":""}
+{"text":"Br\u00e9a","cluster":41,"cluster_corrected":""}
+{"text":"Marc-aux-F\u00e9es","cluster":42,"cluster_corrected":""}
+{"text":"March\u00e9-aux-Chevaux","cluster":42,"cluster_corrected":""}
+{"text":"Archev\u00eaque","cluster":42,"cluster_corrected":""}
+{"text":"March\u00e9","cluster":42,"cluster_corrected":""}
+{"text":"rue du March\u00e9-aux-Chevaux","cluster":42,"cluster_corrected":""}
+{"text":"brune","cluster":43,"cluster_corrected":""}
+{"text":"Melun","cluster":43,"cluster_corrected":""}
+{"text":"lune","cluster":43,"cluster_corrected":""}
+{"text":"damas jaune","cluster":43,"cluster_corrected":""}
+{"text":"Tr\u00f4ne","cluster":43,"cluster_corrected":""}
+{"text":"Auvergne","cluster":44,"cluster_corrected":""}
+{"text":"Auvergnat","cluster":44,"cluster_corrected":""}
+{"text":"V\u00e9suve","cluster":44,"cluster_corrected":""}
+{"text":"R\u00e9publique","cluster":45,"cluster_corrected":""}
+{"text":"Quoique","cluster":45,"cluster_corrected":""}
+{"text":"R\u00e9publique !","cluster":45,"cluster_corrected":""}
+{"text":"Villeneuve-l'Archev\u00eaque","cluster":46,"cluster_corrected":""}
+{"text":"Surville","cluster":46,"cluster_corrected":""}
+{"text":"Villenauxe","cluster":46,"cluster_corrected":""}
+{"text":"Sainville","cluster":46,"cluster_corrected":""}
+{"text":"Belleville","cluster":46,"cluster_corrected":""}
+{"text":"Bellevue","cluster":46,"cluster_corrected":""}
+{"text":"Gr\u00e9monville","cluster":46,"cluster_corrected":""}
+{"text":"rue Bellefond","cluster":46,"cluster_corrected":""}
+{"text":"Hauteville","cluster":46,"cluster_corrected":""}
+{"text":"Vaudeville","cluster":46,"cluster_corrected":""}
+{"text":"Fortelle","cluster":46,"cluster_corrected":""}
+{"text":"Bagatelle","cluster":46,"cluster_corrected":""}
+{"text":"quai Voltaire","cluster":47,"cluster_corrected":""}
+{"text":"Orsay","cluster":47,"cluster_corrected":""}
+{"text":"quai d'Orsay","cluster":47,"cluster_corrected":""}
+{"text":"Treize de Balzac","cluster":48,"cluster_corrected":""}
+{"text":"Cygne de la Croix","cluster":48,"cluster_corrected":""}
+{"text":"place de la Bastille","cluster":48,"cluster_corrected":""}
+{"text":"place de la","cluster":48,"cluster_corrected":""}
+{"text":"place de la Concorde","cluster":48,"cluster_corrected":""}
+{"text":"place d'Armes","cluster":48,"cluster_corrected":""}
+{"text":"place de Vanneroy","cluster":48,"cluster_corrected":""}
+{"text":"Place","cluster":48,"cluster_corrected":""}
+{"text":"Toscane","cluster":49,"cluster_corrected":""}
+{"text":"Rosanette","cluster":49,"cluster_corrected":""}
+{"text":"Mettez","cluster":49,"cluster_corrected":""}
+{"text":"Osage","cluster":49,"cluster_corrected":""}
+{"text":"Gros !","cluster":49,"cluster_corrected":""}
+{"text":"porte de Rosanette","cluster":49,"cluster_corrected":""}
+{"text":"Ivry","cluster":50,"cluster_corrected":""}
+{"text":"divan","cluster":50,"cluster_corrected":""}
+{"text":"bivac","cluster":50,"cluster_corrected":""}
+{"text":"Evangile","cluster":50,"cluster_corrected":""}
+{"text":"D\u00e9lassements","cluster":51,"cluster_corrected":""}
+{"text":"Rond-Point","cluster":51,"cluster_corrected":""}
+{"text":"XIIe arrondissement","cluster":51,"cluster_corrected":""}
+{"text":"XIe arrondissement","cluster":51,"cluster_corrected":""}
+{"text":"Girondins","cluster":51,"cluster_corrected":""}
+{"text":"arrondissement de la Fortelle","cluster":51,"cluster_corrected":""}
+{"text":"Champs-Elys\u00e9es","cluster":52,"cluster_corrected":""}
+{"text":"chaperon","cluster":52,"cluster_corrected":""}
+{"text":"Lachambeaudie","cluster":52,"cluster_corrected":""}
+{"text":"B\u00e9chamel","cluster":52,"cluster_corrected":""}
+{"text":"Cham","cluster":52,"cluster_corrected":""}
+{"text":"Chambrion","cluster":52,"cluster_corrected":""}
+{"text":"Champ-de-Mars","cluster":52,"cluster_corrected":""}
+{"text":"Chambord","cluster":52,"cluster_corrected":""}
+{"text":"Champagne","cluster":52,"cluster_corrected":""}
+{"text":"Forchambeaux","cluster":52,"cluster_corrected":""}
+{"text":"Champ de Mars","cluster":52,"cluster_corrected":""}
+{"text":"MM. Chambolle","cluster":52,"cluster_corrected":""}
+{"text":"Chabrol","cluster":52,"cluster_corrected":""}
+{"text":"Chambres","cluster":52,"cluster_corrected":""}
+{"text":"perse","cluster":53,"cluster_corrected":""}
+{"text":"Corse","cluster":53,"cluster_corrected":""}
+{"text":"Persan !","cluster":53,"cluster_corrected":""}
+{"text":"Summa divisio personarum","cluster":53,"cluster_corrected":""}
+{"text":"Parquet","cluster":54,"cluster_corrected":""}
+{"text":"Turque","cluster":54,"cluster_corrected":""}
+{"text":"Lesurques","cluster":54,"cluster_corrected":""}
+{"text":"Nonancourt","cluster":55,"cluster_corrected":""}
+{"text":"Flacourt","cluster":55,"cluster_corrected":""}
+{"text":"\u2013 Non","cluster":55,"cluster_corrected":""}
+{"text":"Coup","cluster":55,"cluster_corrected":""}
+{"text":"Bretancourt","cluster":55,"cluster_corrected":""}
+{"text":"Rentrons","cluster":56,"cluster_corrected":""}
+{"text":"Ministre","cluster":56,"cluster_corrected":""}
+{"text":"Trente-sept","cluster":56,"cluster_corrected":""}
+{"text":"Entrez","cluster":56,"cluster_corrected":""}
+{"text":"Carpentras","cluster":56,"cluster_corrected":""}
+{"text":"Pr\u00e9sentez","cluster":56,"cluster_corrected":""}
+{"text":"Bref","cluster":57,"cluster_corrected":""}
+{"text":"kaolin de Bretagne","cluster":57,"cluster_corrected":""}
+{"text":"Creton","cluster":57,"cluster_corrected":""}
+{"text":"Bretagne","cluster":57,"cluster_corrected":""}
+{"text":"Mostaganem","cluster":57,"cluster_corrected":""}
+{"text":"la Bretagne","cluster":57,"cluster_corrected":""}
+{"text":"Vanneroy","cluster":58,"cluster_corrected":""}
+{"text":"Sainte-Chapelle","cluster":58,"cluster_corrected":""}
+{"text":"rue Sainte-Anne","cluster":58,"cluster_corrected":""}
+{"text":"Sainte-Anne","cluster":58,"cluster_corrected":""}
+{"text":"Saint-Antoine","cluster":58,"cluster_corrected":""}
+{"text":"Sainte-Genevi\u00e8ve","cluster":58,"cluster_corrected":""}
+{"text":"Sainte-P\u00e9lagie","cluster":58,"cluster_corrected":""}
+{"text":"Sainte-Alliance","cluster":58,"cluster_corrected":""}
+{"text":"Ecoles","cluster":59,"cluster_corrected":""}
+{"text":"Ecole Militaire","cluster":59,"cluster_corrected":""}
+{"text":"Monopole","cluster":59,"cluster_corrected":""}
+{"text":"Ecole","cluster":59,"cluster_corrected":""}
+{"text":"H\u00f4tel-Dieu","cluster":60,"cluster_corrected":""}
+{"text":"h\u00f4tel du Commerce","cluster":60,"cluster_corrected":""}
+{"text":"H\u00f4tel","cluster":60,"cluster_corrected":""}
+{"text":"h\u00f4tel Lambert","cluster":60,"cluster_corrected":""}
+{"text":"h\u00f4tel des Affaires Etrang\u00e8res","cluster":60,"cluster_corrected":""}
+{"text":"Arc de triomphe","cluster":61,"cluster_corrected":""}
+{"text":"Rochefort","cluster":61,"cluster_corrected":""}
+{"text":"Arc de triomphe un cheval mort","cluster":61,"cluster_corrected":""}
+{"text":"trouverez","cluster":62,"cluster_corrected":""}
+{"text":"Fouvens","cluster":62,"cluster_corrected":""}
+{"text":"trouves-tu","cluster":62,"cluster_corrected":""}
+{"text":"O\u00f9 es-tu","cluster":62,"cluster_corrected":""}
+{"text":"Buzan\u00e7ais","cluster":63,"cluster_corrected":""}
+{"text":"Fran\u00e7aise","cluster":63,"cluster_corrected":""}
+{"text":"Fran\u00e7ais","cluster":63,"cluster_corrected":""}
+{"text":"Com\u00e9die-Fran\u00e7aise","cluster":63,"cluster_corrected":""}
+{"text":"Fran\u00e7ois","cluster":63,"cluster_corrected":""}
+{"text":"Th\u00e9\u00e2tre Fran\u00e7ais","cluster":63,"cluster_corrected":""}
+{"text":"Saint-Fran\u00e7ois","cluster":63,"cluster_corrected":""}
+{"text":"Arr\u00eatez","cluster":64,"cluster_corrected":""}
+{"text":"Arr\u00eat\u00e9","cluster":64,"cluster_corrected":""}
+{"text":"Pr\u00eat\u00e9s","cluster":64,"cluster_corrected":""}
+{"text":"Russie","cluster":65,"cluster_corrected":""}
+{"text":"Sauvagesse","cluster":65,"cluster_corrected":""}
+{"text":"Masselin","cluster":65,"cluster_corrected":""}
+{"text":"Russes","cluster":65,"cluster_corrected":""}
+{"text":"Russe","cluster":65,"cluster_corrected":""}
+{"text":"Prusse","cluster":65,"cluster_corrected":""}
+{"text":"de Russie","cluster":65,"cluster_corrected":""}
+{"text":"Excuse","cluster":65,"cluster_corrected":""}
+{"text":"Godefroy","cluster":66,"cluster_corrected":""}
+{"text":"pr\u00e9fecture de Troyes","cluster":66,"cluster_corrected":""}
+{"text":"Troyes","cluster":66,"cluster_corrected":""}
+{"text":"Pr\u00e9fecture de police","cluster":66,"cluster_corrected":""}
+{"text":"Vari\u00e9t\u00e9s","cluster":67,"cluster_corrected":""}
+{"text":"Harpe","cluster":67,"cluster_corrected":""}
+{"text":"Charivari","cluster":67,"cluster_corrected":""}
+{"text":"Quentin-Bauchard","cluster":67,"cluster_corrected":""}
+{"text":"Mariotte","cluster":67,"cluster_corrected":""}
+{"text":"Lovarias","cluster":67,"cluster_corrected":""}
+{"text":"Lyon","cluster":68,"cluster_corrected":""}
+{"text":"Frisonne","cluster":68,"cluster_corrected":""}
+{"text":"Yonne","cluster":68,"cluster_corrected":""}
+{"text":"Sorbonne","cluster":68,"cluster_corrected":""}
+{"text":"Anglo-Saxonnes","cluster":68,"cluster_corrected":""}
+{"text":"Personnes","cluster":68,"cluster_corrected":""}
+{"text":"Alg\u00e9rie","cluster":69,"cluster_corrected":""}
+{"text":"Rog\u00e9rius","cluster":69,"cluster_corrected":""}
+{"text":"G\u00e9ricault","cluster":69,"cluster_corrected":""}
+{"text":"Fr\u00e9d\u00e9ric","cluster":69,"cluster_corrected":""}
+{"text":"Am\u00e9ricains","cluster":69,"cluster_corrected":""}
+{"text":"rue de Rivoli","cluster":70,"cluster_corrected":""}
+{"text":"rue Soufflot","cluster":70,"cluster_corrected":""}
+{"text":"rue de Fleurus","cluster":70,"cluster_corrected":""}
+{"text":"rue Coq-H\u00e9ron","cluster":70,"cluster_corrected":""}
+{"text":"rue de Laval","cluster":70,"cluster_corrected":""}
+{"text":"rue de Marbeuf","cluster":70,"cluster_corrected":""}
+{"text":"rue de Br\u00e9da","cluster":70,"cluster_corrected":""}
+{"text":"rue de l'Empereur","cluster":70,"cluster_corrected":""}
+{"text":"rue de l'Arcade","cluster":70,"cluster_corrected":""}
+{"text":"rue Drouot","cluster":70,"cluster_corrected":""}
+{"text":"rue Jacob","cluster":70,"cluster_corrected":""}
+{"text":"rue de","cluster":70,"cluster_corrected":""}
+{"text":"rue Dauphine","cluster":70,"cluster_corrected":""}
+{"text":"rue Rumford","cluster":70,"cluster_corrected":""}
+{"text":"coll\u00e8ge de Sens","cluster":70,"cluster_corrected":""}
+{"text":"rue de Richelieu","cluster":70,"cluster_corrected":""}
+{"text":"rue de Choiseul","cluster":70,"cluster_corrected":""}
+{"text":"Annuaire de Gotha","cluster":70,"cluster_corrected":""}
+{"text":"rue des Martyrs","cluster":70,"cluster_corrected":""}
+{"text":"rue Joubert","cluster":70,"cluster_corrected":""}
+{"text":"rue de Chabrol","cluster":70,"cluster_corrected":""}
+{"text":"rue de Valois","cluster":70,"cluster_corrected":""}
+{"text":"rue du Bac","cluster":70,"cluster_corrected":""}
+{"text":"rue de Cl\u00e9ry","cluster":70,"cluster_corrected":""}
+{"text":"h\u00f4tel de Nantes","cluster":71,"cluster_corrected":""}
+{"text":"H\u00f4tel de ville","cluster":71,"cluster_corrected":""}
+{"text":"H\u00f4tel de Ville","cluster":71,"cluster_corrected":""}
+{"text":"conseil g\u00e9n\u00e9ral de l'Aube","cluster":71,"cluster_corrected":""}
+{"text":"Tropiong","cluster":72,"cluster_corrected":""}
+{"text":"Boutron","cluster":72,"cluster_corrected":""}
+{"text":"Trocad\u00e9ro","cluster":72,"cluster_corrected":""}
+{"text":"Debout","cluster":72,"cluster_corrected":""}
+{"text":"Gen\u00e8ve","cluster":73,"cluster_corrected":""}
+{"text":"Nogent Mlle","cluster":73,"cluster_corrected":""}
+{"text":"Nogent","cluster":73,"cluster_corrected":""}
+{"text":"Nogent-sur-Seine","cluster":73,"cluster_corrected":""}
+{"text":"Le Nogentais","cluster":73,"cluster_corrected":""}
+{"text":"Nogentais","cluster":73,"cluster_corrected":""}
+{"text":"Inquisition","cluster":74,"cluster_corrected":""}
+{"text":"National","cluster":74,"cluster_corrected":""}
+{"text":"R\u00e9v\u00e9lation","cluster":74,"cluster_corrected":""}
+{"text":"Direction","cluster":74,"cluster_corrected":""}
+{"text":"Albion","cluster":74,"cluster_corrected":""}
+{"text":"L\u00e9gislative","cluster":74,"cluster_corrected":""}
+{"text":"D\u00e9subalternisation","cluster":74,"cluster_corrected":""}
+{"text":"Flandres","cluster":75,"cluster_corrected":""}
+{"text":"Londres","cluster":75,"cluster_corrected":""}
+{"text":"Hydre","cluster":75,"cluster_corrected":""}
+{"text":"Italienne","cluster":76,"cluster_corrected":""}
+{"text":"Atala","cluster":76,"cluster_corrected":""}
+{"text":"l'Italie","cluster":76,"cluster_corrected":""}
+{"text":"Italie","cluster":76,"cluster_corrected":""}
+{"text":"r\u00e9galias","cluster":76,"cluster_corrected":""}
+{"text":"Italiens","cluster":76,"cluster_corrected":""}
+{"text":"d'Italie","cluster":76,"cluster_corrected":""}
+{"text":"Chapitre 6 \nSon retour","cluster":77,"cluster_corrected":""}
+{"text":"Chapitre 6","cluster":77,"cluster_corrected":""}
+{"text":"Chapitre 6 \nRuin\u00e9","cluster":77,"cluster_corrected":""}
+{"text":"Bah","cluster":78,"cluster_corrected":""}
+{"text":"\u2013 Bah !","cluster":78,"cluster_corrected":""}
+{"text":"Irlandais","cluster":79,"cluster_corrected":""}
+{"text":"Inde","cluster":79,"cluster_corrected":""}
+{"text":"Normandes","cluster":79,"cluster_corrected":""}
+{"text":"Guirlande","cluster":79,"cluster_corrected":""}
+{"text":"Hollande","cluster":79,"cluster_corrected":""}
+{"text":"capuchon","cluster":80,"cluster_corrected":""}
+{"text":"califourchon","cluster":80,"cluster_corrected":""}
+{"text":"Calmez","cluster":80,"cluster_corrected":""}
+{"text":"Californie","cluster":80,"cluster_corrected":""}
+{"text":"Fumichon","cluster":80,"cluster_corrected":""}
+{"text":"Dufour","cluster":80,"cluster_corrected":""}
+{"text":"Saint-Denis","cluster":81,"cluster_corrected":""}
+{"text":"rue Saint-Denis","cluster":81,"cluster_corrected":""}
+{"text":"de Su\u00e8de","cluster":81,"cluster_corrected":""}
+{"text":"esprit-de-vin","cluster":81,"cluster_corrected":""}
+{"text":"de Saint-Denis","cluster":81,"cluster_corrected":""}
+{"text":"porte Saint-Denis","cluster":81,"cluster_corrected":""}
+{"text":"boulevard Saint-Denis","cluster":81,"cluster_corrected":""}
+{"text":"chapelle Saint-Saturnin","cluster":81,"cluster_corrected":""}
+{"text":"notre Saint-P\u00e8re","cluster":81,"cluster_corrected":""}
+{"text":"chapelle Saint-Nicolas","cluster":81,"cluster_corrected":""}
+{"text":"Bugneaux","cluster":82,"cluster_corrected":""}
+{"text":"Dagneaux","cluster":82,"cluster_corrected":""}
+{"text":"Peaux-Rouges","cluster":82,"cluster_corrected":""}
+{"text":"Mus\u00e9um","cluster":83,"cluster_corrected":""}
+{"text":"colonne de Juillet","cluster":83,"cluster_corrected":""}
+{"text":"Versailles","cluster":83,"cluster_corrected":""}
+{"text":"mus\u00e9e de Versailles","cluster":83,"cluster_corrected":""}
+{"text":"besogne","cluster":84,"cluster_corrected":""}
+{"text":"Bouloi","cluster":84,"cluster_corrected":""}
+{"text":"la Pologne","cluster":84,"cluster_corrected":""}
+{"text":"Pologne","cluster":84,"cluster_corrected":""}
+{"text":"bois de Boulogne","cluster":84,"cluster_corrected":""}
+{"text":"Boulogne","cluster":84,"cluster_corrected":""}
+{"text":"Loulou","cluster":84,"cluster_corrected":""}
+{"text":"la Renaissance","cluster":85,"cluster_corrected":""}
+{"text":"Renaissance","cluster":85,"cluster_corrected":""}
+{"text":"p\u00e2lissante","cluster":85,"cluster_corrected":""}
+{"text":"Las","cluster":86,"cluster_corrected":""}
+{"text":"jasmin","cluster":86,"cluster_corrected":""}
+{"text":"\u2013 Pas","cluster":86,"cluster_corrected":""}
+{"text":"Panoramas","cluster":86,"cluster_corrected":""}
+{"text":"Pas","cluster":86,"cluster_corrected":""}
+{"text":"Mazas","cluster":86,"cluster_corrected":""}
+{"text":"Gymnase","cluster":86,"cluster_corrected":""}
+{"text":"passage Jouffroy","cluster":86,"cluster_corrected":""}
+{"text":"Artistes","cluster":87,"cluster_corrected":""}
+{"text":"Martyrs","cluster":87,"cluster_corrected":""}
+{"text":"Partez","cluster":87,"cluster_corrected":""}
+{"text":"Parth\u00e9non","cluster":87,"cluster_corrected":""}
+{"text":"Art","cluster":87,"cluster_corrected":""}
+{"text":"Partout","cluster":87,"cluster_corrected":""}
+{"text":"quartier Br\u00e9da","cluster":87,"cluster_corrected":""}
+{"text":"Marthe","cluster":87,"cluster_corrected":""}
+{"text":"Arnoux","cluster":87,"cluster_corrected":""}
+{"text":"Laval","cluster":88,"cluster_corrected":""}
+{"text":"rue Royale","cluster":88,"cluster_corrected":""}
+{"text":"Palais-Royal ! galerie Montpensier","cluster":88,"cluster_corrected":""}
+{"text":"Palais-Royal !","cluster":88,"cluster_corrected":""}
+{"text":"Palais Royal","cluster":88,"cluster_corrected":""}
+{"text":"Palais-Royal","cluster":88,"cluster_corrected":""}
+{"text":"th\u00e9\u00e2tre du Palais-Royal","cluster":88,"cluster_corrected":""}
+{"text":"Palais","cluster":88,"cluster_corrected":""}
+{"text":"Palazot","cluster":88,"cluster_corrected":""}
+{"text":"pont Royal","cluster":88,"cluster_corrected":""}
+{"text":"Pommes","cluster":89,"cluster_corrected":""}
+{"text":"Somme","cluster":89,"cluster_corrected":""}
+{"text":"La somme","cluster":89,"cluster_corrected":""}
+{"text":"pommeau de nacre","cluster":89,"cluster_corrected":""}
+{"text":"Almanach du Commerce","cluster":89,"cluster_corrected":""}
+{"text":"Pellerin","cluster":90,"cluster_corrected":""}
+{"text":"Ajoutez Pellerin","cluster":90,"cluster_corrected":""}
+{"text":"seringas","cluster":90,"cluster_corrected":""}
+{"text":"notre S\u00e9n\u00e9cal !","cluster":91,"cluster_corrected":""}
+{"text":"notre Ma\u00eetre","cluster":91,"cluster_corrected":""}
+{"text":"notre S\u00e9n\u00e9cal","cluster":91,"cluster_corrected":""}
+{"text":"S\u00e9n\u00e9cal","cluster":91,"cluster_corrected":""}
+{"text":"keepsake","cluster":92,"cluster_corrected":""}
+{"text":"Allons","cluster":92,"cluster_corrected":""}
+{"text":"Ablon","cluster":92,"cluster_corrected":""}
+{"text":"Pingons","cluster":92,"cluster_corrected":""}
+{"text":"Salon","cluster":92,"cluster_corrected":""}
+{"text":"Ch\u00e2lons","cluster":92,"cluster_corrected":""}
+{"text":"Salue","cluster":92,"cluster_corrected":""}
+{"text":"sabot","cluster":92,"cluster_corrected":""}
+{"text":"Salons","cluster":92,"cluster_corrected":""}
+{"text":"Grand Salon","cluster":92,"cluster_corrected":""}
+{"text":"Sanson","cluster":92,"cluster_corrected":""}
+{"text":"place Gaillon","cluster":93,"cluster_corrected":""}
+{"text":"porte Maillot","cluster":93,"cluster_corrected":""}
+{"text":"cailloux","cluster":93,"cluster_corrected":""}
+{"text":"Gaillon","cluster":93,"cluster_corrected":""}
+{"text":"Brie","cluster":94,"cluster_corrected":""}
+{"text":"Hongrie","cluster":94,"cluster_corrected":""}
+{"text":"P\u00e9nurie","cluster":94,"cluster_corrected":""}
+{"text":"Burieu","cluster":94,"cluster_corrected":""}
+{"text":"Deslauriers","cluster":94,"cluster_corrected":""}
+{"text":"Burrieu","cluster":94,"cluster_corrected":""}
+{"text":"Ecosse","cluster":95,"cluster_corrected":""}
+{"text":"Ecossais","cluster":95,"cluster_corrected":""}
+{"text":"Colosse","cluster":95,"cluster_corrected":""}
+{"text":"La Mar\u00e9chale","cluster":96,"cluster_corrected":""}
+{"text":"Mar\u00e9chale","cluster":96,"cluster_corrected":""}
+{"text":"Mar\u00e9chale redoubla","cluster":96,"cluster_corrected":""}
+{"text":"l'Am\u00e9rique du Sud","cluster":97,"cluster_corrected":""}
+{"text":"l'Am\u00e9rique","cluster":97,"cluster_corrected":""}
+{"text":"Belgique","cluster":97,"cluster_corrected":""}
+{"text":"Am\u00e9rique","cluster":97,"cluster_corrected":""}
+{"text":"Embrasse-le !","cluster":98,"cluster_corrected":""}
+{"text":"Venez","cluster":98,"cluster_corrected":""}
+{"text":"Prenez-le","cluster":98,"cluster_corrected":""}
+{"text":"Tenez","cluster":98,"cluster_corrected":""}
+{"text":"Prenez-le !","cluster":98,"cluster_corrected":""}
+{"text":"Soignez-le donc","cluster":98,"cluster_corrected":""}
+{"text":"Pr\u00e9cepteur","cluster":99,"cluster_corrected":""}
+{"text":"Serviteur","cluster":99,"cluster_corrected":""}
+{"text":"Docteur","cluster":99,"cluster_corrected":""}
+{"text":"Percepteur","cluster":99,"cluster_corrected":""}
+{"text":"Acceptez-les Faites-moi","cluster":99,"cluster_corrected":""}
+{"text":"vois-tu !","cluster":100,"cluster_corrected":""}
+{"text":"rue des Trois-Rois","cluster":100,"cluster_corrected":""}
+{"text":"Trois-Rois","cluster":100,"cluster_corrected":""}
+{"text":"Bouquet-du-Roi","cluster":100,"cluster_corrected":""}
+{"text":"Trois-Maries","cluster":100,"cluster_corrected":""}
+{"text":"Dis-","cluster":100,"cluster_corrected":""}
+{"text":"P\u00e9kin","cluster":101,"cluster_corrected":""}
+{"text":"nankin","cluster":101,"cluster_corrected":""}
+{"text":"Yankees","cluster":101,"cluster_corrected":""}
+{"text":"Bourgogne","cluster":102,"cluster_corrected":""}
+{"text":"Bourse","cluster":102,"cluster_corrected":""}
+{"text":"Tabourey","cluster":102,"cluster_corrected":""}
+{"text":"Bourgeoise","cluster":102,"cluster_corrected":""}
+{"text":"Luxembourg","cluster":102,"cluster_corrected":""}
+{"text":"Bourges","cluster":102,"cluster_corrected":""}
+{"text":"de Bourges","cluster":102,"cluster_corrected":""}
+{"text":"Roquette","cluster":103,"cluster_corrected":""}
+{"text":"Quelquefois","cluster":103,"cluster_corrected":""}
+{"text":"Roque","cluster":103,"cluster_corrected":""}
+{"text":"laque","cluster":103,"cluster_corrected":""}
+{"text":"A Elbeuf","cluster":104,"cluster_corrected":""}
+{"text":"B\u0153uf","cluster":104,"cluster_corrected":""}
+{"text":"Elbeuf","cluster":104,"cluster_corrected":""}
+{"text":"Moyen Age","cluster":105,"cluster_corrected":""}
+{"text":"Citoyens","cluster":105,"cluster_corrected":""}
+{"text":"le Citoyen","cluster":105,"cluster_corrected":""}
+{"text":"Citoyen","cluster":105,"cluster_corrected":""}
+{"text":"Le Citoyen","cluster":105,"cluster_corrected":""}
+{"text":"Moyens","cluster":105,"cluster_corrected":""}
+{"text":"Lavernade","cluster":106,"cluster_corrected":""}
+{"text":"Vezou","cluster":106,"cluster_corrected":""}
+{"text":"Avez","cluster":106,"cluster_corrected":""}
+{"text":"Prado","cluster":107,"cluster_corrected":""}
+{"text":"Rue Paradis","cluster":107,"cluster_corrected":""}
+{"text":"rue Paradis","cluster":107,"cluster_corrected":""}
+{"text":"Morgue","cluster":108,"cluster_corrected":""}
+{"text":"Pharamond","cluster":108,"cluster_corrected":""}
+{"text":"Mondor","cluster":108,"cluster_corrected":""}
+{"text":"Meudon","cluster":108,"cluster_corrected":""}
+{"text":"Rudorff","cluster":108,"cluster_corrected":""}
+{"text":"Vicomte","cluster":109,"cluster_corrected":""}
+{"text":"Vincennes","cluster":109,"cluster_corrected":""}
+{"text":"Vivienne","cluster":109,"cluster_corrected":""}
+{"text":"Privil\u00e8ge","cluster":109,"cluster_corrected":""}
+{"text":"rue Vivienne","cluster":109,"cluster_corrected":""}
+{"text":"V\u00e9nitienne","cluster":109,"cluster_corrected":""}
+{"text":"Vienne","cluster":109,"cluster_corrected":""}
+{"text":"Vit","cluster":109,"cluster_corrected":""}
+{"text":"Allemand","cluster":110,"cluster_corrected":""}
+{"text":"Allemagne","cluster":110,"cluster_corrected":""}
+{"text":"Sallesse","cluster":110,"cluster_corrected":""}
+{"text":"Halles","cluster":110,"cluster_corrected":""}
+{"text":"Celles","cluster":110,"cluster_corrected":""}
+{"text":"Allez","cluster":110,"cluster_corrected":""}
+{"text":"Aulnays","cluster":111,"cluster_corrected":""}
+{"text":"le Pays","cluster":111,"cluster_corrected":""}
+{"text":"Pays","cluster":111,"cluster_corrected":""}
+{"text":"Notre-Dame","cluster":112,"cluster_corrected":""}
+{"text":"gorge-de-pigeon","cluster":112,"cluster_corrected":""}
+{"text":"pierre de Notre-Dame","cluster":112,"cluster_corrected":""}
+{"text":"Notre-Dame de Lorette","cluster":112,"cluster_corrected":""}
+{"text":"victorias","cluster":112,"cluster_corrected":""}
+{"text":"rue Notre-Dame-des-Victoires","cluster":112,"cluster_corrected":""}
+{"text":"Notre-Dame-des-Victoires","cluster":112,"cluster_corrected":""}
+{"text":"Caverne-des-Brigands","cluster":112,"cluster_corrected":""}
+{"text":"hein","cluster":113,"cluster_corrected":""}
+{"text":"de la Seine","cluster":113,"cluster_corrected":""}
+{"text":"La Foug\u00e8re","cluster":113,"cluster_corrected":""}
+{"text":"la Seine","cluster":113,"cluster_corrected":""}
+{"text":"La Seine","cluster":113,"cluster_corrected":""}
+{"text":"Seine","cluster":113,"cluster_corrected":""}
+{"text":"boulevards des Gobelins","cluster":114,"cluster_corrected":""}
+{"text":"boulevard de l'H\u00f4pital","cluster":114,"cluster_corrected":""}
+{"text":"boulevard des Capucines","cluster":114,"cluster_corrected":""}
+{"text":"\u00e9tang des carpes","cluster":114,"cluster_corrected":""}
+{"text":"Livon","cluster":115,"cluster_corrected":""}
+{"text":"Thiers","cluster":115,"cluster_corrected":""}
+{"text":"Canonniers","cluster":115,"cluster_corrected":""}
+{"text":"Poitiers","cluster":115,"cluster_corrected":""}
+{"text":"limoniers","cluster":115,"cluster_corrected":""}
+{"text":"Bassolier","cluster":115,"cluster_corrected":""}
+{"text":"finie","cluster":115,"cluster_corrected":""}
+{"text":"Longjumeau","cluster":116,"cluster_corrected":""}
+{"text":"Macbeth","cluster":116,"cluster_corrected":""}
+{"text":"Aube","cluster":116,"cluster_corrected":""}
+{"text":"Beaut\u00e9","cluster":116,"cluster_corrected":""}
+{"text":"Beau","cluster":116,"cluster_corrected":""}
+{"text":"Beaux-Arts","cluster":116,"cluster_corrected":""}
+{"text":"l'Oise","cluster":117,"cluster_corrected":""}
+{"text":"Sois","cluster":117,"cluster_corrected":""}
+{"text":"boiserie","cluster":117,"cluster_corrected":""}
+{"text":"Gauloises","cluster":117,"cluster_corrected":""}
+{"text":"Venise","cluster":117,"cluster_corrected":""}
+{"text":"Oise","cluster":117,"cluster_corrected":""}
+{"text":"Gaulois","cluster":117,"cluster_corrected":""}
+{"text":"Mademoiselle","cluster":117,"cluster_corrected":""}
+{"text":"Dulaure","cluster":118,"cluster_corrected":""}
+{"text":"Censure","cluster":118,"cluster_corrected":""}
+{"text":"serrure","cluster":118,"cluster_corrected":""}
+{"text":"Proc\u00e9dure","cluster":118,"cluster_corrected":""}
+{"text":"A","cluster":118,"cluster_corrected":""}
+{"text":"Eure","cluster":118,"cluster_corrected":""}
+{"text":"Suresne","cluster":118,"cluster_corrected":""}
+{"text":"S\u00fbre","cluster":118,"cluster_corrected":""}
+{"text":"Magistrature","cluster":118,"cluster_corrected":""}
+{"text":"Dunod","cluster":119,"cluster_corrected":""}
+{"text":"c\u00f4te de Sourdun","cluster":119,"cluster_corrected":""}
+{"text":"Sourdun","cluster":119,"cluster_corrected":""}
+{"text":"Vourdat","cluster":119,"cluster_corrected":""}
+{"text":"Pourvu","cluster":119,"cluster_corrected":""}
+{"text":"Vatnaz","cluster":120,"cluster_corrected":""}
+{"text":"La Vatnaz","cluster":120,"cluster_corrected":""}
+{"text":"Rendez","cluster":121,"cluster_corrected":""}
+{"text":"Preuve","cluster":121,"cluster_corrected":""}
+{"text":"bonds","cluster":121,"cluster_corrected":""}
+{"text":"Prenons","cluster":121,"cluster_corrected":""}
+{"text":"Prends","cluster":121,"cluster_corrected":""}
+{"text":"truit\u00e9","cluster":122,"cluster_corrected":""}
+{"text":"Benedicite","cluster":122,"cluster_corrected":""}
+{"text":"Egalit\u00e9","cluster":122,"cluster_corrected":""}
+{"text":"Unit\u00e9","cluster":122,"cluster_corrected":""}
+{"text":"Cisy","cluster":122,"cluster_corrected":""}
+{"text":"Cit\u00e9","cluster":122,"cluster_corrected":""}
+{"text":"Autorit\u00e9","cluster":122,"cluster_corrected":""}
+{"text":"Suriret","cluster":123,"cluster_corrected":""}
+{"text":"cachemire","cluster":123,"cluster_corrected":""}
+{"text":"Le Vicaire","cluster":123,"cluster_corrected":""}
+{"text":"l'Empire","cluster":123,"cluster_corrected":""}
+{"text":"Foire aux Id\u00e9es","cluster":123,"cluster_corrected":""}
+{"text":"Irez","cluster":123,"cluster_corrected":""}
+{"text":"p\u00e2lir","cluster":123,"cluster_corrected":""}
+{"text":"Aimez","cluster":124,"cluster_corrected":""}
+{"text":"Boh\u00eame","cluster":124,"cluster_corrected":""}
+{"text":"Samedi","cluster":124,"cluster_corrected":""}
+{"text":"Rom\u00e9o","cluster":124,"cluster_corrected":""}
+{"text":"Hippodrome","cluster":124,"cluster_corrected":""}
+{"text":"Rome","cluster":124,"cluster_corrected":""}
+{"text":"Laisse","cluster":125,"cluster_corrected":""}
+{"text":"buis","cluster":125,"cluster_corrected":""}
+{"text":"la P\u00e2tisserie","cluster":125,"cluster_corrected":""}
+{"text":"Suisse","cluster":125,"cluster_corrected":""}
+{"text":"Suissesse","cluster":125,"cluster_corrected":""}
+{"text":"suisse","cluster":125,"cluster_corrected":""}
+{"text":"Madrid","cluster":126,"cluster_corrected":""}
+{"text":"madras","cluster":126,"cluster_corrected":""}
+{"text":"Pomad\u00e8re","cluster":126,"cluster_corrected":""}
+{"text":"Heudras","cluster":126,"cluster_corrected":""}
+{"text":"V\u00eapres","cluster":127,"cluster_corrected":""}
+{"text":"Premi\u00e8res","cluster":127,"cluster_corrected":""}
+{"text":"S\u00e8vres","cluster":127,"cluster_corrected":""}
+{"text":"Naples","cluster":127,"cluster_corrected":""}
+{"text":"Presles","cluster":127,"cluster_corrected":""}
+{"text":"Ch\u00e2telet","cluster":128,"cluster_corrected":""}
+{"text":"Ch\u00e2teau-d'Eau","cluster":128,"cluster_corrected":""}
+{"text":"ch\u00e2le","cluster":128,"cluster_corrected":""}
+{"text":"Ch\u00e2teau","cluster":128,"cluster_corrected":""}
+{"text":"Don Juan de Moli\u00e8re","cluster":129,"cluster_corrected":""}
+{"text":"V\u00e9nus de Milo !","cluster":129,"cluster_corrected":""}
+{"text":"V\u00e9nus","cluster":129,"cluster_corrected":""}
+{"text":"Letourneur","cluster":130,"cluster_corrected":""}
+{"text":"Tournez","cluster":130,"cluster_corrected":""}
+{"text":"la Tournelle","cluster":130,"cluster_corrected":""}
+{"text":"Celuta","cluster":131,"cluster_corrected":""}
+{"text":"Arc","cluster":131,"cluster_corrected":""}
+{"text":"carcel","cluster":131,"cluster_corrected":""}
+{"text":"Barcelone","cluster":131,"cluster_corrected":""}
+{"text":"rue d'Anjou","cluster":132,"cluster_corrected":""}
+{"text":"Bonjour","cluster":132,"cluster_corrected":""}
+{"text":"Anjou","cluster":132,"cluster_corrected":""}
+{"text":"Bacchante","cluster":133,"cluster_corrected":""}
+{"text":"Angelmarre","cluster":133,"cluster_corrected":""}
+{"text":"Changarnier","cluster":133,"cluster_corrected":""}
+{"text":"pont au Change","cluster":133,"cluster_corrected":""}
+{"text":"Change","cluster":133,"cluster_corrected":""}
+{"text":"D\u00e9cid\u00e9ment","cluster":134,"cluster_corrected":""}
+{"text":"Appartements meubl\u00e9s","cluster":134,"cluster_corrected":""}
+{"text":"Gouvernement","cluster":134,"cluster_corrected":""}
+{"text":"Pidoux","cluster":134,"cluster_corrected":""}
+{"text":"Doucement","cluster":134,"cluster_corrected":""}
+{"text":"Picardie","cluster":135,"cluster_corrected":""}
+{"text":"marmiton","cluster":135,"cluster_corrected":""}
+{"text":"Delmar","cluster":135,"cluster_corrected":""}
+{"text":"Jardin","cluster":135,"cluster_corrected":""}
+{"text":"dard","cluster":135,"cluster_corrected":""}
+{"text":"Dussardier","cluster":135,"cluster_corrected":""}
+{"text":"Savoyard","cluster":135,"cluster_corrected":""}
+{"text":"Mardi","cluster":135,"cluster_corrected":""}
+{"text":"Cl\u00e9mence","cluster":136,"cluster_corrected":""}
+{"text":"rue de Provence","cluster":136,"cluster_corrected":""}
+{"text":"Providence","cluster":136,"cluster_corrected":""}
+{"text":"La Providence","cluster":136,"cluster_corrected":""}
+{"text":"Proven\u00e7aux","cluster":136,"cluster_corrected":""}
+{"text":"R\u00e9gence","cluster":136,"cluster_corrected":""}
+{"text":"atenci\u00f3n","cluster":136,"cluster_corrected":""}
+{"text":"Provence","cluster":136,"cluster_corrected":""}
+{"text":"rue Tronchet","cluster":137,"cluster_corrected":""}
+{"text":"seuil de la lorette","cluster":137,"cluster_corrected":""}
+{"text":"pont de la Concorde","cluster":137,"cluster_corrected":""}
+{"text":"rue Lafayette","cluster":137,"cluster_corrected":""}
+{"text":"rue de la Harpe","cluster":137,"cluster_corrected":""}
+{"text":"rue de la Ferme","cluster":137,"cluster_corrected":""}
+{"text":"statue de la Libert\u00e9","cluster":137,"cluster_corrected":""}
+{"text":"rue de la Ferme ?","cluster":137,"cluster_corrected":""}
+{"text":"rue de la Ferme et de la rue Tronchet","cluster":137,"cluster_corrected":""}
+{"text":"rue de la Paix","cluster":137,"cluster_corrected":""}
+{"text":"rue des Francs-Bourgeois-Saint-Michel","cluster":138,"cluster_corrected":""}
+{"text":"Mont-Saint-Michel","cluster":138,"cluster_corrected":""}
+{"text":"Francs-Bourgeois-Saint-Michel","cluster":138,"cluster_corrected":""}
+{"text":"faubourg Saint-Martin","cluster":139,"cluster_corrected":""}
+{"text":"rue Saint-Hyacinthe","cluster":139,"cluster_corrected":""}
+{"text":"th\u00e9\u00e2tre de la Porte-Saint-Martin","cluster":139,"cluster_corrected":""}
+{"text":"Cinq-Mars","cluster":139,"cluster_corrected":""}
+{"text":"Martinon","cluster":139,"cluster_corrected":""}
+{"text":"rue Saint-Victor","cluster":139,"cluster_corrected":""}
+{"text":"porte Saint-Martin","cluster":139,"cluster_corrected":""}
+{"text":"rue Saint-Honor\u00e9","cluster":139,"cluster_corrected":""}
+{"text":"Porte-Saint-Martin","cluster":139,"cluster_corrected":""}
+{"text":"rue Caumartin","cluster":139,"cluster_corrected":""}
+{"text":"rue Saint-Martin","cluster":139,"cluster_corrected":""}
+{"text":"Saint-Marceau","cluster":139,"cluster_corrected":""}
+{"text":"Conservatoire","cluster":140,"cluster_corrected":""}
+{"text":"L\u00e8ve-toi !","cluster":140,"cluster_corrected":""}
+{"text":"Toi","cluster":140,"cluster_corrected":""}
+{"text":"Moi","cluster":140,"cluster_corrected":""}
+{"text":"Magdelena","cluster":141,"cluster_corrected":""}
+{"text":"place de la Madeleine","cluster":141,"cluster_corrected":""}
+{"text":"coin de la Madeleine","cluster":141,"cluster_corrected":""}
+{"text":"la Madeleine","cluster":141,"cluster_corrected":""}
+{"text":"Madeleine","cluster":141,"cluster_corrected":""}
+{"text":"Hi\u00e9rarchie","cluster":142,"cluster_corrected":""}
+{"text":"tricot","cluster":142,"cluster_corrected":""}
+{"text":"Orientaux","cluster":142,"cluster_corrected":""}
+{"text":"Autrichiens","cluster":142,"cluster_corrected":""}
+{"text":"Autrichien","cluster":142,"cluster_corrected":""}
+{"text":"Richelieu","cluster":142,"cluster_corrected":""}
+{"text":"Cl\u00e9ry","cluster":143,"cluster_corrected":""}
+{"text":"Clerc","cluster":143,"cluster_corrected":""}
+{"text":"Cerfs","cluster":143,"cluster_corrected":""}
+{"text":"Cercle","cluster":143,"cluster_corrected":""}
+{"text":"Restez","cluster":144,"cluster_corrected":""}
+{"text":"Ormes","cluster":144,"cluster_corrected":""}
+{"text":"Stores","cluster":144,"cluster_corrected":""}
+{"text":"Alpes","cluster":144,"cluster_corrected":""}
+{"text":"Desolmes","cluster":144,"cluster_corrected":""}
+{"text":"wursts","cluster":144,"cluster_corrected":""}
+{"text":"Est","cluster":144,"cluster_corrected":""}
+{"text":"Petites Affiches","cluster":144,"cluster_corrected":""}
+{"text":"Style","cluster":144,"cluster_corrected":""}
+{"text":"Louvre","cluster":145,"cluster_corrected":""}
+{"text":"au Louvre","cluster":145,"cluster_corrected":""}
+{"text":"Pouvoir","cluster":145,"cluster_corrected":""}
+{"text":"d\u00f4me du Louvre","cluster":145,"cluster_corrected":""}
+{"text":"Garde-Meubles","cluster":146,"cluster_corrected":""}
+{"text":"Garde-Meuble","cluster":146,"cluster_corrected":""}
+{"text":"Poissarde","cluster":146,"cluster_corrected":""}
+{"text":"Gardez-les !","cluster":146,"cluster_corrected":""}
+{"text":"Hesp\u00e9rides","cluster":146,"cluster_corrected":""}
+{"text":"Regardez","cluster":146,"cluster_corrected":""}
+{"text":"lourdes","cluster":146,"cluster_corrected":""}
+{"text":"Desde","cluster":146,"cluster_corrected":""}
+{"text":"Gare","cluster":146,"cluster_corrected":""}
+{"text":"Pyramides","cluster":146,"cluster_corrected":""}
+{"text":"Gardes","cluster":146,"cluster_corrected":""}
+{"text":"salle des Gardes","cluster":146,"cluster_corrected":""}
+{"text":"seuil du boudoir","cluster":147,"cluster_corrected":""}
+{"text":"Auteuil","cluster":147,"cluster_corrected":""}
+{"text":"Arnaute","cluster":147,"cluster_corrected":""}
+{"text":"bois de Cranc\u00e9","cluster":148,"cluster_corrected":""}
+{"text":"cr\u00e9ances","cluster":148,"cluster_corrected":""}
+{"text":"de France","cluster":148,"cluster_corrected":""}
+{"text":"la France","cluster":148,"cluster_corrected":""}
+{"text":"Cranc\u00e9","cluster":148,"cluster_corrected":""}
+{"text":"lip-fraoli","cluster":148,"cluster_corrected":""}
+{"text":"Frank","cluster":148,"cluster_corrected":""}
+{"text":"La France","cluster":148,"cluster_corrected":""}
+{"text":"manche","cluster":148,"cluster_corrected":""}
+{"text":"France","cluster":148,"cluster_corrected":""}
+{"text":"Assurances","cluster":148,"cluster_corrected":""}
+{"text":"Coll\u00e8ge de France","cluster":148,"cluster_corrected":""}
+{"text":"port de Montereau","cluster":149,"cluster_corrected":""}
+{"text":"Moreau","cluster":149,"cluster_corrected":""}
+{"text":"La terre","cluster":149,"cluster_corrected":""}
+{"text":"Ville-de-Montereau","cluster":149,"cluster_corrected":""}
+{"text":"Montereau","cluster":149,"cluster_corrected":""}
+{"text":"Honteux","cluster":149,"cluster_corrected":""}
+{"text":"Mis\u00e9ricorde","cluster":150,"cluster_corrected":""}
+{"text":"Bordelais","cluster":150,"cluster_corrected":""}
+{"text":"La Bordelaise","cluster":150,"cluster_corrected":""}
+{"text":"Bordeaux","cluster":150,"cluster_corrected":""}
+{"text":"Bordelaise","cluster":150,"cluster_corrected":""}
+{"text":"boulevard Montmartre","cluster":151,"cluster_corrected":""}
+{"text":"rue Montmartre","cluster":151,"cluster_corrected":""}
+{"text":"Chartres","cluster":151,"cluster_corrected":""}
+{"text":"martre","cluster":151,"cluster_corrected":""}
+{"text":"damas rouge du boulevard Montmartre","cluster":151,"cluster_corrected":""}
+{"text":"Montmartre","cluster":151,"cluster_corrected":""}
+{"text":"B\u00e9arnais","cluster":152,"cluster_corrected":""}
+{"text":"Havanais","cluster":152,"cluster_corrected":""}
+{"text":"Bourbonnais","cluster":152,"cluster_corrected":""}
+{"text":"Lamennais","cluster":152,"cluster_corrected":""}
+{"text":"Connais","cluster":152,"cluster_corrected":""}
+{"text":"Bobino","cluster":153,"cluster_corrected":""}
+{"text":"th\u00e9\u00e2tre Bobino","cluster":153,"cluster_corrected":""}
+{"text":"Catau","cluster":154,"cluster_corrected":""}
+{"text":"tic-tac","cluster":154,"cluster_corrected":""}
+{"text":"Mouffetard","cluster":154,"cluster_corrected":""}
+{"text":"Etretat","cluster":154,"cluster_corrected":""}
+{"text":"Etat","cluster":154,"cluster_corrected":""}
+{"text":"Pi\u00e9mont","cluster":155,"cluster_corrected":""}
+{"text":"Aspremont","cluster":155,"cluster_corrected":""}
+{"text":"Grammont","cluster":155,"cluster_corrected":""}
+{"text":"Montez","cluster":155,"cluster_corrected":""}
+{"text":"Fontainebleau","cluster":155,"cluster_corrected":""}
+{"text":"Montagne","cluster":155,"cluster_corrected":""}
+{"text":"Montataire","cluster":155,"cluster_corrected":""}
+{"text":"Montcharron","cluster":155,"cluster_corrected":""}
+{"text":"quai Montebello","cluster":155,"cluster_corrected":""}
+{"text":"Montreuil-Nantua","cluster":155,"cluster_corrected":""}
+{"text":"Lac\u00e9d\u00e9mone","cluster":155,"cluster_corrected":""}
+{"text":"monta","cluster":155,"cluster_corrected":""}
+{"text":"Palerme","cluster":156,"cluster_corrected":""}
+{"text":"Orl\u00e9ans","cluster":156,"cluster_corrected":""}
+{"text":"Bengale","cluster":156,"cluster_corrected":""}
+{"text":"galerie d'","cluster":156,"cluster_corrected":""}
+{"text":"ganse","cluster":156,"cluster_corrected":""}
+{"text":"galerie d'Orl\u00e9ans","cluster":156,"cluster_corrected":""}
+{"text":"rue Rambuteau","cluster":157,"cluster_corrected":""}
+{"text":"Fromanteau","cluster":157,"cluster_corrected":""}
+{"text":"rue Fromanteau","cluster":157,"cluster_corrected":""}
+{"text":"L'Andalouse","cluster":158,"cluster_corrected":""}
+{"text":"Balandard","cluster":158,"cluster_corrected":""}
+{"text":"Cousin","cluster":158,"cluster_corrected":""}
+{"text":"Andalouses","cluster":158,"cluster_corrected":""}
+{"text":"Andalouse","cluster":158,"cluster_corrected":""}
+{"text":"\u2013 A","cluster":159,"cluster_corrected":""}
+{"text":"Mably","cluster":159,"cluster_corrected":""}
+{"text":"Fables","cluster":159,"cluster_corrected":""}
+{"text":"\u2013 A table !","cluster":159,"cluster_corrected":""}
