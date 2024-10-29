@@ -162,6 +162,6 @@ def reset_errors(path: Path) -> None:
         raise ValueError(f"{path} is not a file or a directory")
 
 if __name__ == "__main__":
-    corpus = Path("corpus_en")
+    corpus = Path("corpus")
     # reset_errors(corpus)
-    main(corpus, "en", True)
+    main(corpus, "fr", True)
