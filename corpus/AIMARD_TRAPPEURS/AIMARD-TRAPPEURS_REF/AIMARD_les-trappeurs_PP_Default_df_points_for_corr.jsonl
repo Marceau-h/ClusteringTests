@@ -1,328 +1,298 @@
-{"text":"Luz","cluster":0,"cluster_corrected":""}
-{"text":"Do\u00f1a Luz","cluster":0,"cluster_corrected":""}
-{"text":"alluma","cluster":0,"cluster_corrected":""}
-{"text":"la T\u00eate-d'Aigle","cluster":1,"cluster_corrected":""}
-{"text":"La T\u00eate","cluster":1,"cluster_corrected":""}
-{"text":"Aigle","cluster":1,"cluster_corrected":""}
-{"text":"piste de la T\u00eate-d'Aigle","cluster":1,"cluster_corrected":""}
-{"text":"T\u00eate-d'Aigle","cluster":1,"cluster_corrected":""}
-{"text":"Mexicains","cluster":2,"cluster_corrected":""}
-{"text":"Ph\u00e9b\u00e9","cluster":2,"cluster_corrected":""}
-{"text":"camp des Mexicains","cluster":2,"cluster_corrected":""}
-{"text":"Am\u00e9ricaines","cluster":2,"cluster_corrected":""}
-{"text":"Am\u00e9ricains","cluster":2,"cluster_corrected":""}
-{"text":"\u2013","cluster":2,"cluster_corrected":""}
-{"text":"Ginetes mexicains","cluster":2,"cluster_corrected":""}
-{"text":"Mexique","cluster":2,"cluster_corrected":""}
-{"text":"Mexico","cluster":2,"cluster_corrected":""}
-{"text":"Buffalo","cluster":3,"cluster_corrected":""}
-{"text":"buffalos","cluster":3,"cluster_corrected":""}
-{"text":"Belhumeur","cluster":4,"cluster_corrected":""}
-{"text":"\u2013\u00a0Belhumeur","cluster":4,"cluster_corrected":""}
-{"text":"Espagnol","cluster":5,"cluster_corrected":""}
-{"text":"d'Espagne","cluster":5,"cluster_corrected":""}
-{"text":"compagne","cluster":5,"cluster_corrected":""}
-{"text":"Espagnols","cluster":5,"cluster_corrected":""}
-{"text":"aventure de Mexico","cluster":6,"cluster_corrected":""}
-{"text":"couvent de la Merced","cluster":6,"cluster_corrected":""}
-{"text":"golfe de Californie","cluster":6,"cluster_corrected":""}
-{"text":"r\u00e9pliquai-je na\u00efvement","cluster":6,"cluster_corrected":""}
+{"text":"Guaymas","cluster":0,"cluster_corrected":""}
+{"text":"Guadeloupe","cluster":0,"cluster_corrected":""}
+{"text":"Pimas","cluster":0,"cluster_corrected":""}
+{"text":"Montagne","cluster":1,"cluster_corrected":""}
+{"text":"mignonne","cluster":1,"cluster_corrected":""}
+{"text":"A","cluster":1,"cluster_corrected":""}
+{"text":"Montagne de la cloche","cluster":1,"cluster_corrected":""}
+{"text":"Sermon","cluster":1,"cluster_corrected":""}
+{"text":"Mont\u00e9","cluster":1,"cluster_corrected":""}
+{"text":"Rouges","cluster":2,"cluster_corrected":""}
+{"text":"R\u00e9gences d'Alger","cluster":2,"cluster_corrected":""}
+{"text":"rivi\u00e8re Rouge","cluster":2,"cluster_corrected":""}
+{"text":"Osages","cluster":2,"cluster_corrected":""}
+{"text":"Peaux-Rouges","cluster":2,"cluster_corrected":""}
+{"text":"P\u00e9rou","cluster":2,"cluster_corrected":""}
+{"text":"Vaincue","cluster":3,"cluster_corrected":""}
+{"text":"Convaincu","cluster":3,"cluster_corrected":""}
+{"text":"Incas","cluster":3,"cluster_corrected":""}
+{"text":"Indiens","cluster":4,"cluster_corrected":""}
+{"text":"Tiens","cluster":4,"cluster_corrected":""}
+{"text":"Indiennes","cluster":4,"cluster_corrected":""}
+{"text":"L'Indien","cluster":4,"cluster_corrected":""}
+{"text":"Les Indiens","cluster":4,"cluster_corrected":""}
+{"text":"brunie","cluster":4,"cluster_corrected":""}
+{"text":"Mocksens","cluster":4,"cluster_corrected":""}
+{"text":"Indien","cluster":4,"cluster_corrected":""}
+{"text":"Combien","cluster":4,"cluster_corrected":""}
+{"text":"Indiens Lune","cluster":4,"cluster_corrected":""}
+{"text":"Linn\u00e9e","cluster":4,"cluster_corrected":""}
+{"text":"Vert-de-Gris","cluster":5,"cluster_corrected":""}
+{"text":"grotte du Vert-de-gris","cluster":5,"cluster_corrected":""}
+{"text":"Vert-de-gris","cluster":5,"cluster_corrected":""}
+{"text":"Am\u00e9ricaines","cluster":6,"cluster_corrected":""}
+{"text":"Mexico","cluster":6,"cluster_corrected":""}
+{"text":"Mexicains","cluster":6,"cluster_corrected":""}
 {"text":"cath\u00e9drale de Mexico","cluster":6,"cluster_corrected":""}
-{"text":"Montagne de la cloche","cluster":6,"cluster_corrected":""}
-{"text":"Cher","cluster":7,"cluster_corrected":""}
-{"text":"Och","cluster":7,"cluster_corrected":""}
-{"text":"Cach\u00e9","cluster":7,"cluster_corrected":""}
-{"text":"\u2013\u00a0Cher","cluster":7,"cluster_corrected":""}
-{"text":"Apacheria","cluster":7,"cluster_corrected":""}
-{"text":"Apaches","cluster":7,"cluster_corrected":""}
-{"text":"Hermosillo","cluster":7,"cluster_corrected":""}
-{"text":"tercushenan","cluster":7,"cluster_corrected":""}
-{"text":"ch\u00eane-li\u00e8ge","cluster":7,"cluster_corrected":""}
-{"text":"Chose","cluster":7,"cluster_corrected":""}
-{"text":"Indien","cluster":8,"cluster_corrected":""}
-{"text":"L'Indien","cluster":8,"cluster_corrected":""}
-{"text":"Indien Osage","cluster":8,"cluster_corrected":""}
-{"text":"Indiens","cluster":8,"cluster_corrected":""}
-{"text":"Les Indiens","cluster":8,"cluster_corrected":""}
-{"text":"jardin des Oliviers","cluster":8,"cluster_corrected":""}
-{"text":"Indiennes","cluster":8,"cluster_corrected":""}
-{"text":"\u00c9tats de Durango","cluster":9,"cluster_corrected":""}
-{"text":"\u00c9tat","cluster":9,"cluster_corrected":""}
-{"text":"\u00c9tats","cluster":9,"cluster_corrected":""}
-{"text":"\u00c9tats barbaresques","cluster":9,"cluster_corrected":""}
-{"text":"\u00c9tats-Unis","cluster":9,"cluster_corrected":""}
-{"text":"tapia","cluster":9,"cluster_corrected":""}
-{"text":"Rouges","cluster":10,"cluster_corrected":""}
-{"text":"Peaux-Rouges","cluster":10,"cluster_corrected":""}
-{"text":"Osages","cluster":10,"cluster_corrected":""}
-{"text":"Guadeloupe","cluster":10,"cluster_corrected":""}
-{"text":"P\u00e9rou","cluster":10,"cluster_corrected":""}
-{"text":"rivi\u00e8re Rouge","cluster":10,"cluster_corrected":""}
-{"text":"R\u00e9gences d'Alger","cluster":10,"cluster_corrected":""}
-{"text":"N\u00e8gre Jupiter","cluster":11,"cluster_corrected":""}
-{"text":"Pitic","cluster":11,"cluster_corrected":""}
-{"text":"Jupiter","cluster":11,"cluster_corrected":""}
-{"text":"N\u00e8gre","cluster":11,"cluster_corrected":""}
-{"text":"Rome","cluster":12,"cluster_corrected":""}
-{"text":"Prologue","cluster":12,"cluster_corrected":""}
-{"text":"Prompt","cluster":12,"cluster_corrected":""}
-{"text":"Sept","cluster":12,"cluster_corrected":""}
-{"text":"surpr\u00eet","cluster":12,"cluster_corrected":""}
-{"text":"Regardez","cluster":13,"cluster_corrected":""}
-{"text":"Gardez","cluster":13,"cluster_corrected":""}
-{"text":"Bermudez","cluster":13,"cluster_corrected":""}
-{"text":"Delawares","cluster":13,"cluster_corrected":""}
-{"text":"ashahas","cluster":14,"cluster_corrected":""}
-{"text":"Pas","cluster":14,"cluster_corrected":""}
-{"text":"Guaymas","cluster":14,"cluster_corrected":""}
-{"text":"Opatas","cluster":14,"cluster_corrected":""}
-{"text":"Pimas","cluster":14,"cluster_corrected":""}
-{"text":"pasto","cluster":14,"cluster_corrected":""}
-{"text":"letras","cluster":14,"cluster_corrected":""}
-{"text":"\u2013\u00a0Pas","cluster":14,"cluster_corrected":""}
-{"text":"San Agustin","cluster":15,"cluster_corrected":""}
-{"text":"Syracuse","cluster":15,"cluster_corrected":""}
-{"text":"us","cluster":15,"cluster_corrected":""}
-{"text":"Pouss\u00e9","cluster":15,"cluster_corrected":""}
-{"text":"Russe","cluster":15,"cluster_corrected":""}
-{"text":"Eus\u00e9bio","cluster":15,"cluster_corrected":""}
-{"text":"Arriv\u00e9s","cluster":16,"cluster_corrected":""}
-{"text":"Rosario","cluster":16,"cluster_corrected":""}
-{"text":"Salvator Rosa","cluster":16,"cluster_corrected":""}
-{"text":"Cricks","cluster":16,"cluster_corrected":""}
-{"text":"Tripoli","cluster":16,"cluster_corrected":""}
-{"text":"Le C\u0153ur-Loyal sourit","cluster":17,"cluster_corrected":""}
+{"text":"camp des Mexicains","cluster":6,"cluster_corrected":""}
+{"text":"Mexique","cluster":6,"cluster_corrected":""}
+{"text":"Flora mexicana","cluster":6,"cluster_corrected":""}
+{"text":"Am\u00e9ricains","cluster":6,"cluster_corrected":""}
+{"text":"Sonora","cluster":7,"cluster_corrected":""}
+{"text":"p\u00e9on","cluster":7,"cluster_corrected":""}
+{"text":"\u2013\u00a0Non","cluster":7,"cluster_corrected":""}
+{"text":"\u00c9tat de Sonora","cluster":7,"cluster_corrected":""}
+{"text":"Conf\u00e9d\u00e9ration","cluster":7,"cluster_corrected":""}
+{"text":"Chimborazo","cluster":7,"cluster_corrected":""}
+{"text":"Bison","cluster":7,"cluster_corrected":""}
+{"text":"du Nord","cluster":7,"cluster_corrected":""}
+{"text":"Rafa\u00ebl","cluster":7,"cluster_corrected":""}
+{"text":"Natosh","cluster":8,"cluster_corrected":""}
+{"text":"Plateros","cluster":8,"cluster_corrected":""}
+{"text":"lanceros","cluster":8,"cluster_corrected":""}
+{"text":"los Plateros","cluster":8,"cluster_corrected":""}
+{"text":"D\u00e9licate","cluster":8,"cluster_corrected":""}
+{"text":"Arkansas","cluster":9,"cluster_corrected":""}
+{"text":"Sautant","cluster":9,"cluster_corrected":""}
+{"text":"sang-m\u00eal\u00e9","cluster":9,"cluster_corrected":""}
+{"text":"Vivant","cluster":9,"cluster_corrected":""}
+{"text":"Sauv\u00e9e","cluster":9,"cluster_corrected":""}
+{"text":"l'Am\u00e9rique du Nord","cluster":10,"cluster_corrected":""}
+{"text":"l'Am\u00e9rique","cluster":10,"cluster_corrected":""}
+{"text":"l'Afrique","cluster":10,"cluster_corrected":""}
+{"text":"Am\u00e9rique","cluster":10,"cluster_corrected":""}
+{"text":"Utique","cluster":10,"cluster_corrected":""}
+{"text":"piste des jaguars","cluster":11,"cluster_corrected":""}
+{"text":"Eshis","cluster":11,"cluster_corrected":""}
+{"text":"golfe de Californie","cluster":11,"cluster_corrected":""}
+{"text":"piste des","cluster":11,"cluster_corrected":""}
+{"text":"piste","cluster":11,"cluster_corrected":""}
+{"text":"de l'Ouest","cluster":11,"cluster_corrected":""}
+{"text":"piste des Comanches","cluster":11,"cluster_corrected":""}
+{"text":"mornes","cluster":12,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pauvre Cornejo","cluster":12,"cluster_corrected":""}
+{"text":"Cornejo","cluster":12,"cluster_corrected":""}
+{"text":"Cordoue","cluster":12,"cluster_corrected":""}
+{"text":"Assis","cluster":13,"cluster_corrected":""}
+{"text":"Mississippi","cluster":13,"cluster_corrected":""}
+{"text":"Assiniboins","cluster":13,"cluster_corrected":""}
+{"text":"Tripoli","cluster":14,"cluster_corrected":""}
+{"text":"Arm\u00e9s","cluster":14,"cluster_corrected":""}
+{"text":"Arriv\u00e9s","cluster":14,"cluster_corrected":""}
+{"text":"Cricks","cluster":14,"cluster_corrected":""}
+{"text":"Cuivr\u00e9s","cluster":14,"cluster_corrected":""}
+{"text":"\u2013\u00a0\u00c9coutez\u00a0!","cluster":15,"cluster_corrected":""}
+{"text":"\u2013\u00a0\u00c9coutez","cluster":15,"cluster_corrected":""}
+{"text":"\u2013","cluster":15,"cluster_corrected":""}
+{"text":"\u00c9coutez","cluster":15,"cluster_corrected":""}
+{"text":"Ouaktehno","cluster":15,"cluster_corrected":""}
+{"text":"\u2013\u00a0Que","cluster":16,"cluster_corrected":""}
+{"text":"Qu\u00e9bec","cluster":16,"cluster_corrected":""}
+{"text":"\u2013\u00a0Quels","cluster":16,"cluster_corrected":""}
+{"text":"\u2013\u00a0Quant \u00e0 vous, ma ni\u00e8ce","cluster":16,"cluster_corrected":""}
 {"text":"Le C\u0153ur","cluster":17,"cluster_corrected":""}
 {"text":"Le C\u0153ur-Loyal","cluster":17,"cluster_corrected":""}
+{"text":"Le C\u0153ur-Loyal sourit","cluster":17,"cluster_corrected":""}
 {"text":"C\u0153ur-Loyal","cluster":17,"cluster_corrected":""}
-{"text":"l'Am\u00e9rique du Nord","cluster":18,"cluster_corrected":""}
-{"text":"Am\u00e9rique du Nord","cluster":18,"cluster_corrected":""}
-{"text":"Am\u00e9rique du Sud","cluster":18,"cluster_corrected":""}
-{"text":"du Nord","cluster":18,"cluster_corrected":""}
-{"text":"l'Am\u00e9rique","cluster":18,"cluster_corrected":""}
-{"text":"rue du Rosaire","cluster":18,"cluster_corrected":""}
-{"text":"Am\u00e9rique","cluster":18,"cluster_corrected":""}
-{"text":"Cordoue","cluster":18,"cluster_corrected":""}
-{"text":"Mont\u00e9","cluster":19,"cluster_corrected":""}
-{"text":"Ramon","cluster":19,"cluster_corrected":""}
-{"text":"Montagne","cluster":19,"cluster_corrected":""}
-{"text":"Nonchalamment","cluster":19,"cluster_corrected":""}
-{"text":"\u2013\u00a0Essayons","cluster":19,"cluster_corrected":""}
-{"text":"Montrons","cluster":19,"cluster_corrected":""}
-{"text":"\u2013\u00a0Sont","cluster":19,"cluster_corrected":""}
-{"text":"Allons","cluster":19,"cluster_corrected":""}
-{"text":"Finissons-en","cluster":19,"cluster_corrected":""}
-{"text":"p\u00e9on","cluster":19,"cluster_corrected":""}
-{"text":"Tr\u00eave","cluster":19,"cluster_corrected":""}
-{"text":"Sermon","cluster":19,"cluster_corrected":""}
-{"text":"H\u00e2tons","cluster":19,"cluster_corrected":""}
-{"text":"Bonjour","cluster":19,"cluster_corrected":""}
-{"text":"Buenas","cluster":20,"cluster_corrected":""}
-{"text":"Canadien","cluster":20,"cluster_corrected":""}
-{"text":"matanza del ganado","cluster":20,"cluster_corrected":""}
-{"text":"ganado","cluster":20,"cluster_corrected":""}
-{"text":"Canadienne","cluster":20,"cluster_corrected":""}
-{"text":"Voulez","cluster":21,"cluster_corrected":""}
-{"text":"voulez","cluster":21,"cluster_corrected":""}
-{"text":"Allez","cluster":21,"cluster_corrected":""}
-{"text":"XII","cluster":22,"cluster_corrected":""}
-{"text":"XI","cluster":22,"cluster_corrected":""}
-{"text":"II","cluster":22,"cluster_corrected":""}
-{"text":"Comanche","cluster":23,"cluster_corrected":""}
-{"text":"Charmant","cluster":23,"cluster_corrected":""}
-{"text":"Les Comanches","cluster":23,"cluster_corrected":""}
-{"text":"manche","cluster":23,"cluster_corrected":""}
-{"text":"Comanches","cluster":23,"cluster_corrected":""}
-{"text":"piste des Comanches","cluster":23,"cluster_corrected":""}
-{"text":"\u0153il du Comanche","cluster":23,"cluster_corrected":""}
-{"text":"Linn\u00e9e","cluster":24,"cluster_corrected":""}
-{"text":"les Incas","cluster":24,"cluster_corrected":""}
-{"text":"Incas","cluster":24,"cluster_corrected":""}
-{"text":"Assiniboins","cluster":24,"cluster_corrected":""}
-{"text":"Mocksens","cluster":25,"cluster_corrected":""}
-{"text":"Vieux-Ch\u00eane","cluster":25,"cluster_corrected":""}
-{"text":"Chiens","cluster":25,"cluster_corrected":""}
-{"text":"Viens","cluster":25,"cluster_corrected":""}
-{"text":"VI","cluster":25,"cluster_corrected":""}
-{"text":"Tiens","cluster":25,"cluster_corrected":""}
-{"text":"\u2013\u00a0Bah\u00a0!","cluster":26,"cluster_corrected":""}
-{"text":"bah","cluster":26,"cluster_corrected":""}
-{"text":"\u2013\u00a0Bah","cluster":26,"cluster_corrected":""}
-{"text":"\u2013\u00a0Hol\u00e0","cluster":26,"cluster_corrected":""}
-{"text":"\u2013\u00a0Oui","cluster":26,"cluster_corrected":""}
-{"text":"\u2013\u00a0Quels","cluster":27,"cluster_corrected":""}
-{"text":"Qu\u00e9bec","cluster":27,"cluster_corrected":""}
-{"text":"Quelles","cluster":27,"cluster_corrected":""}
-{"text":"\u2013\u00a0Que","cluster":27,"cluster_corrected":""}
-{"text":"Prends","cluster":28,"cluster_corrected":""}
-{"text":"muette","cluster":28,"cluster_corrected":""}
-{"text":"Attends","cluster":28,"cluster_corrected":""}
-{"text":"Attendre","cluster":28,"cluster_corrected":""}
-{"text":"hatto","cluster":28,"cluster_corrected":""}
-{"text":"\u2013\u00a0Figurez","cluster":29,"cluster_corrected":""}
-{"text":"\u2013\u00a0Relevez","cluster":29,"cluster_corrected":""}
-{"text":"Rendez","cluster":29,"cluster_corrected":""}
-{"text":"\u2013\u00a0Excellent","cluster":29,"cluster_corrected":""}
-{"text":"\u2013\u00a0Rentrez","cluster":29,"cluster_corrected":""}
-{"text":"Revenant","cluster":29,"cluster_corrected":""}
-{"text":"Rassurez","cluster":29,"cluster_corrected":""}
-{"text":"Coq","cluster":30,"cluster_corrected":""}
-{"text":"coquins","cluster":30,"cluster_corrected":""}
-{"text":"\u2013\u00a0Pardieu\u00a0!","cluster":31,"cluster_corrected":""}
-{"text":"\u2013\u00a0Diable","cluster":31,"cluster_corrected":""}
-{"text":"\u2013\u00a0Diable\u00a0!","cluster":31,"cluster_corrected":""}
+{"text":"oblige\u00e2t","cluster":18,"cluster_corrected":""}
+{"text":"ch\u00eane-li\u00e8ge","cluster":18,"cluster_corrected":""}
+{"text":"Vieux-Ch\u00eane","cluster":18,"cluster_corrected":""}
+{"text":"soleil","cluster":19,"cluster_corrected":""}
+{"text":"Soleil","cluster":19,"cluster_corrected":""}
+{"text":"Le Soleil","cluster":19,"cluster_corrected":""}
+{"text":"volez","cluster":19,"cluster_corrected":""}
+{"text":"le Soleil","cluster":19,"cluster_corrected":""}
+{"text":"le soleil","cluster":19,"cluster_corrected":""}
+{"text":"Le soleil","cluster":19,"cluster_corrected":""}
+{"text":"Apaches","cluster":20,"cluster_corrected":""}
+{"text":"tercushenan","cluster":20,"cluster_corrected":""}
+{"text":"Och","cluster":20,"cluster_corrected":""}
+{"text":"Cher","cluster":20,"cluster_corrected":""}
+{"text":"Meegvoitch","cluster":20,"cluster_corrected":""}
+{"text":"hein","cluster":20,"cluster_corrected":""}
+{"text":"Apacheria","cluster":20,"cluster_corrected":""}
+{"text":"Chercher","cluster":20,"cluster_corrected":""}
+{"text":"Hermosillo","cluster":20,"cluster_corrected":""}
+{"text":"Avez","cluster":21,"cluster_corrected":""}
+{"text":"\u2013\u00a0Tenez","cluster":21,"cluster_corrected":""}
+{"text":"\u2013\u00a0Venez","cluster":21,"cluster_corrected":""}
+{"text":"\u2013\u00a0Aucune","cluster":21,"cluster_corrected":""}
+{"text":"\u2013\u00a0Voyez","cluster":21,"cluster_corrected":""}
+{"text":"Reculerais","cluster":22,"cluster_corrected":""}
+{"text":"Veillerai","cluster":22,"cluster_corrected":""}
+{"text":"selle","cluster":22,"cluster_corrected":""}
+{"text":"\u2013\u00a0Veillerai","cluster":22,"cluster_corrected":""}
+{"text":"Miracle","cluster":22,"cluster_corrected":""}
+{"text":"letras","cluster":22,"cluster_corrected":""}
+{"text":"Conseille","cluster":22,"cluster_corrected":""}
+{"text":"Regardez","cluster":23,"cluster_corrected":""}
+{"text":"Gardez","cluster":23,"cluster_corrected":""}
+{"text":"Accordez","cluster":23,"cluster_corrected":""}
+{"text":"Bermudez","cluster":23,"cluster_corrected":""}
+{"text":"\u2013\u00a0Gardez","cluster":23,"cluster_corrected":""}
+{"text":"Delawares","cluster":23,"cluster_corrected":""}
+{"text":"alluma","cluster":24,"cluster_corrected":""}
+{"text":"Luz","cluster":24,"cluster_corrected":""}
+{"text":"\u2013\u00a0Oui, appuya Belhumeur","cluster":25,"cluster_corrected":""}
+{"text":"Belhumeur","cluster":25,"cluster_corrected":""}
+{"text":"el Cerro","cluster":26,"cluster_corrected":""}
+{"text":"Cerro de la campana","cluster":26,"cluster_corrected":""}
+{"text":"Merced","cluster":26,"cluster_corrected":""}
+{"text":"Cerro","cluster":26,"cluster_corrected":""}
+{"text":"Angleterre","cluster":26,"cluster_corrected":""}
+{"text":"sierra Madre","cluster":26,"cluster_corrected":""}
+{"text":"Le N\u00e8gre","cluster":27,"cluster_corrected":""}
+{"text":"N\u00e8gre Jupiter","cluster":27,"cluster_corrected":""}
+{"text":"Jupiter","cluster":27,"cluster_corrected":""}
+{"text":"Pitic","cluster":27,"cluster_corrected":""}
+{"text":"N\u00e8gre","cluster":27,"cluster_corrected":""}
+{"text":"calle del Rosario","cluster":28,"cluster_corrected":""}
+{"text":"calle San Agustin","cluster":28,"cluster_corrected":""}
+{"text":"San Agustin","cluster":28,"cluster_corrected":""}
+{"text":"I","cluster":28,"cluster_corrected":""}
+{"text":"hacienda del Milagro","cluster":29,"cluster_corrected":""}
+{"text":"hacienda del milagro","cluster":29,"cluster_corrected":""}
+{"text":"Grande","cluster":30,"cluster_corrected":""}
+{"text":"\u2013\u00a0Relevez","cluster":30,"cluster_corrected":""}
+{"text":"R\u00e9pondez","cluster":30,"cluster_corrected":""}
+{"text":"\u2013\u00a0Rassurez","cluster":30,"cluster_corrected":""}
+{"text":"\u2013\u00a0Rendez","cluster":30,"cluster_corrected":""}
+{"text":"retirez","cluster":30,"cluster_corrected":""}
+{"text":"\u2013\u00a0Attends","cluster":30,"cluster_corrected":""}
+{"text":"\u2013\u00a0Figurez","cluster":30,"cluster_corrected":""}
+{"text":"Sept","cluster":31,"cluster_corrected":""}
+{"text":"lepero","cluster":31,"cluster_corrected":""}
+{"text":"Caballero","cluster":31,"cluster_corrected":""}
+{"text":"Leperos","cluster":31,"cluster_corrected":""}
 {"text":"Pacifique","cluster":32,"cluster_corrected":""}
-{"text":"Ciboto","cluster":32,"cluster_corrected":""}
-{"text":"Utique","cluster":32,"cluster_corrected":""}
-{"text":"pacifique","cluster":32,"cluster_corrected":""}
-{"text":"l'Afrique","cluster":32,"cluster_corrected":""}
+{"text":"Oc\u00e9an","cluster":32,"cluster_corrected":""}
 {"text":"oc\u00e9an Pacifique","cluster":32,"cluster_corrected":""}
-{"text":"Noirs","cluster":33,"cluster_corrected":""}
-{"text":"Chinois","cluster":33,"cluster_corrected":""}
-{"text":"Pieds-Noirs","cluster":33,"cluster_corrected":""}
-{"text":"\u00c9lan-Noir","cluster":33,"cluster_corrected":""}
-{"text":"Venez","cluster":34,"cluster_corrected":""}
-{"text":"\u2013\u00a0Tenez","cluster":34,"cluster_corrected":""}
-{"text":"Mettez","cluster":34,"cluster_corrected":""}
-{"text":"\u2013\u00a0Kennedy","cluster":34,"cluster_corrected":""}
-{"text":"Ouaktehno","cluster":34,"cluster_corrected":""}
-{"text":"Prenez-le","cluster":34,"cluster_corrected":""}
-{"text":"Tenez","cluster":34,"cluster_corrected":""}
-{"text":"\u00c9coutez","cluster":34,"cluster_corrected":""}
-{"text":"H\u00e2tez","cluster":34,"cluster_corrected":""}
-{"text":"Nehu nutah","cluster":35,"cluster_corrected":""}
-{"text":"Ooah","cluster":35,"cluster_corrected":""}
-{"text":"Ooouh","cluster":35,"cluster_corrected":""}
-{"text":"Providence","cluster":36,"cluster_corrected":""}
-{"text":"La Providence","cluster":36,"cluster_corrected":""}
-{"text":"hacienda del Milagro","cluster":36,"cluster_corrected":""}
-{"text":"r\u00e9pondrez","cluster":37,"cluster_corrected":""}
-{"text":"R\u00e9pondez","cluster":37,"cluster_corrected":""}
-{"text":"bois-chandelle","cluster":37,"cluster_corrected":""}
-{"text":"Oc\u00e9an","cluster":38,"cluster_corrected":""}
-{"text":"Oc\u00e9ans","cluster":38,"cluster_corrected":""}
-{"text":"Sommes","cluster":39,"cluster_corrected":""}
-{"text":"adoves","cluster":39,"cluster_corrected":""}
-{"text":"d\u00e9tel\u00e9es","cluster":39,"cluster_corrected":""}
-{"text":"\u2013\u00a0Est","cluster":39,"cluster_corrected":""}
-{"text":"Essayez","cluster":39,"cluster_corrected":""}
-{"text":"Est","cluster":39,"cluster_corrected":""}
-{"text":"piste des jaguars","cluster":39,"cluster_corrected":""}
-{"text":"trappes","cluster":39,"cluster_corrected":""}
-{"text":"Eshis","cluster":39,"cluster_corrected":""}
-{"text":"Ouest","cluster":39,"cluster_corrected":""}
-{"text":"Rest\u00e9","cluster":39,"cluster_corrected":""}
-{"text":"\u00c9tat de Sonora","cluster":40,"cluster_corrected":""}
-{"text":"songerais-tu","cluster":40,"cluster_corrected":""}
-{"text":"Chimborazo","cluster":40,"cluster_corrected":""}
-{"text":"Conf\u00e9d\u00e9ration","cluster":40,"cluster_corrected":""}
-{"text":"Sonora","cluster":40,"cluster_corrected":""}
-{"text":"Bison","cluster":40,"cluster_corrected":""}
-{"text":"mignonne","cluster":40,"cluster_corrected":""}
-{"text":"\u2013\u00a0Non","cluster":40,"cluster_corrected":""}
-{"text":"I","cluster":41,"cluster_corrected":""}
-{"text":"Le soleil","cluster":41,"cluster_corrected":""}
-{"text":"soleil","cluster":41,"cluster_corrected":""}
-{"text":"le soleil","cluster":41,"cluster_corrected":""}
-{"text":"Soleil","cluster":41,"cluster_corrected":""}
-{"text":"le Soleil","cluster":41,"cluster_corrected":""}
-{"text":"Conseille","cluster":41,"cluster_corrected":""}
-{"text":"\u00c9lev\u00e9e","cluster":41,"cluster_corrected":""}
-{"text":"Le Soleil","cluster":41,"cluster_corrected":""}
-{"text":"besogne","cluster":42,"cluster_corrected":""}
-{"text":"lune","cluster":42,"cluster_corrected":""}
-{"text":"Lune","cluster":42,"cluster_corrected":""}
-{"text":"Pawnees","cluster":42,"cluster_corrected":""}
-{"text":"jeun","cluster":42,"cluster_corrected":""}
-{"text":"Jeunes","cluster":42,"cluster_corrected":""}
-{"text":"A","cluster":42,"cluster_corrected":""}
-{"text":"H\u00e2te-toi","cluster":43,"cluster_corrected":""}
-{"text":"TUE","cluster":43,"cluster_corrected":""}
-{"text":"\u2013\u00a0Tuez-moi","cluster":43,"cluster_corrected":""}
-{"text":"\u2013\u00a0Tue-moi","cluster":43,"cluster_corrected":""}
-{"text":"Moi-m\u00eame","cluster":43,"cluster_corrected":""}
-{"text":"Combien","cluster":44,"cluster_corrected":""}
-{"text":"\u2013\u00a0Tr\u00e8s bien","cluster":44,"cluster_corrected":""}
-{"text":"\u2013\u00a0Bien\u00a0!","cluster":44,"cluster_corrected":""}
-{"text":"\u2013\u00a0Rien","cluster":44,"cluster_corrected":""}
-{"text":"\u2013\u00a0Bien, ma fille","cluster":44,"cluster_corrected":""}
-{"text":"\u2013\u00a0Bien","cluster":44,"cluster_corrected":""}
-{"text":"Blancs-Yeux","cluster":45,"cluster_corrected":""}
-{"text":"Oubli\u00e9","cluster":45,"cluster_corrected":""}
-{"text":"T\u00eate-Blanche","cluster":45,"cluster_corrected":""}
-{"text":"Blanc","cluster":45,"cluster_corrected":""}
-{"text":"France","cluster":45,"cluster_corrected":""}
-{"text":"Blancs","cluster":45,"cluster_corrected":""}
-{"text":"Ch\u00e2teaux Blancs","cluster":45,"cluster_corrected":""}
-{"text":"Se\u00f1orita","cluster":46,"cluster_corrected":""}
-{"text":"\u2013\u00a0Jesusita","cluster":46,"cluster_corrected":""}
-{"text":"Jesusita","cluster":46,"cluster_corrected":""}
-{"text":"Do\u00f1a Jesusita","cluster":46,"cluster_corrected":""}
-{"text":"el Cerro","cluster":47,"cluster_corrected":""}
-{"text":"Albaceyte","cluster":47,"cluster_corrected":""}
-{"text":"Plateros","cluster":47,"cluster_corrected":""}
-{"text":"Certain","cluster":47,"cluster_corrected":""}
-{"text":"lanceros","cluster":47,"cluster_corrected":""}
-{"text":"Merced","cluster":47,"cluster_corrected":""}
-{"text":"Leperos","cluster":47,"cluster_corrected":""}
-{"text":"Cerro","cluster":47,"cluster_corrected":""}
-{"text":"l'Europe","cluster":48,"cluster_corrected":""}
-{"text":"Acropolis","cluster":48,"cluster_corrected":""}
-{"text":"Peaux","cluster":48,"cluster_corrected":""}
-{"text":"vieille Europe","cluster":48,"cluster_corrected":""}
-{"text":"Europe","cluster":48,"cluster_corrected":""}
-{"text":"Cr\u00e9ateur","cluster":48,"cluster_corrected":""}
-{"text":"Vert-de-Gris","cluster":49,"cluster_corrected":""}
-{"text":"Vert-de-gris","cluster":49,"cluster_corrected":""}
-{"text":"grotte du Vert-de-gris","cluster":49,"cluster_corrected":""}
-{"text":"alguazils","cluster":50,"cluster_corrected":""}
-{"text":"rio Gila","cluster":50,"cluster_corrected":""}
-{"text":"Babillard","cluster":50,"cluster_corrected":""}
-{"text":"Aguilar","cluster":50,"cluster_corrected":""}
-{"text":"Cuivr\u00e9s","cluster":50,"cluster_corrected":""}
-{"text":"Guadalajara","cluster":50,"cluster_corrected":""}
-{"text":"Pardonnez","cluster":51,"cluster_corrected":""}
-{"text":"Rapportez","cluster":51,"cluster_corrected":""}
-{"text":"Cortez","cluster":51,"cluster_corrected":""}
-{"text":"Arr\u00eatez","cluster":51,"cluster_corrected":""}
-{"text":"Parlez","cluster":51,"cluster_corrected":""}
-{"text":"Carthage","cluster":51,"cluster_corrected":""}
-{"text":"Partez","cluster":51,"cluster_corrected":""}
-{"text":"\u00e9pargnez-les-moi","cluster":51,"cluster_corrected":""}
-{"text":"Partons","cluster":51,"cluster_corrected":""}
-{"text":"prierez","cluster":52,"cluster_corrected":""}
-{"text":"Bourreau","cluster":52,"cluster_corrected":""}
-{"text":"\u2013\u00a0Esp\u00e9rer","cluster":52,"cluster_corrected":""}
-{"text":"Angleterre","cluster":52,"cluster_corrected":""}
-{"text":"Derri\u00e8re","cluster":52,"cluster_corrected":""}
-{"text":"sierra Madre","cluster":52,"cluster_corrected":""}
-{"text":"terre","cluster":52,"cluster_corrected":""}
-{"text":"Grande","cluster":53,"cluster_corrected":""}
-{"text":"Veillerai","cluster":53,"cluster_corrected":""}
-{"text":"Carai","cluster":53,"cluster_corrected":""}
-{"text":"Durango","cluster":53,"cluster_corrected":""}
-{"text":"Rafa\u00ebl","cluster":53,"cluster_corrected":""}
-{"text":"Reculerais-tu","cluster":53,"cluster_corrected":""}
-{"text":"Cara\u00ef","cluster":53,"cluster_corrected":""}
-{"text":"Avez","cluster":53,"cluster_corrected":""}
-{"text":"graverai","cluster":53,"cluster_corrected":""}
-{"text":"Anglais","cluster":54,"cluster_corrected":""}
-{"text":"Mississippi","cluster":54,"cluster_corrected":""}
-{"text":"venaison","cluster":54,"cluster_corrected":""}
-{"text":"Fran\u00e7ais","cluster":54,"cluster_corrected":""}
-{"text":"Vaincue","cluster":54,"cluster_corrected":""}
-{"text":"Vais","cluster":54,"cluster_corrected":""}
-{"text":"Convaincu","cluster":54,"cluster_corrected":""}
-{"text":"gambusinos demi-sang","cluster":55,"cluster_corrected":""}
-{"text":"gambusinos mexicains","cluster":55,"cluster_corrected":""}
-{"text":"gambusinos","cluster":55,"cluster_corrected":""}
-{"text":"Gambusinos","cluster":55,"cluster_corrected":""}
-{"text":"Panama","cluster":56,"cluster_corrected":""}
-{"text":"wampums","cluster":56,"cluster_corrected":""}
-{"text":"campana","cluster":56,"cluster_corrected":""}
-{"text":"Arkansas","cluster":57,"cluster_corrected":""}
-{"text":"\u2013\u00a0Maintenant","cluster":57,"cluster_corrected":""}
-{"text":"Sautant","cluster":57,"cluster_corrected":""}
-{"text":"Vivant","cluster":57,"cluster_corrected":""}
-{"text":"D\u00e9cid\u00e9ment","cluster":57,"cluster_corrected":""}
-{"text":"Pensant","cluster":57,"cluster_corrected":""}
+{"text":"pacifique","cluster":32,"cluster_corrected":""}
+{"text":"Russe","cluster":33,"cluster_corrected":""}
+{"text":"us","cluster":33,"cluster_corrected":""}
+{"text":"Jesusita","cluster":33,"cluster_corrected":""}
+{"text":"Syracuse","cluster":33,"cluster_corrected":""}
+{"text":"rue du Rosaire","cluster":34,"cluster_corrected":""}
+{"text":"Fran\u00e7ais","cluster":34,"cluster_corrected":""}
+{"text":"venaison","cluster":34,"cluster_corrected":""}
+{"text":"Anglais","cluster":34,"cluster_corrected":""}
+{"text":"sais","cluster":34,"cluster_corrected":""}
+{"text":"Puissance","cluster":34,"cluster_corrected":""}
+{"text":"Salvator Rosa","cluster":34,"cluster_corrected":""}
+{"text":"\u2013\u00a0Commen\u00e7ons","cluster":35,"cluster_corrected":""}
+{"text":"Sommes","cluster":35,"cluster_corrected":""}
+{"text":"Rome","cluster":35,"cluster_corrected":""}
+{"text":"Hommes","cluster":35,"cluster_corrected":""}
+{"text":"la feuill\u00e9e","cluster":36,"cluster_corrected":""}
+{"text":"Guadalajara","cluster":36,"cluster_corrected":""}
+{"text":"alguazils","cluster":36,"cluster_corrected":""}
+{"text":"Aguilar","cluster":36,"cluster_corrected":""}
+{"text":"rio Gila","cluster":36,"cluster_corrected":""}
+{"text":"Babillard","cluster":36,"cluster_corrected":""}
+{"text":"Voil\u00e0","cluster":36,"cluster_corrected":""}
+{"text":"\u2013\u00a0H\u00e2te-toi","cluster":37,"cluster_corrected":""}
+{"text":"H\u00e2tez","cluster":37,"cluster_corrected":""}
+{"text":"\u2013\u00a0H\u00e2tez","cluster":37,"cluster_corrected":""}
+{"text":"\u2013\u00a0Hol\u00e0","cluster":37,"cluster_corrected":""}
+{"text":"ashahas","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pas encore","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pas trop bien","cluster":38,"cluster_corrected":""}
+{"text":"pasto","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Parfaitement","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pas moi","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pas","cluster":38,"cluster_corrected":""}
+{"text":"Opatas","cluster":38,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pauvre","cluster":38,"cluster_corrected":""}
+{"text":"Chacun","cluster":39,"cluster_corrected":""}
+{"text":"Ph\u00e9b\u00e9","cluster":39,"cluster_corrected":""}
+{"text":"Cach\u00e9","cluster":39,"cluster_corrected":""}
+{"text":"\u2013\u00a0Cach\u00e9","cluster":39,"cluster_corrected":""}
+{"text":"d'Espagne","cluster":40,"cluster_corrected":""}
+{"text":"Espagnols","cluster":40,"cluster_corrected":""}
+{"text":"Espagnol","cluster":40,"cluster_corrected":""}
+{"text":"Pawnees","cluster":40,"cluster_corrected":""}
+{"text":"II","cluster":40,"cluster_corrected":""}
+{"text":"\u2013\u00a0Esp\u00e9rez","cluster":41,"cluster_corrected":""}
+{"text":"\u2013\u00a0Essayez","cluster":41,"cluster_corrected":""}
+{"text":"\u00c7\u00e0","cluster":41,"cluster_corrected":""}
+{"text":"\u2013\u00a0Est","cluster":41,"cluster_corrected":""}
+{"text":"Ouest","cluster":41,"cluster_corrected":""}
+{"text":"trappes","cluster":41,"cluster_corrected":""}
+{"text":"Gambusinos","cluster":42,"cluster_corrected":""}
+{"text":"gambusinos mexicains","cluster":42,"cluster_corrected":""}
+{"text":"gambusinos demi-sang","cluster":42,"cluster_corrected":""}
+{"text":"gambusinos","cluster":42,"cluster_corrected":""}
+{"text":"\u00c9tat","cluster":43,"cluster_corrected":""}
+{"text":"\u00c9tats de Durango","cluster":43,"cluster_corrected":""}
+{"text":"\u00c9tats-Unis","cluster":43,"cluster_corrected":""}
+{"text":"\u00c9tats barbaresques","cluster":43,"cluster_corrected":""}
+{"text":"hatto","cluster":43,"cluster_corrected":""}
+{"text":"Se\u00f1orita","cluster":43,"cluster_corrected":""}
+{"text":"\u00c9tats","cluster":43,"cluster_corrected":""}
+{"text":"Docteur","cluster":44,"cluster_corrected":""}
+{"text":"Cr\u00e9ateur","cluster":44,"cluster_corrected":""}
+{"text":"Europe","cluster":44,"cluster_corrected":""}
+{"text":"Acropolis","cluster":44,"cluster_corrected":""}
+{"text":"l'Europe","cluster":44,"cluster_corrected":""}
+{"text":"jeun","cluster":44,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pardon","cluster":45,"cluster_corrected":""}
+{"text":"jardin des Oliviers","cluster":45,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pardieu\u00a0!","cluster":45,"cluster_corrected":""}
+{"text":"\u2013\u00a0Pardieu","cluster":45,"cluster_corrected":""}
+{"text":"\u2013\u00a0Oui","cluster":46,"cluster_corrected":""}
+{"text":"Ooouh","cluster":46,"cluster_corrected":""}
+{"text":"\u2013\u00a0Ooouh","cluster":46,"cluster_corrected":""}
+{"text":"Ooah","cluster":46,"cluster_corrected":""}
+{"text":"\u00c9lan-","cluster":47,"cluster_corrected":""}
+{"text":"Noirs","cluster":47,"cluster_corrected":""}
+{"text":"L'\u00c9lan-Noir","cluster":47,"cluster_corrected":""}
+{"text":"Pieds-Noirs","cluster":47,"cluster_corrected":""}
+{"text":"\u00c9lan-Noir","cluster":47,"cluster_corrected":""}
+{"text":"Chinois","cluster":47,"cluster_corrected":""}
+{"text":"juez","cluster":48,"cluster_corrected":""}
+{"text":"\u2013\u00a0Tr\u00eave","cluster":48,"cluster_corrected":""}
+{"text":"\u2013\u00a0Trois","cluster":48,"cluster_corrected":""}
+{"text":"Habitu\u00e9s","cluster":48,"cluster_corrected":""}
+{"text":"\u2013\u00a0Tuez","cluster":48,"cluster_corrected":""}
+{"text":"TUE","cluster":48,"cluster_corrected":""}
+{"text":"VI","cluster":49,"cluster_corrected":""}
+{"text":"La Providence","cluster":49,"cluster_corrected":""}
+{"text":"Prompt","cluster":49,"cluster_corrected":""}
+{"text":"Prologue","cluster":49,"cluster_corrected":""}
+{"text":"Providence","cluster":49,"cluster_corrected":""}
+{"text":"Buffalo","cluster":50,"cluster_corrected":""}
+{"text":"buffalos","cluster":50,"cluster_corrected":""}
+{"text":"Durango","cluster":51,"cluster_corrected":""}
+{"text":"France","cluster":51,"cluster_corrected":""}
+{"text":"Nonchalamment","cluster":51,"cluster_corrected":""}
+{"text":"Blancs","cluster":51,"cluster_corrected":""}
+{"text":"Ch\u00e2teaux Blancs","cluster":51,"cluster_corrected":""}
+{"text":"maison du Blanc","cluster":51,"cluster_corrected":""}
+{"text":"T\u00eate-Blanche","cluster":51,"cluster_corrected":""}
+{"text":"Blanc","cluster":51,"cluster_corrected":""}
+{"text":"J'ai","cluster":52,"cluster_corrected":""}
+{"text":"Aigle","cluster":52,"cluster_corrected":""}
+{"text":"La T\u00eate","cluster":52,"cluster_corrected":""}
+{"text":"T\u00eate-","cluster":52,"cluster_corrected":""}
+{"text":"piste de la T\u00eate-d'Aigle","cluster":52,"cluster_corrected":""}
+{"text":"T\u00eate-d'Aigle","cluster":52,"cluster_corrected":""}
+{"text":"Carthage","cluster":53,"cluster_corrected":""}
+{"text":"Quarante","cluster":53,"cluster_corrected":""}
+{"text":"\u00e9pargnez-les-moi","cluster":53,"cluster_corrected":""}
+{"text":"Cortez","cluster":53,"cluster_corrected":""}
+{"text":"Mettez","cluster":53,"cluster_corrected":""}
+{"text":"\u2013\u00a0Partez","cluster":53,"cluster_corrected":""}
+{"text":"\u2013\u00a0Arr\u00eatez","cluster":53,"cluster_corrected":""}
+{"text":"Arr\u00eatez","cluster":53,"cluster_corrected":""}
+{"text":"Partez","cluster":53,"cluster_corrected":""}
+{"text":"matanza del ganado","cluster":54,"cluster_corrected":""}
+{"text":"eskennane","cluster":54,"cluster_corrected":""}
+{"text":"Abandonnera","cluster":54,"cluster_corrected":""}
+{"text":"Canadien","cluster":54,"cluster_corrected":""}
+{"text":"Canadienne","cluster":54,"cluster_corrected":""}
+{"text":"Panama","cluster":55,"cluster_corrected":""}
+{"text":"manche","cluster":55,"cluster_corrected":""}
+{"text":"Comanche","cluster":55,"cluster_corrected":""}
+{"text":"Yankees","cluster":55,"cluster_corrected":""}
+{"text":"Les Comanches","cluster":55,"cluster_corrected":""}
+{"text":"Comanches","cluster":55,"cluster_corrected":""}

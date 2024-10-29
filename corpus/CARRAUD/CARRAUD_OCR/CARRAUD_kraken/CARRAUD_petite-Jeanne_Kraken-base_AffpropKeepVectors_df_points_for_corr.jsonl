@@ -1,935 +1,962 @@
-{"text":"Murgurite","cluster":0.0,"cluster_corrected":""}
-{"text":"auri","cluster":0.0,"cluster_corrected":""}
-{"text":"murut","cluster":0.0,"cluster_corrected":""}
-{"text":"chneire","cluster":1.0,"cluster_corrected":""}
-{"text":"veir","cluster":1.0,"cluster_corrected":""}
-{"text":"faireun","cluster":1.0,"cluster_corrected":""}
-{"text":"vire","cluster":1.0,"cluster_corrected":""}
-{"text":"uvece","cluster":2.0,"cluster_corrected":""}
-{"text":"Suve","cluster":2.0,"cluster_corrected":""}
-{"text":"resto uvece","cluster":2.0,"cluster_corrected":""}
-{"text":"Llle","cluster":3.0,"cluster_corrected":""}
-{"text":"llle","cluster":3.0,"cluster_corrected":""}
-{"text":"u Mu fllle","cluster":3.0,"cluster_corrected":""}
-{"text":"LLL2L--------","cluster":3.0,"cluster_corrected":""}
-{"text":"fllle","cluster":3.0,"cluster_corrected":""}
-{"text":"Iouii","cluster":4.0,"cluster_corrected":""}
-{"text":"vioux","cluster":4.0,"cluster_corrected":""}
-{"text":"-Oui","cluster":4.0,"cluster_corrected":""}
-{"text":"Iouis","cluster":4.0,"cluster_corrected":""}
-{"text":"beusg","cluster":5.0,"cluster_corrected":""}
-{"text":"beufs","cluster":5.0,"cluster_corrected":""}
-{"text":"aie-noeus","cluster":5.0,"cluster_corrected":""}
-{"text":"leuseuse","cluster":5.0,"cluster_corrected":""}
-{"text":"beuaucoup","cluster":5.0,"cluster_corrected":""}
-{"text":"titsft","cluster":5.0,"cluster_corrected":""}
-{"text":"Iange","cluster":6.0,"cluster_corrected":""}
-{"text":"grange el","cluster":6.0,"cluster_corrected":""}
-{"text":"ohuang6o","cluster":6.0,"cluster_corrected":""}
-{"text":"d6rangeAt","cluster":6.0,"cluster_corrected":""}
-{"text":"elange","cluster":6.0,"cluster_corrected":""}
-{"text":"Mange","cluster":6.0,"cluster_corrected":""}
-{"text":"ARIIR","cluster":7.0,"cluster_corrected":""}
-{"text":"Paris","cluster":7.0,"cluster_corrected":""}
-{"text":"prisr","cluster":7.0,"cluster_corrected":""}
-{"text":"PRBMIIRRE PARI","cluster":7.0,"cluster_corrected":""}
-{"text":"paros","cluster":7.0,"cluster_corrected":""}
-{"text":"Gruand","cluster":8.0,"cluster_corrected":""}
-{"text":"quuand","cluster":8.0,"cluster_corrected":""}
-{"text":"Gruand-llail","cluster":8.0,"cluster_corrected":""}
-{"text":"girdant tes btes","cluster":9.0,"cluster_corrected":""}
-{"text":"Tes","cluster":9.0,"cluster_corrected":""}
-{"text":"border tes allees","cluster":9.0,"cluster_corrected":""}
-{"text":"Jaeanne","cluster":10.0,"cluster_corrected":""}
-{"text":"leuanne","cluster":10.0,"cluster_corrected":""}
-{"text":"dtresse de eanne","cluster":10.0,"cluster_corrected":""}
-{"text":"Ieannel","cluster":10.0,"cluster_corrected":""}
-{"text":"Ieannef","cluster":10.0,"cluster_corrected":""}
-{"text":"Jeannel","cluster":10.0,"cluster_corrected":""}
-{"text":"leannet","cluster":10.0,"cluster_corrected":""}
-{"text":"eanne","cluster":10.0,"cluster_corrected":""}
-{"text":"leanne","cluster":10.0,"cluster_corrected":""}
-{"text":"Petite leanne","cluster":10.0,"cluster_corrected":""}
-{"text":"JBANN","cluster":10.0,"cluster_corrected":""}
-{"text":"Ieanne","cluster":10.0,"cluster_corrected":""}
-{"text":"Etianne","cluster":10.0,"cluster_corrected":""}
-{"text":"jaimerais mienx tre\nleve","cluster":11.0,"cluster_corrected":""}
-{"text":"coIme","cluster":11.0,"cluster_corrected":""}
-{"text":"aehterai","cluster":11.0,"cluster_corrected":""}
-{"text":"atins","cluster":12.0,"cluster_corrected":""}
-{"text":"dins","cluster":12.0,"cluster_corrected":""}
-{"text":"matin.-","cluster":12.0,"cluster_corrected":""}
-{"text":"moffanso","cluster":13.0,"cluster_corrected":""}
-{"text":"coffhe","cluster":13.0,"cluster_corrected":""}
-{"text":"NFaN B","cluster":13.0,"cluster_corrected":""}
-{"text":"sast","cluster":14.0,"cluster_corrected":""}
-{"text":"asast","cluster":14.0,"cluster_corrected":""}
-{"text":"east h","cluster":14.0,"cluster_corrected":""}
-{"text":"N'ast-ea pus la","cluster":14.0,"cluster_corrected":""}
-{"text":"Laeeur","cluster":15.0,"cluster_corrected":""}
-{"text":"aee","cluster":15.0,"cluster_corrected":""}
-{"text":"iens","cluster":16.0,"cluster_corrected":""}
-{"text":"Conviens","cluster":16.0,"cluster_corrected":""}
-{"text":"Vars","cluster":16.0,"cluster_corrected":""}
-{"text":"Iiens","cluster":16.0,"cluster_corrected":""}
-{"text":"Tiens","cluster":16.0,"cluster_corrected":""}
-{"text":"oatt","cluster":17.0,"cluster_corrected":""}
-{"text":"Nunnatta","cluster":17.0,"cluster_corrected":""}
-{"text":"paruatt","cluster":17.0,"cluster_corrected":""}
-{"text":"aratt","cluster":17.0,"cluster_corrected":""}
-{"text":"mre Nnnnatto","cluster":17.0,"cluster_corrected":""}
-{"text":"Le dimanehe suivunt","cluster":18.0,"cluster_corrected":""}
-{"text":"h Diu","cluster":18.0,"cluster_corrected":""}
-{"text":"Bluanehe","cluster":18.0,"cluster_corrected":""}
-{"text":"A\n\nia\nt\nE\nEi","cluster":19.0,"cluster_corrected":""}
-{"text":"I\n\nL.\n\nE\ne\n\nL.\ng--","cluster":19.0,"cluster_corrected":""}
-{"text":"SI\n\n\nIA","cluster":19.0,"cluster_corrected":""}
-{"text":"Ls\n\n\n\nHI\n\nx\nl\n\ng-\ne\nn","cluster":19.0,"cluster_corrected":""}
-{"text":"luil","cluster":20.0,"cluster_corrected":""}
-{"text":"Onlui","cluster":20.0,"cluster_corrected":""}
-{"text":"retenuit","cluster":21.0,"cluster_corrected":""}
-{"text":"lnui","cluster":21.0,"cluster_corrected":""}
-{"text":"Monsisur","cluster":22.0,"cluster_corrected":""}
-{"text":"monsieurl","cluster":22.0,"cluster_corrected":""}
-{"text":"Isure","cluster":22.0,"cluster_corrected":""}
-{"text":"lElle","cluster":23.0,"cluster_corrected":""}
-{"text":"ellelui","cluster":23.0,"cluster_corrected":""}
-{"text":"-Quelle","cluster":23.0,"cluster_corrected":""}
-{"text":"lshelle","cluster":23.0,"cluster_corrected":""}
-{"text":"qitta","cluster":24.0,"cluster_corrected":""}
-{"text":"tta","cluster":24.0,"cluster_corrected":""}
-{"text":"mquittAt","cluster":24.0,"cluster_corrected":""}
-{"text":"noee","cluster":25.0,"cluster_corrected":""}
-{"text":"ln noee","cluster":25.0,"cluster_corrected":""}
-{"text":"Allons","cluster":26.0,"cluster_corrected":""}
-{"text":"ollo","cluster":26.0,"cluster_corrected":""}
-{"text":"Lon","cluster":26.0,"cluster_corrected":""}
-{"text":"Vons","cluster":26.0,"cluster_corrected":""}
-{"text":"PANTIk","cluster":27.0,"cluster_corrected":""}
-{"text":"n6ante","cluster":27.0,"cluster_corrected":""}
-{"text":"repentiras","cluster":27.0,"cluster_corrected":""}
-{"text":"antndez","cluster":27.0,"cluster_corrected":""}
-{"text":"TN0IsIMIR ANTIR","cluster":27.0,"cluster_corrected":""}
-{"text":"voulez","cluster":28.0,"cluster_corrected":""}
-{"text":"toul","cluster":28.0,"cluster_corrected":""}
-{"text":"Loule","cluster":28.0,"cluster_corrected":""}
-{"text":"voulao","cluster":28.0,"cluster_corrected":""}
-{"text":"voyagek","cluster":29.0,"cluster_corrected":""}
-{"text":"oyan","cluster":29.0,"cluster_corrected":""}
-{"text":"Narie","cluster":30.0,"cluster_corrected":""}
-{"text":"Ilordinarie","cluster":30.0,"cluster_corrected":""}
-{"text":"ILo","cluster":30.0,"cluster_corrected":""}
-{"text":"toninnli","cluster":31.0,"cluster_corrected":""}
-{"text":"Chamnnlhrs","cluster":31.0,"cluster_corrected":""}
-{"text":"at chaquo","cluster":31.0,"cluster_corrected":""}
-{"text":"Chasun","cluster":31.0,"cluster_corrected":""}
-{"text":"Amne","cluster":31.0,"cluster_corrected":""}
-{"text":"geee","cluster":32.0,"cluster_corrected":""}
-{"text":"Piarra","cluster":33.0,"cluster_corrected":""}
-{"text":"Piarra dtandu","cluster":33.0,"cluster_corrected":""}
-{"text":"Piarre","cluster":33.0,"cluster_corrected":""}
-{"text":"bergbr","cluster":34.0,"cluster_corrected":""}
-{"text":"bergre","cluster":34.0,"cluster_corrected":""}
-{"text":"Quelquofois","cluster":35.0,"cluster_corrected":""}
-{"text":"A quelqus temps","cluster":35.0,"cluster_corrected":""}
-{"text":"quelquefois3RANNR","cluster":35.0,"cluster_corrected":""}
-{"text":"aola","cluster":36.0,"cluster_corrected":""}
-{"text":"oola","cluster":36.0,"cluster_corrected":""}
-{"text":"oolfre","cluster":36.0,"cluster_corrected":""}
-{"text":"Sainte-Solange","cluster":37.0,"cluster_corrected":""}
-{"text":"Solange","cluster":37.0,"cluster_corrected":""}
-{"text":"Sainte-So-","cluster":37.0,"cluster_corrected":""}
-{"text":"sainte-Solange","cluster":37.0,"cluster_corrected":""}
-{"text":"Solango","cluster":37.0,"cluster_corrected":""}
-{"text":"madams","cluster":38.0,"cluster_corrected":""}
-{"text":"amsi","cluster":38.0,"cluster_corrected":""}
-{"text":"Madami","cluster":38.0,"cluster_corrected":""}
-{"text":"Madalains","cluster":38.0,"cluster_corrected":""}
-{"text":"arei","cluster":39.0,"cluster_corrected":""}
-{"text":"- Merei","cluster":39.0,"cluster_corrected":""}
-{"text":"P0uUAR RT MER","cluster":39.0,"cluster_corrected":""}
-{"text":"braselaet","cluster":40.0,"cluster_corrected":""}
-{"text":"aet","cluster":40.0,"cluster_corrected":""}
-{"text":"rasenmmoda","cluster":40.0,"cluster_corrected":""}
-{"text":"asee","cluster":41.0,"cluster_corrected":""}
-{"text":"plasee","cluster":41.0,"cluster_corrected":""}
-{"text":"rseeommoler","cluster":41.0,"cluster_corrected":""}
-{"text":"snia-tu ien","cluster":42.0,"cluster_corrected":""}
-{"text":"Oii vas-tu si vitet","cluster":42.0,"cluster_corrected":""}
-{"text":"Las-tu vue","cluster":42.0,"cluster_corrected":""}
-{"text":"N'as-tu done pas assez de tes","cluster":42.0,"cluster_corrected":""}
-{"text":"viendras-tu","cluster":42.0,"cluster_corrected":""}
-{"text":"Iraas-tnu","cluster":42.0,"cluster_corrected":""}
-{"text":"dras-tu","cluster":42.0,"cluster_corrected":""}
-{"text":"Nai-j","cluster":43.0,"cluster_corrected":""}
-{"text":"Nai-j ps ma ur","cluster":43.0,"cluster_corrected":""}
-{"text":"dane","cluster":44.0,"cluster_corrected":""}
-{"text":"dane l","cluster":44.0,"cluster_corrected":""}
-{"text":"Mlurguerito","cluster":45.0,"cluster_corrected":""}
-{"text":"Muarguerito","cluster":45.0,"cluster_corrected":""}
-{"text":"lorgueil","cluster":45.0,"cluster_corrected":""}
-{"text":"Margue-","cluster":45.0,"cluster_corrected":""}
-{"text":"qiand","cluster":46.0,"cluster_corrected":""}
-{"text":"gand","cluster":46.0,"cluster_corrected":""}
-{"text":"chand","cluster":46.0,"cluster_corrected":""}
-{"text":"Durand","cluster":46.0,"cluster_corrected":""}
-{"text":"mand6 h Mlle","cluster":46.0,"cluster_corrected":""}
-{"text":"fand tres","cluster":46.0,"cluster_corrected":""}
-{"text":"Commae","cluster":47.0,"cluster_corrected":""}
-{"text":"maes","cluster":47.0,"cluster_corrected":""}
-{"text":"comnme","cluster":47.0,"cluster_corrected":""}
-{"text":"maequitter","cluster":48.0,"cluster_corrected":""}
-{"text":"quittr lu Grund","cluster":48.0,"cluster_corrected":""}
-{"text":"Grund-il","cluster":48.0,"cluster_corrected":""}
-{"text":"Ienes","cluster":49.0,"cluster_corrected":""}
-{"text":"Tenes","cluster":49.0,"cluster_corrected":""}
-{"text":"MEnE.","cluster":49.0,"cluster_corrected":""}
-{"text":"eoup","cluster":50.0,"cluster_corrected":""}
-{"text":"bheaueoup","cluster":50.0,"cluster_corrected":""}
-{"text":"0ulueoi","cluster":50.0,"cluster_corrected":""}
-{"text":"heaueoup","cluster":50.0,"cluster_corrected":""}
-{"text":"mhe","cluster":51.0,"cluster_corrected":""}
-{"text":"tomhee","cluster":51.0,"cluster_corrected":""}
-{"text":"terrOB","cluster":52.0,"cluster_corrected":""}
-{"text":"torro","cluster":52.0,"cluster_corrected":""}
-{"text":"terr","cluster":52.0,"cluster_corrected":""}
-{"text":"entendro","cluster":53.0,"cluster_corrected":""}
-{"text":"sementqu'","cluster":53.0,"cluster_corrected":""}
-{"text":"P ie \n--- Rntends-tu","cluster":53.0,"cluster_corrected":""}
-{"text":"attendrie","cluster":53.0,"cluster_corrected":""}
-{"text":"trbhs-uontento","cluster":53.0,"cluster_corrected":""}
-{"text":"Iaanne","cluster":54.0,"cluster_corrected":""}
-{"text":"Ohl Iaann","cluster":54.0,"cluster_corrected":""}
-{"text":"Jaanne","cluster":54.0,"cluster_corrected":""}
-{"text":"teet","cluster":55.0,"cluster_corrected":""}
-{"text":"Ceet","cluster":55.0,"cluster_corrected":""}
-{"text":"puisue","cluster":56.0,"cluster_corrected":""}
-{"text":"RPUIR","cluster":56.0,"cluster_corrected":""}
-{"text":"buis","cluster":56.0,"cluster_corrected":""}
-{"text":"faisais","cluster":57.0,"cluster_corrected":""}
-{"text":"ais","cluster":57.0,"cluster_corrected":""}
-{"text":"Mtais","cluster":57.0,"cluster_corrected":""}
-{"text":"faisunt","cluster":57.0,"cluster_corrected":""}
-{"text":"aisn","cluster":57.0,"cluster_corrected":""}
-{"text":"Hannsettae","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannette","cluster":58.0,"cluster_corrected":""}
-{"text":"galett","cluster":58.0,"cluster_corrected":""}
-{"text":"Nanette","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannettel","cluster":58.0,"cluster_corrected":""}
-{"text":"Nunnette","cluster":58.0,"cluster_corrected":""}
-{"text":"mbr Nannette","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannetteo","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannetto","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannatte","cluster":58.0,"cluster_corrected":""}
-{"text":"Mannette idsvant dngarensement malade","cluster":58.0,"cluster_corrected":""}
-{"text":"va-t'","cluster":58.0,"cluster_corrected":""}
-{"text":"Mannette","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannetts","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannettoe","cluster":58.0,"cluster_corrected":""}
-{"text":"Nannettef","cluster":58.0,"cluster_corrected":""}
-{"text":"mare Mannette","cluster":58.0,"cluster_corrected":""}
-{"text":"Mannette oampraend","cluster":58.0,"cluster_corrected":""}
-{"text":"rROISIk PARTIE","cluster":59.0,"cluster_corrected":""}
-{"text":"IR0ISIkME PARTII","cluster":59.0,"cluster_corrected":""}
-{"text":"ROISIiE","cluster":59.0,"cluster_corrected":""}
-{"text":"OISIkMIl","cluster":59.0,"cluster_corrected":""}
-{"text":"MIERR","cluster":60.0,"cluster_corrected":""}
-{"text":"MIERRB","cluster":60.0,"cluster_corrected":""}
-{"text":"Berry","cluster":61.0,"cluster_corrected":""}
-{"text":"canal de Berry","cluster":61.0,"cluster_corrected":""}
-{"text":"Iiansl","cluster":62.0,"cluster_corrected":""}
-{"text":"cGiiani","cluster":62.0,"cluster_corrected":""}
-{"text":"Madume","cluster":63.0,"cluster_corrected":""}
-{"text":"dume","cluster":63.0,"cluster_corrected":""}
-{"text":"JRANNI","cluster":64.0,"cluster_corrected":""}
-{"text":"Dnrani","cluster":64.0,"cluster_corrected":""}
-{"text":"Granil","cluster":64.0,"cluster_corrected":""}
-{"text":"chbnevibre","cluster":65.0,"cluster_corrected":""}
-{"text":"misbre","cluster":65.0,"cluster_corrected":""}
-{"text":"ma chbre dum","cluster":65.0,"cluster_corrected":""}
-{"text":"uvee mambre","cluster":65.0,"cluster_corrected":""}
-{"text":"oncuro","cluster":66.0,"cluster_corrected":""}
-{"text":"cur","cluster":66.0,"cluster_corrected":""}
-{"text":"p urop","cluster":66.0,"cluster_corrected":""}
-{"text":"Iuui80tl","cluster":67.0,"cluster_corrected":""}
-{"text":"Luuis","cluster":67.0,"cluster_corrected":""}
-{"text":"loeuda","cluster":68.0,"cluster_corrected":""}
-{"text":"ur oeuasion","cluster":68.0,"cluster_corrected":""}
-{"text":"loe","cluster":68.0,"cluster_corrected":""}
-{"text":"Eatce","cluster":69.0,"cluster_corrected":""}
-{"text":"Eat-","cluster":69.0,"cluster_corrected":""}
-{"text":"bourgt","cluster":70.0,"cluster_corrected":""}
-{"text":"ourg","cluster":70.0,"cluster_corrected":""}
-{"text":"labourenrs","cluster":70.0,"cluster_corrected":""}
-{"text":"Bourges","cluster":70.0,"cluster_corrected":""}
-{"text":"da Bourges","cluster":70.0,"cluster_corrected":""}
-{"text":"gargon","cluster":71.0,"cluster_corrected":""}
-{"text":"garon","cluster":71.0,"cluster_corrected":""}
-{"text":"largnt","cluster":71.0,"cluster_corrected":""}
-{"text":"lapeine","cluster":72.0,"cluster_corrected":""}
-{"text":"veines","cluster":72.0,"cluster_corrected":""}
-{"text":"tres-joyeuse","cluster":73.0,"cluster_corrected":""}
-{"text":"Des","cluster":73.0,"cluster_corrected":""}
-{"text":"desires-us","cluster":73.0,"cluster_corrected":""}
-{"text":"prometa","cluster":74.0,"cluster_corrected":""}
-{"text":"mettto","cluster":74.0,"cluster_corrected":""}
-{"text":"prot6g6e","cluster":74.0,"cluster_corrected":""}
-{"text":"promen6","cluster":74.0,"cluster_corrected":""}
-{"text":"puuvre","cluster":75.0,"cluster_corrected":""}
-{"text":"puu","cluster":75.0,"cluster_corrected":""}
-{"text":"Mapuuvrefille","cluster":75.0,"cluster_corrected":""}
-{"text":"chvre","cluster":75.0,"cluster_corrected":""}
-{"text":"ehand","cluster":76.0,"cluster_corrected":""}
-{"text":"marehand","cluster":76.0,"cluster_corrected":""}
-{"text":"marehanderai","cluster":76.0,"cluster_corrected":""}
-{"text":"mareh6","cluster":76.0,"cluster_corrected":""}
-{"text":"mareher","cluster":76.0,"cluster_corrected":""}
-{"text":"sou","cluster":77.0,"cluster_corrected":""}
-{"text":"soupof","cluster":77.0,"cluster_corrected":""}
-{"text":"aesoueil","cluster":77.0,"cluster_corrected":""}
-{"text":"possiblo","cluster":78.0,"cluster_corrected":""}
-{"text":"assihlo","cluster":78.0,"cluster_corrected":""}
-{"text":"bassoe-oourt","cluster":78.0,"cluster_corrected":""}
-{"text":"abhlo","cluster":78.0,"cluster_corrected":""}
-{"text":"ssir","cluster":78.0,"cluster_corrected":""}
-{"text":"eneore","cluster":79.0,"cluster_corrected":""}
-{"text":"oneor","cluster":79.0,"cluster_corrected":""}
-{"text":"oneore","cluster":79.0,"cluster_corrected":""}
-{"text":"aneore","cluster":79.0,"cluster_corrected":""}
-{"text":"bless6","cluster":80.0,"cluster_corrected":""}
-{"text":"lesameliorer","cluster":80.0,"cluster_corrected":""}
-{"text":"lespsi","cluster":80.0,"cluster_corrected":""}
-{"text":"ILes","cluster":80.0,"cluster_corrected":""}
-{"text":"blables","cluster":80.0,"cluster_corrected":""}
-{"text":"Mannstte","cluster":81.0,"cluster_corrected":""}
-{"text":"Mannotte","cluster":81.0,"cluster_corrected":""}
-{"text":"Nannottat","cluster":81.0,"cluster_corrected":""}
-{"text":"bAtir","cluster":82.0,"cluster_corrected":""}
-{"text":"batir","cluster":82.0,"cluster_corrected":""}
-{"text":"PATIR","cluster":82.0,"cluster_corrected":""}
-{"text":"Catherina","cluster":83.0,"cluster_corrected":""}
-{"text":"Ctherin","cluster":83.0,"cluster_corrected":""}
-{"text":"pthers","cluster":83.0,"cluster_corrected":""}
-{"text":"eerivit","cluster":83.0,"cluster_corrected":""}
-{"text":"Ctherine","cluster":83.0,"cluster_corrected":""}
-{"text":"lunno","cluster":84.0,"cluster_corrected":""}
-{"text":"Junne","cluster":84.0,"cluster_corrected":""}
-{"text":"launne","cluster":84.0,"cluster_corrected":""}
-{"text":"Jounne","cluster":84.0,"cluster_corrected":""}
-{"text":"i unn","cluster":84.0,"cluster_corrected":""}
-{"text":"champ de lanne","cluster":85.0,"cluster_corrected":""}
-{"text":"hamps","cluster":85.0,"cluster_corrected":""}
-{"text":"champs.-","cluster":85.0,"cluster_corrected":""}
-{"text":"lean","cluster":86.0,"cluster_corrected":""}
-{"text":"leanna","cluster":86.0,"cluster_corrected":""}
-{"text":"eanna","cluster":86.0,"cluster_corrected":""}
-{"text":"Jeunne","cluster":87.0,"cluster_corrected":""}
-{"text":"Lejeun","cluster":87.0,"cluster_corrected":""}
-{"text":"Mn Jeunne","cluster":87.0,"cluster_corrected":""}
-{"text":"leunne","cluster":87.0,"cluster_corrected":""}
-{"text":"venuet","cluster":88.0,"cluster_corrected":""}
-{"text":"queter","cluster":88.0,"cluster_corrected":""}
-{"text":"exueto","cluster":88.0,"cluster_corrected":""}
-{"text":"dirais-tu asi","cluster":89.0,"cluster_corrected":""}
-{"text":"aimais-tu","cluster":89.0,"cluster_corrected":""}
-{"text":"Quelles prieres sais-tu","cluster":89.0,"cluster_corrected":""}
-{"text":"Sais-tu","cluster":89.0,"cluster_corrected":""}
-{"text":"Dis-","cluster":89.0,"cluster_corrected":""}
-{"text":"lennneet","cluster":90.0,"cluster_corrected":""}
-{"text":"lennne","cluster":90.0,"cluster_corrected":""}
-{"text":"Jennna","cluster":90.0,"cluster_corrected":""}
-{"text":"tour do Franos","cluster":91.0,"cluster_corrected":""}
-{"text":"la France","cluster":91.0,"cluster_corrected":""}
-{"text":"franes","cluster":91.0,"cluster_corrected":""}
-{"text":"gne","cluster":92.0,"cluster_corrected":""}
-{"text":"savigne","cluster":92.0,"cluster_corrected":""}
-{"text":"gnerosit6","cluster":92.0,"cluster_corrected":""}
-{"text":"laete","cluster":93.0,"cluster_corrected":""}
-{"text":"leeturo","cluster":93.0,"cluster_corrected":""}
-{"text":"leeturo de laete","cluster":93.0,"cluster_corrected":""}
-{"text":"jardin mpour le distraire","cluster":94.0,"cluster_corrected":""}
-{"text":"lharhe","cluster":94.0,"cluster_corrected":""}
-{"text":"hardia","cluster":94.0,"cluster_corrected":""}
-{"text":"Diau","cluster":94.0,"cluster_corrected":""}
-{"text":"eNviee","cluster":95.0,"cluster_corrected":""}
-{"text":"sssvie","cluster":95.0,"cluster_corrected":""}
-{"text":"servanto","cluster":96.0,"cluster_corrected":""}
-{"text":"Ia servanto","cluster":96.0,"cluster_corrected":""}
-{"text":"mll Aven","cluster":97.0,"cluster_corrected":""}
-{"text":"Save","cluster":97.0,"cluster_corrected":""}
-{"text":"Avea","cluster":97.0,"cluster_corrected":""}
-{"text":"aveo","cluster":97.0,"cluster_corrected":""}
-{"text":"Avee","cluster":97.0,"cluster_corrected":""}
-{"text":"savet","cluster":97.0,"cluster_corrected":""}
-{"text":"Aven","cluster":97.0,"cluster_corrected":""}
-{"text":"Mlme lsuuru ehunta avee sua filla","cluster":97.0,"cluster_corrected":""}
-{"text":"shAteau","cluster":98.0,"cluster_corrected":""}
-{"text":"ieau","cluster":98.0,"cluster_corrected":""}
-{"text":"ElIea","cluster":98.0,"cluster_corrected":""}
-{"text":"Ieau","cluster":98.0,"cluster_corrected":""}
-{"text":"moisso","cluster":99.0,"cluster_corrected":""}
-{"text":"moisson","cluster":99.0,"cluster_corrected":""}
-{"text":"sapproeha","cluster":100.0,"cluster_corrected":""}
-{"text":"Apprenez","cluster":100.0,"cluster_corrected":""}
-{"text":"apprendrei trieoter","cluster":100.0,"cluster_corrected":""}
-{"text":"hond","cluster":101.0,"cluster_corrected":""}
-{"text":"repondre","cluster":101.0,"cluster_corrected":""}
-{"text":"lurdre","cluster":101.0,"cluster_corrected":""}
-{"text":"comprondr","cluster":101.0,"cluster_corrected":""}
-{"text":"Solungo","cluster":102.0,"cluster_corrected":""}
-{"text":"Solngo","cluster":102.0,"cluster_corrected":""}
-{"text":"Solungo aost li","cluster":102.0,"cluster_corrected":""}
-{"text":"maieo","cluster":103.0,"cluster_corrected":""}
-{"text":"tenaitjamais","cluster":103.0,"cluster_corrected":""}
-{"text":"maiaon","cluster":103.0,"cluster_corrected":""}
-{"text":"maisen","cluster":103.0,"cluster_corrected":""}
-{"text":"-Mais","cluster":103.0,"cluster_corrected":""}
-{"text":"maiselle","cluster":103.0,"cluster_corrected":""}
-{"text":"Iai","cluster":104.0,"cluster_corrected":""}
-{"text":"maine","cluster":104.0,"cluster_corrected":""}
-{"text":"Iaine","cluster":104.0,"cluster_corrected":""}
-{"text":"Aini","cluster":104.0,"cluster_corrected":""}
-{"text":"Issouimn","cluster":105.0,"cluster_corrected":""}
-{"text":"Is-\nsoudun","cluster":105.0,"cluster_corrected":""}
-{"text":"Issoudun","cluster":105.0,"cluster_corrected":""}
-{"text":"soyez tranquillae","cluster":106.0,"cluster_corrected":""}
-{"text":"Feuillet","cluster":106.0,"cluster_corrected":""}
-{"text":"tranquille","cluster":106.0,"cluster_corrected":""}
-{"text":"luaissa-lu\ntranquille","cluster":106.0,"cluster_corrected":""}
-{"text":"mari6","cluster":107.0,"cluster_corrected":""}
-{"text":"mari6a","cluster":107.0,"cluster_corrected":""}
-{"text":"maduame","cluster":108.0,"cluster_corrected":""}
-{"text":"maduama","cluster":108.0,"cluster_corrected":""}
-{"text":"serviee","cluster":109.0,"cluster_corrected":""}
-{"text":"RN SEVI6GR","cluster":109.0,"cluster_corrected":""}
-{"text":"aservir","cluster":109.0,"cluster_corrected":""}
-{"text":"RN sERVICE","cluster":109.0,"cluster_corrected":""}
-{"text":"st Paul","cluster":110.0,"cluster_corrected":""}
-{"text":"pau y aompter","cluster":110.0,"cluster_corrected":""}
-{"text":"suupauda","cluster":110.0,"cluster_corrected":""}
-{"text":"pau","cluster":110.0,"cluster_corrected":""}
-{"text":"psgnsee","cluster":111.0,"cluster_corrected":""}
-{"text":"gns","cluster":111.0,"cluster_corrected":""}
-{"text":"Jeanno","cluster":112.0,"cluster_corrected":""}
-{"text":"betes3EANNR","cluster":112.0,"cluster_corrected":""}
-{"text":"loanno","cluster":112.0,"cluster_corrected":""}
-{"text":"leanno","cluster":112.0,"cluster_corrected":""}
-{"text":"enno","cluster":112.0,"cluster_corrected":""}
-{"text":"eanno","cluster":112.0,"cluster_corrected":""}
-{"text":"Ieanno","cluster":112.0,"cluster_corrected":""}
-{"text":"trefois","cluster":113.0,"cluster_corrected":""}
-{"text":"toit\n- Notre maftre","cluster":113.0,"cluster_corrected":""}
-{"text":"vtre","cluster":113.0,"cluster_corrected":""}
-{"text":"Nutre","cluster":113.0,"cluster_corrected":""}
-{"text":"MIar-1h","cluster":114.0,"cluster_corrected":""}
-{"text":"Mliar","cluster":114.0,"cluster_corrected":""}
-{"text":"porte do M. le eure","cluster":115.0,"cluster_corrected":""}
-{"text":"poerte","cluster":115.0,"cluster_corrected":""}
-{"text":"st M. le sr i venait","cluster":115.0,"cluster_corrected":""}
-{"text":"Mre Tixier","cluster":116.0,"cluster_corrected":""}
-{"text":"pre Tixier","cluster":116.0,"cluster_corrected":""}
-{"text":"pre\nTixier","cluster":116.0,"cluster_corrected":""}
-{"text":"Mafltre Tixiar","cluster":116.0,"cluster_corrected":""}
-{"text":"nuttre Tixior","cluster":116.0,"cluster_corrected":""}
-{"text":"Tixier","cluster":116.0,"cluster_corrected":""}
-{"text":"nbre ixier","cluster":116.0,"cluster_corrected":""}
-{"text":"RPOUSR E MEHB","cluster":117.0,"cluster_corrected":""}
-{"text":"sPnEMIRRR","cluster":117.0,"cluster_corrected":""}
-{"text":"Nousla","cluster":117.0,"cluster_corrected":""}
-{"text":"RP0OUSs E MIRE","cluster":117.0,"cluster_corrected":""}
-{"text":"MkRE","cluster":118.0,"cluster_corrected":""}
-{"text":"BT MkRE","cluster":118.0,"cluster_corrected":""}
-{"text":"geei","cluster":119.0,"cluster_corrected":""}
-{"text":"puillasse at une oouverture","cluster":120.0,"cluster_corrected":""}
-{"text":"Guilluume","cluster":120.0,"cluster_corrected":""}
-{"text":"Guillaumo","cluster":120.0,"cluster_corrected":""}
-{"text":"surveillanee","cluster":120.0,"cluster_corrected":""}
-{"text":"Guillauma","cluster":120.0,"cluster_corrected":""}
-{"text":"alle","cluster":121.0,"cluster_corrected":""}
-{"text":"guenilles","cluster":121.0,"cluster_corrected":""}
-{"text":"dlles","cluster":121.0,"cluster_corrected":""}
-{"text":"alles","cluster":121.0,"cluster_corrected":""}
-{"text":"Pierres-\nFolles","cluster":121.0,"cluster_corrected":""}
-{"text":"upit","cluster":122.0,"cluster_corrected":""}
-{"text":"pit6","cluster":122.0,"cluster_corrected":""}
-{"text":"pitir","cluster":122.0,"cluster_corrected":""}
-{"text":"momont","cluster":123.0,"cluster_corrected":""}
-{"text":"ahkteront","cluster":123.0,"cluster_corrected":""}
-{"text":"stonttot","cluster":123.0,"cluster_corrected":""}
-{"text":"bont6","cluster":123.0,"cluster_corrected":""}
-{"text":"tonionrs ches Mme Dumont","cluster":123.0,"cluster_corrected":""}
-{"text":"ahandonna","cluster":124.0,"cluster_corrected":""}
-{"text":"honno","cluster":124.0,"cluster_corrected":""}
-{"text":"Poonnae","cluster":124.0,"cluster_corrected":""}
-{"text":"ohteuu","cluster":125.0,"cluster_corrected":""}
-{"text":"Ormaeuux","cluster":125.0,"cluster_corrected":""}
-{"text":"Ormeuux","cluster":125.0,"cluster_corrected":""}
-{"text":"Ormenux","cluster":125.0,"cluster_corrected":""}
-{"text":"Grand-Hlail","cluster":126.0,"cluster_corrected":""}
-{"text":"Granl-lail","cluster":126.0,"cluster_corrected":""}
-{"text":"Grand-hlail","cluster":126.0,"cluster_corrected":""}
-{"text":"Grand-Hal","cluster":126.0,"cluster_corrected":""}
-{"text":"Hlal","cluster":126.0,"cluster_corrected":""}
-{"text":"A foree","cluster":127.0,"cluster_corrected":""}
-{"text":"A foree de douceur","cluster":127.0,"cluster_corrected":""}
-{"text":"Cntdchiame","cluster":128.0,"cluster_corrected":""}
-{"text":"mndme","cluster":128.0,"cluster_corrected":""}
-{"text":"lemunda","cluster":128.0,"cluster_corrected":""}
-{"text":"Mndame","cluster":128.0,"cluster_corrected":""}
-{"text":"damo","cluster":128.0,"cluster_corrected":""}
-{"text":"hagrin","cluster":129.0,"cluster_corrected":""}
-{"text":"Grias","cluster":129.0,"cluster_corrected":""}
-{"text":"Iasuure","cluster":129.0,"cluster_corrected":""}
-{"text":"soignaias","cluster":129.0,"cluster_corrected":""}
-{"text":"m6decins","cluster":130.0,"cluster_corrected":""}
-{"text":"suita","cluster":130.0,"cluster_corrected":""}
-{"text":"r6ehauff","cluster":130.0,"cluster_corrected":""}
-{"text":"r6ecita","cluster":130.0,"cluster_corrected":""}
-{"text":"Ieis","cluster":131.0,"cluster_corrected":""}
-{"text":"aspra","cluster":131.0,"cluster_corrected":""}
-{"text":"pussara","cluster":131.0,"cluster_corrected":""}
-{"text":"los laissar aouoher","cluster":131.0,"cluster_corrected":""}
-{"text":"meissan","cluster":131.0,"cluster_corrected":""}
-{"text":"fhssa","cluster":131.0,"cluster_corrected":""}
-{"text":"nourrissan","cluster":131.0,"cluster_corrected":""}
-{"text":"luaissa-lu","cluster":131.0,"cluster_corrected":""}
-{"text":"Isanre","cluster":132.0,"cluster_corrected":""}
-{"text":"asaigaer","cluster":132.0,"cluster_corrected":""}
-{"text":"asans","cluster":132.0,"cluster_corrected":""}
-{"text":"sanse","cluster":132.0,"cluster_corrected":""}
-{"text":"Iesnne","cluster":133.0,"cluster_corrected":""}
-{"text":"Iesus","cluster":133.0,"cluster_corrected":""}
-{"text":"laieser","cluster":133.0,"cluster_corrected":""}
-{"text":"Lii","cluster":134.0,"cluster_corrected":""}
-{"text":"Liii","cluster":134.0,"cluster_corrected":""}
-{"text":"L\n\nIIII","cluster":134.0,"cluster_corrected":""}
-{"text":"Pourquaoi","cluster":135.0,"cluster_corrected":""}
-{"text":"Pourqquoi","cluster":135.0,"cluster_corrected":""}
-{"text":"parlens","cluster":136.0,"cluster_corrected":""}
-{"text":"Tlens","cluster":136.0,"cluster_corrected":""}
-{"text":"lEn","cluster":136.0,"cluster_corrected":""}
-{"text":"Voye","cluster":137.0,"cluster_corrected":""}
-{"text":"z Voyes","cluster":137.0,"cluster_corrected":""}
-{"text":"n6tsre Voyons","cluster":137.0,"cluster_corrected":""}
-{"text":"ayes","cluster":137.0,"cluster_corrected":""}
-{"text":"Croyet","cluster":137.0,"cluster_corrected":""}
-{"text":"la muison","cluster":138.0,"cluster_corrected":""}
-{"text":"rion","cluster":138.0,"cluster_corrected":""}
-{"text":"rion u ala muison qua lo","cluster":138.0,"cluster_corrected":""}
-{"text":"Infin","cluster":138.0,"cluster_corrected":""}
-{"text":"ARTIR","cluster":139.0,"cluster_corrected":""}
-{"text":"Hautes-SEG0NDR PARTIB","cluster":139.0,"cluster_corrected":""}
-{"text":"Noel.rREMII PMRTIR","cluster":139.0,"cluster_corrected":""}
-{"text":"nePMIR PARTIR","cluster":139.0,"cluster_corrected":""}
-{"text":"ourRIEMIR PAHTIR","cluster":139.0,"cluster_corrected":""}
-{"text":"PARTIB","cluster":139.0,"cluster_corrected":""}
-{"text":"faire.80oNDE PARTIR","cluster":139.0,"cluster_corrected":""}
-{"text":"rbes","cluster":140.0,"cluster_corrected":""}
-{"text":"Aprbes","cluster":140.0,"cluster_corrected":""}
-{"text":"oulture","cluster":141.0,"cluster_corrected":""}
-{"text":"aeurrai","cluster":141.0,"cluster_corrected":""}
-{"text":"eure","cluster":141.0,"cluster_corrected":""}
-{"text":"heureuxl","cluster":141.0,"cluster_corrected":""}
-{"text":"Iailleurs","cluster":142.0,"cluster_corrected":""}
-{"text":"pei e\nolle","cluster":142.0,"cluster_corrected":""}
-{"text":"Rlle","cluster":142.0,"cluster_corrected":""}
-{"text":"FLlE--","cluster":142.0,"cluster_corrected":""}
-{"text":"I\n\nG\nLLE2","cluster":142.0,"cluster_corrected":""}
-{"text":"lle","cluster":142.0,"cluster_corrected":""}
-{"text":"contntor do lour","cluster":143.0,"cluster_corrected":""}
-{"text":"nit do parlsr","cluster":143.0,"cluster_corrected":""}
-{"text":"tirrit do lh","cluster":143.0,"cluster_corrected":""}
-{"text":"Marnan","cluster":144.0,"cluster_corrected":""}
-{"text":"Nan-","cluster":144.0,"cluster_corrected":""}
-{"text":"nankin","cluster":144.0,"cluster_corrected":""}
-{"text":"truv6t","cluster":145.0,"cluster_corrected":""}
-{"text":"trouvara","cluster":145.0,"cluster_corrected":""}
-{"text":"trouv6e","cluster":145.0,"cluster_corrected":""}
-{"text":"Crois-tu","cluster":146.0,"cluster_corrected":""}
-{"text":"vois-tu","cluster":146.0,"cluster_corrected":""}
-{"text":"Crois","cluster":146.0,"cluster_corrected":""}
-{"text":"orois-tu","cluster":146.0,"cluster_corrected":""}
-{"text":"lomhnrras","cluster":147.0,"cluster_corrected":""}
-{"text":"lembarrasl","cluster":147.0,"cluster_corrected":""}
-{"text":"lembarras","cluster":147.0,"cluster_corrected":""}
-{"text":"Isaure","cluster":148.0,"cluster_corrected":""}
-{"text":"Cala","cluster":148.0,"cluster_corrected":""}
-{"text":"Isaure Ala","cluster":148.0,"cluster_corrected":""}
-{"text":"conscienee","cluster":149.0,"cluster_corrected":""}
-{"text":"eonscienee","cluster":149.0,"cluster_corrected":""}
-{"text":"il6e-la","cluster":149.0,"cluster_corrected":""}
-{"text":"Disu","cluster":150.0,"cluster_corrected":""}
-{"text":"volonta da\nDisu","cluster":150.0,"cluster_corrected":""}
-{"text":"at ia raasta da","cluster":150.0,"cluster_corrected":""}
-{"text":"femma da Gerbaud","cluster":150.0,"cluster_corrected":""}
-{"text":"Agel","cluster":151.0,"cluster_corrected":""}
-{"text":"menagel","cluster":151.0,"cluster_corrected":""}
-{"text":"emmenag6e","cluster":151.0,"cluster_corrected":""}
-{"text":"porto","cluster":152.0,"cluster_corrected":""}
-{"text":"apport6","cluster":152.0,"cluster_corrected":""}
-{"text":"Ilsporta","cluster":152.0,"cluster_corrected":""}
-{"text":"ur lo\nbion","cluster":153.0,"cluster_corrected":""}
-{"text":"sembie","cluster":153.0,"cluster_corrected":""}
-{"text":"oombion","cluster":153.0,"cluster_corrected":""}
-{"text":"oampagne","cluster":154.0,"cluster_corrected":""}
-{"text":"st eomnie Iort","cluster":154.0,"cluster_corrected":""}
-{"text":"Iu eompagnio","cluster":154.0,"cluster_corrected":""}
-{"text":"Dien","cluster":155.0,"cluster_corrected":""}
-{"text":"bDieu","cluster":155.0,"cluster_corrected":""}
-{"text":"Sois","cluster":156.0,"cluster_corrected":""}
-{"text":"Ioi","cluster":156.0,"cluster_corrected":""}
-{"text":"tioil","cluster":156.0,"cluster_corrected":""}
-{"text":"Iois","cluster":156.0,"cluster_corrected":""}
-{"text":"Vois","cluster":156.0,"cluster_corrected":""}
-{"text":"LiEelE","cluster":157.0,"cluster_corrected":""}
-{"text":"vaele","cluster":157.0,"cluster_corrected":""}
-{"text":"grele","cluster":157.0,"cluster_corrected":""}
-{"text":"Ael","cluster":157.0,"cluster_corrected":""}
-{"text":"Etionnel","cluster":158.0,"cluster_corrected":""}
-{"text":"Jenne","cluster":158.0,"cluster_corrected":""}
-{"text":"slietiee","cluster":158.0,"cluster_corrected":""}
-{"text":"vienne","cluster":158.0,"cluster_corrected":""}
-{"text":"Etienne","cluster":158.0,"cluster_corrected":""}
-{"text":"muin","cluster":159.0,"cluster_corrected":""}
-{"text":"Le surlendemuin","cluster":159.0,"cluster_corrected":""}
-{"text":"our6","cluster":160.0,"cluster_corrected":""}
-{"text":"eur6","cluster":160.0,"cluster_corrected":""}
-{"text":"aur6","cluster":160.0,"cluster_corrected":""}
-{"text":"ur6","cluster":160.0,"cluster_corrected":""}
-{"text":"dsirais","cluster":161.0,"cluster_corrected":""}
-{"text":"drai","cluster":161.0,"cluster_corrected":""}
-{"text":"etablirai","cluster":161.0,"cluster_corrected":""}
-{"text":"betail","cluster":161.0,"cluster_corrected":""}
-{"text":"provins","cluster":162.0,"cluster_corrected":""}
-{"text":"vin6","cluster":162.0,"cluster_corrected":""}
-{"text":"Sylvin","cluster":162.0,"cluster_corrected":""}
-{"text":"Jasphino","cluster":163.0,"cluster_corrected":""}
-{"text":"chin","cluster":163.0,"cluster_corrected":""}
-{"text":"Ioshine","cluster":163.0,"cluster_corrected":""}
-{"text":"losephine","cluster":163.0,"cluster_corrected":""}
-{"text":"manquAt","cluster":164.0,"cluster_corrected":""}
-{"text":"tempas devuant","cluster":164.0,"cluster_corrected":""}
-{"text":"Penduant","cluster":164.0,"cluster_corrected":""}
-{"text":"aendurantae","cluster":164.0,"cluster_corrected":""}
-{"text":"oinquanta","cluster":164.0,"cluster_corrected":""}
-{"text":"Iixisr","cluster":165.0,"cluster_corrected":""}
-{"text":"Tixiar","cluster":165.0,"cluster_corrected":""}
-{"text":"Iixiar","cluster":165.0,"cluster_corrected":""}
-{"text":"brune","cluster":166.0,"cluster_corrected":""}
-{"text":"airmonie","cluster":166.0,"cluster_corrected":""}
-{"text":"meuniere","cluster":166.0,"cluster_corrected":""}
-{"text":"runie","cluster":166.0,"cluster_corrected":""}
-{"text":"v6rit6","cluster":167.0,"cluster_corrected":""}
-{"text":"charit6 da\nlua mbre Nunnetta","cluster":167.0,"cluster_corrected":""}
-{"text":"charit6 da","cluster":167.0,"cluster_corrected":""}
-{"text":"charpio","cluster":167.0,"cluster_corrected":""}
-{"text":"Et ma blouse","cluster":168.0,"cluster_corrected":""}
-{"text":"louede","cluster":168.0,"cluster_corrected":""}
-{"text":"ceailloux","cluster":168.0,"cluster_corrected":""}
-{"text":"lou6","cluster":168.0,"cluster_corrected":""}
-{"text":"Rnfin","cluster":168.0,"cluster_corrected":""}
-{"text":"Louisel","cluster":169.0,"cluster_corrected":""}
-{"text":"lLouis","cluster":169.0,"cluster_corrected":""}
-{"text":"Louist","cluster":169.0,"cluster_corrected":""}
-{"text":"Louiso","cluster":169.0,"cluster_corrected":""}
-{"text":"Grand Louis","cluster":169.0,"cluster_corrected":""}
-{"text":"Louisl","cluster":169.0,"cluster_corrected":""}
-{"text":"Louial","cluster":169.0,"cluster_corrected":""}
-{"text":"dargenl","cluster":170.0,"cluster_corrected":""}
-{"text":"guargen","cluster":170.0,"cluster_corrected":""}
-{"text":"ktii","cluster":171.0,"cluster_corrected":""}
-{"text":"Tiier","cluster":171.0,"cluster_corrected":""}
-{"text":"iIe","cluster":171.0,"cluster_corrected":""}
-{"text":"hoie","cluster":172.0,"cluster_corrected":""}
-{"text":"bhoire","cluster":172.0,"cluster_corrected":""}
-{"text":"los aoirs","cluster":172.0,"cluster_corrected":""}
-{"text":"choirs","cluster":172.0,"cluster_corrected":""}
-{"text":"i ta placo","cluster":173.0,"cluster_corrected":""}
-{"text":"place","cluster":173.0,"cluster_corrected":""}
-{"text":"plaae","cluster":173.0,"cluster_corrected":""}
-{"text":"place\n-","cluster":173.0,"cluster_corrected":""}
-{"text":"grAce","cluster":173.0,"cluster_corrected":""}
-{"text":"Iols","cluster":174.0,"cluster_corrected":""}
-{"text":"grand Lous","cluster":174.0,"cluster_corrected":""}
-{"text":"Grand Bil","cluster":174.0,"cluster_corrected":""}
-{"text":"grand Iols","cluster":174.0,"cluster_corrected":""}
-{"text":"fnd e'","cluster":174.0,"cluster_corrected":""}
-{"text":"Mailamo","cluster":175.0,"cluster_corrected":""}
-{"text":"Voilh","cluster":175.0,"cluster_corrected":""}
-{"text":"Yoila","cluster":175.0,"cluster_corrected":""}
-{"text":"aussit0","cluster":176.0,"cluster_corrected":""}
-{"text":"aussit0t\nus jy wis","cluster":176.0,"cluster_corrected":""}
-{"text":"touts180","cluster":177.0,"cluster_corrected":""}
-{"text":"Yatan","cluster":177.0,"cluster_corrected":""}
-{"text":"Outanir","cluster":177.0,"cluster_corrected":""}
-{"text":"rs-","cluster":178.0,"cluster_corrected":""}
-{"text":"auis trs","cluster":178.0,"cluster_corrected":""}
-{"text":"trs-ple","cluster":178.0,"cluster_corrected":""}
-{"text":"A leglise","cluster":179.0,"cluster_corrected":""}
-{"text":"leglise","cluster":179.0,"cluster_corrected":""}
-{"text":"Grand-\nBail","cluster":180.0,"cluster_corrected":""}
-{"text":"rand-ail","cluster":180.0,"cluster_corrected":""}
-{"text":"Bail","cluster":180.0,"cluster_corrected":""}
-{"text":"matue\nixier du Grand-Bail","cluster":180.0,"cluster_corrected":""}
-{"text":"Grand-Bail","cluster":180.0,"cluster_corrected":""}
-{"text":"cand-Bai","cluster":180.0,"cluster_corrected":""}
-{"text":"mdemoisells","cluster":181.0,"cluster_corrected":""}
-{"text":"Mesdemoiselles","cluster":181.0,"cluster_corrected":""}
-{"text":"malemoiselle","cluster":181.0,"cluster_corrected":""}
-{"text":"btises","cluster":182.0,"cluster_corrected":""}
-{"text":"pise","cluster":182.0,"cluster_corrected":""}
-{"text":"la Grise","cluster":182.0,"cluster_corrected":""}
-{"text":"caeher","cluster":183.0,"cluster_corrected":""}
-{"text":"ehez","cluster":183.0,"cluster_corrected":""}
-{"text":"gaeho","cluster":183.0,"cluster_corrected":""}
-{"text":"Aehetez","cluster":183.0,"cluster_corrected":""}
-{"text":"hestiaux","cluster":184.0,"cluster_corrected":""}
-{"text":"Caest","cluster":184.0,"cluster_corrected":""}
-{"text":"yest","cluster":184.0,"cluster_corrected":""}
-{"text":"Cest","cluster":184.0,"cluster_corrected":""}
-{"text":"viwreP\n- Gest","cluster":184.0,"cluster_corrected":""}
-{"text":"Est","cluster":184.0,"cluster_corrected":""}
-{"text":"mainl\nCest","cluster":184.0,"cluster_corrected":""}
-{"text":"Jeanse","cluster":185.0,"cluster_corrected":""}
-{"text":"eana","cluster":185.0,"cluster_corrected":""}
-{"text":"lJeanuet","cluster":185.0,"cluster_corrected":""}
-{"text":"Jeanttel","cluster":185.0,"cluster_corrected":""}
-{"text":"Jeane","cluster":185.0,"cluster_corrected":""}
-{"text":"Phques","cluster":186.0,"cluster_corrected":""}
-{"text":"uoiqu'","cluster":186.0,"cluster_corrected":""}
-{"text":"queiquo","cluster":186.0,"cluster_corrected":""}
-{"text":"Afrique","cluster":186.0,"cluster_corrected":""}
-{"text":"Cher","cluster":187.0,"cluster_corrected":""}
-{"text":"Touches","cluster":187.0,"cluster_corrected":""}
-{"text":"chexz","cluster":187.0,"cluster_corrected":""}
-{"text":"chereher","cluster":187.0,"cluster_corrected":""}
-{"text":"herg","cluster":187.0,"cluster_corrected":""}
-{"text":"lattacher","cluster":187.0,"cluster_corrected":""}
-{"text":"du Cher","cluster":187.0,"cluster_corrected":""}
-{"text":"cher","cluster":187.0,"cluster_corrected":""}
-{"text":"Blancheo","cluster":187.0,"cluster_corrected":""}
-{"text":"vollh","cluster":188.0,"cluster_corrected":""}
-{"text":"armoie","cluster":188.0,"cluster_corrected":""}
-{"text":"holle armoirs","cluster":188.0,"cluster_corrected":""}
-{"text":"au-\ntres","cluster":189.0,"cluster_corrected":""}
-{"text":"au-\ntroes","cluster":189.0,"cluster_corrected":""}
-{"text":"s-\ntims","cluster":189.0,"cluster_corrected":""}
-{"text":"aoes","cluster":189.0,"cluster_corrected":""}
-{"text":"Commentl oe nest done paa finif","cluster":190.0,"cluster_corrected":""}
-{"text":"nest-oe","cluster":190.0,"cluster_corrected":""}
-{"text":"nest-oe pas","cluster":190.0,"cluster_corrected":""}
-{"text":"huluverie","cluster":191.0,"cluster_corrected":""}
-{"text":"Lenverre","cluster":191.0,"cluster_corrected":""}
-{"text":"Lhiver","cluster":191.0,"cluster_corrected":""}
-{"text":"A\n\nI\nII1","cluster":192.0,"cluster_corrected":""}
-{"text":"iillu","cluster":192.0,"cluster_corrected":""}
-{"text":"IIl -\nII","cluster":192.0,"cluster_corrected":""}
-{"text":"grosse somme","cluster":193.0,"cluster_corrected":""}
-{"text":"nessa so puso","cluster":193.0,"cluster_corrected":""}
-{"text":"la somme","cluster":193.0,"cluster_corrected":""}
-{"text":"uu bisn","cluster":194.0,"cluster_corrected":""}
-{"text":"Cost","cluster":194.0,"cluster_corrected":""}
-{"text":"ost bian","cluster":194.0,"cluster_corrected":""}
-{"text":"silenee","cluster":195.0,"cluster_corrected":""}
-{"text":"Sil","cluster":195.0,"cluster_corrected":""}
-{"text":"aecoutumee","cluster":196.0,"cluster_corrected":""}
-{"text":"enecore","cluster":196.0,"cluster_corrected":""}
-{"text":"daecord","cluster":196.0,"cluster_corrected":""}
-{"text":"miasaricorde","cluster":196.0,"cluster_corrected":""}
-{"text":"ourn6e","cluster":197.0,"cluster_corrected":""}
-{"text":"journie","cluster":197.0,"cluster_corrected":""}
-{"text":"aujourdhui","cluster":197.0,"cluster_corrected":""}
-{"text":"journea","cluster":197.0,"cluster_corrected":""}
-{"text":"parceeque","cluster":198.0,"cluster_corrected":""}
-{"text":"puarce","cluster":198.0,"cluster_corrected":""}
-{"text":"mhilier","cluster":199.0,"cluster_corrected":""}
-{"text":"oblig6e","cluster":199.0,"cluster_corrected":""}
-{"text":"tblier","cluster":199.0,"cluster_corrected":""}
-{"text":"Ionis","cluster":200.0,"cluster_corrected":""}
-{"text":"Lin nisu","cluster":200.0,"cluster_corrected":""}
-{"text":"nis","cluster":200.0,"cluster_corrected":""}
-{"text":"Ia fete","cluster":201.0,"cluster_corrected":""}
-{"text":"tete enfonoee","cluster":201.0,"cluster_corrected":""}
-{"text":"crev6 la tete","cluster":201.0,"cluster_corrected":""}
-{"text":"tete","cluster":201.0,"cluster_corrected":""}
-{"text":"Haues","cluster":202.0,"cluster_corrected":""}
-{"text":"Hautes-kloches","cluster":202.0,"cluster_corrected":""}
-{"text":"Haues-loehes","cluster":202.0,"cluster_corrected":""}
-{"text":"tCatharine","cluster":203.0,"cluster_corrected":""}
-{"text":"Catharine","cluster":203.0,"cluster_corrected":""}
-{"text":"Laprks-midi","cluster":204.0,"cluster_corrected":""}
-{"text":"Aprs","cluster":204.0,"cluster_corrected":""}
-{"text":"present]110","cluster":204.0,"cluster_corrected":""}
-{"text":"to presr","cluster":204.0,"cluster_corrected":""}
-{"text":"Apres","cluster":204.0,"cluster_corrected":""}
-{"text":"chra","cluster":205.0,"cluster_corrected":""}
-{"text":"san nonrrimson","cluster":205.0,"cluster_corrected":""}
-{"text":"san viilage","cluster":205.0,"cluster_corrected":""}
-{"text":"raegut","cluster":205.0,"cluster_corrected":""}
-{"text":"san hrae","cluster":205.0,"cluster_corrected":""}
-{"text":"mattresss","cluster":206.0,"cluster_corrected":""}
-{"text":"Notre mattre","cluster":206.0,"cluster_corrected":""}
-{"text":"Mattresse","cluster":206.0,"cluster_corrected":""}
-{"text":"mattref A","cluster":206.0,"cluster_corrected":""}
-{"text":"Mattre","cluster":206.0,"cluster_corrected":""}
-{"text":"mattresse","cluster":206.0,"cluster_corrected":""}
-{"text":"Saint-Iean","cluster":207.0,"cluster_corrected":""}
-{"text":"Suint-laenn","cluster":207.0,"cluster_corrected":""}
-{"text":"la Saint-Iean","cluster":207.0,"cluster_corrected":""}
-{"text":"ainte","cluster":207.0,"cluster_corrected":""}
-{"text":"Saint-Jean","cluster":207.0,"cluster_corrected":""}
-{"text":"Saint-lean","cluster":207.0,"cluster_corrected":""}
-{"text":"Saint-\nJean","cluster":207.0,"cluster_corrected":""}
-{"text":"Saint-Pierre","cluster":207.0,"cluster_corrected":""}
-{"text":"Saint-","cluster":207.0,"cluster_corrected":""}
-{"text":"imprim6s","cluster":208.0,"cluster_corrected":""}
-{"text":"Ir6chauderiel","cluster":208.0,"cluster_corrected":""}
-{"text":"Prinnerie","cluster":208.0,"cluster_corrected":""}
-{"text":"priel","cluster":208.0,"cluster_corrected":""}
-{"text":"travalil","cluster":209.0,"cluster_corrected":""}
-{"text":"valais","cluster":209.0,"cluster_corrected":""}
-{"text":"valt","cluster":209.0,"cluster_corrected":""}
-{"text":"Colis","cluster":210.0,"cluster_corrected":""}
-{"text":"pte Colis","cluster":210.0,"cluster_corrected":""}
-{"text":"pyeun","cluster":211.0,"cluster_corrected":""}
-{"text":"aueun","cluster":211.0,"cluster_corrected":""}
-{"text":"ehaeun","cluster":211.0,"cluster_corrected":""}
-{"text":"shaeune","cluster":211.0,"cluster_corrected":""}
-{"text":"Etchaeun","cluster":211.0,"cluster_corrected":""}
-{"text":"ellae","cluster":212.0,"cluster_corrected":""}
-{"text":"Blla","cluster":212.0,"cluster_corrected":""}
-{"text":"vaillas","cluster":212.0,"cluster_corrected":""}
-{"text":"Mm lsaura ft-ella","cluster":212.0,"cluster_corrected":""}
-{"text":"ellas","cluster":212.0,"cluster_corrected":""}
-{"text":"hourg ohereher","cluster":213.0,"cluster_corrected":""}
-{"text":"lahourer","cluster":213.0,"cluster_corrected":""}
-{"text":"hourse","cluster":213.0,"cluster_corrected":""}
-{"text":"hourg","cluster":213.0,"cluster_corrected":""}
-{"text":"mariee","cluster":214.0,"cluster_corrected":""}
-{"text":"san mari","cluster":214.0,"cluster_corrected":""}
-{"text":"la mariee","cluster":214.0,"cluster_corrected":""}
-{"text":"La mariee","cluster":214.0,"cluster_corrected":""}
-{"text":"mbre Nannette","cluster":215.0,"cluster_corrected":""}
-{"text":"hre","cluster":215.0,"cluster_corrected":""}
-{"text":"mre Nannette","cluster":215.0,"cluster_corrected":""}
-{"text":"mbre Nunnette","cluster":215.0,"cluster_corrected":""}
-{"text":"mre Nan-","cluster":215.0,"cluster_corrected":""}
-{"text":"mhre Nannette","cluster":215.0,"cluster_corrected":""}
-{"text":"cus","cluster":null,"cluster_corrected":""}
-{"text":"htas","cluster":null,"cluster_corrected":""}
-{"text":"ja","cluster":null,"cluster_corrected":""}
-{"text":"cs","cluster":null,"cluster_corrected":""}
-{"text":"u","cluster":null,"cluster_corrected":""}
-{"text":"i]1t","cluster":null,"cluster_corrected":""}
-{"text":"ga","cluster":null,"cluster_corrected":""}
-{"text":"tu6l","cluster":null,"cluster_corrected":""}
-{"text":"ANB","cluster":null,"cluster_corrected":""}
-{"text":"E","cluster":null,"cluster_corrected":""}
-{"text":"I","cluster":null,"cluster_corrected":""}
-{"text":"so","cluster":null,"cluster_corrected":""}
-{"text":"sora","cluster":null,"cluster_corrected":""}
-{"text":"lny","cluster":null,"cluster_corrected":""}
-{"text":"te0ors","cluster":null,"cluster_corrected":""}
-{"text":"fr","cluster":null,"cluster_corrected":""}
-{"text":"Iit","cluster":null,"cluster_corrected":""}
-{"text":"Eo0I","cluster":null,"cluster_corrected":""}
-{"text":"- A","cluster":null,"cluster_corrected":""}
-{"text":"at","cluster":null,"cluster_corrected":""}
-{"text":"Io","cluster":null,"cluster_corrected":""}
-{"text":"ne170","cluster":null,"cluster_corrected":""}
-{"text":"Ir","cluster":null,"cluster_corrected":""}
-{"text":"Cu","cluster":null,"cluster_corrected":""}
-{"text":"t8te","cluster":null,"cluster_corrected":""}
-{"text":"-:t:=","cluster":null,"cluster_corrected":""}
-{"text":"iaGG","cluster":null,"cluster_corrected":""}
-{"text":"cau","cluster":null,"cluster_corrected":""}
-{"text":"uMki AIB","cluster":null,"cluster_corrected":""}
-{"text":"n108","cluster":null,"cluster_corrected":""}
-{"text":"M","cluster":null,"cluster_corrected":""}
-{"text":"lJ","cluster":null,"cluster_corrected":""}
-{"text":"ii","cluster":null,"cluster_corrected":""}
-{"text":"IW","cluster":null,"cluster_corrected":""}
-{"text":"tei","cluster":null,"cluster_corrected":""}
-{"text":"In","cluster":null,"cluster_corrected":""}
-{"text":"rn","cluster":null,"cluster_corrected":""}
-{"text":"Rt","cluster":null,"cluster_corrected":""}
-{"text":"Iu","cluster":null,"cluster_corrected":""}
-{"text":"MkE.","cluster":null,"cluster_corrected":""}
-{"text":"sa160","cluster":null,"cluster_corrected":""}
-{"text":"Cn","cluster":null,"cluster_corrected":""}
-{"text":"N","cluster":null,"cluster_corrected":""}
-{"text":"Ilchu","cluster":null,"cluster_corrected":""}
-{"text":"A0","cluster":null,"cluster_corrected":""}
-{"text":"Cs","cluster":null,"cluster_corrected":""}
-{"text":"Dn","cluster":null,"cluster_corrected":""}
-{"text":"Prvt","cluster":null,"cluster_corrected":""}
-{"text":".m8me","cluster":null,"cluster_corrected":""}
-{"text":"wss","cluster":null,"cluster_corrected":""}
-{"text":"cupes","cluster":null,"cluster_corrected":""}
-{"text":"ge","cluster":null,"cluster_corrected":""}
-{"text":"nuho","cluster":null,"cluster_corrected":""}
-{"text":"Wl","cluster":null,"cluster_corrected":""}
-{"text":"IJe","cluster":null,"cluster_corrected":""}
-{"text":"s6-","cluster":null,"cluster_corrected":""}
-{"text":"Kn","cluster":null,"cluster_corrected":""}
-{"text":"us","cluster":null,"cluster_corrected":""}
-{"text":"e'","cluster":null,"cluster_corrected":""}
-{"text":"Ls","cluster":null,"cluster_corrected":""}
-{"text":"L-","cluster":null,"cluster_corrected":""}
+{"text":"Ilordinarie","cluster":0.0,"cluster_corrected":""}
+{"text":"lordinuaire","cluster":0.0,"cluster_corrected":""}
+{"text":"Narie","cluster":0.0,"cluster_corrected":""}
+{"text":"ILo","cluster":0.0,"cluster_corrected":""}
+{"text":"io m6-","cluster":1.0,"cluster_corrected":""}
+{"text":"m6-","cluster":1.0,"cluster_corrected":""}
+{"text":"Conviens","cluster":2.0,"cluster_corrected":""}
+{"text":"Tiens","cluster":2.0,"cluster_corrected":""}
+{"text":"eNviee","cluster":2.0,"cluster_corrected":""}
+{"text":"anvio","cluster":2.0,"cluster_corrected":""}
+{"text":"Iiens","cluster":2.0,"cluster_corrected":""}
+{"text":"sssvie","cluster":2.0,"cluster_corrected":""}
+{"text":"iout","cluster":3.0,"cluster_corrected":""}
+{"text":"out","cluster":3.0,"cluster_corrected":""}
+{"text":"biioux","cluster":3.0,"cluster_corrected":""}
+{"text":"Iouii","cluster":3.0,"cluster_corrected":""}
+{"text":"Iout","cluster":3.0,"cluster_corrected":""}
+{"text":"maftre","cluster":4.0,"cluster_corrected":""}
+{"text":"naftra","cluster":4.0,"cluster_corrected":""}
+{"text":"nuudes","cluster":5.0,"cluster_corrected":""}
+{"text":"Ir6chauderiel","cluster":5.0,"cluster_corrected":""}
+{"text":"ees ides","cluster":5.0,"cluster_corrected":""}
+{"text":"Etionnel","cluster":6.0,"cluster_corrected":""}
+{"text":"petitl","cluster":6.0,"cluster_corrected":""}
+{"text":"titsft","cluster":6.0,"cluster_corrected":""}
+{"text":"maresta plush dannaer","cluster":7.0,"cluster_corrected":""}
+{"text":"h Diu","cluster":7.0,"cluster_corrected":""}
+{"text":"rest6e","cluster":7.0,"cluster_corrected":""}
+{"text":"Poonnae","cluster":7.0,"cluster_corrected":""}
+{"text":"voyagek","cluster":8.0,"cluster_corrected":""}
+{"text":"Agel","cluster":8.0,"cluster_corrected":""}
+{"text":"envoy6","cluster":8.0,"cluster_corrected":""}
+{"text":"bless6","cluster":9.0,"cluster_corrected":""}
+{"text":"dress6","cluster":9.0,"cluster_corrected":""}
+{"text":"lespsi","cluster":9.0,"cluster_corrected":""}
+{"text":"uund","cluster":10.0,"cluster_corrected":""}
+{"text":"grund","cluster":10.0,"cluster_corrected":""}
+{"text":"Grund-il","cluster":10.0,"cluster_corrected":""}
+{"text":"aprbes","cluster":11.0,"cluster_corrected":""}
+{"text":"Aprbs","cluster":11.0,"cluster_corrected":""}
+{"text":"Aprbes","cluster":11.0,"cluster_corrected":""}
+{"text":"Aprs","cluster":11.0,"cluster_corrected":""}
+{"text":"Inourables d'Issoudun","cluster":12.0,"cluster_corrected":""}
+{"text":"Issouimn","cluster":12.0,"cluster_corrected":""}
+{"text":"moisso","cluster":12.0,"cluster_corrected":""}
+{"text":"Issoudun","cluster":12.0,"cluster_corrected":""}
+{"text":"Laissons","cluster":12.0,"cluster_corrected":""}
+{"text":"rssouree","cluster":12.0,"cluster_corrected":""}
+{"text":"soupof","cluster":12.0,"cluster_corrected":""}
+{"text":"psisso","cluster":12.0,"cluster_corrected":""}
+{"text":"exueto","cluster":12.0,"cluster_corrected":""}
+{"text":"bergbr","cluster":13.0,"cluster_corrected":""}
+{"text":"bergbre","cluster":13.0,"cluster_corrected":""}
+{"text":"madamel","cluster":14.0,"cluster_corrected":""}
+{"text":"Madami","cluster":14.0,"cluster_corrected":""}
+{"text":"lesameliorer","cluster":14.0,"cluster_corrected":""}
+{"text":"ur6f\n- IDamel","cluster":14.0,"cluster_corrected":""}
+{"text":"ipussoeiee","cluster":15.0,"cluster_corrected":""}
+{"text":"joeie","cluster":15.0,"cluster_corrected":""}
+{"text":"bassoe-oourt","cluster":15.0,"cluster_corrected":""}
+{"text":"t0t tir6","cluster":16.0,"cluster_corrected":""}
+{"text":"pitir","cluster":16.0,"cluster_corrected":""}
+{"text":"dshir6","cluster":16.0,"cluster_corrected":""}
+{"text":"Hlal","cluster":16.0,"cluster_corrected":""}
+{"text":"Tes","cluster":17.0,"cluster_corrected":""}
+{"text":"Hautes-kloches","cluster":17.0,"cluster_corrected":""}
+{"text":"htes","cluster":17.0,"cluster_corrected":""}
+{"text":"foiro","cluster":18.0,"cluster_corrected":""}
+{"text":"foire proehaine","cluster":18.0,"cluster_corrected":""}
+{"text":"foid","cluster":18.0,"cluster_corrected":""}
+{"text":"Eatce","cluster":19.0,"cluster_corrected":""}
+{"text":"Eat-ee","cluster":19.0,"cluster_corrected":""}
+{"text":"eprgnee","cluster":20.0,"cluster_corrected":""}
+{"text":"gne","cluster":20.0,"cluster_corrected":""}
+{"text":"l'6curie","cluster":21.0,"cluster_corrected":""}
+{"text":"auri","cluster":21.0,"cluster_corrected":""}
+{"text":"cur","cluster":21.0,"cluster_corrected":""}
+{"text":"d6barbouillait","cluster":22.0,"cluster_corrected":""}
+{"text":"Iailleurs","cluster":22.0,"cluster_corrected":""}
+{"text":"Feuillet","cluster":22.0,"cluster_corrected":""}
+{"text":"Guilluume","cluster":22.0,"cluster_corrected":""}
+{"text":"Guillauma","cluster":22.0,"cluster_corrected":""}
+{"text":"habill6e","cluster":22.0,"cluster_corrected":""}
+{"text":"ontta puillo uu vot\nuatte","cluster":22.0,"cluster_corrected":""}
+{"text":"ille anit ikee dei","cluster":22.0,"cluster_corrected":""}
+{"text":"puille","cluster":22.0,"cluster_corrected":""}
+{"text":"eeui","cluster":22.0,"cluster_corrected":""}
+{"text":"chbvrfauille","cluster":22.0,"cluster_corrected":""}
+{"text":"ille","cluster":22.0,"cluster_corrected":""}
+{"text":"Las-tu","cluster":23.0,"cluster_corrected":""}
+{"text":"as-Rr","cluster":23.0,"cluster_corrected":""}
+{"text":"As-tu pens6","cluster":23.0,"cluster_corrected":""}
+{"text":"nest-oe pas","cluster":24.0,"cluster_corrected":""}
+{"text":"nest-oe","cluster":24.0,"cluster_corrected":""}
+{"text":"iaiis","cluster":25.0,"cluster_corrected":""}
+{"text":"Iaisse","cluster":25.0,"cluster_corrected":""}
+{"text":"PAIII","cluster":25.0,"cluster_corrected":""}
+{"text":"dtresse de eanne","cluster":26.0,"cluster_corrected":""}
+{"text":"Ieannef","cluster":26.0,"cluster_corrected":""}
+{"text":"Ieanne","cluster":26.0,"cluster_corrected":""}
+{"text":"NFaN B JIEANNR","cluster":26.0,"cluster_corrected":""}
+{"text":"Ieanne vellle","cluster":26.0,"cluster_corrected":""}
+{"text":"Ieanno","cluster":26.0,"cluster_corrected":""}
+{"text":"Jaeanne","cluster":26.0,"cluster_corrected":""}
+{"text":"Ieannel","cluster":26.0,"cluster_corrected":""}
+{"text":"nePMIR PARTIR","cluster":27.0,"cluster_corrected":""}
+{"text":"quartier-lh","cluster":27.0,"cluster_corrected":""}
+{"text":"TR0islM PARTIR","cluster":27.0,"cluster_corrected":""}
+{"text":"srtir","cluster":27.0,"cluster_corrected":""}
+{"text":"Hautes-SEG0NDR PARTIB","cluster":27.0,"cluster_corrected":""}
+{"text":"TN0IsIMIR","cluster":27.0,"cluster_corrected":""}
+{"text":"ATRIMIR PARTIR","cluster":27.0,"cluster_corrected":""}
+{"text":"sart","cluster":27.0,"cluster_corrected":""}
+{"text":"Nannottat","cluster":28.0,"cluster_corrected":""}
+{"text":"nankin","cluster":28.0,"cluster_corrected":""}
+{"text":"Mannotte","cluster":28.0,"cluster_corrected":""}
+{"text":"loanno","cluster":28.0,"cluster_corrected":""}
+{"text":"Josiphine","cluster":29.0,"cluster_corrected":""}
+{"text":"Jos6-","cluster":29.0,"cluster_corrected":""}
+{"text":"Jasphino","cluster":29.0,"cluster_corrected":""}
+{"text":"chin","cluster":29.0,"cluster_corrected":""}
+{"text":"Ioshine","cluster":29.0,"cluster_corrected":""}
+{"text":"cehargea","cluster":30.0,"cluster_corrected":""}
+{"text":"gea","cluster":30.0,"cluster_corrected":""}
+{"text":"hargbr","cluster":30.0,"cluster_corrected":""}
+{"text":"voyes-ee","cluster":31.0,"cluster_corrected":""}
+{"text":"z Voyes","cluster":31.0,"cluster_corrected":""}
+{"text":"joyeu","cluster":31.0,"cluster_corrected":""}
+{"text":"soyes","cluster":31.0,"cluster_corrected":""}
+{"text":"Voyez","cluster":31.0,"cluster_corrected":""}
+{"text":"n6tsre Voyons","cluster":31.0,"cluster_corrected":""}
+{"text":"Blancheo","cluster":32.0,"cluster_corrected":""}
+{"text":"huche","cluster":32.0,"cluster_corrected":""}
+{"text":"Touches","cluster":32.0,"cluster_corrected":""}
+{"text":"Fuuche","cluster":32.0,"cluster_corrected":""}
+{"text":"herg","cluster":33.0,"cluster_corrected":""}
+{"text":"hergra","cluster":33.0,"cluster_corrected":""}
+{"text":"vinttn","cluster":34.0,"cluster_corrected":""}
+{"text":"Saint-\nJean","cluster":34.0,"cluster_corrected":""}
+{"text":"Saint-lean","cluster":34.0,"cluster_corrected":""}
+{"text":"Saint-Iean","cluster":34.0,"cluster_corrected":""}
+{"text":"Saint-Jean","cluster":34.0,"cluster_corrected":""}
+{"text":"Saint-Pierre","cluster":34.0,"cluster_corrected":""}
+{"text":"sois","cluster":35.0,"cluster_corrected":""}
+{"text":"Sois","cluster":35.0,"cluster_corrected":""}
+{"text":"Iois","cluster":35.0,"cluster_corrected":""}
+{"text":"E\n\nE","cluster":35.0,"cluster_corrected":""}
+{"text":"pribre","cluster":36.0,"cluster_corrected":""}
+{"text":"chbnevibre","cluster":36.0,"cluster_corrected":""}
+{"text":"misbre","cluster":36.0,"cluster_corrected":""}
+{"text":"quelquo","cluster":37.0,"cluster_corrected":""}
+{"text":"quelqe","cluster":37.0,"cluster_corrected":""}
+{"text":"A quelqus temps","cluster":37.0,"cluster_corrected":""}
+{"text":"Quelquofois","cluster":37.0,"cluster_corrected":""}
+{"text":"mereie","cluster":38.0,"cluster_corrected":""}
+{"text":"- Merei","cluster":38.0,"cluster_corrected":""}
+{"text":"Maia","cluster":39.0,"cluster_corrected":""}
+{"text":"maiaon","cluster":39.0,"cluster_corrected":""}
+{"text":"oette\nmaiaon","cluster":39.0,"cluster_corrected":""}
+{"text":"mhmeIBANKR VYtVE","cluster":40.0,"cluster_corrected":""}
+{"text":"ruissau","cluster":40.0,"cluster_corrected":""}
+{"text":"meissan","cluster":40.0,"cluster_corrected":""}
+{"text":"eonnaissanee","cluster":40.0,"cluster_corrected":""}
+{"text":"uerita","cluster":41.0,"cluster_corrected":""}
+{"text":"Muarguerito","cluster":41.0,"cluster_corrected":""}
+{"text":"lorgueil","cluster":41.0,"cluster_corrected":""}
+{"text":"Margue-","cluster":41.0,"cluster_corrected":""}
+{"text":"Mlurguerito","cluster":41.0,"cluster_corrected":""}
+{"text":"Louiso","cluster":42.0,"cluster_corrected":""}
+{"text":"louede","cluster":42.0,"cluster_corrected":""}
+{"text":"Iouis","cluster":42.0,"cluster_corrected":""}
+{"text":"Louist","cluster":42.0,"cluster_corrected":""}
+{"text":"Louial","cluster":42.0,"cluster_corrected":""}
+{"text":"grdantlLouis","cluster":42.0,"cluster_corrected":""}
+{"text":"Louisjouissait","cluster":42.0,"cluster_corrected":""}
+{"text":"Louisl","cluster":42.0,"cluster_corrected":""}
+{"text":"buis","cluster":42.0,"cluster_corrected":""}
+{"text":"ommana","cluster":43.0,"cluster_corrected":""}
+{"text":"Mange","cluster":43.0,"cluster_corrected":""}
+{"text":"d6rangeAt","cluster":43.0,"cluster_corrected":""}
+{"text":"Iange","cluster":43.0,"cluster_corrected":""}
+{"text":"elange","cluster":43.0,"cluster_corrected":""}
+{"text":"vendange","cluster":43.0,"cluster_corrected":""}
+{"text":"grange el","cluster":43.0,"cluster_corrected":""}
+{"text":"maltre","cluster":44.0,"cluster_corrected":""}
+{"text":"pltre","cluster":44.0,"cluster_corrected":""}
+{"text":"maltresse","cluster":44.0,"cluster_corrected":""}
+{"text":"allar","cluster":45.0,"cluster_corrected":""}
+{"text":"alluma","cluster":45.0,"cluster_corrected":""}
+{"text":"alle","cluster":45.0,"cluster_corrected":""}
+{"text":"fallt","cluster":45.0,"cluster_corrected":""}
+{"text":"st houl","cluster":46.0,"cluster_corrected":""}
+{"text":"diset east","cluster":46.0,"cluster_corrected":""}
+{"text":"east h prandre","cluster":46.0,"cluster_corrected":""}
+{"text":"Prinnerie","cluster":47.0,"cluster_corrected":""}
+{"text":"ner","cluster":47.0,"cluster_corrected":""}
+{"text":"ner  sua","cluster":47.0,"cluster_corrected":""}
+{"text":"soignerai","cluster":47.0,"cluster_corrected":""}
+{"text":"chneire","cluster":48.0,"cluster_corrected":""}
+{"text":"vire","cluster":48.0,"cluster_corrected":""}
+{"text":"veir","cluster":48.0,"cluster_corrected":""}
+{"text":"eir","cluster":48.0,"cluster_corrected":""}
+{"text":"terse pei","cluster":49.0,"cluster_corrected":""}
+{"text":"Notre Pere","cluster":49.0,"cluster_corrected":""}
+{"text":"valt","cluster":50.0,"cluster_corrected":""}
+{"text":"val","cluster":50.0,"cluster_corrected":""}
+{"text":"ruisonnublo","cluster":51.0,"cluster_corrected":""}
+{"text":"ruison","cluster":51.0,"cluster_corrected":""}
+{"text":"shAteau","cluster":52.0,"cluster_corrected":""}
+{"text":"Ieau","cluster":52.0,"cluster_corrected":""}
+{"text":"ieau","cluster":52.0,"cluster_corrected":""}
+{"text":"bheaueoup","cluster":52.0,"cluster_corrected":""}
+{"text":"KEt Catherine","cluster":53.0,"cluster_corrected":""}
+{"text":"therine","cluster":53.0,"cluster_corrected":""}
+{"text":"eerivit","cluster":53.0,"cluster_corrected":""}
+{"text":"autherino garto","cluster":53.0,"cluster_corrected":""}
+{"text":"Catherina","cluster":53.0,"cluster_corrected":""}
+{"text":"pthers","cluster":53.0,"cluster_corrected":""}
+{"text":"Ctherine","cluster":53.0,"cluster_corrected":""}
+{"text":"propes","cluster":54.0,"cluster_corrected":""}
+{"text":"proat","cluster":54.0,"cluster_corrected":""}
+{"text":"cupes","cluster":54.0,"cluster_corrected":""}
+{"text":"provins","cluster":54.0,"cluster_corrected":""}
+{"text":"proflt","cluster":54.0,"cluster_corrected":""}
+{"text":"Cost","cluster":55.0,"cluster_corrected":""}
+{"text":"ost bian","cluster":55.0,"cluster_corrected":""}
+{"text":"Eh bian","cluster":55.0,"cluster_corrected":""}
+{"text":"Solungo aost li-bas","cluster":55.0,"cluster_corrected":""}
+{"text":"tarras","cluster":56.0,"cluster_corrected":""}
+{"text":"tarrang","cluster":56.0,"cluster_corrected":""}
+{"text":"lembarras","cluster":56.0,"cluster_corrected":""}
+{"text":"Piarra","cluster":56.0,"cluster_corrected":""}
+{"text":"lomhnrras","cluster":56.0,"cluster_corrected":""}
+{"text":"evelui-lhf","cluster":57.0,"cluster_corrected":""}
+{"text":"luil","cluster":57.0,"cluster_corrected":""}
+{"text":"ehevet da","cluster":57.0,"cluster_corrected":""}
+{"text":"tmps-lh","cluster":57.0,"cluster_corrected":""}
+{"text":"maisan","cluster":58.0,"cluster_corrected":""}
+{"text":"maisen","cluster":58.0,"cluster_corrected":""}
+{"text":"Isanre","cluster":58.0,"cluster_corrected":""}
+{"text":"maieo","cluster":58.0,"cluster_corrected":""}
+{"text":"faisais","cluster":58.0,"cluster_corrected":""}
+{"text":"journe","cluster":59.0,"cluster_corrected":""}
+{"text":"journie","cluster":59.0,"cluster_corrected":""}
+{"text":"m6decins","cluster":60.0,"cluster_corrected":""}
+{"text":"m6deein","cluster":60.0,"cluster_corrected":""}
+{"text":"mdecin","cluster":60.0,"cluster_corrected":""}
+{"text":"ourg","cluster":61.0,"cluster_corrected":""}
+{"text":"bourgt","cluster":61.0,"cluster_corrected":""}
+{"text":"marhal du hourg","cluster":61.0,"cluster_corrected":""}
+{"text":"hourg","cluster":61.0,"cluster_corrected":""}
+{"text":"bourg\n- Elle","cluster":61.0,"cluster_corrected":""}
+{"text":"labourenrs","cluster":61.0,"cluster_corrected":""}
+{"text":"Bourges","cluster":61.0,"cluster_corrected":""}
+{"text":"sainte-Solange","cluster":62.0,"cluster_corrected":""}
+{"text":"Sainte-Solange","cluster":62.0,"cluster_corrected":""}
+{"text":"Sainte-So-","cluster":62.0,"cluster_corrected":""}
+{"text":"quelguo","cluster":63.0,"cluster_corrected":""}
+{"text":"parceeque cest","cluster":63.0,"cluster_corrected":""}
+{"text":"Quen","cluster":63.0,"cluster_corrected":""}
+{"text":"Phques","cluster":63.0,"cluster_corrected":""}
+{"text":"queiquo","cluster":63.0,"cluster_corrected":""}
+{"text":"Afrique","cluster":63.0,"cluster_corrected":""}
+{"text":"tta hussa","cluster":64.0,"cluster_corrected":""}
+{"text":"tta hussa at la","cluster":64.0,"cluster_corrected":""}
+{"text":"RN sRVICR","cluster":65.0,"cluster_corrected":""}
+{"text":"RN sERVICE","cluster":65.0,"cluster_corrected":""}
+{"text":"SERVICE","cluster":65.0,"cluster_corrected":""}
+{"text":"RANNE BN SERVIGR","cluster":65.0,"cluster_corrected":""}
+{"text":"serviee","cluster":65.0,"cluster_corrected":""}
+{"text":"RERVICR","cluster":65.0,"cluster_corrected":""}
+{"text":"I S","cluster":66.0,"cluster_corrected":""}
+{"text":"LHIII\n\nII\n Sil\nIII","cluster":66.0,"cluster_corrected":""}
+{"text":"ii\n\nI\nI\n\nII\nE\nE","cluster":66.0,"cluster_corrected":""}
+{"text":"IIl -\nII","cluster":66.0,"cluster_corrected":""}
+{"text":"ILaA","cluster":67.0,"cluster_corrected":""}
+{"text":"ani-plaae","cluster":67.0,"cluster_corrected":""}
+{"text":"TUlsIkMk 1ANII","cluster":67.0,"cluster_corrected":""}
+{"text":"plaft","cluster":67.0,"cluster_corrected":""}
+{"text":"place","cluster":67.0,"cluster_corrected":""}
+{"text":"Vians","cluster":68.0,"cluster_corrected":""}
+{"text":"IANNk","cluster":68.0,"cluster_corrected":""}
+{"text":"Ans","cluster":68.0,"cluster_corrected":""}
+{"text":"bouher uno pibdeoe de","cluster":69.0,"cluster_corrected":""}
+{"text":"uhe","cluster":69.0,"cluster_corrected":""}
+{"text":"bhoire","cluster":70.0,"cluster_corrected":""}
+{"text":"hoir","cluster":70.0,"cluster_corrected":""}
+{"text":"choirs","cluster":70.0,"cluster_corrected":""}
+{"text":"etj'","cluster":71.0,"cluster_corrected":""}
+{"text":"etJRANR APOUSE","cluster":71.0,"cluster_corrected":""}
+{"text":"oes","cluster":72.0,"cluster_corrected":""}
+{"text":"marehanderai","cluster":72.0,"cluster_corrected":""}
+{"text":"mareh6 lo beurro","cluster":72.0,"cluster_corrected":""}
+{"text":"marehand","cluster":72.0,"cluster_corrected":""}
+{"text":"cele","cluster":73.0,"cluster_corrected":""}
+{"text":"vaele","cluster":73.0,"cluster_corrected":""}
+{"text":"LiEelE","cluster":73.0,"cluster_corrected":""}
+{"text":"grele","cluster":73.0,"cluster_corrected":""}
+{"text":"meles don-\nnezl","cluster":73.0,"cluster_corrected":""}
+{"text":"quoiquil","cluster":74.0,"cluster_corrected":""}
+{"text":"uoiqu'","cluster":74.0,"cluster_corrected":""}
+{"text":"paruatt","cluster":75.0,"cluster_corrected":""}
+{"text":"oatt","cluster":75.0,"cluster_corrected":""}
+{"text":"aratt","cluster":75.0,"cluster_corrected":""}
+{"text":"farae do","cluster":75.0,"cluster_corrected":""}
+{"text":"Sais-tu","cluster":76.0,"cluster_corrected":""}
+{"text":"Crois-tu","cluster":76.0,"cluster_corrected":""}
+{"text":"Crois","cluster":76.0,"cluster_corrected":""}
+{"text":"Vois-tu","cluster":76.0,"cluster_corrected":""}
+{"text":"aimais-tu","cluster":76.0,"cluster_corrected":""}
+{"text":"Iort","cluster":77.0,"cluster_corrected":""}
+{"text":"Ilsporta","cluster":77.0,"cluster_corrected":""}
+{"text":"port6","cluster":77.0,"cluster_corrected":""}
+{"text":"porto","cluster":77.0,"cluster_corrected":""}
+{"text":"Cstte","cluster":78.0,"cluster_corrected":""}
+{"text":"tte","cluster":78.0,"cluster_corrected":""}
+{"text":"Mannstte","cluster":78.0,"cluster_corrected":""}
+{"text":"maduama","cluster":79.0,"cluster_corrected":""}
+{"text":"maman","cluster":79.0,"cluster_corrected":""}
+{"text":"Maman","cluster":79.0,"cluster_corrected":""}
+{"text":"Amne","cluster":80.0,"cluster_corrected":""}
+{"text":"aumne","cluster":80.0,"cluster_corrected":""}
+{"text":"la somme","cluster":81.0,"cluster_corrected":""}
+{"text":"Ormenux","cluster":81.0,"cluster_corrected":""}
+{"text":"Comment","cluster":81.0,"cluster_corrected":""}
+{"text":"Comment dane","cluster":81.0,"cluster_corrected":""}
+{"text":"Commae","cluster":81.0,"cluster_corrected":""}
+{"text":"hourse","cluster":82.0,"cluster_corrected":""}
+{"text":"our","cluster":82.0,"cluster_corrected":""}
+{"text":"our6f","cluster":82.0,"cluster_corrected":""}
+{"text":"ourRIEMIR","cluster":82.0,"cluster_corrected":""}
+{"text":"asast","cluster":83.0,"cluster_corrected":""}
+{"text":"asans","cluster":83.0,"cluster_corrected":""}
+{"text":"san","cluster":83.0,"cluster_corrected":""}
+{"text":"dar asans rion","cluster":83.0,"cluster_corrected":""}
+{"text":"PRBMIIRRE","cluster":84.0,"cluster_corrected":""}
+{"text":"fortPRMIIRRE","cluster":84.0,"cluster_corrected":""}
+{"text":"trs-fort","cluster":84.0,"cluster_corrected":""}
+{"text":"trouvara","cluster":85.0,"cluster_corrected":""}
+{"text":"troeuva","cluster":85.0,"cluster_corrected":""}
+{"text":"Vars","cluster":85.0,"cluster_corrected":""}
+{"text":"lean Jusserand","cluster":86.0,"cluster_corrected":""}
+{"text":"Jusserand","cluster":86.0,"cluster_corrected":""}
+{"text":"FIN","cluster":87.0,"cluster_corrected":""}
+{"text":"Rnfin","cluster":87.0,"cluster_corrected":""}
+{"text":"Infin","cluster":87.0,"cluster_corrected":""}
+{"text":"repondre","cluster":88.0,"cluster_corrected":""}
+{"text":"viwreP","cluster":88.0,"cluster_corrected":""}
+{"text":"vindre","cluster":88.0,"cluster_corrected":""}
+{"text":"approndre","cluster":88.0,"cluster_corrected":""}
+{"text":"c::BCONDB","cluster":88.0,"cluster_corrected":""}
+{"text":"nessa so puso","cluster":89.0,"cluster_corrected":""}
+{"text":"puvont pus","cluster":89.0,"cluster_corrected":""}
+{"text":"vona","cluster":89.0,"cluster_corrected":""}
+{"text":"oen voudraias pus","cluster":89.0,"cluster_corrected":""}
+{"text":"pus","cluster":89.0,"cluster_corrected":""}
+{"text":"cntimes","cluster":90.0,"cluster_corrected":""}
+{"text":"coIme","cluster":90.0,"cluster_corrected":""}
+{"text":"venais do","cluster":91.0,"cluster_corrected":""}
+{"text":"Nai-j ps ma ur","cluster":91.0,"cluster_corrected":""}
+{"text":"Nai","cluster":91.0,"cluster_corrected":""}
+{"text":"mnains","cluster":91.0,"cluster_corrected":""}
+{"text":"oampagne","cluster":92.0,"cluster_corrected":""}
+{"text":"Iu eompagnio","cluster":92.0,"cluster_corrected":""}
+{"text":"yeu eomma","cluster":92.0,"cluster_corrected":""}
+{"text":"payetra eomptant","cluster":92.0,"cluster_corrected":""}
+{"text":"pus to contraindro","cluster":93.0,"cluster_corrected":""}
+{"text":"aharga do asun antratian","cluster":93.0,"cluster_corrected":""}
+{"text":"ountra","cluster":93.0,"cluster_corrected":""}
+{"text":"avunt","cluster":93.0,"cluster_corrected":""}
+{"text":"eontraire","cluster":93.0,"cluster_corrected":""}
+{"text":"Remantranaes","cluster":93.0,"cluster_corrected":""}
+{"text":"llan'y rontrarapus","cluster":93.0,"cluster_corrected":""}
+{"text":"femma da Gerbaud","cluster":94.0,"cluster_corrected":""}
+{"text":"Gerband","cluster":94.0,"cluster_corrected":""}
+{"text":"d6pana da ux","cluster":94.0,"cluster_corrected":""}
+{"text":"ktii","cluster":95.0,"cluster_corrected":""}
+{"text":"Tiier an","cluster":95.0,"cluster_corrected":""}
+{"text":"JiniiE:.A","cluster":95.0,"cluster_corrected":""}
+{"text":"maes","cluster":96.0,"cluster_corrected":""}
+{"text":"iaes","cluster":96.0,"cluster_corrected":""}
+{"text":"plaes","cluster":96.0,"cluster_corrected":""}
+{"text":"aesoueil","cluster":96.0,"cluster_corrected":""}
+{"text":"Diaeu","cluster":96.0,"cluster_corrected":""}
+{"text":"gargon","cluster":97.0,"cluster_corrected":""}
+{"text":"hardia","cluster":97.0,"cluster_corrected":""}
+{"text":"dangar","cluster":97.0,"cluster_corrected":""}
+{"text":"egarde","cluster":97.0,"cluster_corrected":""}
+{"text":"pre\nTixier","cluster":98.0,"cluster_corrected":""}
+{"text":"Tixier","cluster":98.0,"cluster_corrected":""}
+{"text":"Mre Tixier","cluster":98.0,"cluster_corrected":""}
+{"text":"pre ixier","cluster":98.0,"cluster_corrected":""}
+{"text":"Muitre Tixer","cluster":98.0,"cluster_corrected":""}
+{"text":"nuttre Tixior","cluster":98.0,"cluster_corrected":""}
+{"text":"pre Tixier","cluster":98.0,"cluster_corrected":""}
+{"text":"f\n- Muattre Tixier","cluster":98.0,"cluster_corrected":""}
+{"text":"pre Iixier","cluster":98.0,"cluster_corrected":""}
+{"text":"mdemoisells","cluster":99.0,"cluster_corrected":""}
+{"text":"malemoiselle","cluster":99.0,"cluster_corrected":""}
+{"text":"Mesdemoiselles","cluster":99.0,"cluster_corrected":""}
+{"text":"mademoiselle","cluster":99.0,"cluster_corrected":""}
+{"text":"Penduant","cluster":100.0,"cluster_corrected":""}
+{"text":"aendurantae","cluster":100.0,"cluster_corrected":""}
+{"text":"rendtt","cluster":100.0,"cluster_corrected":""}
+{"text":"d6fendu","cluster":100.0,"cluster_corrected":""}
+{"text":"entendro","cluster":100.0,"cluster_corrected":""}
+{"text":"- Mtais","cluster":101.0,"cluster_corrected":""}
+{"text":"uu bisn lurl","cluster":101.0,"cluster_corrected":""}
+{"text":"horuais","cluster":101.0,"cluster_corrected":""}
+{"text":"aisn","cluster":101.0,"cluster_corrected":""}
+{"text":"jaurais","cluster":101.0,"cluster_corrected":""}
+{"text":"Vais","cluster":101.0,"cluster_corrected":""}
+{"text":"Panl","cluster":102.0,"cluster_corrected":""}
+{"text":"PANTIk","cluster":102.0,"cluster_corrected":""}
+{"text":"antndez","cluster":102.0,"cluster_corrected":""}
+{"text":"PAHYTIk","cluster":102.0,"cluster_corrected":""}
+{"text":"RT MRRR","cluster":103.0,"cluster_corrected":""}
+{"text":"touch6 do sa doueeur","cluster":103.0,"cluster_corrected":""}
+{"text":"ort de sa mhro","cluster":103.0,"cluster_corrected":""}
+{"text":"aa mMre","cluster":103.0,"cluster_corrected":""}
+{"text":"mre\nNannette","cluster":104.0,"cluster_corrected":""}
+{"text":"Mannette idsvant dngarensement","cluster":104.0,"cluster_corrected":""}
+{"text":"mbr Nannette","cluster":104.0,"cluster_corrected":""}
+{"text":"Mettez","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannettoe","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannettel","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannetteo","cluster":104.0,"cluster_corrected":""}
+{"text":"ocette","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannette","cluster":104.0,"cluster_corrected":""}
+{"text":"mbre\nNannette","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannettef","cluster":104.0,"cluster_corrected":""}
+{"text":"mare Mannette","cluster":104.0,"cluster_corrected":""}
+{"text":"mbre\nNannetto","cluster":104.0,"cluster_corrected":""}
+{"text":"Mannette","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannetto","cluster":104.0,"cluster_corrected":""}
+{"text":"Nannetts","cluster":104.0,"cluster_corrected":""}
+{"text":"- Pas","cluster":105.0,"cluster_corrected":""}
+{"text":"pas8e","cluster":105.0,"cluster_corrected":""}
+{"text":"ku pasaunt","cluster":105.0,"cluster_corrected":""}
+{"text":"passunt","cluster":105.0,"cluster_corrected":""}
+{"text":"voulao","cluster":106.0,"cluster_corrected":""}
+{"text":"Loule","cluster":106.0,"cluster_corrected":""}
+{"text":"voulea","cluster":106.0,"cluster_corrected":""}
+{"text":"fumer tes champs.-","cluster":107.0,"cluster_corrected":""}
+{"text":"Eh bionl js prendruais un de tss champs on\npnyemnent","cluster":107.0,"cluster_corrected":""}
+{"text":"hamps","cluster":107.0,"cluster_corrected":""}
+{"text":"manquAt","cluster":108.0,"cluster_corrected":""}
+{"text":"oinquanta","cluster":108.0,"cluster_corrected":""}
+{"text":"nettoyee","cluster":109.0,"cluster_corrected":""}
+{"text":"mre Nunnette","cluster":109.0,"cluster_corrected":""}
+{"text":"charit6 da\nlua mbre Nunnetta","cluster":109.0,"cluster_corrected":""}
+{"text":"Nunnetto","cluster":109.0,"cluster_corrected":""}
+{"text":"mbr Nunnette","cluster":109.0,"cluster_corrected":""}
+{"text":"mbre Nunnette","cluster":109.0,"cluster_corrected":""}
+{"text":"Nunnetta","cluster":109.0,"cluster_corrected":""}
+{"text":"Nunnette","cluster":109.0,"cluster_corrected":""}
+{"text":"lir","cluster":110.0,"cluster_corrected":""}
+{"text":"etablirai","cluster":110.0,"cluster_corrected":""}
+{"text":"rai","cluster":110.0,"cluster_corrected":""}
+{"text":"suupauda","cluster":111.0,"cluster_corrected":""}
+{"text":"pau","cluster":111.0,"cluster_corrected":""}
+{"text":"st Paul","cluster":111.0,"cluster_corrected":""}
+{"text":"svre-le","cluster":112.0,"cluster_corrected":""}
+{"text":"il6e-la","cluster":112.0,"cluster_corrected":""}
+{"text":"chvre","cluster":112.0,"cluster_corrected":""}
+{"text":"tomhee","cluster":113.0,"cluster_corrected":""}
+{"text":"Combin","cluster":113.0,"cluster_corrected":""}
+{"text":"tombsr","cluster":113.0,"cluster_corrected":""}
+{"text":"san ohupeau","cluster":114.0,"cluster_corrected":""}
+{"text":"mari6","cluster":114.0,"cluster_corrected":""}
+{"text":"san mari","cluster":114.0,"cluster_corrected":""}
+{"text":"san nonrrimson","cluster":114.0,"cluster_corrected":""}
+{"text":"ARIIR","cluster":114.0,"cluster_corrected":""}
+{"text":"san viilage","cluster":114.0,"cluster_corrected":""}
+{"text":"Grand-\nBail","cluster":115.0,"cluster_corrected":""}
+{"text":"Granil","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand-hlail","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand-Bail","cluster":115.0,"cluster_corrected":""}
+{"text":"rand-Bail","cluster":115.0,"cluster_corrected":""}
+{"text":"rand-ail","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand-Hlail","cluster":115.0,"cluster_corrected":""}
+{"text":"eourt grand risuo","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand-","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand-Hal","cluster":115.0,"cluster_corrected":""}
+{"text":"Durand","cluster":115.0,"cluster_corrected":""}
+{"text":"Grand Bil","cluster":115.0,"cluster_corrected":""}
+{"text":"granle","cluster":115.0,"cluster_corrected":""}
+{"text":"lon","cluster":116.0,"cluster_corrected":""}
+{"text":"Lon","cluster":116.0,"cluster_corrected":""}
+{"text":"Berry","cluster":117.0,"cluster_corrected":""}
+{"text":"In terre","cluster":117.0,"cluster_corrected":""}
+{"text":"pise de terre","cluster":117.0,"cluster_corrected":""}
+{"text":"terrOB","cluster":117.0,"cluster_corrected":""}
+{"text":"torro","cluster":117.0,"cluster_corrected":""}
+{"text":"Meunet","cluster":118.0,"cluster_corrected":""}
+{"text":"--La jeunesse","cluster":118.0,"cluster_corrected":""}
+{"text":"Neunet-sur-","cluster":118.0,"cluster_corrected":""}
+{"text":"aueun","cluster":118.0,"cluster_corrected":""}
+{"text":"raegut","cluster":119.0,"cluster_corrected":""}
+{"text":"san hrae","cluster":119.0,"cluster_corrected":""}
+{"text":"l hraselst","cluster":119.0,"cluster_corrected":""}
+{"text":"asyhine a san hrae","cluster":119.0,"cluster_corrected":""}
+{"text":"prte","cluster":120.0,"cluster_corrected":""}
+{"text":"Lejeun oolporteur","cluster":120.0,"cluster_corrected":""}
+{"text":"Lejeun","cluster":120.0,"cluster_corrected":""}
+{"text":"seeurit6l","cluster":121.0,"cluster_corrected":""}
+{"text":"Murgurite","cluster":121.0,"cluster_corrected":""}
+{"text":"murut","cluster":121.0,"cluster_corrected":""}
+{"text":"runie","cluster":122.0,"cluster_corrected":""}
+{"text":"airmonie","cluster":122.0,"cluster_corrected":""}
+{"text":"vnie","cluster":122.0,"cluster_corrected":""}
+{"text":"meuniere","cluster":122.0,"cluster_corrected":""}
+{"text":"quolle lo put","cluster":123.0,"cluster_corrected":""}
+{"text":"ceu si e v-","cluster":123.0,"cluster_corrected":""}
+{"text":"pei e\nolle","cluster":123.0,"cluster_corrected":""}
+{"text":"vollh","cluster":123.0,"cluster_corrected":""}
+{"text":"humili6","cluster":124.0,"cluster_corrected":""}
+{"text":"miliau","cluster":124.0,"cluster_corrected":""}
+{"text":"tra humili6","cluster":124.0,"cluster_corrected":""}
+{"text":"nit do parlsr","cluster":125.0,"cluster_corrected":""}
+{"text":"parlens","cluster":125.0,"cluster_corrected":""}
+{"text":"Tlens","cluster":125.0,"cluster_corrected":""}
+{"text":"paros","cluster":125.0,"cluster_corrected":""}
+{"text":"toil","cluster":126.0,"cluster_corrected":""}
+{"text":"voil","cluster":126.0,"cluster_corrected":""}
+{"text":"Voilh","cluster":126.0,"cluster_corrected":""}
+{"text":"moil","cluster":126.0,"cluster_corrected":""}
+{"text":"LZ nnoi","cluster":127.0,"cluster_corrected":""}
+{"text":"honnos","cluster":127.0,"cluster_corrected":""}
+{"text":"bhonn","cluster":127.0,"cluster_corrected":""}
+{"text":"aur6","cluster":127.0,"cluster_corrected":""}
+{"text":"foree","cluster":128.0,"cluster_corrected":""}
+{"text":"A foree","cluster":128.0,"cluster_corrected":""}
+{"text":"la France","cluster":128.0,"cluster_corrected":""}
+{"text":"ohoso","cluster":129.0,"cluster_corrected":""}
+{"text":"frthos","cluster":129.0,"cluster_corrected":""}
+{"text":"veines","cluster":130.0,"cluster_corrected":""}
+{"text":"Laprks-midi","cluster":130.0,"cluster_corrected":""}
+{"text":"lapeine","cluster":130.0,"cluster_corrected":""}
+{"text":"Heinl","cluster":130.0,"cluster_corrected":""}
+{"text":"Laprks","cluster":130.0,"cluster_corrected":""}
+{"text":"peino","cluster":130.0,"cluster_corrected":""}
+{"text":"maine","cluster":131.0,"cluster_corrected":""}
+{"text":"Sylvain","cluster":131.0,"cluster_corrected":""}
+{"text":"leain pritun bton","cluster":131.0,"cluster_corrected":""}
+{"text":"ain","cluster":131.0,"cluster_corrected":""}
+{"text":"Iaine","cluster":131.0,"cluster_corrected":""}
+{"text":"Aini","cluster":131.0,"cluster_corrected":""}
+{"text":"mbre Nannetta","cluster":132.0,"cluster_corrected":""}
+{"text":"mre Nannette","cluster":132.0,"cluster_corrected":""}
+{"text":"mbre Nannatte","cluster":132.0,"cluster_corrected":""}
+{"text":"mbre Nanaetts","cluster":132.0,"cluster_corrected":""}
+{"text":"mre Nanntte","cluster":132.0,"cluster_corrected":""}
+{"text":"mbre Nannetto","cluster":132.0,"cluster_corrected":""}
+{"text":"mra Nanntte","cluster":132.0,"cluster_corrected":""}
+{"text":"mre Nannette;A6","cluster":132.0,"cluster_corrected":""}
+{"text":"mbre Nannette","cluster":132.0,"cluster_corrected":""}
+{"text":"mre Nannett","cluster":132.0,"cluster_corrected":""}
+{"text":"mre Nainnette","cluster":132.0,"cluster_corrected":""}
+{"text":"ohagrin quon","cluster":133.0,"cluster_corrected":""}
+{"text":"Grias","cluster":133.0,"cluster_corrected":""}
+{"text":"ahagrin","cluster":133.0,"cluster_corrected":""}
+{"text":"grimuce","cluster":133.0,"cluster_corrected":""}
+{"text":"ehagrin","cluster":133.0,"cluster_corrected":""}
+{"text":"Grind-Hail","cluster":133.0,"cluster_corrected":""}
+{"text":"hagrin","cluster":133.0,"cluster_corrected":""}
+{"text":"ohagrin","cluster":133.0,"cluster_corrected":""}
+{"text":"ohigrin","cluster":133.0,"cluster_corrected":""}
+{"text":"rin","cluster":133.0,"cluster_corrected":""}
+{"text":"launne","cluster":134.0,"cluster_corrected":""}
+{"text":"leunne","cluster":134.0,"cluster_corrected":""}
+{"text":"lunno","cluster":134.0,"cluster_corrected":""}
+{"text":"Iesnne","cluster":134.0,"cluster_corrected":""}
+{"text":"Junne","cluster":134.0,"cluster_corrected":""}
+{"text":"Jounne","cluster":134.0,"cluster_corrected":""}
+{"text":"Jeunne","cluster":134.0,"cluster_corrected":""}
+{"text":"i unn","cluster":134.0,"cluster_corrected":""}
+{"text":"tto","cluster":135.0,"cluster_corrected":""}
+{"text":"chanvsre","cluster":135.0,"cluster_corrected":""}
+{"text":"ehanvre ataltettohe pat tarre","cluster":135.0,"cluster_corrected":""}
+{"text":"fiivre asi","cluster":135.0,"cluster_corrected":""}
+{"text":"demand6","cluster":136.0,"cluster_corrected":""}
+{"text":"demandus  la maitress","cluster":136.0,"cluster_corrected":""}
+{"text":"LL E","cluster":137.0,"cluster_corrected":""}
+{"text":"l etegeet","cluster":137.0,"cluster_corrected":""}
+{"text":"leeturo de laete","cluster":137.0,"cluster_corrected":""}
+{"text":"eonsere","cluster":138.0,"cluster_corrected":""}
+{"text":"gns","cluster":138.0,"cluster_corrected":""}
+{"text":"psgnsee","cluster":138.0,"cluster_corrected":""}
+{"text":"stonttot","cluster":139.0,"cluster_corrected":""}
+{"text":"volonta da\nDisu","cluster":139.0,"cluster_corrected":""}
+{"text":"bont6","cluster":139.0,"cluster_corrected":""}
+{"text":"Dumiont","cluster":139.0,"cluster_corrected":""}
+{"text":"montee","cluster":139.0,"cluster_corrected":""}
+{"text":"bAtir","cluster":140.0,"cluster_corrected":""}
+{"text":"Patito","cluster":140.0,"cluster_corrected":""}
+{"text":"PATI","cluster":140.0,"cluster_corrected":""}
+{"text":"ar-0UAYTRIH PATIR","cluster":140.0,"cluster_corrected":""}
+{"text":"jaimerais mienx tre\nleve","cluster":141.0,"cluster_corrected":""}
+{"text":"So-","cluster":141.0,"cluster_corrected":""}
+{"text":"mero","cluster":141.0,"cluster_corrected":""}
+{"text":"blmer","cluster":141.0,"cluster_corrected":""}
+{"text":"reluamer","cluster":141.0,"cluster_corrected":""}
+{"text":"A\n\nI\nII1\nI\n----l","cluster":142.0,"cluster_corrected":""}
+{"text":"I\n\nH\nI\nE","cluster":142.0,"cluster_corrected":""}
+{"text":"P\nI\nA.\nN","cluster":142.0,"cluster_corrected":""}
+{"text":"Ki\nL\nI\nI\nI\nI\nI","cluster":142.0,"cluster_corrected":""}
+{"text":"jolio","cluster":143.0,"cluster_corrected":""}
+{"text":"lisie","cluster":143.0,"cluster_corrected":""}
+{"text":"leglise","cluster":143.0,"cluster_corrected":""}
+{"text":"Colis","cluster":143.0,"cluster_corrected":""}
+{"text":"oflloiar","cluster":144.0,"cluster_corrected":""}
+{"text":"matiar-lh","cluster":144.0,"cluster_corrected":""}
+{"text":"MIar-1h","cluster":144.0,"cluster_corrected":""}
+{"text":"ar-","cluster":144.0,"cluster_corrected":""}
+{"text":"tqui","cluster":145.0,"cluster_corrected":""}
+{"text":"eonluit avau une bgutte","cluster":145.0,"cluster_corrected":""}
+{"text":"linquitulo","cluster":145.0,"cluster_corrected":""}
+{"text":"quittee","cluster":145.0,"cluster_corrected":""}
+{"text":"suita","cluster":145.0,"cluster_corrected":""}
+{"text":"corn0s","cluster":146.0,"cluster_corrected":""}
+{"text":"aecoutumee","cluster":146.0,"cluster_corrected":""}
+{"text":"daecord","cluster":146.0,"cluster_corrected":""}
+{"text":"ssir","cluster":147.0,"cluster_corrected":""}
+{"text":"impossiblo","cluster":147.0,"cluster_corrected":""}
+{"text":"seule.3RANN RN SEVI6GR","cluster":148.0,"cluster_corrected":""}
+{"text":"RN SEVI6GR","cluster":148.0,"cluster_corrected":""}
+{"text":"Nutre","cluster":149.0,"cluster_corrected":""}
+{"text":"Muitra","cluster":149.0,"cluster_corrected":""}
+{"text":"lautrl","cluster":149.0,"cluster_corrected":""}
+{"text":"vutra","cluster":149.0,"cluster_corrected":""}
+{"text":"moitie","cluster":150.0,"cluster_corrected":""}
+{"text":"antre moiti6","cluster":150.0,"cluster_corrected":""}
+{"text":"armoie","cluster":150.0,"cluster_corrected":""}
+{"text":"moiti6","cluster":150.0,"cluster_corrected":""}
+{"text":"oompte","cluster":151.0,"cluster_corrected":""}
+{"text":"pau y aompter","cluster":151.0,"cluster_corrected":""}
+{"text":"aoomnpter","cluster":151.0,"cluster_corrected":""}
+{"text":"Tene","cluster":152.0,"cluster_corrected":""}
+{"text":"gene","cluster":152.0,"cluster_corrected":""}
+{"text":"eneore","cluster":152.0,"cluster_corrected":""}
+{"text":"eorps","cluster":152.0,"cluster_corrected":""}
+{"text":"yest","cluster":153.0,"cluster_corrected":""}
+{"text":"Diau","cluster":153.0,"cluster_corrected":""}
+{"text":"Haues-loehes","cluster":153.0,"cluster_corrected":""}
+{"text":"hestiaux","cluster":153.0,"cluster_corrected":""}
+{"text":"Aven","cluster":154.0,"cluster_corrected":""}
+{"text":"lo truaversin","cluster":154.0,"cluster_corrected":""}
+{"text":"st tu prlers fisu\naveus","cluster":154.0,"cluster_corrected":""}
+{"text":"Save","cluster":154.0,"cluster_corrected":""}
+{"text":"aveo","cluster":154.0,"cluster_corrected":""}
+{"text":"Vois","cluster":155.0,"cluster_corrected":""}
+{"text":"- Vois","cluster":155.0,"cluster_corrected":""}
+{"text":"- Veux-tu","cluster":155.0,"cluster_corrected":""}
+{"text":"jugez-en l Jai","cluster":156.0,"cluster_corrected":""}
+{"text":"vee A","cluster":156.0,"cluster_corrected":""}
+{"text":"LiI","cluster":156.0,"cluster_corrected":""}
+{"text":"pee  l sliit","cluster":156.0,"cluster_corrected":""}
+{"text":"de les lyer","cluster":156.0,"cluster_corrected":""}
+{"text":"fmllleg","cluster":157.0,"cluster_corrected":""}
+{"text":"Llle","cluster":157.0,"cluster_corrected":""}
+{"text":"llle","cluster":157.0,"cluster_corrected":""}
+{"text":"avaeo","cluster":158.0,"cluster_corrected":""}
+{"text":"milla","cluster":158.0,"cluster_corrected":""}
+{"text":"travalil","cluster":158.0,"cluster_corrected":""}
+{"text":"travaillaer","cluster":158.0,"cluster_corrected":""}
+{"text":"Dail-","cluster":158.0,"cluster_corrected":""}
+{"text":"ellae","cluster":158.0,"cluster_corrected":""}
+{"text":"tetel","cluster":159.0,"cluster_corrected":""}
+{"text":"tete","cluster":159.0,"cluster_corrected":""}
+{"text":"nete","cluster":159.0,"cluster_corrected":""}
+{"text":"Jeanno","cluster":160.0,"cluster_corrected":""}
+{"text":"JEANINR","cluster":160.0,"cluster_corrected":""}
+{"text":"Jeannel","cluster":160.0,"cluster_corrected":""}
+{"text":"betes3EANNR REN","cluster":160.0,"cluster_corrected":""}
+{"text":"Jeanne.]ENANCI D JEANNH","cluster":160.0,"cluster_corrected":""}
+{"text":"lJeanuet","cluster":160.0,"cluster_corrected":""}
+{"text":"Jeann","cluster":160.0,"cluster_corrected":""}
+{"text":"s3EANN","cluster":160.0,"cluster_corrected":""}
+{"text":"eana","cluster":160.0,"cluster_corrected":""}
+{"text":"suf-JEANNR EPOLB EP MInE.","cluster":160.0,"cluster_corrected":""}
+{"text":"Iixisr","cluster":161.0,"cluster_corrected":""}
+{"text":"Tixisr","cluster":161.0,"cluster_corrected":""}
+{"text":"II\n\nL\n- E","cluster":162.0,"cluster_corrected":""}
+{"text":"mets-tei lh","cluster":162.0,"cluster_corrected":""}
+{"text":"I\n\nL.\n\nE","cluster":162.0,"cluster_corrected":""}
+{"text":"Ormaeuux aet san","cluster":163.0,"cluster_corrected":""}
+{"text":"Ormeuux","cluster":163.0,"cluster_corrected":""}
+{"text":"Ormaeuux","cluster":163.0,"cluster_corrected":""}
+{"text":"aeur  Ia","cluster":164.0,"cluster_corrected":""}
+{"text":"Isaure","cluster":164.0,"cluster_corrected":""}
+{"text":"oulture","cluster":164.0,"cluster_corrected":""}
+{"text":"eure","cluster":164.0,"cluster_corrected":""}
+{"text":"heura","cluster":164.0,"cluster_corrected":""}
+{"text":"gaeho","cluster":165.0,"cluster_corrected":""}
+{"text":"etle poreher","cluster":165.0,"cluster_corrected":""}
+{"text":"hereher","cluster":165.0,"cluster_corrected":""}
+{"text":"Maehere","cluster":165.0,"cluster_corrected":""}
+{"text":"Aehetez","cluster":165.0,"cluster_corrected":""}
+{"text":"caeher","cluster":165.0,"cluster_corrected":""}
+{"text":"ceher","cluster":165.0,"cluster_corrected":""}
+{"text":"Catharine","cluster":166.0,"cluster_corrected":""}
+{"text":"Ctharino","cluster":166.0,"cluster_corrected":""}
+{"text":"Gatharine","cluster":166.0,"cluster_corrected":""}
+{"text":"Etehaeun","cluster":167.0,"cluster_corrected":""}
+{"text":"Etchaeun","cluster":167.0,"cluster_corrected":""}
+{"text":"shaeune","cluster":167.0,"cluster_corrected":""}
+{"text":"ehaeun","cluster":167.0,"cluster_corrected":""}
+{"text":"r6ehauff","cluster":167.0,"cluster_corrected":""}
+{"text":"IJae","cluster":167.0,"cluster_corrected":""}
+{"text":"chereher","cluster":168.0,"cluster_corrected":""}
+{"text":"empecher","cluster":168.0,"cluster_corrected":""}
+{"text":"chsrcher","cluster":168.0,"cluster_corrected":""}
+{"text":"s6cher","cluster":168.0,"cluster_corrected":""}
+{"text":"Cher","cluster":168.0,"cluster_corrected":""}
+{"text":"du Cher","cluster":168.0,"cluster_corrected":""}
+{"text":"lann6e","cluster":169.0,"cluster_corrected":""}
+{"text":"ann6es","cluster":169.0,"cluster_corrected":""}
+{"text":"Ionis","cluster":170.0,"cluster_corrected":""}
+{"text":"bioen","cluster":170.0,"cluster_corrected":""}
+{"text":"ge\nnoeux","cluster":170.0,"cluster_corrected":""}
+{"text":"noee","cluster":170.0,"cluster_corrected":""}
+{"text":"voeus","cluster":170.0,"cluster_corrected":""}
+{"text":"at sois bion","cluster":170.0,"cluster_corrected":""}
+{"text":"aie-noeus bion","cluster":170.0,"cluster_corrected":""}
+{"text":"Grise","cluster":171.0,"cluster_corrected":""}
+{"text":"Paris","cluster":171.0,"cluster_corrected":""}
+{"text":"prisr","cluster":171.0,"cluster_corrected":""}
+{"text":"bris6","cluster":171.0,"cluster_corrected":""}
+{"text":"Jappris","cluster":171.0,"cluster_corrected":""}
+{"text":".'Geeseeeeee","cluster":172.0,"cluster_corrected":""}
+{"text":"rs-","cluster":172.0,"cluster_corrected":""}
+{"text":"rs-y adeee","cluster":172.0,"cluster_corrected":""}
+{"text":"surveillanee","cluster":173.0,"cluster_corrected":""}
+{"text":"Bluanehe","cluster":173.0,"cluster_corrected":""}
+{"text":"tane6","cluster":173.0,"cluster_corrected":""}
+{"text":"sane uger","cluster":173.0,"cluster_corrected":""}
+{"text":"Jane","cluster":173.0,"cluster_corrected":""}
+{"text":"Outanir","cluster":174.0,"cluster_corrected":""}
+{"text":"Yatan","cluster":174.0,"cluster_corrected":""}
+{"text":"VWatan","cluster":174.0,"cluster_corrected":""}
+{"text":"mattr Tixior","cluster":175.0,"cluster_corrected":""}
+{"text":"mattref A leglise","cluster":175.0,"cluster_corrected":""}
+{"text":"mattresss","cluster":175.0,"cluster_corrected":""}
+{"text":"Mattresse","cluster":175.0,"cluster_corrected":""}
+{"text":"Nattre","cluster":175.0,"cluster_corrected":""}
+{"text":"Mattre","cluster":175.0,"cluster_corrected":""}
+{"text":"puuvres\nuo","cluster":176.0,"cluster_corrected":""}
+{"text":"Mapuuvrefille","cluster":176.0,"cluster_corrected":""}
+{"text":"FLlE--","cluster":177.0,"cluster_corrected":""}
+{"text":"Klle","cluster":177.0,"cluster_corrected":""}
+{"text":"lshelle","cluster":177.0,"cluster_corrected":""}
+{"text":"Rlle","cluster":177.0,"cluster_corrected":""}
+{"text":"klle","cluster":177.0,"cluster_corrected":""}
+{"text":"eelle-lh","cluster":177.0,"cluster_corrected":""}
+{"text":"anfhntsl lle","cluster":177.0,"cluster_corrected":""}
+{"text":"lennneet","cluster":178.0,"cluster_corrected":""}
+{"text":"Jennne","cluster":178.0,"cluster_corrected":""}
+{"text":"Monsisur","cluster":179.0,"cluster_corrected":""}
+{"text":"Lin nisu","cluster":179.0,"cluster_corrected":""}
+{"text":"monsisur","cluster":179.0,"cluster_corrected":""}
+{"text":"Aidez","cluster":180.0,"cluster_corrected":""}
+{"text":"id6o","cluster":180.0,"cluster_corrected":""}
+{"text":"aid6","cluster":180.0,"cluster_corrected":""}
+{"text":"tta","cluster":181.0,"cluster_corrected":""}
+{"text":"mre Nnnnatto","cluster":181.0,"cluster_corrected":""}
+{"text":"mra\nNannatte","cluster":181.0,"cluster_corrected":""}
+{"text":"Nunnatta","cluster":181.0,"cluster_corrected":""}
+{"text":"Dien","cluster":182.0,"cluster_corrected":""}
+{"text":"lDieu","cluster":182.0,"cluster_corrected":""}
+{"text":"jardin mpour","cluster":183.0,"cluster_corrected":""}
+{"text":"Pourqquoi","cluster":183.0,"cluster_corrected":""}
+{"text":"pltisirquae\niai","cluster":183.0,"cluster_corrected":""}
+{"text":"Pourquaoi","cluster":183.0,"cluster_corrected":""}
+{"text":"leuseuse","cluster":184.0,"cluster_corrected":""}
+{"text":"beusg","cluster":184.0,"cluster_corrected":""}
+{"text":"present]110","cluster":185.0,"cluster_corrected":""}
+{"text":"Apres","cluster":185.0,"cluster_corrected":""}
+{"text":"v8pres","cluster":185.0,"cluster_corrected":""}
+{"text":"tlllas","cluster":186.0,"cluster_corrected":""}
+{"text":"llas","cluster":186.0,"cluster_corrected":""}
+{"text":"slietiee","cluster":187.0,"cluster_corrected":""}
+{"text":"vienne","cluster":187.0,"cluster_corrected":""}
+{"text":"Etienne","cluster":187.0,"cluster_corrected":""}
+{"text":"vtie","cluster":187.0,"cluster_corrected":""}
+{"text":"noux","cluster":188.0,"cluster_corrected":""}
+{"text":"Noug","cluster":188.0,"cluster_corrected":""}
+{"text":"Nousla","cluster":188.0,"cluster_corrected":""}
+{"text":"buas","cluster":189.0,"cluster_corrected":""}
+{"text":"rasenmmoda","cluster":189.0,"cluster_corrected":""}
+{"text":"ileiuaseiur","cluster":189.0,"cluster_corrected":""}
+{"text":"BANNR","cluster":190.0,"cluster_corrected":""}
+{"text":"champ de lanne","cluster":190.0,"cluster_corrected":""}
+{"text":"iiaa","cluster":190.0,"cluster_corrected":""}
+{"text":"lanne","cluster":190.0,"cluster_corrected":""}
+{"text":"Iaanne","cluster":190.0,"cluster_corrected":""}
+{"text":"Etianne","cluster":190.0,"cluster_corrected":""}
+{"text":"Jeuan","cluster":191.0,"cluster_corrected":""}
+{"text":"Gruand-llail","cluster":191.0,"cluster_corrected":""}
+{"text":"uand","cluster":191.0,"cluster_corrected":""}
+{"text":"oola","cluster":192.0,"cluster_corrected":""}
+{"text":"oolfre","cluster":192.0,"cluster_corrected":""}
+{"text":"Solange","cluster":193.0,"cluster_corrected":""}
+{"text":"Solngo","cluster":193.0,"cluster_corrected":""}
+{"text":"d6sola","cluster":193.0,"cluster_corrected":""}
+{"text":"Solango","cluster":193.0,"cluster_corrected":""}
+{"text":"au-\ntrefois","cluster":194.0,"cluster_corrected":""}
+{"text":"orue","cluster":194.0,"cluster_corrected":""}
+{"text":"fand tres","cluster":194.0,"cluster_corrected":""}
+{"text":"au-","cluster":194.0,"cluster_corrected":""}
+{"text":"au-\ntroes","cluster":194.0,"cluster_corrected":""}
+{"text":"au-\ntres","cluster":194.0,"cluster_corrected":""}
+{"text":"lean","cluster":195.0,"cluster_corrected":""}
+{"text":"Vons","cluster":195.0,"cluster_corrected":""}
+{"text":"leanno","cluster":195.0,"cluster_corrected":""}
+{"text":"leanne","cluster":195.0,"cluster_corrected":""}
+{"text":"aoes","cluster":195.0,"cluster_corrected":""}
+{"text":"avonslEANNE","cluster":195.0,"cluster_corrected":""}
+{"text":"uvece","cluster":196.0,"cluster_corrected":""}
+{"text":"puillasse at une oouverture","cluster":196.0,"cluster_corrected":""}
+{"text":"couvertuire","cluster":196.0,"cluster_corrected":""}
+{"text":"Iixiar","cluster":197.0,"cluster_corrected":""}
+{"text":"matra Tixiar","cluster":197.0,"cluster_corrected":""}
+{"text":"lepre Iixiar","cluster":197.0,"cluster_corrected":""}
+{"text":"Tixiar","cluster":197.0,"cluster_corrected":""}
+{"text":"ambeniwsrez","cluster":198.0,"cluster_corrected":""}
+{"text":"Mmie","cluster":198.0,"cluster_corrected":""}
+{"text":"rembedes","cluster":198.0,"cluster_corrected":""}
+{"text":"jumbe","cluster":198.0,"cluster_corrected":""}
+{"text":"nnl","cluster":199.0,"cluster_corrected":""}
+{"text":"Chasun","cluster":199.0,"cluster_corrected":""}
+{"text":"Chamnnlhrs","cluster":199.0,"cluster_corrected":""}
+{"text":"Pierres-\nFolles","cluster":200.0,"cluster_corrected":""}
+{"text":"MIERR","cluster":200.0,"cluster_corrected":""}
+{"text":"truver Pierre","cluster":200.0,"cluster_corrected":""}
+{"text":"Pierres-","cluster":200.0,"cluster_corrected":""}
+{"text":"puiaque","cluster":201.0,"cluster_corrected":""}
+{"text":"depurt","cluster":201.0,"cluster_corrected":""}
+{"text":"depuia","cluster":201.0,"cluster_corrected":""}
+{"text":"cumphre","cluster":null,"cluster_corrected":""}
 {"text":"bl6","cluster":null,"cluster_corrected":""}
-{"text":"ER","cluster":null,"cluster_corrected":""}
-{"text":"d6-","cluster":null,"cluster_corrected":""}
-{"text":"-Mu","cluster":null,"cluster_corrected":""}
-{"text":"e","cluster":null,"cluster_corrected":""}
-{"text":"II","cluster":null,"cluster_corrected":""}
-{"text":"m6-","cluster":null,"cluster_corrected":""}
-{"text":"gaf","cluster":null,"cluster_corrected":""}
-{"text":"Rn","cluster":null,"cluster_corrected":""}
-{"text":"hl6","cluster":null,"cluster_corrected":""}
-{"text":"t6","cluster":null,"cluster_corrected":""}
-{"text":"''L","cluster":null,"cluster_corrected":""}
-{"text":"wtt","cluster":null,"cluster_corrected":""}
-{"text":"pr6s","cluster":null,"cluster_corrected":""}
-{"text":"Ahl","cluster":null,"cluster_corrected":""}
-{"text":"ls","cluster":null,"cluster_corrected":""}
-{"text":"de-","cluster":null,"cluster_corrected":""}
-{"text":"MIkRR","cluster":null,"cluster_corrected":""}
-{"text":"tuif","cluster":null,"cluster_corrected":""}
-{"text":"LL","cluster":null,"cluster_corrected":""}
-{"text":"x A","cluster":null,"cluster_corrected":""}
-{"text":"CGom-","cluster":null,"cluster_corrected":""}
-{"text":"vots","cluster":null,"cluster_corrected":""}
-{"text":"Iui","cluster":null,"cluster_corrected":""}
-{"text":"frthos","cluster":null,"cluster_corrected":""}
-{"text":"o'","cluster":null,"cluster_corrected":""}
-{"text":"qul","cluster":null,"cluster_corrected":""}
-{"text":"A","cluster":null,"cluster_corrected":""}
-{"text":"Iut","cluster":null,"cluster_corrected":""}
-{"text":"Ia","cluster":null,"cluster_corrected":""}
-{"text":"ly","cluster":null,"cluster_corrected":""}
-{"text":"Ca","cluster":null,"cluster_corrected":""}
-{"text":"nayor","cluster":null,"cluster_corrected":""}
-{"text":"ca","cluster":null,"cluster_corrected":""}
-{"text":"Is","cluster":null,"cluster_corrected":""}
-{"text":"G","cluster":null,"cluster_corrected":""}
-{"text":"P","cluster":null,"cluster_corrected":""}
-{"text":"io","cluster":null,"cluster_corrected":""}
-{"text":"hle","cluster":null,"cluster_corrected":""}
-{"text":"J'","cluster":null,"cluster_corrected":""}
-{"text":"19S","cluster":null,"cluster_corrected":""}
-{"text":"gehns","cluster":null,"cluster_corrected":""}
-{"text":"uh","cluster":null,"cluster_corrected":""}
-{"text":"Aps","cluster":null,"cluster_corrected":""}
-{"text":"uo","cluster":null,"cluster_corrected":""}
-{"text":"ITu","cluster":null,"cluster_corrected":""}
-{"text":"kI","cluster":null,"cluster_corrected":""}
-{"text":"ILn","cluster":null,"cluster_corrected":""}
 {"text":"el","cluster":null,"cluster_corrected":""}
-{"text":"gn","cluster":null,"cluster_corrected":""}
-{"text":"t80","cluster":null,"cluster_corrected":""}
-{"text":"MI","cluster":null,"cluster_corrected":""}
-{"text":"O","cluster":null,"cluster_corrected":""}
-{"text":"OUB","cluster":null,"cluster_corrected":""}
-{"text":"g.","cluster":null,"cluster_corrected":""}
+{"text":"Eo0I","cluster":null,"cluster_corrected":""}
+{"text":"sora","cluster":null,"cluster_corrected":""}
+{"text":"io","cluster":null,"cluster_corrected":""}
+{"text":"Ia","cluster":null,"cluster_corrected":""}
+{"text":"Ls","cluster":null,"cluster_corrected":""}
+{"text":"d6-","cluster":null,"cluster_corrected":""}
+{"text":"IL","cluster":null,"cluster_corrected":""}
+{"text":"qul","cluster":null,"cluster_corrected":""}
+{"text":"I","cluster":null,"cluster_corrected":""}
+{"text":"te0ors","cluster":null,"cluster_corrected":""}
+{"text":"-F","cluster":null,"cluster_corrected":""}
+{"text":"F","cluster":null,"cluster_corrected":""}
+{"text":"Ir","cluster":null,"cluster_corrected":""}
+{"text":"jy vasl","cluster":null,"cluster_corrected":""}
+{"text":"N\n I","cluster":null,"cluster_corrected":""}
+{"text":"- C","cluster":null,"cluster_corrected":""}
 {"text":"rige","cluster":null,"cluster_corrected":""}
+{"text":"S","cluster":null,"cluster_corrected":""}
+{"text":"y10","cluster":null,"cluster_corrected":""}
+{"text":"a0","cluster":null,"cluster_corrected":""}
+{"text":"Oii","cluster":null,"cluster_corrected":""}
+{"text":"N","cluster":null,"cluster_corrected":""}
+{"text":"rn","cluster":null,"cluster_corrected":""}
+{"text":"E","cluster":null,"cluster_corrected":""}
+{"text":"Ca","cluster":null,"cluster_corrected":""}
+{"text":"eoiffa","cluster":null,"cluster_corrected":""}
+{"text":"o6t6","cluster":null,"cluster_corrected":""}
+{"text":"ne170","cluster":null,"cluster_corrected":""}
+{"text":"e","cluster":null,"cluster_corrected":""}
+{"text":"IA","cluster":null,"cluster_corrected":""}
+{"text":"G","cluster":null,"cluster_corrected":""}
+{"text":"Prvt","cluster":null,"cluster_corrected":""}
+{"text":"B","cluster":null,"cluster_corrected":""}
+{"text":"-,J","cluster":null,"cluster_corrected":""}
+{"text":"M","cluster":null,"cluster_corrected":""}
+{"text":"Aps","cluster":null,"cluster_corrected":""}
+{"text":"je.ne","cluster":null,"cluster_corrected":""}
+{"text":"kI","cluster":null,"cluster_corrected":""}
+{"text":"i]1","cluster":null,"cluster_corrected":""}
+{"text":"Cn","cluster":null,"cluster_corrected":""}
+{"text":"Cala","cluster":null,"cluster_corrected":""}
+{"text":"paou","cluster":null,"cluster_corrected":""}
+{"text":"lh","cluster":null,"cluster_corrected":""}
+{"text":"L-","cluster":null,"cluster_corrected":""}
+{"text":"qn'","cluster":null,"cluster_corrected":""}
+{"text":"Nme","cluster":null,"cluster_corrected":""}
+{"text":"lJ","cluster":null,"cluster_corrected":""}
+{"text":"SZR","cluster":null,"cluster_corrected":""}
+{"text":"mndme","cluster":null,"cluster_corrected":""}
+{"text":"Dn","cluster":null,"cluster_corrected":""}
+{"text":"ER","cluster":null,"cluster_corrected":""}
+{"text":"Io","cluster":null,"cluster_corrected":""}
+{"text":"e'","cluster":null,"cluster_corrected":""}
+{"text":"In","cluster":null,"cluster_corrected":""}
+{"text":"or6-","cluster":null,"cluster_corrected":""}
+{"text":"f","cluster":null,"cluster_corrected":""}
+{"text":"Cun-","cluster":null,"cluster_corrected":""}
+{"text":"-:t:=","cluster":null,"cluster_corrected":""}
+{"text":"t8te","cluster":null,"cluster_corrected":""}
+{"text":"-","cluster":null,"cluster_corrected":""}
+{"text":"uo","cluster":null,"cluster_corrected":""}
+{"text":"gaf","cluster":null,"cluster_corrected":""}
+{"text":"Iols","cluster":null,"cluster_corrected":""}
+{"text":"fr","cluster":null,"cluster_corrected":""}
+{"text":"Is\nI","cluster":null,"cluster_corrected":""}
+{"text":"Ilt","cluster":null,"cluster_corrected":""}
+{"text":"hl6","cluster":null,"cluster_corrected":""}
+{"text":"auprh","cluster":null,"cluster_corrected":""}
+{"text":"cus","cluster":null,"cluster_corrected":""}
+{"text":"A","cluster":null,"cluster_corrected":""}
+{"text":"se106","cluster":null,"cluster_corrected":""}
+{"text":"jy","cluster":null,"cluster_corrected":""}
+{"text":"oi","cluster":null,"cluster_corrected":""}
+{"text":"t80","cluster":null,"cluster_corrected":""}
+{"text":"wtt","cluster":null,"cluster_corrected":""}
+{"text":"LI","cluster":null,"cluster_corrected":""}
+{"text":"lez","cluster":null,"cluster_corrected":""}
+{"text":"gehns","cluster":null,"cluster_corrected":""}
+{"text":"coffhe","cluster":null,"cluster_corrected":""}
+{"text":"pya-eit","cluster":null,"cluster_corrected":""}
+{"text":"Jo","cluster":null,"cluster_corrected":""}
+{"text":"Mn","cluster":null,"cluster_corrected":""}
+{"text":"Gnl","cluster":null,"cluster_corrected":""}
+{"text":"OUB","cluster":null,"cluster_corrected":""}
+{"text":"ca","cluster":null,"cluster_corrected":""}
+{"text":"got","cluster":null,"cluster_corrected":""}
+{"text":"mss","cluster":null,"cluster_corrected":""}
+{"text":"Iu","cluster":null,"cluster_corrected":""}
+{"text":"''L","cluster":null,"cluster_corrected":""}
+{"text":"Lo","cluster":null,"cluster_corrected":""}
+{"text":"nayor","cluster":null,"cluster_corrected":""}
+{"text":"at","cluster":null,"cluster_corrected":""}
+{"text":"ihlo","cluster":null,"cluster_corrected":""}
+{"text":"u","cluster":null,"cluster_corrected":""}
+{"text":"Cs","cluster":null,"cluster_corrected":""}
+{"text":"wss","cluster":null,"cluster_corrected":""}
+{"text":"Kn","cluster":null,"cluster_corrected":""}
+{"text":"Ilchu","cluster":null,"cluster_corrected":""}
+{"text":"djh","cluster":null,"cluster_corrected":""}
+{"text":"ii","cluster":null,"cluster_corrected":""}
 {"text":"N.","cluster":null,"cluster_corrected":""}
+{"text":"iut","cluster":null,"cluster_corrected":""}
+{"text":"I'","cluster":null,"cluster_corrected":""}
+{"text":"Rt","cluster":null,"cluster_corrected":""}
+{"text":"Na","cluster":null,"cluster_corrected":""}
+{"text":"IIG\n\nr","cluster":null,"cluster_corrected":""}
+{"text":"-C","cluster":null,"cluster_corrected":""}
+{"text":"J'","cluster":null,"cluster_corrected":""}
+{"text":"Gei-e-e","cluster":null,"cluster_corrected":""}
+{"text":"ge","cluster":null,"cluster_corrected":""}
+{"text":"w","cluster":null,"cluster_corrected":""}
+{"text":"er","cluster":null,"cluster_corrected":""}
+{"text":"nuho","cluster":null,"cluster_corrected":""}
+{"text":"P","cluster":null,"cluster_corrected":""}
+{"text":"IUH","cluster":null,"cluster_corrected":""}
+{"text":"ly","cluster":null,"cluster_corrected":""}
+{"text":"II","cluster":null,"cluster_corrected":""}
+{"text":"pr6s","cluster":null,"cluster_corrected":""}
+{"text":"19S","cluster":null,"cluster_corrected":""}
+{"text":"Is","cluster":null,"cluster_corrected":""}

@@ -1,157 +1,158 @@
-{"text":"\u00c9tat italien","cluster":0.0,"cluster_corrected":""}
-{"text":"\u00c9tat","cluster":0.0,"cluster_corrected":""}
-{"text":"Italie","cluster":0.0,"cluster_corrected":""}
-{"text":"Italien","cluster":0.0,"cluster_corrected":""}
-{"text":"d'Italie","cluster":0.0,"cluster_corrected":""}
-{"text":"l'Italie","cluster":0.0,"cluster_corrected":""}
-{"text":"Suresnes","cluster":1.0,"cluster_corrected":""}
-{"text":"S\u00e8vres","cluster":1.0,"cluster_corrected":""}
-{"text":"G\u00eanes","cluster":1.0,"cluster_corrected":""}
-{"text":"barcarolle","cluster":2.0,"cluster_corrected":""}
-{"text":"Hollande","cluster":2.0,"cluster_corrected":""}
-{"text":"Tyrol","cluster":2.0,"cluster_corrected":""}
-{"text":"Curieuse","cluster":3.0,"cluster_corrected":""}
-{"text":"boiserie","cluster":3.0,"cluster_corrected":""}
-{"text":"l'Oise","cluster":3.0,"cluster_corrected":""}
+{"text":"jais","cluster":0.0,"cluster_corrected":""}
+{"text":"aimais","cluster":0.0,"cluster_corrected":""}
+{"text":"Bois de Boulogne","cluster":1.0,"cluster_corrected":""}
+{"text":"Pologne","cluster":1.0,"cluster_corrected":""}
+{"text":"\u00c9tonnante enfance","cluster":2.0,"cluster_corrected":""}
+{"text":"Nancy","cluster":2.0,"cluster_corrected":""}
+{"text":"Chantez","cluster":2.0,"cluster_corrected":""}
+{"text":"Retombant","cluster":2.0,"cluster_corrected":""}
 {"text":"Bois","cluster":3.0,"cluster_corrected":""}
-{"text":"Bois de Boulogne","cluster":3.0,"cluster_corrected":""}
+{"text":"Sois","cluster":3.0,"cluster_corrected":""}
+{"text":"l'Oise","cluster":3.0,"cluster_corrected":""}
+{"text":"Autrefois","cluster":3.0,"cluster_corrected":""}
 {"text":"Oise","cluster":3.0,"cluster_corrected":""}
-{"text":"besogne nobiliaire","cluster":4.0,"cluster_corrected":""}
-{"text":"Bourgogne","cluster":4.0,"cluster_corrected":""}
-{"text":"Pologne","cluster":4.0,"cluster_corrected":""}
-{"text":"cymbalaire","cluster":4.0,"cluster_corrected":""}
-{"text":"Passy","cluster":5.0,"cluster_corrected":""}
-{"text":"massif de myosotis","cluster":5.0,"cluster_corrected":""}
-{"text":"Pas","cluster":5.0,"cluster_corrected":""}
-{"text":"Assise","cluster":5.0,"cluster_corrected":""}
-{"text":"Que veux-tu","cluster":6.0,"cluster_corrected":""}
-{"text":"Que vas-tu","cluster":6.0,"cluster_corrected":""}
-{"text":"Quelquefois","cluster":6.0,"cluster_corrected":""}
-{"text":"Mont-Val\u00e9rien","cluster":7.0,"cluster_corrected":""}
-{"text":"Remont\u00e9e","cluster":7.0,"cluster_corrected":""}
-{"text":"Saint-Cloud","cluster":7.0,"cluster_corrected":""}
-{"text":"Rouen","cluster":8.0,"cluster_corrected":""}
-{"text":"Cordoue","cluster":8.0,"cluster_corrected":""}
-{"text":"Entendez","cluster":9.0,"cluster_corrected":""}
-{"text":"Sentez","cluster":9.0,"cluster_corrected":""}
-{"text":"Fontenay","cluster":9.0,"cluster_corrected":""}
-{"text":"Agrigente","cluster":9.0,"cluster_corrected":""}
-{"text":"Indes","cluster":9.0,"cluster_corrected":""}
-{"text":"Wurtemberg","cluster":10.0,"cluster_corrected":""}
-{"text":"colombes","cluster":10.0,"cluster_corrected":""}
-{"text":"Berlin","cluster":10.0,"cluster_corrected":""}
-{"text":"Paris","cluster":11.0,"cluster_corrected":""}
-{"text":"Partez","cluster":11.0,"cluster_corrected":""}
-{"text":"Messine","cluster":12.0,"cluster_corrected":""}
-{"text":"Sabine","cluster":12.0,"cluster_corrected":""}
-{"text":"jais","cluster":13.0,"cluster_corrected":""}
-{"text":"Apais\u00e9e","cluster":13.0,"cluster_corrected":""}
-{"text":"J'ai Pierre","cluster":14.0,"cluster_corrected":""}
-{"text":"Derri\u00e8re","cluster":14.0,"cluster_corrected":""}
-{"text":"au Louvre","cluster":15.0,"cluster_corrected":""}
-{"text":"Louvre","cluster":15.0,"cluster_corrected":""}
-{"text":"du Louvre","cluster":15.0,"cluster_corrected":""}
-{"text":"Suisse","cluster":16.0,"cluster_corrected":""}
-{"text":"Laisse","cluster":16.0,"cluster_corrected":""}
-{"text":"Anglais","cluster":16.0,"cluster_corrected":""}
-{"text":"baie du houx","cluster":17.0,"cluster_corrected":""}
-{"text":"jardin du Luxembourg","cluster":17.0,"cluster_corrected":""}
-{"text":"feuillage du Luxembourg","cluster":17.0,"cluster_corrected":""}
-{"text":"Luxembourg","cluster":17.0,"cluster_corrected":""}
-{"text":"Grenade","cluster":18.0,"cluster_corrected":""}
-{"text":"Rentr\u00e9e","cluster":18.0,"cluster_corrected":""}
-{"text":"Florence","cluster":18.0,"cluster_corrected":""}
-{"text":"Pench\u00e9","cluster":18.0,"cluster_corrected":""}
-{"text":"Muette","cluster":19.0,"cluster_corrected":""}
-{"text":"Quittez","cluster":19.0,"cluster_corrected":""}
-{"text":"nervosit\u00e9s","cluster":20.0,"cluster_corrected":""}
-{"text":"Vosges","cluster":20.0,"cluster_corrected":""}
-{"text":"jardin des Vosges","cluster":20.0,"cluster_corrected":""}
-{"text":"Marsan","cluster":21.0,"cluster_corrected":""}
-{"text":"Lausanne","cluster":21.0,"cluster_corrected":""}
-{"text":"Vienne","cluster":21.0,"cluster_corrected":""}
-{"text":"Tournon","cluster":22.0,"cluster_corrected":""}
-{"text":"Touraine","cluster":22.0,"cluster_corrected":""}
-{"text":"jura","cluster":22.0,"cluster_corrected":""}
-{"text":"Tol\u00e8de","cluster":23.0,"cluster_corrected":""}
-{"text":"Anatolie","cluster":23.0,"cluster_corrected":""}
-{"text":"la France","cluster":24.0,"cluster_corrected":""}
-{"text":"de France","cluster":24.0,"cluster_corrected":""}
-{"text":"Coll\u00e8ge de France","cluster":24.0,"cluster_corrected":""}
-{"text":"bruni","cluster":25.0,"cluster_corrected":""}
-{"text":"ch\u00e2teau de l'Oise","cluster":25.0,"cluster_corrected":""}
-{"text":"ch\u00e2teau des Bruy\u00e8res","cluster":25.0,"cluster_corrected":""}
-{"text":"Bruy\u00e8res","cluster":25.0,"cluster_corrected":""}
-{"text":"Corinthe","cluster":26.0,"cluster_corrected":""}
-{"text":"Werther","cluster":26.0,"cluster_corrected":""}
-{"text":"menthe","cluster":26.0,"cluster_corrected":""}
-{"text":"rue de l'Ancienne-Com\u00e9die","cluster":27.0,"cluster_corrected":""}
-{"text":"rue de Tournon","cluster":27.0,"cluster_corrected":""}
-{"text":"rue de","cluster":27.0,"cluster_corrected":""}
-{"text":"rue Jean-Bart","cluster":27.0,"cluster_corrected":""}
-{"text":"Allez","cluster":28.0,"cluster_corrected":""}
-{"text":"l'Espagne","cluster":28.0,"cluster_corrected":""}
-{"text":"Allemagne","cluster":28.0,"cluster_corrected":""}
-{"text":"mer d'Azow","cluster":29.0,"cluster_corrected":""}
-{"text":"mer froide","cluster":29.0,"cluster_corrected":""}
-{"text":"Venez","cluster":30.0,"cluster_corrected":""}
-{"text":"Sensible","cluster":30.0,"cluster_corrected":""}
-{"text":"Elseneur","cluster":30.0,"cluster_corrected":""}
-{"text":"Asie Mineure","cluster":30.0,"cluster_corrected":""}
-{"text":"gare tintante","cluster":31.0,"cluster_corrected":""}
-{"text":"Maintenant","cluster":31.0,"cluster_corrected":""}
-{"text":"Retombant","cluster":31.0,"cluster_corrected":""}
-{"text":"Nancy","cluster":31.0,"cluster_corrected":""}
-{"text":"\u00c9tonnante","cluster":31.0,"cluster_corrected":""}
-{"text":"Chantez","cluster":31.0,"cluster_corrected":""}
-{"text":"de Ferney","cluster":32.0,"cluster_corrected":""}
-{"text":"Ferney","cluster":32.0,"cluster_corrected":""}
-{"text":"\u00c8ve","cluster":33.0,"cluster_corrected":""}
-{"text":"Gen\u00e8ve","cluster":33.0,"cluster_corrected":""}
-{"text":"tulle","cluster":34.0,"cluster_corrected":""}
-{"text":"Versailles","cluster":34.0,"cluster_corrected":""}
-{"text":"tranquille","cluster":34.0,"cluster_corrected":""}
-{"text":"S\u00e9ville","cluster":34.0,"cluster_corrected":""}
-{"text":"\u00e9raill\u00e9es","cluster":34.0,"cluster_corrected":""}
-{"text":"Obstin\u00e9e","cluster":35.0,"cluster_corrected":""}
-{"text":"Dauphin\u00e9","cluster":35.0,"cluster_corrected":""}
-{"text":"D\u00e9p\u00eachez","cluster":36.0,"cluster_corrected":""}
-{"text":"Clichy","cluster":36.0,"cluster_corrected":""}
-{"text":"Michelet","cluster":36.0,"cluster_corrected":""}
-{"text":"de la Seine","cluster":37.0,"cluster_corrected":""}
-{"text":"Seine","cluster":37.0,"cluster_corrected":""}
-{"text":"la Seine","cluster":37.0,"cluster_corrected":""}
-{"text":"Courb\u00e9e","cluster":38.0,"cluster_corrected":""}
-{"text":"alourdie","cluster":38.0,"cluster_corrected":""}
-{"text":"Bonjour","cluster":38.0,"cluster_corrected":""}
-{"text":"Du soleil","cluster":39.0,"cluster_corrected":""}
-{"text":"soleil","cluster":39.0,"cluster_corrected":""}
-{"text":"Isol\u00e9e","cluster":39.0,"cluster_corrected":""}
-{"text":"\u00d4 soleil","cluster":39.0,"cluster_corrected":""}
-{"text":"Tais-toi","cluster":40.0,"cluster_corrected":""}
-{"text":"\u2013 tu vois","cluster":40.0,"cluster_corrected":""}
-{"text":"vois-tu","cluster":40.0,"cluster_corrected":""}
-{"text":"de Saxe","cluster":41.0,"cluster_corrected":""}
-{"text":"Saxe","cluster":41.0,"cluster_corrected":""}
-{"text":"vert-de-gris","cluster":42.0,"cluster_corrected":""}
-{"text":"Naples","cluster":42.0,"cluster_corrected":""}
-{"text":"Mossoul","cluster":42.0,"cluster_corrected":""}
-{"text":"boules-de-neige","cluster":42.0,"cluster_corrected":""}
-{"text":"Alsace","cluster":null,"cluster_corrected":""}
-{"text":"Voyons","cluster":null,"cluster_corrected":""}
-{"text":"Roz\u00e9e","cluster":null,"cluster_corrected":""}
-{"text":"Anzin","cluster":null,"cluster_corrected":""}
-{"text":"Boh\u00eame","cluster":null,"cluster_corrected":""}
-{"text":"\u00c9gypte","cluster":null,"cluster_corrected":""}
-{"text":"Bengale","cluster":null,"cluster_corrected":""}
-{"text":"Gr\u00e8ce","cluster":null,"cluster_corrected":""}
-{"text":"r\u00e9pondrez","cluster":null,"cluster_corrected":""}
-{"text":"J'","cluster":null,"cluster_corrected":""}
-{"text":"lune","cluster":null,"cluster_corrected":""}
-{"text":"ab\u00eati","cluster":null,"cluster_corrected":""}
-{"text":"R\u00e9fl\u00e9chis","cluster":null,"cluster_corrected":""}
-{"text":"Rome","cluster":null,"cluster_corrected":""}
-{"text":"Atlas","cluster":null,"cluster_corrected":""}
-{"text":"Trocad\u00e9ro","cluster":null,"cluster_corrected":""}
-{"text":"VI","cluster":null,"cluster_corrected":""}
+{"text":"Seine","cluster":4.0,"cluster_corrected":""}
+{"text":"Messine","cluster":4.0,"cluster_corrected":""}
+{"text":"la Seine","cluster":4.0,"cluster_corrected":""}
+{"text":"Versailles","cluster":5.0,"cluster_corrected":""}
+{"text":"Naples","cluster":5.0,"cluster_corrected":""}
+{"text":"S\u00e9ville","cluster":5.0,"cluster_corrected":""}
+{"text":"perse","cluster":5.0,"cluster_corrected":""}
+{"text":"Suresnes","cluster":6.0,"cluster_corrected":""}
+{"text":"G\u00eanes","cluster":6.0,"cluster_corrected":""}
+{"text":"Gravures","cluster":6.0,"cluster_corrected":""}
+{"text":"S\u00e8vres","cluster":6.0,"cluster_corrected":""}
+{"text":"Allez","cluster":7.0,"cluster_corrected":""}
+{"text":"tulle","cluster":7.0,"cluster_corrected":""}
+{"text":"Allemagne","cluster":7.0,"cluster_corrected":""}
+{"text":"alluma","cluster":7.0,"cluster_corrected":""}
+{"text":"l'Espagne","cluster":8.0,"cluster_corrected":""}
+{"text":"Espagne jaune","cluster":8.0,"cluster_corrected":""}
+{"text":"lune","cluster":8.0,"cluster_corrected":""}
+{"text":"Pench\u00e9","cluster":9.0,"cluster_corrected":""}
+{"text":"Flore","cluster":9.0,"cluster_corrected":""}
+{"text":"Florence","cluster":9.0,"cluster_corrected":""}
+{"text":"Menac\u00e9e","cluster":10.0,"cluster_corrected":""}
+{"text":"Grenade","cluster":10.0,"cluster_corrected":""}
+{"text":"nacre","cluster":10.0,"cluster_corrected":""}
+{"text":"\u00c8ve","cluster":11.0,"cluster_corrected":""}
+{"text":"Gen\u00e8ve","cluster":11.0,"cluster_corrected":""}
+{"text":"mer d'Azow","cluster":12.0,"cluster_corrected":""}
+{"text":"Azow","cluster":12.0,"cluster_corrected":""}
+{"text":"Jean-Jacques","cluster":13.0,"cluster_corrected":""}
+{"text":"Jacques","cluster":13.0,"cluster_corrected":""}
+{"text":"rue de l'Ancienne-Com\u00e9die","cluster":14.0,"cluster_corrected":""}
+{"text":"rue de Tournon","cluster":14.0,"cluster_corrected":""}
+{"text":"rue de","cluster":14.0,"cluster_corrected":""}
+{"text":"Tournon","cluster":14.0,"cluster_corrected":""}
+{"text":"Touraine","cluster":14.0,"cluster_corrected":""}
+{"text":"Michelet","cluster":15.0,"cluster_corrected":""}
+{"text":"manche","cluster":15.0,"cluster_corrected":""}
+{"text":"Clichy","cluster":15.0,"cluster_corrected":""}
+{"text":"Saint-Cloud","cluster":16.0,"cluster_corrected":""}
+{"text":"Louvre","cluster":16.0,"cluster_corrected":""}
+{"text":"du Louvre","cluster":16.0,"cluster_corrected":""}
+{"text":"boules-de-neige","cluster":17.0,"cluster_corrected":""}
+{"text":"vert-de-gris","cluster":17.0,"cluster_corrected":""}
+{"text":"Mossoul","cluster":17.0,"cluster_corrected":""}
+{"text":"soleil","cluster":18.0,"cluster_corrected":""}
+{"text":"le soleil","cluster":18.0,"cluster_corrected":""}
+{"text":"Isol\u00e9e","cluster":18.0,"cluster_corrected":""}
+{"text":"Quelquefois","cluster":19.0,"cluster_corrected":""}
+{"text":"Quelque","cluster":19.0,"cluster_corrected":""}
+{"text":"Biblioth\u00e8que Nationale","cluster":19.0,"cluster_corrected":""}
+{"text":"VI \nQuelques jours","cluster":19.0,"cluster_corrected":""}
+{"text":"Pomone","cluster":20.0,"cluster_corrected":""}
+{"text":"Remont\u00e9e","cluster":20.0,"cluster_corrected":""}
+{"text":"Mont-Val\u00e9rien","cluster":20.0,"cluster_corrected":""}
+{"text":"Montez","cluster":20.0,"cluster_corrected":""}
+{"text":"d'Italie","cluster":21.0,"cluster_corrected":""}
+{"text":"Italie","cluster":21.0,"cluster_corrected":""}
+{"text":"l'Italie","cluster":21.0,"cluster_corrected":""}
+{"text":"Italien","cluster":21.0,"cluster_corrected":""}
+{"text":"Anatolie","cluster":22.0,"cluster_corrected":""}
+{"text":"M\u00e9lancolie","cluster":22.0,"cluster_corrected":""}
+{"text":"Tol\u00e8de","cluster":22.0,"cluster_corrected":""}
+{"text":"Parme","cluster":23.0,"cluster_corrected":""}
+{"text":"Paris","cluster":23.0,"cluster_corrected":""}
+{"text":"Partez","cluster":23.0,"cluster_corrected":""}
+{"text":"feuillage du Luxembourg","cluster":24.0,"cluster_corrected":""}
+{"text":"Luxembourg","cluster":24.0,"cluster_corrected":""}
+{"text":"Courb\u00e9e","cluster":24.0,"cluster_corrected":""}
+{"text":"Bourgogne","cluster":24.0,"cluster_corrected":""}
+{"text":"Corinthe","cluster":25.0,"cluster_corrected":""}
+{"text":"Cordoue","cluster":25.0,"cluster_corrected":""}
+{"text":"Rouen","cluster":25.0,"cluster_corrected":""}
+{"text":"massif de myosotis","cluster":26.0,"cluster_corrected":""}
+{"text":"de Saxe","cluster":26.0,"cluster_corrected":""}
+{"text":"Assise","cluster":26.0,"cluster_corrected":""}
+{"text":"abreuva de clart\u00e9","cluster":26.0,"cluster_corrected":""}
+{"text":"colombes","cluster":27.0,"cluster_corrected":""}
+{"text":"Wurtemberg","cluster":27.0,"cluster_corrected":""}
+{"text":"Berlin","cluster":27.0,"cluster_corrected":""}
+{"text":"Curieuse","cluster":28.0,"cluster_corrected":""}
+{"text":"Sabine","cluster":28.0,"cluster_corrected":""}
+{"text":"Fabien Mauri","cluster":28.0,"cluster_corrected":""}
+{"text":"Rentr\u00e9e","cluster":29.0,"cluster_corrected":""}
+{"text":"Agrigente","cluster":29.0,"cluster_corrected":""}
+{"text":"R\u00e9gent","cluster":29.0,"cluster_corrected":""}
+{"text":"sentimentale","cluster":29.0,"cluster_corrected":""}
+{"text":"Pas","cluster":30.0,"cluster_corrected":""}
+{"text":"Passy","cluster":30.0,"cluster_corrected":""}
+{"text":"Hollande","cluster":31.0,"cluster_corrected":""}
+{"text":"barcarolle","cluster":31.0,"cluster_corrected":""}
+{"text":"Tyrol","cluster":31.0,"cluster_corrected":""}
+{"text":"dentelle","cluster":32.0,"cluster_corrected":""}
+{"text":"Appelle","cluster":32.0,"cluster_corrected":""}
+{"text":"Cellel\u00e0","cluster":32.0,"cluster_corrected":""}
+{"text":"Asie Mineure","cluster":33.0,"cluster_corrected":""}
+{"text":"Leurs","cluster":33.0,"cluster_corrected":""}
+{"text":"Docteur","cluster":33.0,"cluster_corrected":""}
+{"text":"Elseneur","cluster":33.0,"cluster_corrected":""}
+{"text":"Latin","cluster":34.0,"cluster_corrected":""}
+{"text":"Dauphin\u00e9","cluster":34.0,"cluster_corrected":""}
+{"text":"Obstin\u00e9e","cluster":34.0,"cluster_corrected":""}
+{"text":"Vienne","cluster":35.0,"cluster_corrected":""}
+{"text":"Marsan","cluster":35.0,"cluster_corrected":""}
+{"text":"Lausanne","cluster":35.0,"cluster_corrected":""}
+{"text":"Muette","cluster":36.0,"cluster_corrected":""}
+{"text":"Quittez","cluster":36.0,"cluster_corrected":""}
+{"text":"Marseillaise","cluster":37.0,"cluster_corrected":""}
+{"text":"Suisse","cluster":37.0,"cluster_corrected":""}
+{"text":"Bengale","cluster":37.0,"cluster_corrected":""}
+{"text":"Anglais","cluster":37.0,"cluster_corrected":""}
+{"text":"Laisse","cluster":37.0,"cluster_corrected":""}
+{"text":"J'ai Pierre","cluster":38.0,"cluster_corrected":""}
+{"text":"Pierre","cluster":38.0,"cluster_corrected":""}
+{"text":"Indes","cluster":39.0,"cluster_corrected":""}
+{"text":"Vosges","cluster":39.0,"cluster_corrected":""}
+{"text":"jardin des Vosges","cluster":39.0,"cluster_corrected":""}
+{"text":"Coll\u00e8ge de France","cluster":40.0,"cluster_corrected":""}
+{"text":"la France","cluster":40.0,"cluster_corrected":""}
+{"text":"de France","cluster":40.0,"cluster_corrected":""}
+{"text":"mademoiselle","cluster":41.0,"cluster_corrected":""}
+{"text":"Fontenay","cluster":41.0,"cluster_corrected":""}
+{"text":"mademoiselle de Fontenay","cluster":41.0,"cluster_corrected":""}
+{"text":"ch\u00e2teau de l'Oise","cluster":42.0,"cluster_corrected":""}
+{"text":"Bruy\u00e8res","cluster":42.0,"cluster_corrected":""}
+{"text":"bruni","cluster":42.0,"cluster_corrected":""}
+{"text":"ch\u00e2teau des Bruy\u00e8res","cluster":42.0,"cluster_corrected":""}
+{"text":"\u00c9tat","cluster":null,"cluster_corrected":""}
 {"text":"Est","cluster":null,"cluster_corrected":""}
+{"text":"Gr\u00e8ce","cluster":null,"cluster_corrected":""}
+{"text":"houx","cluster":null,"cluster_corrected":""}
+{"text":"VI","cluster":null,"cluster_corrected":""}
+{"text":"Boh\u00eame","cluster":null,"cluster_corrected":""}
+{"text":"Voyez","cluster":null,"cluster_corrected":""}
+{"text":"N'","cluster":null,"cluster_corrected":""}
+{"text":"Ferney","cluster":null,"cluster_corrected":""}
+{"text":"Ao\u00fbt","cluster":null,"cluster_corrected":""}
+{"text":"Trocad\u00e9ro","cluster":null,"cluster_corrected":""}
+{"text":"Alsace","cluster":null,"cluster_corrected":""}
+{"text":"J'","cluster":null,"cluster_corrected":""}
+{"text":"Anzin","cluster":null,"cluster_corrected":""}
+{"text":"wagon","cluster":null,"cluster_corrected":""}
+{"text":"Roz\u00e9e","cluster":null,"cluster_corrected":""}
+{"text":"Rome","cluster":null,"cluster_corrected":""}
+{"text":"\u00c9gypte","cluster":null,"cluster_corrected":""}
+{"text":"ab\u00eati","cluster":null,"cluster_corrected":""}

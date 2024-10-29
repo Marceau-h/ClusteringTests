@@ -1,212 +1,218 @@
-{"text":"Bel-Eil","cluster":0.0,"cluster_corrected":""}
-{"text":"Bel-Il","cluster":0.0,"cluster_corrected":""}
-{"text":"l-Eil","cluster":0.0,"cluster_corrected":""}
-{"text":"Prends","cluster":1.0,"cluster_corrected":""}
-{"text":"prete","cluster":1.0,"cluster_corrected":""}
-{"text":"bete","cluster":1.0,"cluster_corrected":""}
-{"text":"tete","cluster":1.0,"cluster_corrected":""}
-{"text":"Apres","cluster":1.0,"cluster_corrected":""}
-{"text":"poele","cluster":2.0,"cluster_corrected":""}
-{"text":"Madeleine","cluster":2.0,"cluster_corrected":""}
-{"text":"Voulez","cluster":2.0,"cluster_corrected":""}
-{"text":"pele-mele","cluster":2.0,"cluster_corrected":""}
-{"text":"Ele","cluster":2.0,"cluster_corrected":""}
-{"text":"bientot","cluster":3.0,"cluster_corrected":""}
-{"text":"Combien","cluster":3.0,"cluster_corrected":""}
-{"text":"Tiens","cluster":3.0,"cluster_corrected":""}
-{"text":"Sologne","cluster":4.0,"cluster_corrected":""}
-{"text":"soleil","cluster":4.0,"cluster_corrected":""}
-{"text":"Le soleil","cluster":4.0,"cluster_corrected":""}
-{"text":"Jetais","cluster":5.0,"cluster_corrected":""}
+{"text":"autrE","cluster":0.0,"cluster_corrected":""}
+{"text":"Automne","cluster":0.0,"cluster_corrected":""}
+{"text":"Mattre","cluster":0.0,"cluster_corrected":""}
+{"text":"Bel-Eil","cluster":1.0,"cluster_corrected":""}
+{"text":"bELle-Eil","cluster":1.0,"cluster_corrected":""}
+{"text":"Bel-","cluster":1.0,"cluster_corrected":""}
+{"text":"le soleil","cluster":1.0,"cluster_corrected":""}
+{"text":"Le soleil","cluster":1.0,"cluster_corrected":""}
+{"text":"Chemineau la Bete","cluster":2.0,"cluster_corrected":""}
+{"text":"cheminee","cluster":2.0,"cluster_corrected":""}
+{"text":"pre","cluster":3.0,"cluster_corrected":""}
+{"text":"Apres","cluster":3.0,"cluster_corrected":""}
+{"text":".Hier","cluster":4.0,"cluster_corrected":""}
+{"text":"Vierge","cluster":4.0,"cluster_corrected":""}
+{"text":"barriere de peupliers","cluster":4.0,"cluster_corrected":""}
 {"text":"etais","cluster":5.0,"cluster_corrected":""}
+{"text":"guettais","cluster":5.0,"cluster_corrected":""}
+{"text":"Jetais","cluster":5.0,"cluster_corrected":""}
 {"text":"repetais","cluster":5.0,"cluster_corrected":""}
-{"text":"Aussitot","cluster":6.0,"cluster_corrected":""}
-{"text":"Aussi-","cluster":6.0,"cluster_corrected":""}
-{"text":"Arr\u00eater","cluster":7.0,"cluster_corrected":""}
-{"text":"arrivee","cluster":7.0,"cluster_corrected":""}
-{"text":"petite riviere","cluster":7.0,"cluster_corrected":""}
-{"text":"arrivai","cluster":7.0,"cluster_corrected":""}
-{"text":"bruyere","cluster":8.0,"cluster_corrected":""}
-{"text":"bruyeres","cluster":8.0,"cluster_corrected":""}
-{"text":"Appuyez","cluster":8.0,"cluster_corrected":""}
-{"text":"Paris","cluster":9.0,"cluster_corrected":""}
-{"text":"mariee","cluster":9.0,"cluster_corrected":""}
-{"text":"queNIARIE-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"mainMARIE-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"mitMARIB-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"MARIE-CLAIR","cluster":9.0,"cluster_corrected":""}
-{"text":"deMARIE-CLAIRB","cluster":9.0,"cluster_corrected":""}
-{"text":"MARIE-CLAIRB","cluster":9.0,"cluster_corrected":""}
-{"text":"laMARIE-CLAIRB","cluster":9.0,"cluster_corrected":""}
-{"text":"notre Marie-Claire","cluster":9.0,"cluster_corrected":""}
-{"text":"montaMIARIE-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"trouveMIARIE-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"ElleMARIE-CLAIRE","cluster":9.0,"cluster_corrected":""}
-{"text":"bles","cluster":10.0,"cluster_corrected":""}
-{"text":"tremblees","cluster":10.0,"cluster_corrected":""}
-{"text":"allees","cluster":10.0,"cluster_corrected":""}
-{"text":"- Vos","cluster":11.0,"cluster_corrected":""}
-{"text":"Notre voisine","cluster":11.0,"cluster_corrected":""}
-{"text":"Augustine","cluster":12.0,"cluster_corrected":""}
-{"text":"matinee","cluster":12.0,"cluster_corrected":""}
-{"text":"Mattre","cluster":12.0,"cluster_corrected":""}
-{"text":"continuai","cluster":12.0,"cluster_corrected":""}
-{"text":"Venez","cluster":13.0,"cluster_corrected":""}
-{"text":"Eugene","cluster":13.0,"cluster_corrected":""}
-{"text":"Eugne","cluster":13.0,"cluster_corrected":""}
-{"text":"Marie-Aime Pas-dessus","cluster":14.0,"cluster_corrected":""}
-{"text":"Seur Maie-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Marie-Aimee lavit","cluster":14.0,"cluster_corrected":""}
-{"text":"Narie-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Mais-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Marie-\nAimee","cluster":14.0,"cluster_corrected":""}
-{"text":"arie-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Marie-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Seur Marie-Aimee","cluster":14.0,"cluster_corrected":""}
-{"text":"Marie-Aime","cluster":14.0,"cluster_corrected":""}
-{"text":"Chemineau la Bete","cluster":15.0,"cluster_corrected":""}
-{"text":"De Mouy-\nches","cluster":15.0,"cluster_corrected":""}
-{"text":"Bibiche","cluster":15.0,"cluster_corrected":""}
-{"text":"precher","cluster":15.0,"cluster_corrected":""}
-{"text":"Cache","cluster":15.0,"cluster_corrected":""}
-{"text":"bcheron","cluster":16.0,"cluster_corrected":""}
-{"text":"Quelquefois","cluster":16.0,"cluster_corrected":""}
-{"text":"Veronique","cluster":16.0,"cluster_corrected":""}
-{"text":"Texpliquai","cluster":16.0,"cluster_corrected":""}
-{"text":"auberge du","cluster":17.0,"cluster_corrected":""}
-{"text":"Vierge","cluster":17.0,"cluster_corrected":""}
-{"text":"bergre","cluster":17.0,"cluster_corrected":""}
-{"text":"gargons","cluster":18.0,"cluster_corrected":""}
-{"text":"Allonsl","cluster":18.0,"cluster_corrected":""}
-{"text":"M.Alphonse","cluster":18.0,"cluster_corrected":""}
-{"text":"Chicon","cluster":19.0,"cluster_corrected":""}
-{"text":"pre Chicon","cluster":19.0,"cluster_corrected":""}
-{"text":"Sainte-Montagne","cluster":20.0,"cluster_corrected":""}
-{"text":"La Saint-Iean","cluster":20.0,"cluster_corrected":""}
-{"text":"Saintes Huiles","cluster":20.0,"cluster_corrected":""}
-{"text":"Saint-eau","cluster":20.0,"cluster_corrected":""}
-{"text":"Saint-Jean","cluster":20.0,"cluster_corrected":""}
-{"text":"Mon P\u00e8re-\nDieu","cluster":20.0,"cluster_corrected":""}
-{"text":"Ismerie","cluster":21.0,"cluster_corrected":""}
-{"text":"pasIsmerie","cluster":21.0,"cluster_corrected":""}
-{"text":"cognai","cluster":22.0,"cluster_corrected":""}
-{"text":"Eau","cluster":22.0,"cluster_corrected":""}
-{"text":"gateaux","cluster":22.0,"cluster_corrected":""}
-{"text":"gargon","cluster":23.0,"cluster_corrected":""}
-{"text":"garder","cluster":23.0,"cluster_corrected":""}
-{"text":"megarde","cluster":23.0,"cluster_corrected":""}
-{"text":"-F-F--= '\n\n\n\n \n\n55","cluster":24.0,"cluster_corrected":""}
-{"text":"-F-F--=","cluster":24.0,"cluster_corrected":""}
-{"text":"Automne","cluster":25.0,"cluster_corrected":""}
-{"text":"sauta","cluster":25.0,"cluster_corrected":""}
-{"text":"buta","cluster":25.0,"cluster_corrected":""}
-{"text":"autrE","cluster":25.0,"cluster_corrected":""}
-{"text":"Pas tres loin ie","cluster":26.0,"cluster_corrected":""}
-{"text":"Sois","cluster":26.0,"cluster_corrected":""}
-{"text":"Deslois","cluster":26.0,"cluster_corrected":""}
-{"text":"prikre","cluster":27.0,"cluster_corrected":""}
-{"text":"reprimandes","cluster":27.0,"cluster_corrected":""}
-{"text":"repondre","cluster":27.0,"cluster_corrected":""}
-{"text":"mepris","cluster":27.0,"cluster_corrected":""}
-{"text":"Tirande","cluster":27.0,"cluster_corrected":""}
-{"text":"tulle","cluster":28.0,"cluster_corrected":""}
-{"text":"fElle","cluster":28.0,"cluster_corrected":""}
-{"text":"bELle-Eil","cluster":28.0,"cluster_corrected":""}
-{"text":"Gabrielle","cluster":28.0,"cluster_corrected":""}
-{"text":"poche;elle","cluster":28.0,"cluster_corrected":""}
-{"text":"balayai","cluster":29.0,"cluster_corrected":""}
-{"text":"- Es-tu malade'\n'","cluster":29.0,"cluster_corrected":""}
-{"text":".Hier","cluster":30.0,"cluster_corrected":""}
-{"text":"chitaigniers","cluster":30.0,"cluster_corrected":""}
-{"text":"chataignier","cluster":30.0,"cluster_corrected":""}
-{"text":"comparai","cluster":31.0,"cluster_corrected":""}
-{"text":"Communs","cluster":31.0,"cluster_corrected":""}
-{"text":"commentie","cluster":31.0,"cluster_corrected":""}
-{"text":"detachai","cluster":32.0,"cluster_corrected":""}
-{"text":"marchais","cluster":32.0,"cluster_corrected":""}
-{"text":"detachais","cluster":32.0,"cluster_corrected":""}
-{"text":"allais","cluster":33.0,"cluster_corrected":""}
-{"text":"tete baissee","cluster":33.0,"cluster_corrected":""}
-{"text":"Saeur","cluster":33.0,"cluster_corrected":""}
-{"text":"attendais","cluster":33.0,"cluster_corrected":""}
-{"text":"aimais","cluster":33.0,"cluster_corrected":""}
-{"text":"Fais","cluster":33.0,"cluster_corrected":""}
-{"text":"voyais","cluster":33.0,"cluster_corrected":""}
-{"text":"Castille","cluster":34.0,"cluster_corrected":""}
-{"text":"ILl","cluster":34.0,"cluster_corrected":""}
-{"text":"Orgueilleuse","cluster":34.0,"cluster_corrected":""}
-{"text":"Villevieille","cluster":34.0,"cluster_corrected":""}
-{"text":"tilleuls","cluster":34.0,"cluster_corrected":""}
-{"text":"La grosse cuillere","cluster":34.0,"cluster_corrected":""}
-{"text":"Ville-","cluster":34.0,"cluster_corrected":""}
-{"text":"quitterais","cluster":35.0,"cluster_corrected":""}
-{"text":"quie","cluster":35.0,"cluster_corrected":""}
-{"text":"chateau du Gue Perdu","cluster":36.0,"cluster_corrected":""}
-{"text":"Gue\nPerdu","cluster":36.0,"cluster_corrected":""}
-{"text":"Gue Perdu","cluster":36.0,"cluster_corrected":""}
-{"text":"Blanchet","cluster":37.0,"cluster_corrected":""}
-{"text":"la Blanche","cluster":37.0,"cluster_corrected":""}
-{"text":"de France","cluster":37.0,"cluster_corrected":""}
-{"text":"vouS","cluster":37.0,"cluster_corrected":""}
-{"text":"Blanche","cluster":37.0,"cluster_corrected":""}
-{"text":"boiserie","cluster":38.0,"cluster_corrected":""}
-{"text":"ger","cluster":38.0,"cluster_corrected":""}
-{"text":"lingerie","cluster":38.0,"cluster_corrected":""}
-{"text":"fourrai","cluster":39.0,"cluster_corrected":""}
-{"text":"tournai","cluster":39.0,"cluster_corrected":""}
-{"text":"oour","cluster":39.0,"cluster_corrected":""}
-{"text":"seur Desiree-des-Anges","cluster":40.0,"cluster_corrected":""}
-{"text":"Sur Desiree-des-Anges","cluster":40.0,"cluster_corrected":""}
-{"text":"Desire-des-Anges","cluster":40.0,"cluster_corrected":""}
-{"text":"Desiree-des-Ange","cluster":40.0,"cluster_corrected":""}
-{"text":"Seur Desiree-des-Ange","cluster":40.0,"cluster_corrected":""}
-{"text":"e-eEl","cluster":40.0,"cluster_corrected":""}
-{"text":"Anges","cluster":40.0,"cluster_corrected":""}
-{"text":"Desiree-des-","cluster":40.0,"cluster_corrected":""}
-{"text":"Desiree-des-Anges","cluster":40.0,"cluster_corrected":""}
-{"text":"elan","cluster":41.0,"cluster_corrected":""}
-{"text":"Appela","cluster":41.0,"cluster_corrected":""}
-{"text":"Mlanie","cluster":41.0,"cluster_corrected":""}
-{"text":"Melanie","cluster":41.0,"cluster_corrected":""}
-{"text":"JE=","cluster":null,"cluster_corrected":""}
-{"text":"z=","cluster":null,"cluster_corrected":""}
-{"text":"brassa","cluster":null,"cluster_corrected":""}
-{"text":"Aga-","cluster":null,"cluster_corrected":""}
-{"text":"A","cluster":null,"cluster_corrected":""}
-{"text":"Ad2le","cluster":null,"cluster_corrected":""}
-{"text":"IlIi","cluster":null,"cluster_corrected":""}
-{"text":"F","cluster":null,"cluster_corrected":""}
-{"text":"ca","cluster":null,"cluster_corrected":""}
-{"text":"So-","cluster":null,"cluster_corrected":""}
+{"text":"etais glacee","cluster":5.0,"cluster_corrected":""}
+{"text":"etaissre","cluster":5.0,"cluster_corrected":""}
+{"text":"voyais","cluster":5.0,"cluster_corrected":""}
+{"text":"etais tres inquiete","cluster":5.0,"cluster_corrected":""}
+{"text":"luisantsde","cluster":6.0,"cluster_corrected":""}
+{"text":"servantel","cluster":6.0,"cluster_corrected":""}
+{"text":"buis","cluster":6.0,"cluster_corrected":""}
+{"text":"violacee","cluster":7.0,"cluster_corrected":""}
+{"text":"grace","cluster":7.0,"cluster_corrected":""}
+{"text":"lacai","cluster":7.0,"cluster_corrected":""}
+{"text":"IL M\n ICI","cluster":8.0,"cluster_corrected":""}
+{"text":"IL L","cluster":8.0,"cluster_corrected":""}
+{"text":"Noel","cluster":9.0,"cluster_corrected":""}
+{"text":"poele","cluster":9.0,"cluster_corrected":""}
+{"text":"Madeleine","cluster":9.0,"cluster_corrected":""}
+{"text":"Sois","cluster":10.0,"cluster_corrected":""}
+{"text":"soiree","cluster":10.0,"cluster_corrected":""}
+{"text":"serree","cluster":10.0,"cluster_corrected":""}
+{"text":"refectoire","cluster":10.0,"cluster_corrected":""}
+{"text":"moitie","cluster":11.0,"cluster_corrected":""}
+{"text":"Moi","cluster":11.0,"cluster_corrected":""}
+{"text":"Mlanie","cluster":12.0,"cluster_corrected":""}
+{"text":"Melanie","cluster":12.0,"cluster_corrected":""}
+{"text":"Appela","cluster":12.0,"cluster_corrected":""}
+{"text":"Communs","cluster":13.0,"cluster_corrected":""}
+{"text":"Combien","cluster":13.0,"cluster_corrected":""}
+{"text":"miens","cluster":13.0,"cluster_corrected":""}
+{"text":"chitaigniers","cluster":14.0,"cluster_corrected":""}
+{"text":"allee des chataigniers","cluster":14.0,"cluster_corrected":""}
+{"text":"chataignier","cluster":14.0,"cluster_corrected":""}
+{"text":"ri Deslois","cluster":14.0,"cluster_corrected":""}
+{"text":"allees","cluster":14.0,"cluster_corrected":""}
+{"text":"gagea","cluster":15.0,"cluster_corrected":""}
+{"text":"nuages.a6","cluster":15.0,"cluster_corrected":""}
+{"text":"foins","cluster":16.0,"cluster_corrected":""}
+{"text":"Arr\u00eater","cluster":16.0,"cluster_corrected":""}
+{"text":"ainsi.r","cluster":16.0,"cluster_corrected":""}
+{"text":"Parfois","cluster":16.0,"cluster_corrected":""}
+{"text":"Vronique","cluster":17.0,"cluster_corrected":""}
+{"text":"Texpliquai","cluster":17.0,"cluster_corrected":""}
+{"text":"Veronique","cluster":17.0,"cluster_corrected":""}
+{"text":"pre Chicon","cluster":18.0,"cluster_corrected":""}
+{"text":"Chicon","cluster":18.0,"cluster_corrected":""}
+{"text":"Quelquefois","cluster":19.0,"cluster_corrected":""}
+{"text":"Quelque","cluster":19.0,"cluster_corrected":""}
+{"text":"Paques","cluster":19.0,"cluster_corrected":""}
+{"text":"reveillon","cluster":20.0,"cluster_corrected":""}
+{"text":"Allonsl","cluster":20.0,"cluster_corrected":""}
+{"text":"M.Alphonse","cluster":20.0,"cluster_corrected":""}
+{"text":"alluma","cluster":20.0,"cluster_corrected":""}
+{"text":"Blanche","cluster":21.0,"cluster_corrected":""}
+{"text":"manche","cluster":21.0,"cluster_corrected":""}
+{"text":"la manche","cluster":21.0,"cluster_corrected":""}
+{"text":"la Blanche","cluster":21.0,"cluster_corrected":""}
+{"text":"poche;elle","cluster":22.0,"cluster_corrected":""}
+{"text":"accrochee","cluster":22.0,"cluster_corrected":""}
+{"text":"ecroula","cluster":22.0,"cluster_corrected":""}
+{"text":"tilleuls","cluster":23.0,"cluster_corrected":""}
+{"text":"Augustine","cluster":23.0,"cluster_corrected":""}
+{"text":"Castille","cluster":23.0,"cluster_corrected":""}
+{"text":"Castle","cluster":23.0,"cluster_corrected":""}
+{"text":"Ismrie","cluster":24.0,"cluster_corrected":""}
+{"text":"superieure","cluster":24.0,"cluster_corrected":""}
+{"text":"lingerie","cluster":24.0,"cluster_corrected":""}
+{"text":"Ismerie","cluster":24.0,"cluster_corrected":""}
+{"text":"notre Marie-Claire","cluster":25.0,"cluster_corrected":""}
+{"text":"MARIE-CLAIR","cluster":25.0,"cluster_corrected":""}
+{"text":"1 I1MARIE-CLAIRB","cluster":25.0,"cluster_corrected":""}
+{"text":"Marie-Claire","cluster":25.0,"cluster_corrected":""}
+{"text":"MARIE-CLAIRB","cluster":25.0,"cluster_corrected":""}
+{"text":"laMARIE-CLAIRB","cluster":25.0,"cluster_corrected":""}
+{"text":"1 I1MARIE-CLAIRB\nnoire","cluster":25.0,"cluster_corrected":""}
+{"text":"Sologne","cluster":26.0,"cluster_corrected":""}
+{"text":"Sainte-Montagne","cluster":26.0,"cluster_corrected":""}
+{"text":"Saintes Huiles","cluster":26.0,"cluster_corrected":""}
+{"text":"Josai","cluster":26.0,"cluster_corrected":""}
+{"text":"Maintenant","cluster":26.0,"cluster_corrected":""}
+{"text":"laSainte","cluster":26.0,"cluster_corrected":""}
+{"text":"Gue\nPerdu","cluster":27.0,"cluster_corrected":""}
+{"text":"Gue Perdu","cluster":27.0,"cluster_corrected":""}
+{"text":"chateau du Gue Perdu","cluster":27.0,"cluster_corrected":""}
+{"text":"Cache","cluster":28.0,"cluster_corrected":""}
+{"text":"Bibiche","cluster":28.0,"cluster_corrected":""}
+{"text":"Mouy-\nches","cluster":28.0,"cluster_corrected":""}
+{"text":"hesita","cluster":28.0,"cluster_corrected":""}
+{"text":"jetee","cluster":29.0,"cluster_corrected":""}
+{"text":"tetes","cluster":29.0,"cluster_corrected":""}
+{"text":"Tes","cluster":29.0,"cluster_corrected":""}
+{"text":"betes","cluster":29.0,"cluster_corrected":""}
+{"text":"exiles","cluster":29.0,"cluster_corrected":""}
+{"text":"bete","cluster":29.0,"cluster_corrected":""}
+{"text":"Soeur Marie-Aimee","cluster":30.0,"cluster_corrected":""}
+{"text":"Seur Marie-Aime","cluster":30.0,"cluster_corrected":""}
+{"text":"Seur Marie-Aimee","cluster":30.0,"cluster_corrected":""}
+{"text":"Saeur","cluster":30.0,"cluster_corrected":""}
+{"text":"Seur Maie","cluster":30.0,"cluster_corrected":""}
+{"text":"baissee","cluster":31.0,"cluster_corrected":""}
+{"text":"lasserl","cluster":31.0,"cluster_corrected":""}
+{"text":"passee","cluster":31.0,"cluster_corrected":""}
+{"text":"Gabrielle","cluster":32.0,"cluster_corrected":""}
+{"text":"voila Henri","cluster":32.0,"cluster_corrected":""}
+{"text":"Elle ajiouta","cluster":32.0,"cluster_corrected":""}
+{"text":"voil\u00c01Elle","cluster":32.0,"cluster_corrected":""}
+{"text":"Mla-","cluster":33.0,"cluster_corrected":""}
+{"text":"grosse Melanie","cluster":33.0,"cluster_corrected":""}
+{"text":"grosse Mlanie","cluster":33.0,"cluster_corrected":""}
+{"text":"Marie-Aimee lavit","cluster":34.0,"cluster_corrected":""}
+{"text":"Marie-Aime Pas-","cluster":34.0,"cluster_corrected":""}
+{"text":"Marie-Aimes'occupant","cluster":34.0,"cluster_corrected":""}
+{"text":"Narie-Aimee","cluster":34.0,"cluster_corrected":""}
+{"text":"Paris","cluster":34.0,"cluster_corrected":""}
+{"text":"Marie-Aime","cluster":34.0,"cluster_corrected":""}
+{"text":"Marie-Aimee","cluster":34.0,"cluster_corrected":""}
+{"text":"arie-Aimee","cluster":34.0,"cluster_corrected":""}
+{"text":"Eugene","cluster":35.0,"cluster_corrected":""}
+{"text":"Eugne","cluster":35.0,"cluster_corrected":""}
+{"text":"Eugkne","cluster":35.0,"cluster_corrected":""}
+{"text":"des-Ange","cluster":36.0,"cluster_corrected":""}
+{"text":"Seur Desiree-des-Ange","cluster":36.0,"cluster_corrected":""}
+{"text":"Desire-des-Anges","cluster":36.0,"cluster_corrected":""}
+{"text":"Sur Desiree-des-Anges","cluster":36.0,"cluster_corrected":""}
+{"text":"es-","cluster":36.0,"cluster_corrected":""}
+{"text":"Desiree-des-Ange","cluster":36.0,"cluster_corrected":""}
+{"text":"Desiree-des-Anges","cluster":36.0,"cluster_corrected":""}
+{"text":"champs de ble","cluster":37.0,"cluster_corrected":""}
+{"text":"Table","cluster":37.0,"cluster_corrected":""}
+{"text":"champ de ble","cluster":37.0,"cluster_corrected":""}
+{"text":"Mlle Maximilienne","cluster":38.0,"cluster_corrected":""}
+{"text":"IlIi","cluster":38.0,"cluster_corrected":""}
+{"text":"bruyeres","cluster":39.0,"cluster_corrected":""}
+{"text":"Pas tres","cluster":39.0,"cluster_corrected":""}
+{"text":"bruyeres tres hautes","cluster":39.0,"cluster_corrected":""}
+{"text":"Ville-","cluster":40.0,"cluster_corrected":""}
+{"text":"vieille\nBibiche","cluster":40.0,"cluster_corrected":""}
+{"text":"ILl","cluster":40.0,"cluster_corrected":""}
+{"text":"Orgueilleuse","cluster":40.0,"cluster_corrected":""}
+{"text":"Villevieille","cluster":40.0,"cluster_corrected":""}
+{"text":"la Saint-eau","cluster":41.0,"cluster_corrected":""}
+{"text":"Saint-Jean","cluster":41.0,"cluster_corrected":""}
+{"text":"La Saint-Iean","cluster":41.0,"cluster_corrected":""}
+{"text":"c6te","cluster":42.0,"cluster_corrected":""}
+{"text":"C6te","cluster":42.0,"cluster_corrected":""}
+{"text":"pimbeche","cluster":43.0,"cluster_corrected":""}
+{"text":"bcheron","cluster":43.0,"cluster_corrected":""}
+{"text":"precher","cluster":43.0,"cluster_corrected":""}
+{"text":"Tirande","cluster":44.0,"cluster_corrected":""}
+{"text":"de France","cluster":44.0,"cluster_corrected":""}
+{"text":"aimais","cluster":45.0,"cluster_corrected":""}
+{"text":".'avais","cluster":45.0,"cluster_corrected":""}
+{"text":"ger","cluster":45.0,"cluster_corrected":""}
+{"text":"Javais","cluster":45.0,"cluster_corrected":""}
+{"text":"La Femme","cluster":46.0,"cluster_corrected":""}
+{"text":"fourrai","cluster":46.0,"cluster_corrected":""}
+{"text":"tete","cluster":46.0,"cluster_corrected":""}
+{"text":"tournai la tete","cluster":46.0,"cluster_corrected":""}
+{"text":"M","cluster":null,"cluster_corrected":""}
+{"text":"bobo","cluster":null,"cluster_corrected":""}
+{"text":"prte","cluster":null,"cluster_corrected":""}
 {"text":"I\n\n\n AH","cluster":null,"cluster_corrected":""}
-{"text":"C6te","cluster":null,"cluster_corrected":""}
-{"text":"e","cluster":null,"cluster_corrected":""}
-{"text":"II","cluster":null,"cluster_corrected":""}
-{"text":"G","cluster":null,"cluster_corrected":""}
-{"text":"E","cluster":null,"cluster_corrected":""}
+{"text":"Douze","cluster":null,"cluster_corrected":""}
+{"text":"noux","cluster":null,"cluster_corrected":""}
+{"text":"So-","cluster":null,"cluster_corrected":""}
+{"text":"S5","cluster":null,"cluster_corrected":""}
+{"text":"Ad2le","cluster":null,"cluster_corrected":""}
+{"text":"obeir","cluster":null,"cluster_corrected":""}
 {"text":"I","cluster":null,"cluster_corrected":""}
-{"text":"piece","cluster":null,"cluster_corrected":""}
-{"text":"JE","cluster":null,"cluster_corrected":""}
-{"text":"c7","cluster":null,"cluster_corrected":""}
-{"text":"Dansces","cluster":null,"cluster_corrected":""}
-{"text":"J","cluster":null,"cluster_corrected":""}
-{"text":"Rome","cluster":null,"cluster_corrected":""}
-{"text":"Coup","cluster":null,"cluster_corrected":""}
-{"text":"J'","cluster":null,"cluster_corrected":""}
-{"text":"buis","cluster":null,"cluster_corrected":""}
-{"text":"grace","cluster":null,"cluster_corrected":""}
-{"text":"rflexiom","cluster":null,"cluster_corrected":""}
-{"text":"Moi","cluster":null,"cluster_corrected":""}
-{"text":"Au-","cluster":null,"cluster_corrected":""}
-{"text":"fievre","cluster":null,"cluster_corrected":""}
-{"text":"duvisage","cluster":null,"cluster_corrected":""}
-{"text":"siege","cluster":null,"cluster_corrected":""}
+{"text":"F","cluster":null,"cluster_corrected":""}
 {"text":"I'","cluster":null,"cluster_corrected":""}
+{"text":"Es","cluster":null,"cluster_corrected":""}
+{"text":"J'","cluster":null,"cluster_corrected":""}
+{"text":"siege","cluster":null,"cluster_corrected":""}
+{"text":"ler","cluster":null,"cluster_corrected":""}
 {"text":"S","cluster":null,"cluster_corrected":""}
-{"text":"- A","cluster":null,"cluster_corrected":""}
-{"text":"degot","cluster":null,"cluster_corrected":""}
+{"text":"jE","cluster":null,"cluster_corrected":""}
+{"text":"A","cluster":null,"cluster_corrected":""}
+{"text":"1'afne","cluster":null,"cluster_corrected":""}
+{"text":"Agathe","cluster":null,"cluster_corrected":""}
 {"text":"N5","cluster":null,"cluster_corrected":""}
-{"text":"Pis","cluster":null,"cluster_corrected":""}
+{"text":"JE=","cluster":null,"cluster_corrected":""}
 {"text":"Vin","cluster":null,"cluster_corrected":""}
-{"text":"L","cluster":null,"cluster_corrected":""}
+{"text":"piece","cluster":null,"cluster_corrected":""}
+{"text":"Dansces","cluster":null,"cluster_corrected":""}
+{"text":"Au-","cluster":null,"cluster_corrected":""}
+{"text":"-L","cluster":null,"cluster_corrected":""}
+{"text":"prikre","cluster":null,"cluster_corrected":""}
+{"text":"P","cluster":null,"cluster_corrected":""}
+{"text":"Rome","cluster":null,"cluster_corrected":""}
+{"text":"E","cluster":null,"cluster_corrected":""}
+{"text":"z=","cluster":null,"cluster_corrected":""}
+{"text":"vecu","cluster":null,"cluster_corrected":""}
+{"text":"II","cluster":null,"cluster_corrected":""}
+{"text":"ar-","cluster":null,"cluster_corrected":""}
+{"text":"II\nIIIIIII\nA","cluster":null,"cluster_corrected":""}
+{"text":"Dit","cluster":null,"cluster_corrected":""}
+{"text":"ca","cluster":null,"cluster_corrected":""}
+{"text":"e","cluster":null,"cluster_corrected":""}
+{"text":"G","cluster":null,"cluster_corrected":""}
+{"text":"Malgre","cluster":null,"cluster_corrected":""}
+{"text":"fievre","cluster":null,"cluster_corrected":""}
