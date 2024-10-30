@@ -66,9 +66,9 @@ def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
             return
 
         result_files = list(path.parent.glob(f"{path.stem}_*.json"))
-        if len(result_files) == len(cluster_methods) * 2:
-            print(f"Skipping {path} because all results are already present")
-            return
+        # if len(result_files) == len(cluster_methods) * 2:
+        #     print(f"Skipping {path} because all results are already present")
+        #     return
 
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
