@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     for gt, hyp in tqdm(zip(gts, hyps)):
         livre = "_".join(gt.stem.split("_")[0:2])
-        ocr = "_".join(hyp.stem.split("_")[4:])
+        ocr = hyp.stem.split("_")[-1]
         for h in hyp.glob("*_df_points.jsonl"):
             model = h.stem.replace("_df_points.jsonl", "").split("_")[-1]
             main(
