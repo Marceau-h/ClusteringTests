@@ -171,8 +171,8 @@ def dpc_to_friendly_csv(dpc: pd.DataFrame, path: Path) -> None:
 
 
 def main(path: Path, lang:str='fr', resume:bool=True) -> None:
-    warnings.simplefilter("once")
-    print("Caution: The warnings will only be displayed once (too many warnings otherwise)")
+    warnings.simplefilter("ignore")
+    print("Caution: The warnings will be displayed ignored (too many warnings otherwise)")
     if path.is_dir():
         files = list(recursive_find_docs(path))
         # do_1_text = do_1_text_constructor(resume)
@@ -206,6 +206,8 @@ def reset_errors(path: Path) -> None:
         raise ValueError(f"{path} is not a file or a directory")
 
 if __name__ == "__main__":
-    corpus = Path("corpus")
+    # corpus, lang = Path("corpus"), "fr"
+    corpus, lang = Path("corpus_en"), "en"
+    # corpus, lang = Path("corpus_pt"), "pt"
     # reset_errors(corpus)
-    main(corpus, "fr", True)
+    main(corpus, lang, True)

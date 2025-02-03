@@ -1,160 +1,160 @@
-text,cluster,cluster_corrected
-Curieuse,0,
-Asie Mineure,0,
-Leurs,0,
-Fabien Mauri,0,
-Docteur,0,
-Elseneur,0,
-Seine,1,
-Sabine,1,
-Messine,1,
-Dauphiné,1,
-boules-de-neige,1,
-Berlin,1,
-Touraine,1,
-Anzin,1,
-la Seine,1,
-Suresnes,2,
-colombes,2,
-Gênes,2,
-Naples,2,
-Est,2,
-Gravures,2,
-Sèvres,2,
-J'ai Pierre,3,
-J',3,
-Pierre,3,
-VI,4,
-Vienne,4,
-Lausanne,4,
-Versailles,5,
-Allez,5,
-tulle,5,
-Voyez,5,
-Bengale,5,
-Allemagne,5,
-barcarolle,5,
-alluma,5,
-Séville,5,
-l'Espagne,6,
-Espagne jaune,6,
-Ferney,6,
-lune,6,
-Pologne,6,
-Latin,7,
-État,7,
-abêti,7,
-N',7,
-Obstinée,7,
-Ève,8,
-Genève,8,
-Régent,8,
-mer d'Azow,9,
-Azow,9,
-Trocadéro,10,
-Rome,10,
-Tyrol,10,
-Rozée,10,
-Flore,11,
-Florence,11,
-Saint-Cloud,11,
-Louvre,11,
-du Louvre,11,
-soleil,12,
-le soleil,12,
-Isolée,12,
-Quelquefois,13,
-Jean-Jacques,13,
-Quelque,13,
-Muette,13,
-Jacques,13,
+text,cluster
+Azow,0
+mer d'Azow,0
+manche,1
+Marsan,1
+Penché,1
+Michelet,1
+Clichy,1
+Nancy,1
+Agrigente,2
+Cellelà,2
+dentelle,2
+mademoiselle de Fontenay,2
+Rentrée,2
+Appelle,2
+sentimentale,2
+Hollande,2
+rue de,3
+de Saxe,3
+Bois de Boulogne,3
+rue de l'Ancienne-Comédie,3
+massif de myosotis,3
+abreuva de clarté,3
+rue de Tournon,3
+Suresnes,4
+Gênes,4
+Sèvres,4
+Est,4
+Naples,4
+Gravures,4
+colombes,4
+jardin des Vosges,5
+Vosges,5
+Indes,5
+Paris,6
+vert-de-gris,6
+Partez,6
+Parme,6
+Bruyères,7
+château des Bruyères,7
+bruni,7
+l'Oise,8
+Oise,8
+mademoiselle,8
+Sois,8
+château de l'Oise,8
+Autrefois,8
+Bois,8
+perse,8
+Menacée,9
+nacre,9
+Alsace,9
+Grenade,9
+d'Italie,10
+Italie,10
+l'Italie,10
+N',10
+Italien,10
+Collège de France,11
+de France,11
+Étonnante enfance,11
+Grèce,11
+la France,11
+Florence,12
+Saint-Cloud,12
+du Louvre,12
+Louvre,12
+Flore,12
+Pierre,13
+J'ai Pierre,13
+J',13
+Août,14
+Pologne,15
+Ferney,15
+Espagne jaune,15
+l'Espagne,15
+lune,15
+feuillage du Luxembourg,16
+Wurtemberg,16
+houx,16
+Bohême,16
+Luxembourg,16
+Bourgogne,16
+Tournon,16
+Jacques,17
+Jean-Jacques,17
+Quelque,17
+Quelquefois,17
+Muette,17
 "VI 
-Quelques jours",13,
-Bois de Boulogne,14,
-rue de l'Ancienne-Comédie,14,
-rue de Tournon,14,
-rue de,14,
-massif de myosotis,14,
-de Saxe,14,
-abreuva de clarté,14,
-Hollande,15,
-Anatolie,15,
-Mélancolie,15,
-Bibliothèque Nationale,15,
-Retombant,15,
-Tolède,15,
-Rentrée,16,
-Agrigente,16,
-dentelle,16,
-sentimentale,16,
-Appelle,16,
-Cellelà,16,
-mademoiselle de Fontenay,16,
-feuillage du Luxembourg,17,
-houx,17,
-Bohême,17,
-Luxembourg,17,
-Wurtemberg,17,
-Bourgogne,17,
-Tournon,17,
-Corinthe,18,
-Cordoue,18,
-Courbée,18,
-Rouen,18,
-Août,19,
-Penché,20,
-Nancy,20,
-Marsan,20,
-Michelet,20,
-manche,20,
-Clichy,20,
-Bruyères,21,
-bruni,21,
-château des Bruyères,21,
-d'Italie,22,
-Italie,22,
-l'Italie,22,
-Italien,22,
-vert-de-gris,23,
-Parme,23,
-Paris,23,
-Partez,23,
-Bois,24,
-Sois,24,
-l'Oise,24,
-mademoiselle,24,
-château de l'Oise,24,
-Autrefois,24,
-Oise,24,
-perse,24,
-Mossoul,25,
-Pas,25,
-Passy,25,
-wagon,26,
-Égypte,26,
-Pomone,26,
-Fontenay,26,
-Chantez,26,
-Remontée,26,
-Mont-Valérien,26,
-Quittez,26,
-Montez,26,
-jais,27,
-aimais,27,
-Marseillaise,27,
-Suisse,27,
-Assise,27,
-Anglais,27,
-Laisse,27,
-Indes,28,
-Vosges,28,
-jardin des Vosges,28,
-Menacée,29,
-Alsace,29,
-Grenade,29,
-nacre,29,
-Étonnante enfance,30,
-Grèce,30,
-Collège de France,30,
-la France,30,
-de France,30,
+Quelques jours",17
+Remontée,18
+Pomone,18
+Chantez,18
+Fontenay,18
+Égypte,18
+wagon,18
+Montez,18
+Mont-Valérien,18
+Quittez,18
+État,19
+Obstinée,19
+abêti,19
+Latin,19
+aimais,20
+Marseillaise,20
+jais,20
+Laisse,20
+Assise,20
+Suisse,20
+Anglais,20
+Allemagne,21
+barcarolle,21
+Séville,21
+Voyez,21
+tulle,21
+Allez,21
+Bengale,21
+Versailles,21
+alluma,21
+Docteur,22
+Fabien Mauri,22
+Elseneur,22
+Curieuse,22
+Leurs,22
+Asie Mineure,22
+Rozée,23
+Trocadéro,23
+Rome,23
+Tyrol,23
+Tolède,24
+Bibliothèque Nationale,24
+Anatolie,24
+Mélancolie,24
+Retombant,24
+soleil,25
+le soleil,25
+Isolée,25
+Ève,26
+Genève,26
+Régent,26
+Rouen,27
+Courbée,27
+Corinthe,27
+Cordoue,27
+Lausanne,28
+VI,28
+Vienne,28
+Touraine,29
+la Seine,29
+Messine,29
+Sabine,29
+Dauphiné,29
+Anzin,29
+Berlin,29
+boules-de-neige,29
+Seine,29
+Mossoul,30
+Pas,30
+Passy,30

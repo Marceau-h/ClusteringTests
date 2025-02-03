@@ -1,42 +1,251 @@
-text,cluster,cluster_corrected
-Bois de Boulogne,0,
-bois de hoyer,0,
-wo  boi.28,0,
-boules-de-neige,0,
-Bourgogne,0,
-Pologne,0,
-A3,1,
-A38,1,
-A335,1,
-A30,1,
-ELle,2,
-Relle,2,
-Celle-l,2,
-N0ELLE,2,
-poele,2,
-N0QUELLE,2,
-telegruphie,2,
-Michelet,2,
-meles,2,
-allegee,2,
-le230,2,
-Seville,2,
-"pas,,.elle",2,
-Leurs-,2,
-vis-a-vis d'elle,2,
-velle,2,
-I0RIELLE,2,
-Rozel,2,
-paule,2,
-Nulle,2,
-tulle,2,
-N0IUYELLB,2,
-poele troit,2,
-N0eLLE,2,
-lez,2,
-N0tUELLE,2,
-"N0ELLE E9PRANCB
-Elle",2,
+text,cluster
+Comment,0
+gauchement,0
+Corinthe,0
+sentimentale,0
+colombes,0
+comdienne,0
+elan,1
+Anzin,1
+ceLA,1
+Anglais,1
+Hollande,1
+I,1
+Lausanne,1
+cela',1
+manche,2
+franche,2
+Manuscrits,2
+lche,2
+ANCI,2
+Marsan,2
+la manche,2
+Nancy,2
+NoUVELLE,3
+"T
+L
+LA N0NOUVELLE",3
+NO0VELLE,3
+NoUvILLB,3
+LA N0NOUVEL,3
+LA NO0VELLE,3
+N0NoUVELLE,3
+I.A NOUvELLE,3
+Noel,3
+Somone,4
+A07,4
+Son,4
+du morne,4
+Mossoul,4
+crmonie,4
+z.,5
+J6-,5
+a7,5
+A92,6
+A9,6
+N,6
+"cri,-",7
+Paris,7
+A Paris,7
+attrist6e,7
+Parme,7
+ar-,7
+pAris,7
+Partez,7
+sondepart,7
+Bovary,7
+clair6,8
+aimais,8
+etais,8
+Joubliais,8
+maine,8
+attirAit,8
+- Nais,8
+Jamais,8
+C'6tait,8
+l'Oise,9
+Oise,9
+oisivet,9
+Marseillaise,9
+Ia2,9
+oi,9
+Teloise,9
+Bois,9
+Is,9
+NOUVELLE FRANCE,10
+NOUVELLE E8FRANCE,10
+College de France,10
+NOUVELLE FRANCE O1,10
+N0VELLE FRANCE,10
+"NOUVELLE TENdANCE
+- Moi",10
+d'Italie,11
+N0PUBLIE,11
+lItalie,11
+LI,11
+Italie,11
+Berlin,11
+Clichy,11
+Anatolie,11
+ecoliers,11
+G-.--,12
+L---,12
+.--.310,12
+1-,12
+LA N0NOUVELLE ESPERANCE,13
+N0UVELLE EsPERANCE,13
+N0UYELLE ESPERANCB,13
+N0UYELLE ESPERANCE,13
+N0tUTELLE EsSPEnRANCE,13
+LA NoUVELLE ESPERANCIE,13
+N0UVELLE ESPiRANCE 87,13
+lA NOUVELLE ESPERANCE 8B5,13
+N0UYELLE EsPRANCE 57,13
+"N0UVELLE EsPRANCE
+Son existence reprenait",13
+N0NOUVELLE ESPERANCE,13
+I0RIELLE ESPfEnRANCE,13
+LA NOUvELLE ESPERANCE 2871,13
+N0UVELLlL ESPERANCB,13
+N0ELLE EsPERANCE,13
+forceLA N0OUBLI ESPERANCE 79,13
+NOYELLE ESEnRANCB,13
+N0UVELLE ESPfR ANCE,13
+N0ivILLE ESPERANCE,13
+N0VEILL E8RANCE,13
+N0UYELLE ESPERANCE 11,13
+Terme,14
+tetu,14
+tete college,14
+Etat,14
+tete,14
+Compte d'une Societe,14
+bete,14
+htel,14
+Quittez,14
+wo  boi.28,15
+Bois de Boulogne,15
+Bourgogne,15
+Pologne,15
+bois de hoyer,15
+boules-de-neige,15
+N0VELLE,16
+N0UVBLLB,16
+N0UYELLE,16
+N0UVELLE,16
+N0,16
+etincelnt elLA N0UVELLE,16
+N0VELL,16
+M0UVELLE,16
+"rue madame
+Fortier",17
+"rue Jean-
+Bart",17
+amiti6,17
+"E
+S",17
+",,",17
+port6,17
+avaitvecu,18
+G:;avan,18
+vecu,18
+cIT',18
+wagon,19
+Wagon,19
+lagonie,19
+retrouveront,20
+- Montez,20
+bonte,20
+Singulierement,20
+Remonter,20
+extreme,20
+Amont,20
+Moindre,20
+chteau,21
+cruaut,21
+beaut,21
+au-,21
+T3,22
+A1,22
+H,22
+E,22
+Passe,23
+Assise,23
+massif de myosotis,23
+Laisse,23
+Suisse,23
+auSsi,23
+deUrope,24
+de Saxe,24
+- D6cide,24
+decidee,24
+"chambre
+deshabituee",24
+deput,24
+vde,24
+Ferney,25
+cherie,25
+lErie,25
+frileux,25
+Pierre,25
+Mont-Valerie,25
+v6nerable,25
+colere,25
+accabl6e,26
+caf,26
+ca,26
+cahors,26
+soire,27
+savoie,27
+J',27
+Subie,27
+Soie,27
+piece,27
+Sois,27
+precis,28
+reprenez-la,28
+regal,28
+apre,28
+Apre,28
+Grece,29
+Grenade,29
+Florence,29
+endure,29
+Sincere,29
+Flore,29
+reuni,30
+UN,30
+bruni,30
+lune,30
+reseda,31
+Bordures,31
+Gravures,31
+resume,31
+chateau des Bordures,31
+Suresnes,31
+fresnes,31
+lunes bleues,31
+Messine,31
+aequies-,31
+"II
+
+LILA",32
+uniLAT,32
+Il1,32
+VILA,32
+t4  LA,32
+ILA,32
+Latin,32
+i-.LA,32
+la252,32
+ILA NOELLIE,32
+y-,33
+paules des cannes,33
+Vosges,33
+Indes,33
+jardin des Vosges,33
+Relle,34
+Celle-l,34
 "LLL
 
 L
@@ -44,380 +253,171 @@ L
 I
 
 
-LI",2,
-Suresnes,3,
-chateau des Bordures,3,
-Cest,3,
-resume,3,
-Gravures,3,
-Bordures,3,
-fresnes,3,
-aequies-,3,
-lunes bleues,3,
-A55,3,
-reseda,3,
-Seine,4,
-Messine,4,
-inegal,4,
-Obstine,4,
-"la
-Seine bleue",4,
-la Seine,4,
-Dauphine,4,
-Ferney,4,
-seit,4,
-A chemine,4,
-chine,4,
-Eiyse,4,
-Gypte,5,
-volupt,5,
-Egypte,5,
-endure,6,
-Flore,6,
-Florence,6,
-Sincere,6,
-Grenade,6,
-Grece,6,
-ILA,7,
-uniLAT,7,
-la252,7,
-VILA,7,
-ILA NOELLIE,7,
-J6-,7,
-Latin,7,
-t4  LA,7,
-Il1,7,
-i-.LA,7,
-"II
-
-LILA",7,
-"II
-I",8,
-E,8,
-"II
-H
-I",8,
+LI",34
+"pas,,.elle",34
+N0IUYELLB,34
+poele troit,34
+tulle,34
+paule,34
+Leurs-,34
+Seville,34
+N0tUELLE,34
+vis-a-vis d'elle,34
+lez,34
+N0ELLE,34
+le230,34
+ELle,34
+I0RIELLE,34
+Nulle,34
+telegruphie,34
+poele,34
+N0eLLE,34
+Michelet,34
+allegee,34
+N0QUELLE,34
+meles,34
+"N0ELLE E9PRANCB
+Elle",34
+velle,34
+Courbe,35
+Tournon,35
+Pour-,35
+Touraine,35
+tournon,35
+tourmentait170,35
+",- Nou",35
+A38,36
+A335,36
+A3,36
+A30,36
+Les20,37
+lesarbres,37
+Alsace,37
+Sales,37
+Naples,37
+Bengale,37
+Versailles,37
+Saint-Cloud,38
+du Louvre,38
+Louvre,38
+gne,39
+Espagne,39
+A6,39
+Allemagne,39
+EsPAGNE,39
+l'Espagne,39
+-  Maintenant,40
+mademoiselle de Fontenay,40
+tenay,40
+fontenay,40
+"ESPRANG
+Madame de Fontenay",40
+sillonnaient282,40
+Fontenay,40
+Etonnante,40
+FOntenay,40
+mer d'Henri,41
+mer d'Aow,41
+Aow,41
+feuillage du Luxembourg,42
+Wurtemberg,42
+Boheme,42
+Luxembourg,42
+Egypte,43
+volupt,43
+Gypte,43
+Fabien,44
+Tabieh Mauri,44
+treizieme annee,44
+rue de l'Ancienne-Pomedie,44
+Eugene Marsan,44
+Asie Mineure  Rien,44
+Vienne,44
+Asie Mineure,44
+Voyez,45
+nobiliaire.6,45
+oeiL,45
+soleil,45
+N0UYEILILE,45
+Lucile,45
+S,46
+II,46
 "II
 I
-LA",8,
-II,8,
-College de France,9,
-NOUVELLE FRANCE,9,
-"NOUVELLE TENdANCE
-- Moi",9,
-NOUVELLE FRANCE O1,9,
-NOUVELLE E8FRANCE,9,
-N0VELLE FRANCE,9,
-tournon,10,
-Tournon,10,
-Touraine,10,
-Courbe,10,
-",- Nou",10,
-tourmentait170,10,
-Pour-,10,
-tete,11,
-Compte d'une Societe,11,
-tete college,11,
-htel,11,
-tetu,11,
-Terme,11,
-Etat,11,
-bete,11,
-Quittez,11,
-cruaut,12,
-au-,12,
-beaut,12,
-chteau,12,
-UN,13,
-lune,13,
-bruni,13,
-reuni,13,
-Lhiver,14,
-e1SeS,14,
-Serves,14,
-verveine acidul,14,
-perse,14,
-posees,14,
-manche,15,
-Marsan,15,
-lche,15,
-Manuscrits,15,
-la manche,15,
-A07,16,
-amiti6,16,
-"rue Jean-
-Bart",16,
-"rue madame
-Fortier",16,
-"E
-S",16,
-port6,16,
-v6nerable,17,
-Mont-Valerie,17,
-lErie,17,
-colere,17,
-y-,17,
-cherie,17,
-frileux,17,
-",,",17,
-Pierre,17,
-Noel,18,
-N0NoUVELLE,18,
-NoUvILLB,18,
-I.A NOUvELLE,18,
-NoUVELLE,18,
-"T
-L
-LA N0NOUVELLE",18,
-LA NO0VELLE,18,
-LA N0NOUVEL,18,
-NO0VELLE,18,
-N0UYELLE ESPERANCE 11,19,
-N0VEILL E8RANCE,19,
-"N0UVELLE EsPRANCE
-Son existence reprenait",19,
-I0RIELLE ESPfEnRANCE,19,
-N0UVELLE EsPERANCE,19,
-N0UYELLE ESPERANCE,19,
-N0ivILLE ESPERANCE,19,
-NOYELLE ESEnRANCB,19,
-N0UYELLE EsPRANCE 57,19,
-LA NoUVELLE ESPERANCIE,19,
-N0UVELLE ESPiRANCE 87,19,
-N0tUTELLE EsSPEnRANCE,19,
-N0NOUVELLE ESPERANCE,19,
-N0UVELLlL ESPERANCB,19,
-LA NOUvELLE ESPERANCE 2871,19,
-LA N0NOUVELLE ESPERANCE,19,
-N0ELLE EsPERANCE,19,
-N0UVELLE ESPfR ANCE,19,
-lA NOUVELLE ESPERANCE 8B5,19,
-N0UYELLE ESPERANCB,19,
-H,19,
-forceLA N0OUBLI ESPERANCE 79,19,
-Espagne,20,
-EsPAGNE,20,
-J',20,
-gne,20,
-l'Espagne,20,
-Allemagne,20,
-Suisse,21,
-massif de myosotis,21,
-Assise,21,
-Laisse,21,
-auSsi,21,
-Passe,21,
-fontenay,22,
-sillonnaient282,22,
-FOntenay,22,
-tenay,22,
-Etonnante,22,
-mademoiselle de Fontenay,22,
--  Maintenant,22,
-"ESPRANG
-Madame de Fontenay",22,
-Fontenay,22,
-L---,23,
-.--.310,23,
-G-.--,23,
-Sois,24,
-Marseillaise,24,
-Oise,24,
-Is,24,
-Bois,24,
-oisivet,24,
-l'Oise,24,
-Teloise,24,
-oi,24,
-soleil,25,
-Voyez,25,
-N0UYEILILE,25,
-oeiL,25,
-nobiliaire.6,25,
-Lucile,25,
-paules des cannes,26,
-jardin des Vosges,26,
-Indes,26,
-Vosges,26,
-sondepart,27,
-Paris,27,
-pAris,27,
-attrist6e,27,
-Parme,27,
-Bovary,27,
-Partez,27,
-A Paris,27,
-"cri,-",27,
-regal,28,
-precis,28,
-apre,28,
-a7,28,
-reprenez-la,28,
-Apre,28,
-Asie Mineure,29,
-Tabieh Mauri,29,
-treizieme annee,29,
-Eugene Marsan,29,
-Asie Mineure  Rien,29,
-Vienne,29,
-Fabien,29,
-rue de l'Ancienne-Pomedie,29,
-I,30,
-soire,31,
-Subie,31,
-piece,31,
-Soie,31,
-savoie,31,
-etais,32,
-C'6tait,32,
-Jamais,32,
-Joubliais,32,
-maine,32,
-attirAit,32,
-aimais,32,
-- Nais,32,
-clair6,32,
-A6,32,
-A8,33,
-A Henri,34,
-ESPfiRANCL,34,
-ESPIiRANCE,34,
-z.,34,
-ESPERANCB 87,34,
-BSPfnRANC,34,
-ESPEnRANCE,34,
-ESPEnANCB,34,
-N0JUILLET ESPfEnRANCE,34,
-lagonie,35,
-wagon,35,
-Wagon,35,
-N0PUBLIE,36,
-ecoliers,36,
-Anatolie,36,
-LI,36,
-Italie,36,
-Clichy,36,
-Berlin,36,
-lItalie,36,
-d'Italie,36,
-religieuses.7,37,
-mediocre,37,
-Curieuse,37,
-creuse,37,
-v0US,37,
-reponse,37,
-Nb6us,37,
-A9,38,
-1-,38,
-A92,38,
-Saint-Cloud,39,
-du Louvre,39,
-S,39,
-Louvre,39,
-N0UVBLLB,40,
-N0VELLE,40,
-N0VELL,40,
-N0UVELLE,40,
-N0UYELLE,40,
-M0UVELLE,40,
-N0,40,
-etincelnt elLA N0UVELLE,40,
-vecu,41,
-G:;avan,41,
-cIT',41,
-avaitvecu,41,
-Corinthe,42,
-colombes,42,
-Comment,42,
-comdienne,42,
-sentimentale,42,
-gauchement,42,
-Dominique,43,
-Quelquefois,43,
-Quelque,43,
-Paques,43,
-Cordoue,43,
-Son,44,
-crmonie,44,
-Somone,44,
-Mossoul,44,
-du morne,44,
-ERRANCE,45,
-La France,45,
-souffrait',45,
-iran,45,
-Nancy,45,
-grace,45,
-ANCI,45,
-france,45,
-franche,45,
-loranger,45,
-de France,45,
-Versailles,46,
-Alsace,46,
-Les20,46,
-Ia2,46,
-Sales,46,
-lesarbres,46,
-Bengale,46,
-Naples,46,
-Geneve,47,
-num0ns,47,
-Agrigente,47,
-Gens,47,
-deUrope,48,
-- D6cide,48,
-vde,48,
-"chambre
-deshabituee",48,
-decidee,48,
-de Saxe,48,
-deput,48,
-feuillage du Luxembourg,49,
-Boheme,49,
-Wurtemberg,49,
-Luxembourg,49,
-Jr0me,50,
-Je0me,50,
-h Ier0me,50,
-Ier0me,50,
-R0me,50,
-Il0me,50,
-J6r0me,50,
-caf,51,
-ca,51,
-accabl6e,51,
-cahors,51,
-troublejusqu',52,
-ar-,52,
-gardon,52,
-barcarolle,52,
-garou,52,
-Rouen,52,
-Hollande,53,
-N,53,
-ceLA,53,
-Anglais,53,
-A1,53,
-cela',53,
-T3,53,
-elan,53,
-Lausanne,53,
-Anzin,53,
-bonte,54,
-extreme,54,
-- Montez,54,
-Singulierement,54,
-retrouveront,54,
-Amont,54,
-Moindre,54,
-Remonter,54,
-A,55,
-mer d'Henri,55,
-mer d'Aow,55,
-Aow,55,
-Rome,56,
-Jerome,56,
-Tombe,56,
-Tyrol,56,
-rome,56,
+LA",46
+"II
+I",46
+"II
+H
+I",46
+Nb6us,47
+mediocre,47
+reponse,47
+Curieuse,47
+v0US,47
+religieuses.7,47
+creuse,47
+Agrigente,48
+Geneve,48
+num0ns,48
+Gens,48
+Paques,49
+Dominique,49
+Quelque,49
+Quelquefois,49
+Cordoue,49
+troublejusqu',50
+barcarolle,50
+Rouen,50
+garou,50
+gardon,50
+Il0me,51
+Jr0me,51
+Je0me,51
+J6r0me,51
+A,51
+Ier0me,51
+R0me,51
+h Ier0me,51
+ESPERANCB 87,52
+BSPfnRANC,52
+N0JUILLET ESPfEnRANCE,52
+Cest,52
+ESPfiRANCL,52
+ESPIiRANCE,52
+A Henri,52
+ESPEnANCB,52
+ESPEnRANCE,52
+A8,53
+A55,53
+Rozel,54
+rome,54
+Jerome,54
+Tombe,54
+Rome,54
+Tyrol,54
+e1SeS,55
+posees,55
+verveine acidul,55
+Lhiver,55
+perse,55
+Serves,55
+"la
+Seine bleue",56
+Dauphine,56
+A chemine,56
+Obstine,56
+seit,56
+inegal,56
+Eiyse,56
+la Seine,56
+chine,56
+Seine,56
+de France,57
+loranger,57
+iran,57
+La France,57
+grace,57
+souffrait',57
+ERRANCE,57
+france,57
