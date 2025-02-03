@@ -1,10 +1,12 @@
 import json
+import warnings
 from pathlib import Path
 from typing import Generator
 from concurrent.futures import ThreadPoolExecutor
 
 import numpy as np
 from tqdm.auto import tqdm
+import pandas as pd
 
 from nerMin import nerMin
 from errors import SmolBoi, BigBoi
@@ -93,6 +95,8 @@ def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
         dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
         dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
 
+        dpc_to_friendly_csv(dpc, path.parent / f"{path.stem}_{name}_df_points_for_corr_friendly.csv")
+
 def do_1_text_constructor(resume:bool=True):
     def do_1_text(path: Path, lang:str='fr') -> None:
         error_file = path.parent / f"{path.stem}_error.txt"
@@ -128,15 +132,55 @@ def do_1_text_constructor(resume:bool=True):
             dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
             dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
             dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
+
+            dpc_to_friendly_csv(dpc, path.parent / f"{path.stem}_{name}_df_points_for_corr_friendly.csv")
     return do_1_text
 
+def dpc_to_friendly_csv(dpc: pd.DataFrame, path: Path) -> None:
+    dpc = dpc.groupby("cluster")
+
+    max_cluster = max(dpc.groups.keys())
+    max_len = max(len(group) for group in dpc.groups.values())
+
+    # with path.open("w", encoding="utf-8") as f:
+    #     f.write("cluster,")
+    #     for i in range(max_len):
+    #         f.write(f"elem_{i},")
+    #     f.write("\n")
+    #
+    #     for cluster, group in dpc:
+    #         f.write(f"{cluster},")
+    #         for i in range(max_len):
+    #             try:
+    #                 f.write(f"{group.iloc[i]['text']},")
+    #             except IndexError:
+    #                 f.write(",")
+    #         f.write("\n")
+
+    friendly_df = []
+    for cluster, group in dpc:
+        friendly_df.append(
+            {
+                "cluster": cluster,
+                **{f"elem_{i}": group.iloc[i]["text"] if i < len(group) else None for i in range(max_len)}
+            }
+        )
+
+    friendly_df = pd.DataFrame(friendly_df)
+    friendly_df.to_csv(path, index=False)
+
+
 def main(path: Path, lang:str='fr', resume:bool=True) -> None:
+    warnings.simplefilter("once")
+    print("Caution: The warnings will only be displayed once (too many warnings otherwise)")
     if path.is_dir():
         files = list(recursive_find_docs(path))
         # do_1_text = do_1_text_constructor(resume)
         # with ThreadPoolExecutor(4) as executor:
         #     list(tqdm(executor.map(do_1_text, files), total=len(files)))
-        for file in tqdm(files):
+        pbar = tqdm(files)
+        for file in pbar:
+            pbar.set_postfix(file=file)
             do_1_text(file, lang, resume)
 
     elif path.is_file():

@@ -74,7 +74,7 @@ def nerMin(
             for ent in doc.ents
             if ent.label_ in {
                 'LOC',
-                # 'GPE'
+                'GPE',
             }
         }
     except ValueError as e:
