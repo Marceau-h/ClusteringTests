@@ -1,45 +1,231 @@
-{"text":"ICIIAL AnsTONG","cluster":0.0,"cluster_corrected":""}
-{"text":"MIICIIAEL ARMISTROyG.","cluster":0.0,"cluster_corrected":""}
-{"text":"MilIford Park","cluster":0.0,"cluster_corrected":""}
-{"text":"ICIIAL","cluster":0.0,"cluster_corrected":""}
-{"text":"cHAPTER XXXIII","cluster":1.0,"cluster_corrected":""}
-{"text":"YIII","cluster":1.0,"cluster_corrected":""}
-{"text":"Marth","cluster":2.0,"cluster_corrected":""}
-{"text":"earth","cluster":2.0,"cluster_corrected":""}
-{"text":"the bDeep Valley","cluster":3.0,"cluster_corrected":""}
-{"text":"the Deep Valley Mill","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley Mill","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep-Valley","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley MiIl","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley\nMill","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley MIill","cluster":3.0,"cluster_corrected":""}
-{"text":"the Deep Valley","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valle","cluster":3.0,"cluster_corrected":""}
-{"text":"Deep Valley MI1","cluster":3.0,"cluster_corrected":""}
-{"text":"Derbsyshiroe-Mlichael","cluster":4.0,"cluster_corrected":""}
-{"text":"Derbyshire","cluster":4.0,"cluster_corrected":""}
-{"text":"Sykeses","cluster":5.0,"cluster_corrected":""}
-{"text":"Drakes","cluster":6.0,"cluster_corrected":""}
-{"text":"Domenichino","cluster":7.0,"cluster_corrected":""}
-{"text":"Sevre china","cluster":7.0,"cluster_corrected":""}
-{"text":"North-country","cluster":8.0,"cluster_corrected":""}
-{"text":"North riton","cluster":8.0,"cluster_corrected":""}
-{"text":"North bBriton","cluster":8.0,"cluster_corrected":""}
-{"text":"Prescot","cluster":9.0,"cluster_corrected":""}
-{"text":"Venus","cluster":9.0,"cluster_corrected":""}
-{"text":"ADVENTIRES","cluster":9.0,"cluster_corrected":""}
-{"text":"XVII","cluster":10.0,"cluster_corrected":""}
-{"text":"XXVII","cluster":10.0,"cluster_corrected":""}
-{"text":"the Emerald Isle","cluster":10.0,"cluster_corrected":""}
-{"text":"WiIl","cluster":11.0,"cluster_corrected":""}
-{"text":"Iill walk","cluster":11.0,"cluster_corrected":""}
-{"text":"ANGEROU","cluster":null,"cluster_corrected":""}
-{"text":"Gol","cluster":null,"cluster_corrected":""}
-{"text":"Highland","cluster":null,"cluster_corrected":""}
-{"text":"overlooker1","cluster":null,"cluster_corrected":""}
-{"text":"Europe","cluster":null,"cluster_corrected":""}
-{"text":"ar moon","cluster":null,"cluster_corrected":""}
-{"text":"factoriesl","cluster":null,"cluster_corrected":""}
+{"text":"havre","cluster":0.0,"cluster_corrected":""}
+{"text":"Sevre china","cluster":0.0,"cluster_corrected":""}
+{"text":"havc","cluster":0.0,"cluster_corrected":""}
+{"text":"Wellington","cluster":1.0,"cluster_corrected":""}
+{"text":"Dowling","cluster":1.0,"cluster_corrected":""}
+{"text":"DIscnELLE","cluster":1.0,"cluster_corrected":""}
+{"text":"proccediag","cluster":2.0,"cluster_corrected":""}
+{"text":"pityiag","cluster":2.0,"cluster_corrected":""}
+{"text":"morocco","cluster":2.0,"cluster_corrected":""}
+{"text":"Mcssr","cluster":2.0,"cluster_corrected":""}
+{"text":"HIowever","cluster":3.0,"cluster_corrected":""}
+{"text":"Neverthelcss","cluster":3.0,"cluster_corrected":""}
+{"text":"HIowsomever","cluster":3.0,"cluster_corrected":""}
+{"text":"Mnrtha","cluster":4.0,"cluster_corrected":""}
+{"text":"Nlartha","cluster":4.0,"cluster_corrected":""}
+{"text":"earth","cluster":4.0,"cluster_corrected":""}
+{"text":"Marth","cluster":4.0,"cluster_corrected":""}
+{"text":"withont","cluster":5.0,"cluster_corrected":""}
+{"text":"Thoe","cluster":5.0,"cluster_corrected":""}
+{"text":"withou","cluster":5.0,"cluster_corrected":""}
+{"text":"Deep Valley","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valle","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep-Valley","cluster":6.0,"cluster_corrected":""}
+{"text":"ALLY","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valley MIill","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valley MiIl","cluster":6.0,"cluster_corrected":""}
+{"text":"the Deep Valley","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valley\nMill","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valley MI1","cluster":6.0,"cluster_corrected":""}
+{"text":"the Deep Valley Mill","cluster":6.0,"cluster_corrected":""}
+{"text":"the bDeep Valley","cluster":6.0,"cluster_corrected":""}
+{"text":"Deep Valley Mill","cluster":6.0,"cluster_corrected":""}
+{"text":"ste","cluster":7.0,"cluster_corrected":""}
+{"text":"Kidderminster","cluster":7.0,"cluster_corrected":""}
+{"text":"XVII","cluster":8.0,"cluster_corrected":""}
+{"text":"XXVII","cluster":8.0,"cluster_corrected":""}
+{"text":"North-country","cluster":9.0,"cluster_corrected":""}
+{"text":"North riton","cluster":9.0,"cluster_corrected":""}
+{"text":"North bBriton","cluster":9.0,"cluster_corrected":""}
+{"text":"Itold","cluster":9.0,"cluster_corrected":""}
+{"text":"Scotland","cluster":10.0,"cluster_corrected":""}
+{"text":"Sicotland","cluster":10.0,"cluster_corrected":""}
+{"text":"Scotch","cluster":10.0,"cluster_corrected":""}
+{"text":"Prescot","cluster":10.0,"cluster_corrected":""}
+{"text":"Germany","cluster":11.0,"cluster_corrected":""}
+{"text":"ANGEROU","cluster":11.0,"cluster_corrected":""}
+{"text":"Drakes","cluster":12.0,"cluster_corrected":""}
+{"text":"Westmnorland","cluster":13.0,"cluster_corrected":""}
+{"text":"Highland","cluster":13.0,"cluster_corrected":""}
+{"text":"Ilighlandloch","cluster":13.0,"cluster_corrected":""}
+{"text":"Iill walk","cluster":14.0,"cluster_corrected":""}
+{"text":"WiIl","cluster":14.0,"cluster_corrected":""}
+{"text":"Ill","cluster":14.0,"cluster_corrected":""}
+{"text":"youl1''","cluster":15.0,"cluster_corrected":""}
+{"text":"U OULTAIIG","cluster":15.0,"cluster_corrected":""}
+{"text":"youl1","cluster":15.0,"cluster_corrected":""}
+{"text":"Providence","cluster":16.0,"cluster_corrected":""}
+{"text":"France","cluster":16.0,"cluster_corrected":""}
+{"text":"denr","cluster":16.0,"cluster_corrected":""}
+{"text":"whiceh","cluster":17.0,"cluster_corrected":""}
+{"text":"wshiceh","cluster":17.0,"cluster_corrected":""}
+{"text":"Nice","cluster":17.0,"cluster_corrected":""}
+{"text":"Prentice","cluster":17.0,"cluster_corrected":""}
+{"text":"beatty","cluster":18.0,"cluster_corrected":""}
+{"text":"Matthei","cluster":18.0,"cluster_corrected":""}
+{"text":"Theao","cluster":18.0,"cluster_corrected":""}
+{"text":"thein","cluster":18.0,"cluster_corrected":""}
+{"text":"Spain","cluster":19.0,"cluster_corrected":""}
+{"text":"woodbine","cluster":19.0,"cluster_corrected":""}
+{"text":"pinery","cluster":19.0,"cluster_corrected":""}
+{"text":"maine","cluster":19.0,"cluster_corrected":""}
+{"text":"Great Britain","cluster":19.0,"cluster_corrected":""}
+{"text":"lalies","cluster":20.0,"cluster_corrected":""}
+{"text":"forI","cluster":20.0,"cluster_corrected":""}
+{"text":"factoriesl","cluster":20.0,"cluster_corrected":""}
+{"text":"Oxford","cluster":21.0,"cluster_corrected":""}
+{"text":"Bradford","cluster":21.0,"cluster_corrected":""}
+{"text":"California","cluster":21.0,"cluster_corrected":""}
+{"text":"MIilford","cluster":21.0,"cluster_corrected":""}
+{"text":"worda","cluster":21.0,"cluster_corrected":""}
+{"text":"G.C.IH","cluster":22.0,"cluster_corrected":""}
+{"text":"G.C.B.","cluster":22.0,"cluster_corrected":""}
+{"text":"K.C.","cluster":22.0,"cluster_corrected":""}
+{"text":"Gahberly 2''","cluster":23.0,"cluster_corrected":""}
+{"text":"Gabherly","cluster":23.0,"cluster_corrected":""}
+{"text":"overlooker1","cluster":23.0,"cluster_corrected":""}
+{"text":"Vhere","cluster":23.0,"cluster_corrected":""}
+{"text":"Turkey","cluster":24.0,"cluster_corrected":""}
+{"text":"Turpin","cluster":24.0,"cluster_corrected":""}
+{"text":"thcm.","cluster":25.0,"cluster_corrected":""}
+{"text":"thcm","cluster":25.0,"cluster_corrected":""}
+{"text":"MilIford Park","cluster":26.0,"cluster_corrected":""}
+{"text":"Milford Park","cluster":26.0,"cluster_corrected":""}
+{"text":"MIilford Park","cluster":26.0,"cluster_corrected":""}
+{"text":"Milford","cluster":26.0,"cluster_corrected":""}
+{"text":"laly","cluster":27.0,"cluster_corrected":""}
+{"text":"Italy","cluster":27.0,"cluster_corrected":""}
+{"text":"Laly","cluster":27.0,"cluster_corrected":""}
+{"text":"realy","cluster":27.0,"cluster_corrected":""}
+{"text":"Venus","cluster":28.0,"cluster_corrected":""}
+{"text":"ADVENTIRES","cluster":28.0,"cluster_corrected":""}
+{"text":"AVENTURES5","cluster":28.0,"cluster_corrected":""}
+{"text":"ANbD ADVETURES","cluster":28.0,"cluster_corrected":""}
+{"text":"Ilash","cluster":29.0,"cluster_corrected":""}
+{"text":"las","cluster":29.0,"cluster_corrected":""}
+{"text":"MIichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Mlichael","cluster":30.0,"cluster_corrected":""}
+{"text":"MIICHAEL","cluster":30.0,"cluster_corrected":""}
+{"text":"Derbsyshiroe-Mlichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Miehael","cluster":30.0,"cluster_corrected":""}
+{"text":"Michaa1","cluster":30.0,"cluster_corrected":""}
+{"text":"hMichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Miichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Mtichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Nichael","cluster":30.0,"cluster_corrected":""}
+{"text":"Michaecl","cluster":30.0,"cluster_corrected":""}
+{"text":"Nlichael","cluster":30.0,"cluster_corrected":""}
+{"text":"YIII","cluster":31.0,"cluster_corrected":""}
+{"text":"cHAPTER XXXIII","cluster":31.0,"cluster_corrected":""}
+{"text":"Charlotte","cluster":31.0,"cluster_corrected":""}
+{"text":"Sykeses","cluster":32.0,"cluster_corrected":""}
+{"text":"Mss Brotherton","cluster":33.0,"cluster_corrected":""}
+{"text":"nROt","cluster":33.0,"cluster_corrected":""}
+{"text":"Brotherton","cluster":33.0,"cluster_corrected":""}
+{"text":"BnoruERTo","cluster":33.0,"cluster_corrected":""}
+{"text":"lome","cluster":34.0,"cluster_corrected":""}
+{"text":"Rome","cluster":34.0,"cluster_corrected":""}
+{"text":"Domenichino","cluster":34.0,"cluster_corrected":""}
+{"text":"Foxglove","cluster":35.0,"cluster_corrected":""}
+{"text":"ATlGUIYG","cluster":35.0,"cluster_corrected":""}
+{"text":"thatlittle grove","cluster":35.0,"cluster_corrected":""}
+{"text":"consequencc","cluster":36.0,"cluster_corrected":""}
+{"text":"Golconda","cluster":36.0,"cluster_corrected":""}
+{"text":"Gol","cluster":36.0,"cluster_corrected":""}
+{"text":"etctera","cluster":37.0,"cluster_corrected":""}
+{"text":"etctera.","cluster":37.0,"cluster_corrected":""}
+{"text":"tnan","cluster":38.0,"cluster_corrected":""}
+{"text":"humnan","cluster":38.0,"cluster_corrected":""}
+{"text":"anl","cluster":39.0,"cluster_corrected":""}
+{"text":"Englanl","cluster":39.0,"cluster_corrected":""}
+{"text":"England","cluster":39.0,"cluster_corrected":""}
+{"text":"NIrs","cluster":40.0,"cluster_corrected":""}
+{"text":"MIrs","cluster":40.0,"cluster_corrected":""}
+{"text":"Mirs","cluster":40.0,"cluster_corrected":""}
+{"text":"IIerald","cluster":41.0,"cluster_corrected":""}
+{"text":"the Emerald Isle","cluster":41.0,"cluster_corrected":""}
+{"text":"aleng","cluster":42.0,"cluster_corrected":""}
+{"text":"millenr","cluster":42.0,"cluster_corrected":""}
+{"text":"Millord","cluster":42.0,"cluster_corrected":""}
+{"text":"IICiAE","cluster":43.0,"cluster_corrected":""}
+{"text":"ICIIAL AnsTONG","cluster":43.0,"cluster_corrected":""}
+{"text":"Royal","cluster":43.0,"cluster_corrected":""}
+{"text":"ICIIAL","cluster":43.0,"cluster_corrected":""}
+{"text":"MIICIIAEL ARMISTROyG.","cluster":43.0,"cluster_corrected":""}
+{"text":"Tus","cluster":44.0,"cluster_corrected":""}
+{"text":"Austria","cluster":44.0,"cluster_corrected":""}
+{"text":"Augustusis","cluster":44.0,"cluster_corrected":""}
+{"text":"Mlacnab","cluster":45.0,"cluster_corrected":""}
+{"text":"Mlary","cluster":45.0,"cluster_corrected":""}
+{"text":"Dearest Mary","cluster":46.0,"cluster_corrected":""}
+{"text":"St. Mary's","cluster":46.0,"cluster_corrected":""}
+{"text":"LIRE","cluster":47.0,"cluster_corrected":""}
+{"text":"Laueaslire","cluster":47.0,"cluster_corrected":""}
+{"text":"yong","cluster":48.0,"cluster_corrected":""}
+{"text":"arns","cluster":48.0,"cluster_corrected":""}
+{"text":"Arntstrong","cluster":48.0,"cluster_corrected":""}
+{"text":"Derbyshire","cluster":49.0,"cluster_corrected":""}
+{"text":"Lancashire","cluster":49.0,"cluster_corrected":""}
+{"text":"Yorkshire","cluster":49.0,"cluster_corrected":""}
+{"text":"WARREN","cluster":50.0,"cluster_corrected":""}
+{"text":"Warwick","cluster":50.0,"cluster_corrected":""}
+{"text":"Edwvard","cluster":50.0,"cluster_corrected":""}
+{"text":"Elward","cluster":50.0,"cluster_corrected":""}
+{"text":"Hoxley","cluster":51.0,"cluster_corrected":""}
+{"text":"Crockley","cluster":51.0,"cluster_corrected":""}
+{"text":"London","cluster":52.0,"cluster_corrected":""}
+{"text":"Madeira","cluster":52.0,"cluster_corrected":""}
+{"text":"ADETDRE8","cluster":52.0,"cluster_corrected":""}
+{"text":"London Madeira","cluster":52.0,"cluster_corrected":""}
+{"text":"Findens","cluster":53.0,"cluster_corrected":""}
+{"text":"Bcll","cluster":53.0,"cluster_corrected":""}
+{"text":"Bclinda","cluster":53.0,"cluster_corrected":""}
+{"text":"ITig Africa","cluster":null,"cluster_corrected":""}
+{"text":"Tn","cluster":null,"cluster_corrected":""}
+{"text":"fcw","cluster":null,"cluster_corrected":""}
 {"text":"Iad","cluster":null,"cluster_corrected":""}
-{"text":"Mirs","cluster":null,"cluster_corrected":""}
+{"text":"LA","cluster":null,"cluster_corrected":""}
+{"text":"Lodge","cluster":null,"cluster_corrected":""}
+{"text":"St","cluster":null,"cluster_corrected":""}
+{"text":"Elizet","cluster":null,"cluster_corrected":""}
+{"text":"eHe","cluster":null,"cluster_corrected":""}
+{"text":"yet2","cluster":null,"cluster_corrected":""}
+{"text":"mny","cluster":null,"cluster_corrected":""}
+{"text":"it1","cluster":null,"cluster_corrected":""}
+{"text":"La","cluster":null,"cluster_corrected":""}
+{"text":"up.to","cluster":null,"cluster_corrected":""}
+{"text":"ia","cluster":null,"cluster_corrected":""}
+{"text":"nc","cluster":null,"cluster_corrected":""}
+{"text":"eOh","cluster":null,"cluster_corrected":""}
+{"text":"inn","cluster":null,"cluster_corrected":""}
+{"text":"Mac-","cluster":null,"cluster_corrected":""}
+{"text":"pece","cluster":null,"cluster_corrected":""}
+{"text":"Ykou","cluster":null,"cluster_corrected":""}
+{"text":"TR0IL01","cluster":null,"cluster_corrected":""}
+{"text":"ny","cluster":null,"cluster_corrected":""}
+{"text":"Russia","cluster":null,"cluster_corrected":""}
+{"text":"MR","cluster":null,"cluster_corrected":""}
+{"text":"Oh l","cluster":null,"cluster_corrected":""}
+{"text":"Ore.","cluster":null,"cluster_corrected":""}
+{"text":"al","cluster":null,"cluster_corrected":""}
+{"text":"howaeer","cluster":null,"cluster_corrected":""}
+{"text":"rheu","cluster":null,"cluster_corrected":""}
+{"text":"Europe","cluster":null,"cluster_corrected":""}
+{"text":"Mt","cluster":null,"cluster_corrected":""}
+{"text":"Cologne","cluster":null,"cluster_corrected":""}
+{"text":"liule","cluster":null,"cluster_corrected":""}
+{"text":"ELECI","cluster":null,"cluster_corrected":""}
+{"text":"Tremlettt","cluster":null,"cluster_corrected":""}
+{"text":"Papalny","cluster":null,"cluster_corrected":""}
+{"text":"BHAM","cluster":null,"cluster_corrected":""}
+{"text":"WY","cluster":null,"cluster_corrected":""}
+{"text":"Lean","cluster":null,"cluster_corrected":""}
+{"text":"lI","cluster":null,"cluster_corrected":""}
+{"text":"K.L.S.","cluster":null,"cluster_corrected":""}
+{"text":"IHad","cluster":null,"cluster_corrected":""}
+{"text":"migbt","cluster":null,"cluster_corrected":""}
+{"text":"ar moon","cluster":null,"cluster_corrected":""}
+{"text":"DIURI","cluster":null,"cluster_corrected":""}
+{"text":"tn","cluster":null,"cluster_corrected":""}
+{"text":"Becky","cluster":null,"cluster_corrected":""}
+{"text":"NoOT","cluster":null,"cluster_corrected":""}

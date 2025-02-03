@@ -1,125 +1,598 @@
-{"text":"the Green Avenue","cluster":0,"cluster_corrected":""}
-{"text":"the Latin Grammar","cluster":0,"cluster_corrected":""}
-{"text":"the Queen of She","cluster":0,"cluster_corrected":""}
-{"text":"Venus","cluster":0,"cluster_corrected":""}
-{"text":"Dearest Amelia","cluster":1,"cluster_corrected":""}
-{"text":"Dearest","cluster":1,"cluster_corrected":""}
-{"text":"Camelot","cluster":1,"cluster_corrected":""}
+{"text":"Dover","cluster":0,"cluster_corrected":""}
+{"text":"Lover","cluster":0,"cluster_corrected":""}
+{"text":"&.","cluster":0,"cluster_corrected":""}
+{"text":"Sovereigns","cluster":0,"cluster_corrected":""}
+{"text":"Talavera","cluster":0,"cluster_corrected":""}
+{"text":"Silvery","cluster":0,"cluster_corrected":""}
+{"text":"Liverpool","cluster":0,"cluster_corrected":""}
+{"text":"St. George\u2019s","cluster":1,"cluster_corrected":""}
+{"text":"Geography","cluster":1,"cluster_corrected":""}
+{"text":"St. George\u2019s Hospital","cluster":1,"cluster_corrected":""}
+{"text":"St.\nGeorge\u2019s","cluster":1,"cluster_corrected":""}
 {"text":"the Hyde Park","cluster":2,"cluster_corrected":""}
-{"text":"Hyde Park","cluster":2,"cluster_corrected":""}
 {"text":"Park","cluster":2,"cluster_corrected":""}
-{"text":"Rookery","cluster":3,"cluster_corrected":""}
-{"text":"Siberia","cluster":3,"cluster_corrected":""}
-{"text":"Stillbrook, Beck","cluster":3,"cluster_corrected":""}
-{"text":"West","cluster":4,"cluster_corrected":""}
-{"text":"Winchester","cluster":4,"cluster_corrected":""}
-{"text":"Cowes","cluster":4,"cluster_corrected":""}
-{"text":"Smallest","cluster":4,"cluster_corrected":""}
-{"text":"Desert","cluster":4,"cluster_corrected":""}
-{"text":"Clytemnestra","cluster":4,"cluster_corrected":""}
-{"text":"Neapolitan","cluster":5,"cluster_corrected":""}
-{"text":"po","cluster":5,"cluster_corrected":""}
-{"text":"Potentate","cluster":5,"cluster_corrected":""}
-{"text":"Port","cluster":5,"cluster_corrected":""}
-{"text":"Cape Town","cluster":6,"cluster_corrected":""}
-{"text":"Europe","cluster":6,"cluster_corrected":""}
-{"text":"Cape","cluster":6,"cluster_corrected":""}
-{"text":"CAPE","cluster":6,"cluster_corrected":""}
-{"text":"Africa","cluster":6,"cluster_corrected":""}
-{"text":"Calcutta","cluster":6,"cluster_corrected":""}
-{"text":"Ak","cluster":6,"cluster_corrected":""}
-{"text":"Nob","cluster":6,"cluster_corrected":""}
-{"text":"Peer","cluster":6,"cluster_corrected":""}
-{"text":"Curzon","cluster":7,"cluster_corrected":""}
-{"text":"Curzon Street","cluster":7,"cluster_corrected":""}
-{"text":"Madame Strumpff","cluster":7,"cluster_corrected":""}
-{"text":"Hart Street","cluster":7,"cluster_corrected":""}
-{"text":"Greek Street","cluster":7,"cluster_corrected":""}
-{"text":"Great Live\nStreet","cluster":7,"cluster_corrected":""}
-{"text":"West End Swell","cluster":8,"cluster_corrected":""}
-{"text":"the West Ladies","cluster":8,"cluster_corrected":""}
-{"text":"West End Hotels,\u2014nevertheless","cluster":8,"cluster_corrected":""}
+{"text":"Park\nLane","cluster":2,"cluster_corrected":""}
+{"text":"Bonaparty","cluster":2,"cluster_corrected":""}
+{"text":"Far","cluster":2,"cluster_corrected":""}
+{"text":"paragon","cluster":2,"cluster_corrected":""}
+{"text":"Turkey","cluster":2,"cluster_corrected":""}
+{"text":"Compare","cluster":2,"cluster_corrected":""}
+{"text":"Paris","cluster":2,"cluster_corrected":""}
+{"text":"Japan","cluster":2,"cluster_corrected":""}
+{"text":"St.James\u2019s Park","cluster":2,"cluster_corrected":""}
+{"text":"Hyde Park","cluster":2,"cluster_corrected":""}
+{"text":"Mrs","cluster":3,"cluster_corrected":""}
+{"text":"Fairs","cluster":3,"cluster_corrected":""}
+{"text":"MR","cluster":3,"cluster_corrected":""}
+{"text":"Abandon","cluster":4,"cluster_corrected":""}
+{"text":"London","cluster":4,"cluster_corrected":""}
+{"text":"london","cluster":4,"cluster_corrected":""}
+{"text":"Curzon","cluster":4,"cluster_corrected":""}
+{"text":"London City","cluster":4,"cluster_corrected":""}
+{"text":"Rawdon","cluster":4,"cluster_corrected":""}
+{"text":"Golconda","cluster":4,"cluster_corrected":""}
+{"text":"Corydon","cluster":4,"cluster_corrected":""}
+{"text":"Long Acre","cluster":4,"cluster_corrected":""}
+{"text":"Babylon","cluster":4,"cluster_corrected":""}
+{"text":"LONDON","cluster":4,"cluster_corrected":""}
+{"text":"Brandon","cluster":4,"cluster_corrected":""}
+{"text":"Richmond","cluster":4,"cluster_corrected":""}
+{"text":"Don Juan","cluster":4,"cluster_corrected":""}
+{"text":"Wimbledon","cluster":4,"cluster_corrected":""}
+{"text":"Londonderry","cluster":4,"cluster_corrected":""}
+{"text":"&c.","cluster":5,"cluster_corrected":""}
+{"text":"C.B.","cluster":5,"cluster_corrected":""}
+{"text":"golden auburn","cluster":6,"cluster_corrected":""}
+{"text":"Mudbury","cluster":6,"cluster_corrected":""}
+{"text":"Edinburgh","cluster":6,"cluster_corrected":""}
+{"text":"Highbury Barn","cluster":6,"cluster_corrected":""}
+{"text":"Macmurdo","cluster":6,"cluster_corrected":""}
+{"text":"Canterbury","cluster":6,"cluster_corrected":""}
+{"text":"York","cluster":7,"cluster_corrected":""}
+{"text":"Cork","cluster":7,"cluster_corrected":""}
+{"text":"New York","cluster":7,"cluster_corrected":""}
 {"text":"the West End","cluster":8,"cluster_corrected":""}
-{"text":"the Valley of Diamonds","cluster":8,"cluster_corrected":""}
-{"text":"West End","cluster":8,"cluster_corrected":""}
+{"text":"West End Hotels,\u2014nevertheless","cluster":8,"cluster_corrected":""}
 {"text":"the West Winds","cluster":8,"cluster_corrected":""}
-{"text":"the Straight Waistcoat","cluster":8,"cluster_corrected":""}
-{"text":"the Marquis of Stone\u2019s","cluster":9,"cluster_corrected":""}
-{"text":"the South Sea","cluster":9,"cluster_corrected":""}
-{"text":"the Magic Flute","cluster":9,"cluster_corrected":""}
-{"text":"the dark sea","cluster":9,"cluster_corrected":""}
-{"text":"the moon\naux","cluster":9,"cluster_corrected":""}
-{"text":"South-","cluster":9,"cluster_corrected":""}
-{"text":"the Black Hole","cluster":9,"cluster_corrected":""}
-{"text":"Red","cluster":10,"cluster_corrected":""}
-{"text":"Rector","cluster":10,"cluster_corrected":""}
-{"text":"Red Seas","cluster":10,"cluster_corrected":""}
-{"text":"Saint Jams","cluster":11,"cluster_corrected":""}
-{"text":"Saint Jean","cluster":11,"cluster_corrected":""}
-{"text":"Mount Saint John","cluster":11,"cluster_corrected":""}
-{"text":"MARS","cluster":12,"cluster_corrected":""}
-{"text":"Major","cluster":12,"cluster_corrected":""}
-{"text":"Demagogue","cluster":12,"cluster_corrected":""}
-{"text":"Highbury Barn","cluster":12,"cluster_corrected":""}
-{"text":"Glorvima","cluster":12,"cluster_corrected":""}
-{"text":"Mars","cluster":12,"cluster_corrected":""}
-{"text":"Corner","cluster":13,"cluster_corrected":""}
-{"text":"Horn","cluster":13,"cluster_corrected":""}
-{"text":"Soho","cluster":13,"cluster_corrected":""}
-{"text":"Inn of mornings","cluster":13,"cluster_corrected":""}
-{"text":"St. Pancras","cluster":14,"cluster_corrected":""}
-{"text":"City","cluster":14,"cluster_corrected":""}
-{"text":"St. Pitt\u2019s","cluster":14,"cluster_corrected":""}
-{"text":"St. Kitts","cluster":14,"cluster_corrected":""}
-{"text":"Jupiter","cluster":14,"cluster_corrected":""}
-{"text":"Swamp Town","cluster":15,"cluster_corrected":""}
-{"text":"Swamp Town\nGazette","cluster":15,"cluster_corrected":""}
-{"text":"Ladyship","cluster":16,"cluster_corrected":""}
-{"text":"nan","cluster":16,"cluster_corrected":""}
-{"text":"Old England","cluster":16,"cluster_corrected":""}
-{"text":"Shetland","cluster":16,"cluster_corrected":""}
-{"text":"the Cannibal Islands","cluster":16,"cluster_corrected":""}
-{"text":"the Atlantic Ocean","cluster":16,"cluster_corrected":""}
-{"text":"Coventry Island","cluster":16,"cluster_corrected":""}
-{"text":"Follows","cluster":17,"cluster_corrected":""}
-{"text":"Colony","cluster":17,"cluster_corrected":""}
-{"text":"Balcony","cluster":17,"cluster_corrected":""}
-{"text":"Gaunt-square","cluster":18,"cluster_corrected":""}
-{"text":"Boulogne","cluster":18,"cluster_corrected":""}
-{"text":"the County Dark","cluster":18,"cluster_corrected":""}
+{"text":"the West Ladies","cluster":8,"cluster_corrected":""}
+{"text":"West","cluster":8,"cluster_corrected":""}
+{"text":"West End Swell","cluster":8,"cluster_corrected":""}
+{"text":"West End","cluster":8,"cluster_corrected":""}
+{"text":"Great Gaunt Street","cluster":9,"cluster_corrected":""}
+{"text":"Great Gaunt","cluster":9,"cluster_corrected":""}
+{"text":"Gaunt","cluster":9,"cluster_corrected":""}
+{"text":"Gaunt-square","cluster":9,"cluster_corrected":""}
+{"text":"Great Gaunt-","cluster":9,"cluster_corrected":""}
+{"text":"New Gaunt","cluster":9,"cluster_corrected":""}
+{"text":"Great Britain","cluster":9,"cluster_corrected":""}
+{"text":"Athen","cluster":10,"cluster_corrected":""}
+{"text":"Blenheim","cluster":10,"cluster_corrected":""}
+{"text":"ha,\u2014there","cluster":10,"cluster_corrected":""}
+{"text":"Bethesda Place","cluster":10,"cluster_corrected":""}
+{"text":"Ghent","cluster":10,"cluster_corrected":""}
+{"text":"Athens","cluster":10,"cluster_corrected":""}
+{"text":"Carmarthenshire","cluster":10,"cluster_corrected":""}
+{"text":"Trumpet","cluster":11,"cluster_corrected":""}
+{"text":"Madame Strumpff","cluster":11,"cluster_corrected":""}
+{"text":"Pompeii","cluster":11,"cluster_corrected":""}
+{"text":"Truth","cluster":11,"cluster_corrected":""}
+{"text":"Pump","cluster":11,"cluster_corrected":""}
+{"text":"Swamp Town\nGazette","cluster":12,"cluster_corrected":""}
+{"text":"Swamptown","cluster":12,"cluster_corrected":""}
+{"text":"Swamp Town","cluster":12,"cluster_corrected":""}
+{"text":"Gazette","cluster":12,"cluster_corrected":""}
+{"text":"swan","cluster":12,"cluster_corrected":""}
+{"text":"Leipzig","cluster":13,"cluster_corrected":""}
+{"text":"Leicester","cluster":13,"cluster_corrected":""}
+{"text":"Winchester","cluster":13,"cluster_corrected":""}
+{"text":"Easter","cluster":13,"cluster_corrected":""}
+{"text":"Temple","cluster":13,"cluster_corrected":""}
+{"text":"Worcester","cluster":13,"cluster_corrected":""}
+{"text":"Canada","cluster":14,"cluster_corrected":""}
+{"text":"Cannes","cluster":14,"cluster_corrected":""}
+{"text":"Ofcaane","cluster":14,"cluster_corrected":""}
+{"text":"Lausanne","cluster":14,"cluster_corrected":""}
+{"text":"Flint","cluster":15,"cluster_corrected":""}
+{"text":"Point-","cluster":15,"cluster_corrected":""}
+{"text":"Saint Jean","cluster":15,"cluster_corrected":""}
+{"text":"Mount Saint John","cluster":15,"cluster_corrected":""}
+{"text":"Saint Helen","cluster":15,"cluster_corrected":""}
+{"text":"Brainton","cluster":15,"cluster_corrected":""}
+{"text":"Saint Martin\u2019s Lane","cluster":15,"cluster_corrected":""}
+{"text":"the Russian Order of Saint Nicholas","cluster":15,"cluster_corrected":""}
+{"text":"Spain","cluster":15,"cluster_corrected":""}
+{"text":"Saint Jams","cluster":15,"cluster_corrected":""}
+{"text":"Saint Kitts","cluster":15,"cluster_corrected":""}
+{"text":"Hall","cluster":16,"cluster_corrected":""}
+{"text":"Mall","cluster":16,"cluster_corrected":""}
+{"text":"Smallest","cluster":16,"cluster_corrected":""}
+{"text":"Ballinasloe","cluster":16,"cluster_corrected":""}
+{"text":"Talleyrand","cluster":16,"cluster_corrected":""}
+{"text":"Peerage","cluster":17,"cluster_corrected":""}
+{"text":"Peer","cluster":17,"cluster_corrected":""}
+{"text":"the Peerage of Ireland","cluster":17,"cluster_corrected":""}
+{"text":"Prague","cluster":17,"cluster_corrected":""}
+{"text":"Wrench","cluster":18,"cluster_corrected":""}
+{"text":"Florence","cluster":18,"cluster_corrected":""}
 {"text":"Montmorency","cluster":18,"cluster_corrected":""}
-{"text":"Mount\nSt. John","cluster":18,"cluster_corrected":""}
-{"text":"Mount","cluster":18,"cluster_corrected":""}
-{"text":"Mount St.","cluster":18,"cluster_corrected":""}
-{"text":"the Residence of Madame","cluster":19,"cluster_corrected":""}
-{"text":"White Hermitage","cluster":19,"cluster_corrected":""}
-{"text":"Regent","cluster":19,"cluster_corrected":""}
-{"text":"Continent","cluster":19,"cluster_corrected":""}
-{"text":"the Red Book","cluster":19,"cluster_corrected":""}
-{"text":"the Prince Regent","cluster":19,"cluster_corrected":""}
-{"text":"Magnificent","cluster":19,"cluster_corrected":""}
-{"text":"the Arabian Nights","cluster":20,"cluster_corrected":""}
-{"text":"the Niagara cataract","cluster":20,"cluster_corrected":""}
-{"text":"the New Road","cluster":20,"cluster_corrected":""}
-{"text":"the Dreams Roads","cluster":20,"cluster_corrected":""}
-{"text":"the Aurelius Garden","cluster":21,"cluster_corrected":""}
-{"text":"Kensington Gardens","cluster":21,"cluster_corrected":""}
-{"text":"New Gardens","cluster":21,"cluster_corrected":""}
-{"text":"Quadrant gardens","cluster":21,"cluster_corrected":""}
-{"text":"Boulevard de","cluster":21,"cluster_corrected":""}
-{"text":"Gardens","cluster":21,"cluster_corrected":""}
-{"text":"Butler","cluster":22,"cluster_corrected":""}
-{"text":"Nile","cluster":22,"cluster_corrected":""}
-{"text":"Pump","cluster":22,"cluster_corrected":""}
-{"text":"Temple","cluster":22,"cluster_corrected":""}
-{"text":"East","cluster":23,"cluster_corrected":""}
-{"text":"West India","cluster":23,"cluster_corrected":""}
-{"text":"Asia","cluster":23,"cluster_corrected":""}
-{"text":"East India","cluster":23,"cluster_corrected":""}
-{"text":"Sultan","cluster":24,"cluster_corrected":""}
-{"text":"Pillar Ago","cluster":24,"cluster_corrected":""}
-{"text":"Peninsula","cluster":24,"cluster_corrected":""}
-{"text":"Peninsular","cluster":24,"cluster_corrected":""}
-{"text":"Haydn","cluster":25,"cluster_corrected":""}
-{"text":"Brougham","cluster":25,"cluster_corrected":""}
-{"text":"Fulham","cluster":25,"cluster_corrected":""}
+{"text":"Frenchmen","cluster":18,"cluster_corrected":""}
+{"text":"Trenck","cluster":18,"cluster_corrected":""}
+{"text":"Nob","cluster":19,"cluster_corrected":""}
+{"text":"Notgeung","cluster":19,"cluster_corrected":""}
+{"text":"Noir","cluster":19,"cluster_corrected":""}
+{"text":"Coventry","cluster":20,"cluster_corrected":""}
+{"text":"Coventry Island","cluster":20,"cluster_corrected":""}
+{"text":"Coventry\nIsland","cluster":20,"cluster_corrected":""}
+{"text":"l\u2019aisle","cluster":20,"cluster_corrected":""}
+{"text":"the Cannibal Islands","cluster":20,"cluster_corrected":""}
+{"text":"Long Island","cluster":20,"cluster_corrected":""}
+{"text":"Schlippenschloppen","cluster":21,"cluster_corrected":""}
+{"text":"PP","cluster":21,"cluster_corrected":""}
+{"text":"Puppets","cluster":21,"cluster_corrected":""}
+{"text":"Batavier","cluster":22,"cluster_corrected":""}
+{"text":"Bayswater","cluster":22,"cluster_corrected":""}
+{"text":"Waterloo","cluster":22,"cluster_corrected":""}
+{"text":"Jupiter","cluster":22,"cluster_corrected":""}
+{"text":"Rookery","cluster":22,"cluster_corrected":""}
+{"text":"WATERLOO","cluster":22,"cluster_corrected":""}
+{"text":"Blooms-","cluster":22,"cluster_corrected":""}
+{"text":"WA","cluster":22,"cluster_corrected":""}
+{"text":"Lowood","cluster":23,"cluster_corrected":""}
+{"text":"Moscow","cluster":23,"cluster_corrected":""}
+{"text":"Cowes","cluster":23,"cluster_corrected":""}
+{"text":"OW","cluster":23,"cluster_corrected":""}
+{"text":"now*tYrant","cluster":23,"cluster_corrected":""}
+{"text":"Bowls","cluster":23,"cluster_corrected":""}
+{"text":"know-","cluster":23,"cluster_corrected":""}
+{"text":"Rowson","cluster":23,"cluster_corrected":""}
+{"text":"Leeds","cluster":24,"cluster_corrected":""}
+{"text":"Need","cluster":24,"cluster_corrected":""}
+{"text":"Threadneedle","cluster":24,"cluster_corrected":""}
+{"text":"Threadneedle Street","cluster":24,"cluster_corrected":""}
+{"text":"St. Pitt\u2019s","cluster":25,"cluster_corrected":""}
+{"text":"St. Kitts","cluster":25,"cluster_corrected":""}
+{"text":"St.","cluster":25,"cluster_corrected":""}
+{"text":"St. Mary\u2019s","cluster":25,"cluster_corrected":""}
+{"text":"St. Pancras","cluster":25,"cluster_corrected":""}
+{"text":"Thames St.","cluster":25,"cluster_corrected":""}
+{"text":"ST","cluster":25,"cluster_corrected":""}
+{"text":"St. Paul\u2019s","cluster":25,"cluster_corrected":""}
+{"text":"St. Petersburg","cluster":25,"cluster_corrected":""}
+{"text":"St. Helen","cluster":25,"cluster_corrected":""}
+{"text":"St. Just","cluster":25,"cluster_corrected":""}
+{"text":"the Prince of Wales\u2019s","cluster":26,"cluster_corrected":""}
+{"text":"the Prince of Wales","cluster":26,"cluster_corrected":""}
+{"text":"the Valley of Diamonds","cluster":26,"cluster_corrected":""}
+{"text":"the Queen of She","cluster":26,"cluster_corrected":""}
+{"text":"the Residence of Madame","cluster":26,"cluster_corrected":""}
+{"text":"Wales","cluster":26,"cluster_corrected":""}
+{"text":"the Marquis of Stone\u2019s","cluster":26,"cluster_corrected":""}
+{"text":"the Prince Regent","cluster":26,"cluster_corrected":""}
+{"text":"Joy","cluster":27,"cluster_corrected":""}
+{"text":"Joy.","cluster":27,"cluster_corrected":""}
+{"text":"Enjoy","cluster":27,"cluster_corrected":""}
+{"text":"Major","cluster":27,"cluster_corrected":""}
+{"text":"Colony","cluster":28,"cluster_corrected":""}
+{"text":"Glenmalony","cluster":28,"cluster_corrected":""}
+{"text":"Polonia","cluster":28,"cluster_corrected":""}
+{"text":"Cologne","cluster":28,"cluster_corrected":""}
+{"text":"archeologian","cluster":28,"cluster_corrected":""}
+{"text":"be\u2014.\u201d\u2014He","cluster":29,"cluster_corrected":""}
+{"text":"Elbe","cluster":29,"cluster_corrected":""}
+{"text":"Belgravia","cluster":29,"cluster_corrected":""}
+{"text":"Elba","cluster":29,"cluster_corrected":""}
+{"text":"Belgium","cluster":29,"cluster_corrected":""}
+{"text":"Boulevard de","cluster":30,"cluster_corrected":""}
+{"text":"Boulogne","cluster":30,"cluster_corrected":""}
+{"text":"Boulogue","cluster":30,"cluster_corrected":""}
+{"text":"Demagogue","cluster":30,"cluster_corrected":""}
+{"text":"Louis","cluster":30,"cluster_corrected":""}
+{"text":"St. John\u2019s","cluster":31,"cluster_corrected":""}
+{"text":"St. John\u2019s\nWood","cluster":31,"cluster_corrected":""}
+{"text":"Mount\nSt. John","cluster":31,"cluster_corrected":""}
+{"text":"Songs","cluster":32,"cluster_corrected":""}
+{"text":"Charing","cluster":32,"cluster_corrected":""}
+{"text":"Brings","cluster":32,"cluster_corrected":""}
+{"text":"Cambridge","cluster":32,"cluster_corrected":""}
+{"text":"Kingdom","cluster":32,"cluster_corrected":""}
+{"text":"Ringwood","cluster":32,"cluster_corrected":""}
+{"text":"Tinge","cluster":32,"cluster_corrected":""}
+{"text":"Being","cluster":32,"cluster_corrected":""}
+{"text":"blanc","cluster":33,"cluster_corrected":""}
+{"text":"LA","cluster":33,"cluster_corrected":""}
+{"text":"la","cluster":33,"cluster_corrected":""}
+{"text":"Ladyship","cluster":34,"cluster_corrected":""}
+{"text":"Tadyship","cluster":34,"cluster_corrected":""}
+{"text":"Viscount Hellborough","cluster":35,"cluster_corrected":""}
+{"text":"Mount St.","cluster":35,"cluster_corrected":""}
+{"text":"County","cluster":35,"cluster_corrected":""}
+{"text":"County Mildred","cluster":35,"cluster_corrected":""}
+{"text":"the County Dark","cluster":35,"cluster_corrected":""}
+{"text":"\u00a2found","cluster":35,"cluster_corrected":""}
+{"text":"Mount","cluster":35,"cluster_corrected":""}
+{"text":"Buckinghamshire","cluster":36,"cluster_corrected":""}
+{"text":"HAMPSHIRE","cluster":36,"cluster_corrected":""}
+{"text":"Hampshire","cluster":36,"cluster_corrected":""}
+{"text":"Empire","cluster":36,"cluster_corrected":""}
+{"text":"Shropshire","cluster":36,"cluster_corrected":""}
+{"text":"Devonshire","cluster":36,"cluster_corrected":""}
+{"text":"quarters.\u2014And","cluster":37,"cluster_corrected":""}
+{"text":"girl\u201d\u201d\u2014and","cluster":37,"cluster_corrected":""}
+{"text":"night,\u2014and","cluster":37,"cluster_corrected":""}
+{"text":"care,\u2014and","cluster":37,"cluster_corrected":""}
+{"text":"the Arabian Nights","cluster":37,"cluster_corrected":""}
+{"text":"Asia","cluster":38,"cluster_corrected":""}
+{"text":"Austria","cluster":38,"cluster_corrected":""}
+{"text":"Australasia","cluster":38,"cluster_corrected":""}
+{"text":"Strasburg","cluster":38,"cluster_corrected":""}
+{"text":"Clytemnestra","cluster":38,"cluster_corrected":""}
+{"text":"Regent","cluster":39,"cluster_corrected":""}
+{"text":"Continent","cluster":39,"cluster_corrected":""}
+{"text":"Regan","cluster":39,"cluster_corrected":""}
+{"text":"compliments,\u2014if","cluster":39,"cluster_corrected":""}
+{"text":"Brentford","cluster":39,"cluster_corrected":""}
+{"text":"Magnificent","cluster":39,"cluster_corrected":""}
+{"text":"Iphigenia","cluster":39,"cluster_corrected":""}
+{"text":"Combat","cluster":40,"cluster_corrected":""}
+{"text":"Bacon","cluster":40,"cluster_corrected":""}
+{"text":"Zwieback","cluster":40,"cluster_corrected":""}
+{"text":"Baronet","cluster":40,"cluster_corrected":""}
+{"text":"Balcony","cluster":40,"cluster_corrected":""}
+{"text":"Contact","cluster":40,"cluster_corrected":""}
+{"text":"Coursing","cluster":41,"cluster_corrected":""}
+{"text":"Humours","cluster":41,"cluster_corrected":""}
+{"text":"NURSE","cluster":41,"cluster_corrected":""}
+{"text":"Pompadour","cluster":41,"cluster_corrected":""}
+{"text":"Ours","cluster":41,"cluster_corrected":""}
+{"text":"Fitzjurld","cluster":41,"cluster_corrected":""}
+{"text":"Butler","cluster":42,"cluster_corrected":""}
+{"text":"Butts","cluster":42,"cluster_corrected":""}
+{"text":"Button","cluster":42,"cluster_corrected":""}
+{"text":"Mutton","cluster":42,"cluster_corrected":""}
+{"text":"Calcutta","cluster":42,"cluster_corrected":""}
+{"text":"Muddleton","cluster":42,"cluster_corrected":""}
+{"text":"Great Live\nStreet","cluster":43,"cluster_corrected":""}
+{"text":"Hart Street","cluster":43,"cluster_corrected":""}
+{"text":"Street","cluster":43,"cluster_corrected":""}
+{"text":"Gaunt Street","cluster":43,"cluster_corrected":""}
+{"text":"Greek Street","cluster":43,"cluster_corrected":""}
+{"text":"Curzon Street","cluster":43,"cluster_corrected":""}
+{"text":"St. James\u2019s Street","cluster":43,"cluster_corrected":""}
+{"text":"Shylock","cluster":44,"cluster_corrected":""}
+{"text":"Bullock","cluster":44,"cluster_corrected":""}
+{"text":"Quashyboos","cluster":44,"cluster_corrected":""}
+{"text":"Camelot","cluster":45,"cluster_corrected":""}
+{"text":"Jamaica","cluster":45,"cluster_corrected":""}
+{"text":"Africa","cluster":45,"cluster_corrected":""}
+{"text":"Cashmere","cluster":45,"cluster_corrected":""}
+{"text":"America","cluster":45,"cluster_corrected":""}
+{"text":"Bruges","cluster":46,"cluster_corrected":""}
+{"text":"Russia","cluster":46,"cluster_corrected":""}
+{"text":"Brussels","cluster":46,"cluster_corrected":""}
+{"text":"Sussex","cluster":46,"cluster_corrected":""}
+{"text":"Angels\u00e9me","cluster":46,"cluster_corrected":""}
+{"text":"BRUSSELS","cluster":46,"cluster_corrected":""}
+{"text":"Chapels","cluster":47,"cluster_corrected":""}
+{"text":"Chapelle","cluster":47,"cluster_corrected":""}
+{"text":"Helvellyn","cluster":47,"cluster_corrected":""}
+{"text":"Madeira","cluster":48,"cluster_corrected":""}
+{"text":"the Niagara cataract","cluster":48,"cluster_corrected":""}
+{"text":"Kalydor","cluster":48,"cluster_corrected":""}
+{"text":"Scarce","cluster":48,"cluster_corrected":""}
+{"text":"Caradori","cluster":48,"cluster_corrected":""}
+{"text":"Arcadia","cluster":48,"cluster_corrected":""}
+{"text":"curacao","cluster":48,"cluster_corrected":""}
+{"text":"Peterwaradin","cluster":48,"cluster_corrected":""}
+{"text":"\u00e9cart\u00e9","cluster":48,"cluster_corrected":""}
+{"text":"Pharaoh","cluster":48,"cluster_corrected":""}
+{"text":"Bevetendt","cluster":49,"cluster_corrected":""}
+{"text":"Wittgenstein","cluster":49,"cluster_corrected":""}
+{"text":"Potentate","cluster":49,"cluster_corrected":""}
+{"text":"Ostend","cluster":49,"cluster_corrected":""}
+{"text":"Armada","cluster":50,"cluster_corrected":""}
+{"text":"Maraschino","cluster":50,"cluster_corrected":""}
+{"text":"Marengo","cluster":50,"cluster_corrected":""}
+{"text":"Mars","cluster":50,"cluster_corrected":""}
+{"text":"MARS","cluster":50,"cluster_corrected":""}
+{"text":"Wiltshire","cluster":51,"cluster_corrected":""}
+{"text":"Somersetshire","cluster":51,"cluster_corrected":""}
+{"text":"Yorkshire","cluster":51,"cluster_corrected":""}
+{"text":"Yorkshire and Somersetshire","cluster":51,"cluster_corrected":""}
+{"text":"inn-land-","cluster":52,"cluster_corrected":""}
+{"text":"Grass Inn","cluster":52,"cluster_corrected":""}
+{"text":"Inn of mornings","cluster":52,"cluster_corrected":""}
+{"text":"Vienna","cluster":52,"cluster_corrected":""}
+{"text":"XX","cluster":52,"cluster_corrected":""}
+{"text":"Inn","cluster":52,"cluster_corrected":""}
+{"text":"inn","cluster":52,"cluster_corrected":""}
+{"text":"CAPE","cluster":53,"cluster_corrected":""}
+{"text":"Cape","cluster":53,"cluster_corrected":""}
+{"text":"Cape Town","cluster":53,"cluster_corrected":""}
+{"text":"Lederlung","cluster":54,"cluster_corrected":""}
+{"text":"Derby","cluster":54,"cluster_corrected":""}
+{"text":"Yonder","cluster":54,"cluster_corrected":""}
+{"text":"Podder","cluster":54,"cluster_corrected":""}
+{"text":"Ramchunder","cluster":54,"cluster_corrected":""}
+{"text":"Flanders","cluster":54,"cluster_corrected":""}
+{"text":"Snaily","cluster":55,"cluster_corrected":""}
+{"text":"Brazil","cluster":55,"cluster_corrected":""}
+{"text":"the Straight Waistcoat","cluster":55,"cluster_corrected":""}
+{"text":"Trail","cluster":55,"cluster_corrected":""}
+{"text":"Trafalgar","cluster":55,"cluster_corrected":""}
+{"text":"Montmirail","cluster":55,"cluster_corrected":""}
+{"text":"prot\u00e9g\u00e9e","cluster":56,"cluster_corrected":""}
+{"text":"Providence","cluster":56,"cluster_corrected":""}
+{"text":"France","cluster":56,"cluster_corrected":""}
+{"text":"Provence","cluster":56,"cluster_corrected":""}
+{"text":"Club","cluster":57,"cluster_corrected":""}
+{"text":"Albums","cluster":57,"cluster_corrected":""}
+{"text":"Calumny","cluster":57,"cluster_corrected":""}
+{"text":"the Dreams Roads","cluster":58,"cluster_corrected":""}
+{"text":"the New Road","cluster":58,"cluster_corrected":""}
+{"text":"New","cluster":58,"cluster_corrected":""}
+{"text":"the Black Hole","cluster":59,"cluster_corrected":""}
+{"text":"Lacken","cluster":59,"cluster_corrected":""}
+{"text":"Slacken","cluster":59,"cluster_corrected":""}
+{"text":"Crackenbury","cluster":59,"cluster_corrected":""}
+{"text":"Cackle","cluster":59,"cluster_corrected":""}
+{"text":"India","cluster":60,"cluster_corrected":""}
+{"text":"East","cluster":60,"cluster_corrected":""}
+{"text":"West Indian","cluster":60,"cluster_corrected":""}
+{"text":"West India","cluster":60,"cluster_corrected":""}
+{"text":"East India","cluster":60,"cluster_corrected":""}
+{"text":"East Indiaman","cluster":60,"cluster_corrected":""}
+{"text":"Domain","cluster":61,"cluster_corrected":""}
+{"text":"pomatum","cluster":61,"cluster_corrected":""}
+{"text":"Cracksman","cluster":61,"cluster_corrected":""}
+{"text":"nan","cluster":61,"cluster_corrected":""}
+{"text":"oman","cluster":61,"cluster_corrected":""}
+{"text":"Manon","cluster":61,"cluster_corrected":""}
+{"text":"Germany","cluster":61,"cluster_corrected":""}
+{"text":"Salamanca","cluster":61,"cluster_corrected":""}
+{"text":"Rome","cluster":61,"cluster_corrected":""}
+{"text":"Bogglywollah","cluster":62,"cluster_corrected":""}
+{"text":"Boggleywollah","cluster":62,"cluster_corrected":""}
+{"text":"motley","cluster":62,"cluster_corrected":""}
+{"text":"Brunswick","cluster":63,"cluster_corrected":""}
+{"text":"Christchurch","cluster":63,"cluster_corrected":""}
+{"text":"History","cluster":63,"cluster_corrected":""}
+{"text":"china","cluster":63,"cluster_corrected":""}
+{"text":"CHISWICK","cluster":63,"cluster_corrected":""}
+{"text":"Chiswick","cluster":63,"cluster_corrected":""}
+{"text":"China","cluster":63,"cluster_corrected":""}
+{"text":"New Gardens","cluster":64,"cluster_corrected":""}
+{"text":"Judenstadt","cluster":64,"cluster_corrected":""}
+{"text":"Wiesbaden","cluster":64,"cluster_corrected":""}
+{"text":"Sugar","cluster":64,"cluster_corrected":""}
+{"text":"Quadrant gardens","cluster":64,"cluster_corrected":""}
+{"text":"Gardens","cluster":64,"cluster_corrected":""}
+{"text":"Kensington\nGardens","cluster":64,"cluster_corrected":""}
+{"text":"Dresden","cluster":64,"cluster_corrected":""}
+{"text":"Kensington Gardens","cluster":64,"cluster_corrected":""}
+{"text":"the Aurelius Garden","cluster":64,"cluster_corrected":""}
+{"text":"Kangaroo","cluster":64,"cluster_corrected":""}
+{"text":"Gillespie","cluster":65,"cluster_corrected":""}
+{"text":"Luggage Hill","cluster":65,"cluster_corrected":""}
+{"text":"Pillar Ago","cluster":65,"cluster_corrected":""}
+{"text":"Stillbrook, Beck","cluster":65,"cluster_corrected":""}
+{"text":"Versailles","cluster":65,"cluster_corrected":""}
+{"text":"Piccadilly","cluster":65,"cluster_corrected":""}
+{"text":"Mill","cluster":65,"cluster_corrected":""}
+{"text":"IL","cluster":65,"cluster_corrected":""}
+{"text":"Ill","cluster":65,"cluster_corrected":""}
+{"text":"Murewell Hill","cluster":65,"cluster_corrected":""}
+{"text":"Achilles","cluster":65,"cluster_corrected":""}
+{"text":"Lord Village","cluster":65,"cluster_corrected":""}
+{"text":"Wildbad","cluster":65,"cluster_corrected":""}
+{"text":"Cecilia","cluster":65,"cluster_corrected":""}
+{"text":"Rector","cluster":66,"cluster_corrected":""}
+{"text":"Cato","cluster":66,"cluster_corrected":""}
+{"text":"Quatorze","cluster":66,"cluster_corrected":""}
+{"text":"Eagles","cluster":67,"cluster_corrected":""}
+{"text":"Ak","cluster":67,"cluster_corrected":""}
+{"text":"twenty eagles","cluster":67,"cluster_corrected":""}
+{"text":"Nassau","cluster":68,"cluster_corrected":""}
+{"text":"Desert","cluster":68,"cluster_corrected":""}
+{"text":"Masses","cluster":68,"cluster_corrected":""}
+{"text":"Mosses","cluster":68,"cluster_corrected":""}
+{"text":"morocco","cluster":69,"cluster_corrected":""}
+{"text":"Morocco","cluster":69,"cluster_corrected":""}
+{"text":"Bierstadt","cluster":70,"cluster_corrected":""}
+{"text":"Rotterdam","cluster":70,"cluster_corrected":""}
+{"text":"Booth","cluster":70,"cluster_corrected":""}
+{"text":"Booterstown","cluster":70,"cluster_corrected":""}
+{"text":"Oystherstown","cluster":70,"cluster_corrected":""}
+{"text":"Monseigneur","cluster":71,"cluster_corrected":""}
+{"text":"Inside","cluster":71,"cluster_corrected":""}
+{"text":"essie","cluster":71,"cluster_corrected":""}
+{"text":"monsignori","cluster":71,"cluster_corrected":""}
+{"text":"Monsieur Isidor","cluster":71,"cluster_corrected":""}
+{"text":"Monsieur","cluster":71,"cluster_corrected":""}
+{"text":"Isidor","cluster":71,"cluster_corrected":""}
+{"text":"Monplaisir","cluster":71,"cluster_corrected":""}
+{"text":"Brighten","cluster":72,"cluster_corrected":""}
+{"text":"Knightsbridge","cluster":72,"cluster_corrected":""}
+{"text":"BRIGHTON","cluster":72,"cluster_corrected":""}
+{"text":"Brighton","cluster":72,"cluster_corrected":""}
+{"text":"Spiggot","cluster":72,"cluster_corrected":""}
+{"text":"H.H.","cluster":73,"cluster_corrected":""}
+{"text":"in\u2019t","cluster":73,"cluster_corrected":""}
+{"text":"n\u2019t","cluster":73,"cluster_corrected":""}
+{"text":"Dearest","cluster":74,"cluster_corrected":""}
+{"text":"Amelia","cluster":74,"cluster_corrected":""}
+{"text":"Dearest Amelia","cluster":74,"cluster_corrected":""}
+{"text":"Goliah","cluster":74,"cluster_corrected":""}
+{"text":"Wealth\u00e9 Orleans","cluster":75,"cluster_corrected":""}
+{"text":"New Orleans","cluster":75,"cluster_corrected":""}
+{"text":"Orleans","cluster":75,"cluster_corrected":""}
+{"text":"Dulwich","cluster":76,"cluster_corrected":""}
+{"text":"Greece","cluster":76,"cluster_corrected":""}
+{"text":"Greenwood","cluster":76,"cluster_corrected":""}
+{"text":"Greenwich","cluster":76,"cluster_corrected":""}
+{"text":"Harwich","cluster":76,"cluster_corrected":""}
+{"text":"Billingsgate","cluster":77,"cluster_corrected":""}
+{"text":"Machiavellian","cluster":77,"cluster_corrected":""}
+{"text":"Wellingtons","cluster":77,"cluster_corrected":""}
+{"text":"Toeplitz","cluster":77,"cluster_corrected":""}
+{"text":"Wellington","cluster":77,"cluster_corrected":""}
+{"text":"Kensington","cluster":77,"cluster_corrected":""}
+{"text":"Islington","cluster":77,"cluster_corrected":""}
+{"text":"Camberwell","cluster":77,"cluster_corrected":""}
+{"text":"Porteus","cluster":78,"cluster_corrected":""}
+{"text":"Portsmouth","cluster":78,"cluster_corrected":""}
+{"text":"Portansherry","cluster":78,"cluster_corrected":""}
+{"text":"fort","cluster":78,"cluster_corrected":""}
+{"text":"Port","cluster":78,"cluster_corrected":""}
+{"text":"po","cluster":78,"cluster_corrected":""}
+{"text":"Portland","cluster":78,"cluster_corrected":""}
+{"text":"Cornelia","cluster":79,"cluster_corrected":""}
+{"text":"Borne","cluster":79,"cluster_corrected":""}
+{"text":"Alderney","cluster":79,"cluster_corrected":""}
+{"text":"Cornhill","cluster":79,"cluster_corrected":""}
+{"text":"Corner","cluster":79,"cluster_corrected":""}
+{"text":"Pineries","cluster":79,"cluster_corrected":""}
+{"text":"ne&t","cluster":79,"cluster_corrected":""}
+{"text":"Scorned","cluster":79,"cluster_corrected":""}
+{"text":"Udolpho","cluster":80,"cluster_corrected":""}
+{"text":"Hornby","cluster":80,"cluster_corrected":""}
+{"text":"Soho","cluster":80,"cluster_corrected":""}
+{"text":"Bagshot","cluster":80,"cluster_corrected":""}
+{"text":"Forlorn","cluster":80,"cluster_corrected":""}
+{"text":"Horn","cluster":80,"cluster_corrected":""}
+{"text":"Vittoria","cluster":81,"cluster_corrected":""}
+{"text":"Bulgaria","cluster":81,"cluster_corrected":""}
+{"text":"Siberia","cluster":81,"cluster_corrected":""}
+{"text":"Maria","cluster":81,"cluster_corrected":""}
+{"text":"Bohemian Libraries","cluster":81,"cluster_corrected":""}
+{"text":"Jemima","cluster":82,"cluster_corrected":""}
+{"text":"Glorvima","cluster":82,"cluster_corrected":""}
+{"text":"Glorvina","cluster":82,"cluster_corrected":""}
+{"text":"Oxford","cluster":83,"cluster_corrected":""}
+{"text":"beaux","cluster":83,"cluster_corrected":""}
+{"text":"Bordeaux","cluster":83,"cluster_corrected":""}
+{"text":"Nineveh","cluster":84,"cluster_corrected":""}
+{"text":"Consul","cluster":84,"cluster_corrected":""}
+{"text":"Peninsula","cluster":84,"cluster_corrected":""}
+{"text":"Peninsular","cluster":84,"cluster_corrected":""}
+{"text":"&.\u2014Miss","cluster":85,"cluster_corrected":""}
+{"text":"Miss.","cluster":85,"cluster_corrected":""}
+{"text":"Kissing","cluster":85,"cluster_corrected":""}
+{"text":"Miss","cluster":85,"cluster_corrected":""}
+{"text":"kiss","cluster":85,"cluster_corrected":""}
+{"text":"Britain","cluster":86,"cluster_corrected":""}
+{"text":"Italy","cluster":86,"cluster_corrected":""}
+{"text":"Neapolitan","cluster":86,"cluster_corrected":""}
+{"text":"planning;\u2014no","cluster":86,"cluster_corrected":""}
+{"text":"Sultan","cluster":86,"cluster_corrected":""}
+{"text":"Britannia","cluster":86,"cluster_corrected":""}
+{"text":"Rule Britannia","cluster":86,"cluster_corrected":""}
+{"text":"Titania","cluster":86,"cluster_corrected":""}
+{"text":"Ramsgate","cluster":87,"cluster_corrected":""}
+{"text":"Negation","cluster":87,"cluster_corrected":""}
+{"text":"Harrogate","cluster":87,"cluster_corrected":""}
+{"text":"Margate","cluster":87,"cluster_corrected":""}
+{"text":"Minded","cluster":88,"cluster_corrected":""}
+{"text":"R.A.","cluster":88,"cluster_corrected":""}
+{"text":"ND","cluster":88,"cluster_corrected":""}
+{"text":"mind,.and","cluster":88,"cluster_corrected":""}
+{"text":"Belinda","cluster":88,"cluster_corrected":""}
+{"text":"Venice","cluster":89,"cluster_corrected":""}
+{"text":"Silenus","cluster":89,"cluster_corrected":""}
+{"text":"Grosvenor","cluster":89,"cluster_corrected":""}
+{"text":"US","cluster":89,"cluster_corrected":""}
+{"text":"avec sa","cluster":89,"cluster_corrected":""}
+{"text":"Heavens","cluster":89,"cluster_corrected":""}
+{"text":"Venus","cluster":89,"cluster_corrected":""}
+{"text":"the Green Avenue","cluster":89,"cluster_corrected":""}
+{"text":"Brougham","cluster":90,"cluster_corrected":""}
+{"text":"Champaign","cluster":90,"cluster_corrected":""}
+{"text":"Fulham","cluster":90,"cluster_corrected":""}
+{"text":"CHATHAM","cluster":90,"cluster_corrected":""}
+{"text":"Cheltenham","cluster":90,"cluster_corrected":""}
+{"text":"Haydn","cluster":90,"cluster_corrected":""}
+{"text":"Thames","cluster":90,"cluster_corrected":""}
+{"text":"Feltham","cluster":90,"cluster_corrected":""}
+{"text":"Turnham","cluster":90,"cluster_corrected":""}
+{"text":"Chatham","cluster":90,"cluster_corrected":""}
+{"text":"Hamlin","cluster":90,"cluster_corrected":""}
+{"text":"Wesleyan","cluster":91,"cluster_corrected":""}
+{"text":"Esq","cluster":91,"cluster_corrected":""}
+{"text":"Naples","cluster":91,"cluster_corrected":""}
+{"text":"Nile","cluster":91,"cluster_corrected":""}
+{"text":"Stubbles","cluster":91,"cluster_corrected":""}
+{"text":"Tiles","cluster":91,"cluster_corrected":""}
+{"text":"Bedad","cluster":92,"cluster_corrected":""}
+{"text":"Surrey","cluster":92,"cluster_corrected":""}
+{"text":"red scarfs","cluster":92,"cluster_corrected":""}
+{"text":"Pictures","cluster":92,"cluster_corrected":""}
+{"text":"Red Seas","cluster":92,"cluster_corrected":""}
+{"text":"Rebecca","cluster":92,"cluster_corrected":""}
+{"text":"the Red Book","cluster":92,"cluster_corrected":""}
+{"text":"Red","cluster":92,"cluster_corrected":""}
+{"text":"South-","cluster":93,"cluster_corrected":""}
+{"text":"ZZ","cluster":93,"cluster_corrected":""}
+{"text":"Southampton Row","cluster":93,"cluster_corrected":""}
+{"text":"Rochampton","cluster":93,"cluster_corrected":""}
+{"text":"Brompton","cluster":93,"cluster_corrected":""}
+{"text":"Roehampton","cluster":93,"cluster_corrected":""}
+{"text":"the South Sea","cluster":93,"cluster_corrected":""}
+{"text":"Southampton","cluster":93,"cluster_corrected":""}
+{"text":"Southampton Gaol","cluster":93,"cluster_corrected":""}
+{"text":"Newfoundland","cluster":94,"cluster_corrected":""}
+{"text":"Scotland","cluster":94,"cluster_corrected":""}
+{"text":"Ireland","cluster":94,"cluster_corrected":""}
+{"text":"Old England","cluster":94,"cluster_corrected":""}
+{"text":"Switzerland","cluster":94,"cluster_corrected":""}
+{"text":"Except Ireland","cluster":94,"cluster_corrected":""}
+{"text":"Shetland","cluster":94,"cluster_corrected":""}
+{"text":"Holland","cluster":94,"cluster_corrected":""}
+{"text":"Langham","cluster":94,"cluster_corrected":""}
+{"text":"England","cluster":94,"cluster_corrected":""}
+{"text":"Follows","cluster":95,"cluster_corrected":""}
+{"text":"Hollyock","cluster":95,"cluster_corrected":""}
+{"text":"Folle","cluster":95,"cluster_corrected":""}
+{"text":"White Hermitage","cluster":96,"cluster_corrected":""}
+{"text":"Whitefriars","cluster":96,"cluster_corrected":""}
+{"text":"WHITEFRIARS","cluster":96,"cluster_corrected":""}
+{"text":"Artist","cluster":97,"cluster_corrected":""}
+{"text":"Methusalem","cluster":97,"cluster_corrected":""}
+{"text":"Thomson","cluster":97,"cluster_corrected":""}
+{"text":"thou","cluster":97,"cluster_corrected":""}
+{"text":"Methodist","cluster":97,"cluster_corrected":""}
+{"text":"Music","cluster":98,"cluster_corrected":""}
+{"text":"Metternich","cluster":98,"cluster_corrected":""}
+{"text":"Richelieu","cluster":98,"cluster_corrected":""}
+{"text":"Junior","cluster":98,"cluster_corrected":""}
+{"text":"Munich","cluster":98,"cluster_corrected":""}
+{"text":"Windsor","cluster":99,"cluster_corrected":""}
+{"text":"Casgandra","cluster":99,"cluster_corrected":""}
+{"text":"handkerchiefs","cluster":99,"cluster_corrected":""}
+{"text":"Grand Uncle","cluster":99,"cluster_corrected":""}
+{"text":"Sands","cluster":99,"cluster_corrected":""}
+{"text":"Hands","cluster":99,"cluster_corrected":""}
+{"text":"P.S.","cluster":100,"cluster_corrected":""}
+{"text":"M.D.","cluster":100,"cluster_corrected":""}
+{"text":"M.P.","cluster":100,"cluster_corrected":""}
+{"text":"us City","cluster":101,"cluster_corrected":""}
+{"text":"the H. H.","cluster":101,"cluster_corrected":""}
+{"text":"the Magic Flute","cluster":101,"cluster_corrected":""}
+{"text":"City","cluster":101,"cluster_corrected":""}
+{"text":"the City, Sir","cluster":101,"cluster_corrected":""}
+{"text":"Vanity","cluster":101,"cluster_corrected":""}
+{"text":"the City of London","cluster":101,"cluster_corrected":""}
+{"text":"the dark sea","cluster":101,"cluster_corrected":""}
+{"text":"the Atlantic Ocean","cluster":101,"cluster_corrected":""}
+{"text":"the Latin Grammar","cluster":101,"cluster_corrected":""}
+{"text":"the moon\naux","cluster":101,"cluster_corrected":""}
+{"text":"~It","cluster":101,"cluster_corrected":""}
+{"text":"the City","cluster":101,"cluster_corrected":""}
+{"text":"Gulielmo","cluster":102,"cluster_corrected":""}
+{"text":"Moorish","cluster":102,"cluster_corrected":""}
+{"text":"Smithfield","cluster":102,"cluster_corrected":""}
+{"text":"Moorfields","cluster":102,"cluster_corrected":""}
+{"text":"Demerara","cluster":103,"cluster_corrected":""}
+{"text":"Persia","cluster":103,"cluster_corrected":""}
+{"text":"Kerahedy","cluster":103,"cluster_corrected":""}
+{"text":"Perry","cluster":103,"cluster_corrected":""}
+{"text":"Europe","cluster":103,"cluster_corrected":""}
+{"text":"Opera","cluster":103,"cluster_corrected":""}
