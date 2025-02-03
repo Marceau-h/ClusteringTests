@@ -1,282 +1,144 @@
-text,cluster
-manche,0
-Manuscrits,0
-Penché,0
-Marsan,0
-la manche,0
-Nancy,0
-AT,1
-Ïl,1
-Atlas,1
-État,1
-Latin,1
-l’,2
-L’,2
-Espagne,3
-Fa,3
-Ë,3
-Pologne,3
-ñn’,3
-l'Espagne,3
-rue n’,4
-rue de,4
-rue de l'Ancienne-Comédié,4
-de Saxe,4
-"rue madame
-Fortier",4
-"—-
-Elle promit de prendre ses repas",4
-"rue Jean-
-Bart",4
-massif de myosotis,4
-rue de Tournon,4
-y.,4
-Î,5
-A1,5
-lüi,5
-Jours,6
-Pour-,6
-Îles jours,6
-Journées,6
-Paris,7
-barcarolle,7
-Pas,7
-Parme,7
-Paris végétal,7
-Partez,7
-Paris T,7
-Ellé soüparait,7
-l'Oise,8
-Oise,8
-point voluptueuse,8
-oise,8
-Voix,8
-"-
-
-— Vois-tu",8
-läis,8
-Sois,8
-Bois,8
-perse,8
-Is,8
-Dépuis,8
-salle,9
-Vallée,9
-Allemagne,9
-Alsace,9
-alluma,9
-Salon,9
-V’,9
-Allez,9
-Versailles,9
-CS,10
-Jolie,11
-Tolède,11
-Joie,11
-LC,11
-Anatolie,11
-Mélancolie,11
-Tyrol,11
-Ferney,12
-hôtel de Ferney,12
-Ferney qu’,12
-Noagrnr,12
-Ü,13
-Voyez,13
-Savez,13
-voyäge,13
-fl+,14
-26À,14
-e,14
-É,14
-d'Italie,15
-l'Italie,15
-TA,15
-Italien,15
-Be,16
-Berlin,16
-J',17
-J'ai,17
-fes,18
-Gênes,18
-Bruyères,18
-Cest,18
-ES,18
-colombes,18
-Indes,18
-Suresnes,18
-résédes,18
-château des Bruyères,18
-Es,18
-après-midi-molles,19
-LS,19
-Îles,19
-Les,19
-Re Îles,19
-Naples,19
-lesoir,19
-boules-de-neige,19
-Ileest,19
-soleil,20
-mul oreiller,20
-IL,20
-Tsolée,20
-le soleil,20
-Élle,21
-Séville,21
-Ælle,21
-mule,21
-LE,21
-éle,21
-lez,21
-Œ,21
-sembleé,21
-Lucile,21
-‘aiguille,21
-Bengale,21
-Île,21
-Courbée,22
-Corinthe,22
-conñu,22
-Corée,22
-.:+,22
-Ÿ zor,22
-niérée,22
-ET - Non,23
-mettant,23
-et’,23
-t’,23
-rASOIr,24
-F,24
-Soupirs,24
-s’assoupir,24
-Mossoul,24
-s’,24
-jusqu’,25
-au’,25
-Qu’'y,25
-S,25
-qu’,25
-Qui,25
-Los Rs,26
-Rosée,26
-Rozée,26
-Trocadéro,26
-Rome,26
-Rose,26
-voudrais,27
-Tournon,27
-Touraine,27
-Tourainé,27
-Sabiné,27
-gènés,27
+text,cluster,cluster_corrected
+cahors,0,
+Âlors,0,
+Ca,0,
+boue,1,
+F,1,
+ouée,1,
+Bohême,1,
+Cordoue,1,
+Bois de Boulogne,1,
+E,1,
+bouscula,1,
+Rouen,1,
+®,1,
+Seine,2,
+chine,2,
+la Seine,2,
+veines,2,
+"la
+Seine bleue",2,
+Effort,3,
+Autrefois,3,
+UT,3,
+Loire,3,
+EF,3,
+"pre=. |
+is",3,
+théètre,3,
+fl+,4,
+j’,4,
+Heure,4,
+V’,4,
+Asie Mineure,4,
+Docteur,4,
+Gravures,4,
+LS,5,
+Quelque,5,
+Quelquefois,5,
+Dominique,5,
+Quelqu,5,
+CS,5,
+Jean-Jacques,5,
+Ferney,6,
+Noagrnr,6,
+Ferney qu’,6,
+ñn’,6,
+hôtel de Ferney,6,
+Cousin,7,
+.:+,7,
+VOus,7,
+|,7,
+|coup,7,
+sion,7,
+jalousie,7,
+soleil,8,
+IL,8,
+le soleil,8,
+Tsolée,8,
+mul oreiller,8,
+Berlin,9,
+Be,9,
+Rosée,10,
+Rome,10,
+Trocadéro,10,
+Tyrol,10,
+Rose,10,
+Rozée,10,
+L’,11,
+LC,11,
+l’,11,
+Lausanne,12,
+Vienne,12,
+VI,12,
+enne,12,
+Î,12,
+Säbien,12,
+A1,13,
+Tourainé,13,
+Tournon,13,
+Sabiné,13,
+voudrais,13,
+Touraine,13,
+gènés,13,
+Messine,14,
+colombes,14,
+résédes,14,
+Bruyères,14,
+Es,14,
+fes,14,
+Cest,14,
+ES,14,
+Gênes,14,
+château des Bruyères,14,
+Suresnes,14,
+Indes,14,
+Œ,14,
+Les,15,
 "les
 
-| deux bras etés",28
-Es décidéde,28
-Di,28
-Vosges,28
-jardin des Vosges,28
-lagarde,28
-|,28
-SÈVRES,29
-Sèvres,29
-Menacée,30
-CR,30
-Grenade,30
-nacre,30
-mMéna-,30
-Naf,30
+| deux bras etés",15,
+lesoir,15,
+Naples,15,
+Ileest,15,
+boules-de-neige,15,
+Re Îles,15,
+Îles,15,
+après-midi-molles,15,
+Qu’'y,16,
+qu’,16,
+Qui,16,
+jusqu’,16,
+y.,16,
+au’,16,
+mettant,17,
+Ans,17,
+éans,17,
+Ë,17,
+Hollande,17,
+Anzin,17,
+feuillage du Luxembourg,18,
+Wurtemberg,18,
+Bourgogne,18,
+Luxembourg,18,
+È,18,
+Nancy,19,
+Marsan,19,
+manche,19,
+Manuscrits,19,
+la manche,19,
+Penché,19,
 "Ï
-L",31
-E,31
-Madäime,32
-aimais,32
-Saint-Cloud,32
-maintienäet,32
-maine,32
-affirmait}.,32
-Lendemain.-Et,32
-main,32
-demandaitelle,32
-m'’aimais,32
-mar-,32
-sanguinaireé,32
-oo L,33
-du Louvre,33
-Loire,33
-Louvre,33
-Célérinage,34
-Veux-,34
-Fäbieñ Mauri,34
-Curieuse,34
-Dété,34
-térieux,34
-Märie,34
-tenay,35
-Fontenayÿ,35
-tenaÿy,35
-Fon,35
-Fontenay,35
-j’,36
-Où,36
-æ Où,36
-feuillage du Luxembourg,37
-Bourgogne,37
-Wurtemberg,37
-Luxembourg,37
-Obstinée,38
-Au-,38
-Phi-,38
-Dauphiné,38
-Mème,39
-m’,39
-®,39
-mer d’Azow,39
-d’,39
-|coup,40
-VOus,40
-Cousin,40
-sion,40
-jalousie,40
-Quelqu,41
-Jean-Jacques,41
-I,41
-Dominique,41
-Quelque,41
-Quelquefois,41
-cubañs,42
-CU,42
-Docteur,43
-Gravures,43
-A,43
-Heure,43
-Leurs,43
-Asie Mineure,43
-Remontée,44
-Somone,44
-deront,44
-Égypte,44
-wagon,44
-Ponte,44
-Chantez,44
-tùte,44
-sälon,44
-Suivante,44
-Montez,44
-Mont-Valérien,44
-Quittez,44
-D,44
-Passe,45
-Assise,45
-Anglais,45
-Jouissait,45
-Unissait,45
-Laisse,45
-Suisse,45
-II,46
-Eden,46
-E Henri,46
+L",20,
+Où,20,
+æ Où,20,
+Italien,21,
+l'Italie,21,
+d'Italie,21,
+TA,21,
+S,21,
+E Henri,22,
+II,22,
 "VII
 
   
@@ -287,90 +149,228 @@ E Henri,46
  
     
 
-Henri de Fontenay",46
-UT,47
-"pre=. |
-is",47
-théètre,47
-Effort,47
-EF,47
-Autrefois,47
-Br,48
-brive,48
-bruni,48
-BR,48
-brouill,48
-ouée,49
-Bois de Boulogne,49
-Bohême,49
-Rouen,49
-kB,49
-Cordoue,49
-bouscula,49
-boue,49
-Ca,50
-Âlors,50
-cahors,50
-Säbien,51
-enne,51
-VI,51
-Lausanne,51
-Vienne,51
-moütache,52
-fêchait,52
-RER,52
-Michelet,52
-He,52
-Clichy,52
-| cher,52
-fächerie,52
-cher,52
-la pierre,52
-Agrigente,53
-Genève,53
-Rentrée,53
-"vent
-
-Î",53
-Régent,53
-Ï,54
-lu,54
-pâréts-d8 bôñne,54
-Mène,54
-lune,54
-"la
-Seine bleue",55
-la Seine,55
-chine,55
-Messine,55
-veines,55
-Seine,55
-de France,56
-iran,56
-la France,56
-Florence,56
-mélance',56
-È,56
-‘france,56
-Grèce,56
-france,56
+Henri de Fontenay",22,
+Eden,22,
+voyäge,23,
+Voyez,23,
+s’,24,
+Mossoul,24,
+Soupirs,24,
+s’assoupir,24,
+rASOIr,24,
+Bengale,25,
+I,25,
+lez,25,
+Élle,25,
+Lucile,25,
+Île,25,
+sembleé,25,
+éle,25,
+É,25,
+LE,25,
+mule,25,
+Leurs,25,
+Séville,25,
+Es décidéde,26,
+lagarde,26,
+Vosges,26,
+jardin des Vosges,26,
+Di,26,
+niérée,27,
+Corinthe,27,
+conñu,27,
+Ï,27,
+Ü,27,
+Corée,27,
+Ÿ zor,27,
+Mène,28,
+lu,28,
+lune,28,
+pâréts-d8 bôñne,28,
+Alsace,29,
+Versailles,29,
+Allemagne,29,
+Vallée,29,
+Savez,29,
+Allez,29,
+alluma,29,
+Ælle,29,
+salle,29,
+Salon,29,
+barcarolle,29,
+‘aiguille,29,
+Pour-,30,
+Journées,30,
+Courbée,30,
+Jours,30,
+Los Rs,30,
+Îles jours,30,
+moütache,31,
+fächerie,31,
+Clichy,31,
+RER,31,
+la pierre,31,
+cher,31,
+fêchait,31,
+Michelet,31,
+lüi,31,
+| cher,31,
+perse,31,
+He,31,
+Ellé,32,
 "NOUVELLE ESPÉRANCE
 
-ver",57
+ver",32,
 "NOUVELLE ESPÉRANCE
 
-alables",57
-Appelle,57
-Nouvelle s’,57
+alables",32,
+Noûs,32,
+A NOUVELLE,32,
 "LA NOUVELLE ESPÉRANCE 287
 
-Elle",57
-Hérelle,57
-A NOUVELLE,57
-Ellé,57
-Noûs,57
-Nouvelle,57
-éans,58
-Anzin,58
-Hollande,58
-Ans,58
+Elle",32,
+Nouvelle,32,
+Hérelle,32,
+Appelle,32,
+e,32,
+Nouvelle s’,32,
+J'ai,33,
+J',33,
+Fontenayÿ,34,
+tenaÿy,34,
+Fontenay,34,
+Fon,34,
+tenay,34,
+Curieuse,35,
+Dété,35,
+Fäbieñ Mauri,35,
+Célérinage,35,
+térieux,35,
+Märie,35,
+26À,35,
+Veux-,35,
+Phi-,36,
+Obstinée,36,
+Dauphiné,36,
+Au-,36,
+l'Espagne,37,
+Espagne,37,
+Pologne,37,
+ET - Non,38,
+et’,38,
+t’,38,
+État,39,
+AT,39,
+Latin,39,
+Atlas,39,
+Pas,40,
+Paris végétal,40,
+Ellé soüparait,40,
+Paris T,40,
+Partez,40,
+Parme,40,
+Paris,40,
+Naf,41,
+Grenade,41,
+CR,41,
+mMéna-,41,
+nacre,41,
+Menacée,41,
+Tolède,42,
+Joie,42,
+Fa,42,
+Mélancolie,42,
+Jolie,42,
+Anatolie,42,
+Saint-Cloud,43,
+A,43,
+aimais,43,
+affirmait}.,43,
+maintienäet,43,
+Madäime,43,
+maine,43,
+mar-,43,
+kB,43,
+sanguinaireé,43,
+main,43,
+m'’aimais,43,
+demandaitelle,43,
+Lendemain.-Et,43,
+CU,44,
+cubañs,44,
+m’,45,
+Sèvres,45,
+SÈVRES,45,
+rue n’,46,
+rue de Tournon,46,
+"rue Jean-
+Bart",46,
+rue de l'Ancienne-Comédié,46,
+"rue madame
+Fortier",46,
+massif de myosotis,46,
+de Saxe,46,
+rue de,46,
+"—-
+Elle promit de prendre ses repas",46,
+la France,47,
+de France,47,
+mélance',47,
+Florence,47,
+‘france,47,
+Grèce,47,
+iran,47,
+france,47,
+Assise,48,
+Jouissait,48,
+Suisse,48,
+Unissait,48,
+Anglais,48,
+Passe,48,
+Laisse,48,
+d’,49,
+Mème,49,
+mer d’Azow,49,
+"-
+
+— Vois-tu",50,
+Bois,50,
+läis,50,
+Voix,50,
+Oise,50,
+Is,50,
+Dépuis,50,
+point voluptueuse,50,
+Sois,50,
+l'Oise,50,
+oise,50,
+Ïl,50,
+deront,51,
+Mont-Valérien,51,
+Chantez,51,
+Remontée,51,
+Suivante,51,
+Somone,51,
+Égypte,51,
+Ponte,51,
+tùte,51,
+wagon,51,
+Quittez,51,
+Montez,51,
+sälon,51,
+Louvre,52,
+oo L,52,
+du Louvre,52,
+Agrigente,53,
+Rentrée,53,
+"vent
+
+Î",53,
+Genève,53,
+Régent,53,
+D,54,
+brive,54,
+brouill,54,
+BR,54,
+bruni,54,
+Br,54,

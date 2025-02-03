@@ -1,160 +1,160 @@
-text,cluster
-Azow,0
-mer d'Azow,0
-manche,1
-Marsan,1
-Penché,1
-Michelet,1
-Clichy,1
-Nancy,1
-Agrigente,2
-Cellelà,2
-dentelle,2
-mademoiselle de Fontenay,2
-Rentrée,2
-Appelle,2
-sentimentale,2
-Hollande,2
-rue de,3
-de Saxe,3
-Bois de Boulogne,3
-rue de l'Ancienne-Comédie,3
-massif de myosotis,3
-abreuva de clarté,3
-rue de Tournon,3
-Suresnes,4
-Gênes,4
-Sèvres,4
-Est,4
-Naples,4
-Gravures,4
-colombes,4
-jardin des Vosges,5
-Vosges,5
-Indes,5
-Paris,6
-vert-de-gris,6
-Partez,6
-Parme,6
-Bruyères,7
-château des Bruyères,7
-bruni,7
-l'Oise,8
-Oise,8
-mademoiselle,8
-Sois,8
-château de l'Oise,8
-Autrefois,8
-Bois,8
-perse,8
-Menacée,9
-nacre,9
-Alsace,9
-Grenade,9
-d'Italie,10
-Italie,10
-l'Italie,10
-N',10
-Italien,10
-Collège de France,11
-de France,11
-Étonnante enfance,11
-Grèce,11
-la France,11
-Florence,12
-Saint-Cloud,12
-du Louvre,12
-Louvre,12
-Flore,12
-Pierre,13
-J'ai Pierre,13
-J',13
-Août,14
-Pologne,15
-Ferney,15
-Espagne jaune,15
-l'Espagne,15
-lune,15
-feuillage du Luxembourg,16
-Wurtemberg,16
-houx,16
-Bohême,16
-Luxembourg,16
-Bourgogne,16
-Tournon,16
-Jacques,17
-Jean-Jacques,17
-Quelque,17
-Quelquefois,17
-Muette,17
+text,cluster,cluster_corrected
+Messine,0,
+Seine,0,
+boules-de-neige,0,
+Dauphiné,0,
+la Seine,0,
+Sabine,0,
+Touraine,0,
+Autrefois,1,
+Oise,1,
+Bois,1,
+mademoiselle,1,
+château de l'Oise,1,
+Sois,1,
+l'Oise,1,
+perse,1,
+Quelque,2,
+Muette,2,
+Jean-Jacques,2,
+Jacques,2,
 "VI 
-Quelques jours",17
-Remontée,18
-Pomone,18
-Chantez,18
-Fontenay,18
-Égypte,18
-wagon,18
-Montez,18
-Mont-Valérien,18
-Quittez,18
-État,19
-Obstinée,19
-abêti,19
-Latin,19
-aimais,20
-Marseillaise,20
-jais,20
-Laisse,20
-Assise,20
-Suisse,20
-Anglais,20
-Allemagne,21
-barcarolle,21
-Séville,21
-Voyez,21
-tulle,21
-Allez,21
-Bengale,21
-Versailles,21
-alluma,21
-Docteur,22
-Fabien Mauri,22
-Elseneur,22
-Curieuse,22
-Leurs,22
-Asie Mineure,22
-Rozée,23
-Trocadéro,23
-Rome,23
-Tyrol,23
-Tolède,24
-Bibliothèque Nationale,24
-Anatolie,24
-Mélancolie,24
-Retombant,24
-soleil,25
-le soleil,25
-Isolée,25
-Ève,26
-Genève,26
-Régent,26
-Rouen,27
-Courbée,27
-Corinthe,27
-Cordoue,27
-Lausanne,28
-VI,28
-Vienne,28
-Touraine,29
-la Seine,29
-Messine,29
-Sabine,29
-Dauphiné,29
-Anzin,29
-Berlin,29
-boules-de-neige,29
-Seine,29
-Mossoul,30
-Pas,30
-Passy,30
+Quelques jours",2,
+Quelquefois,2,
+Corinthe,3,
+Cordoue,3,
+Rouen,3,
+Courbée,3,
+sentimentale,4,
+dentelle,4,
+Agrigente,4,
+Appelle,4,
+Rentrée,4,
+Cellelà,4,
+mademoiselle de Fontenay,4,
+Saint-Cloud,5,
+Flore,5,
+Louvre,5,
+Florence,5,
+du Louvre,5,
+Gênes,6,
+colombes,6,
+Suresnes,6,
+Est,6,
+Sèvres,6,
+Naples,6,
+Gravures,6,
+Août,6,
+soleil,7,
+le soleil,7,
+Isolée,7,
+Paris,8,
+vert-de-gris,8,
+Partez,8,
+Parme,8,
+Pas,9,
+N',9,
+Passy,9,
+Mossoul,9,
+château des Bruyères,10,
+Bruyères,10,
+bruni,10,
+nacre,11,
+Menacée,11,
+Grenade,11,
+Lausanne,12,
+Vienne,12,
+VI,12,
+Étonnante enfance,13,
+Grèce,13,
+la France,13,
+de France,13,
+Collège de France,13,
+Obstinée,14,
+Berlin,14,
+abêti,14,
+Latin,14,
+État,14,
+Anzin,14,
+Pierre,15,
+J',15,
+J'ai Pierre,15,
+Bengale,16,
+barcarolle,16,
+Alsace,16,
+Versailles,16,
+Allemagne,16,
+Allez,16,
+alluma,16,
+tulle,16,
+Voyez,16,
+Séville,16,
+massif de myosotis,17,
+de Saxe,17,
+rue de l'Ancienne-Comédie,17,
+rue de Tournon,17,
+Bois de Boulogne,17,
+rue de,17,
+abreuva de clarté,17,
+jais,18,
+Anglais,18,
+aimais,18,
+Assise,18,
+Marseillaise,18,
+Suisse,18,
+Laisse,18,
+Tournon,19,
+feuillage du Luxembourg,19,
+Wurtemberg,19,
+houx,19,
+Bourgogne,19,
+Luxembourg,19,
+Michelet,20,
+Nancy,20,
+Marsan,20,
+Clichy,20,
+manche,20,
+Penché,20,
+Azow,21,
+Bohême,21,
+mer d'Azow,21,
+Leurs,22,
+Fabien Mauri,22,
+Asie Mineure,22,
+Docteur,22,
+Elseneur,22,
+Curieuse,22,
+Italien,23,
+l'Italie,23,
+Italie,23,
+d'Italie,23,
+Ferney,24,
+Espagne jaune,24,
+l'Espagne,24,
+Pologne,24,
+lune,24,
+Fontenay,25,
+Mont-Valérien,25,
+Chantez,25,
+wagon,25,
+Quittez,25,
+Remontée,25,
+Pomone,25,
+Égypte,25,
+Montez,25,
+Ève,26,
+Genève,26,
+Régent,26,
+Mélancolie,27,
+Tolède,27,
+Hollande,27,
+Bibliothèque Nationale,27,
+Anatolie,27,
+Retombant,27,
+Tyrol,28,
+Rome,28,
+Trocadéro,28,
+Rozée,28,
+Indes,29,
+Vosges,29,
+jardin des Vosges,29,
