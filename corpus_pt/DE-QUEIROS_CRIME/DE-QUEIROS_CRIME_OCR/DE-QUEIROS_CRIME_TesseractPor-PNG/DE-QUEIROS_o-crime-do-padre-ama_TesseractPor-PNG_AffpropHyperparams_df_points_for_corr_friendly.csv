@@ -1,0 +1,448 @@
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80
+0,Santa Virgem,Parto da Santa Virgem,Virgens,Santa Virgínia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sol de Setembro,Hotel de Ville,Setembro,Sol de Maio,"Sol
+de Dezembro",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Encon-,Acen-,Con-,Encolhia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Parece-me,Pareceu-,Pertence-me,Lembre-me,Ce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,santa da Arregaça,Santa da Arregaça,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Casimira França,mir,Brasil,França,luvas de casimira,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Senhora da Encarnação,Encarnação,Senhora da Incarnação,São da Encar-,Senão,Senhora da Alegria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Bêbeda,Bêbedas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Céu,"Céu;""e",Céus,Céu...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,deserta,Ser,Sertaneja,Decerto,Alerta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,borracho,Gamacho,pachorra,Poço do Borratém,Rabicho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Piedade,Impiedade,É-verdade,Senhora da Piedade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Valadares,Populares,tre Valadares,valado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Libaninho de luvas pretas,Libaninho,"Libaninho mur-
+murava",Saiba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,"Nossa
+Senhora",Casamento de Nossa Senhora,Nossa Senhora,minha senhora,Nossa Senhora do Rosário...,Eno,"Se-
+nhor",Nossa Senhora do Rosário,Nossas Senhoras,Senhora,"Nossa Senhora
+da Ermida","Nossa
+Senhora de Lourdes...",Nosso Senhor,"Nossa
+Senhora de Lourdes",glória do Senhor,boa senhora,Nossa Senhora da Saúde,"Nossa
+Senhora!",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,ABBÉ MOURET,"L""ABBÉ MOURET",ourelo,MOURET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Come-,Comuni-,Comu-,com-,Excomunhão,Uni-,Comunicado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Ia-lhe,Perguntava-lhe,Coma-lhe,Bufa-lhe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Janelas,Bruxelas,Janota,jancla,mar-me da janela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Salve-Rainhas,"Coroação da
+Rainha Vitória",unhas,!,Salve-Rainha,Gonçalves,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Sabe,Sabes,Acabe,Sabia,Saberá,Cabeça,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Tejo,Vejo,bocejo,Vejam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,"Arvore da Ciên-
+cia",Arvore da Ciên-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Credo,Xafredo,hóstia redonda,rel Azevedo,acre,cara redonda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,Coitadita,Militar,Muita,Coitadinha,— Coitada,Ta,Imitação,Chiquita,Freitas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Caía-me,Abrasa-me,Baía,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,ORIME DO PADRE AMAKO,U ORIME DO PADRE AMARO,"ORIME DO PADRE AMARO
+cortininha de cassa",PADRE AMARÚ,"OCBIME DU PADRE AMARO
+
+- Você",OEIME PO PADRE AMARO,ORIME DO PADRE AMARÓ,ORIME DO PADRE AMARO,"ORIME DO PADRE AMARO
+
+Novembro...",ORIME DU PADRE AMARO,"ORIME DO PADRE AMARO
+
+Amélia","ORIME DO PADRE AMARO
+
+punhos","OEIME DO PADRE AMARO
+
+Aconselhou",ORIME DO PADER ANARO,URIME DO PADRE AMARO,OLÍIME DO PADRE AMARO,"ORIME DO PADRE AMARO
+
+tam","ORIME DO PADRE AMARO
+
+cal",padre Amaro,CHRIME DO PADRE AMARO,"ORIME DO PADRE AMARO
+
+caridade","ORIME DO PADRE AMARO
+
+cue te digo","ORIME DO PADRE AMARO
+
+Assunção",ORIME DO PADRE ANARO,"ORIME DO PADRE AMARO
+
+a","ORIME DO PADRE AMARO
+
+Lá","ORIME DO PADRE AMARO
+
+Amaro",UKIME DO PADRE ANARO,"ORIME DO PADRE AMARO
+
+vizinho",ORIMEÉ DO PADRE AMAKO,"ORIME DO PADRE AMARO
+
+aas tlores cheirosas",ORIME DO PADRÉ AMARO,"ORIMB DO PADRE AMARO
+
+verde do candeeiro","ORIME DO PADRE AMARO
+
+E",ORIMB DO PADRE AMARO,ORIMR DO PADRE AMARO,"ORIME DO PADRE AMARO
+
+Godinho",URIME DU PADRE ANARO,"ORIME DO PADRE AMARO
+
+Senhora da Boa Viagem",CnIME DO PADRE AMARO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Reden-,Tremer,RE,Repousarei,Recru-,Recu-,Represen-,pre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Boa besta,Estado,Jjado,malícia do Tentador!,Pst,Estamos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Julho,Mulher,Mulheres,Tulherias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,Grand,Grande,Engraxou,Grandioso,brandia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Chafariz,Faria,Proletariado,Sacrificaria,Garriffaldi,planeariam,Marialva,Mouraria,Lérias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Nêo,Nadamas,Damasco,meda macadamizada,Madalena,Acudam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Dá-ihe,4O,Ih,És,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Abria,Chateaubriand,Chateau-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Morais,mausoléu do Morais,Moravam,Cabrais,Moral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,bom Deus!,Deus,Adeus,causeuse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,CRIME DO PADRU,CRIME DO,OKIME DO,CRIME DO PADRE,OEIME DO PADRE,jardim do Paço,CRIME DÓ PADEE,CRIME DO PADEE,ORIME DO PADRE,i,U CRIME DO PADELE,CRIME DO PADNB,PLEASE DO,ocrimedopad,CRIME DO PADLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Praça...,Praça,pé da Praça,Graça,Praça Nova,Graça!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,pinheiros baixos,Pinheiros,Pinheiro,Petroleiros,Pinheiro deu-as,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,"Santo Inácio!
+Bendito",Bendito,Leia Santo Inácio,Santo Inácio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,"tam-
+bores","tam-
+bém to",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,bulialhe,Versalhes,Universo,Marsclhesa,Conversara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Safa,Abafava,Arfava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Alegros,Fé,"Vista-
+-Alegre",alegre,Vista-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,João,João Eduardo,João-,Job,S. João da Foz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,"pas-
+seio",pas-,"pas-
+seando","pas-
+seiam",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Amparo,"Amparo
+da botica",—,Preparou-a,Amparo da botica,Amparozinho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Totózinha,Totó,Totôzinha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,4 Voz do Distrito,Voz do Distrito,Cais do Sodré,Distrito!,REDACTOR da Voz do Distrito,Distrito,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,baça,Alcobaça,"Brito de
+Alcobaça",serra de Alcobaça,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Estrela,Relação,Estremoz,jardim da Estrela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,cabo dos guarda-chuvas,cabo do Ultramontanismo,cabo de polícia,cabo dum,cabo da faca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Abades,bom abade,Madre-Abadessa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,Vou,Ouf,Ouça,Ruça,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Leia,Leia Gavantus,Creia,Dulcineia,Judeia,Baleia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Gansozinhos,“,Gansosos,Raposo,Gansoso,"*
+Gansosos",Gansosinho,Filosofia,Trigoso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Carlos,Carli,S. Carlos,Carlota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,melha,Milhares,"Dar
+Filha","Dar
+Filha da mentira",Filho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,"cónego
+Dias",cónego,Cónego,cóncgo,córiego,Cã,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,RO,Roda,rouba,Ro,Apro-,Sátiro,prodígi,ro,"pro-
+gresso !","Outu-
+bro",Juro,Rossio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Lethes,Es,Tai ã Es,es,Estás,Nunes,Teles,Tesa,Estive,Tolices,Pieguices,Reso-,Burgueses,Fazes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Religião,gião,Vão,cirurgião da câmara,Egipto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,MErgEE,cova da enxerga,enxerga,Í,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Calvário,Breviário,Rio,Purgatório,mercúrio,Ofício,Osório,Ofertório,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,Campos Elísios,Impossibilis,Campos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,Introibo,Sintra,Atraiu-a,Entra,Traz-me,Sinto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,alecrim,Vaz,vale,spleen,palerma,Valeu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,Fazem-me,"lem-
+
+bra-te",Devem-no,Lem-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,alameda,Infame,Alameda Velha,Alameda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Esfregava,sôfrega,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,Forte,Norte,do Norte,rua do Norte,Forte besta!,Cortegaça,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,Fumaça,Mata,Matámo-lo,Amanhã,MA,Mau,maluco,Manon,mana,Maltês,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,"Pano-
+rama",Panorama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,Padre-Nossos,Madrid,Padre,Deus-Padre,PADRE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,Praça às Ave-Marias,Praça às Ave-Marias...,Saavedra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,Acordara,Taborda,Engordara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,Vá,Case-me,Disse-mo,Ah-—disse.o,Gethse-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,S. Crisólogo,Comendador de Cristo,"Pobre
+de Cristo",Pobre de Cristo,pobre de Cristo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,Cos,Cânticos,tos,Tossicou,Costurava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,Sousa,Córrego das Tristes,Sousas,rua da,rua das Sousas,"rua dos
+Sousas",rua dos Sousas,"rua das
+Sousas",Poço das Bentas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,Junho,Venha,Subvenite,Tenho,Venho,Ponho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,"Santa Joana
+de Aveiro","braço de
+Amélia","santa
+de Amélia",Santa Amélia,Amé-,cova de Amélia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,Arrede,Provarei,Couceiro,Terreiro,cueiro,Carreiro,Arrepen-,marmeleiro,carretão,Vimeiro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,Caramba,Via-Clara,Achara,arara,saragoça,Chegara,Alcântara,nar,Agarrara,Jevaram-na,Expirara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,Póôr-se,Pensávamos,Pensei,— Pensam,Ensina,Peixoto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,travesseirinha,Minta,Mélinha,Caminho,Caminhante,"cam-
+painha",Minha,palhinha,sôzinha,Cegonha,panelinha,Minho,galinha gorda,Lubin,Saldanhinha,chapinhando,Vinha,Joaninha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,Levantaremos,santa cruz,Tevantaria,cipe encantado,Santarém,Santa Catarina,Santa-,Santa,missanga,Santa Cecília,Santa Brígida,Santa Bárbara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,Inglaterra,serra,aterrado,Terra,Tertiô,"Nunes
+Ferral",Inter-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,Sol do Poente,Menino,S. Vicente,Trento,Ámen,Cármens,Casamento,Instintivamente,Mente,Sarmento,Positivamente,"Pimen-
+tel",Pimentas da Pojeira,"pie-
+dosamente",mexe-te,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,Baixa,Bairrada,Bairro Alto,Alto,Bairro de David,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,Delecluze,Cruzes,Cruz,duzem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Videira,Brincadeiras,Deixem,Madeira,Verdadeira-,cordeiro,"madre
+rodeira",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,Ferrões,bom Ferrão,Feirão,enxurrão,Fer,Ferrão,"bom
+Ferrão",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,Jesocupada,ripanço,Pago,Europa,pa,palrava,Paço,pac,lorpa,Nopal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,Rosa,Barrosa,"estrada da
+Barrosa",Barroca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,— Quebrou,genebra,— Quem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,Senhora do Rosário,Ok Senhora das Dores,"pedra do
+paço","casa da
+senhora marquesa de Alegros",Nossa Senhora das Dores,"Nossa Senhora
+das Dores","Nossa
+Senhora das Dores","Nossa Senhora das
+Sete Chagas",Senhora Mãe dos Homens,Pataratas do Saldanha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,"Portu-
+gal",Porto,Portugal,Porta de Ouro,em Portugal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,Novaisitos,Novais,casa do Novais,bom Novais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,pilar branco,S. Francisco,Estigmas de S. Francisco,S. Pascoal Bailão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Provença,Doença,Licença,Endoenças,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,chan-,Arranja-se-lhe,Arran-,barraca,Gan-,Marrazes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Trigueira,Figueira,Vaqueira,estrada da Figueira,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,"Bois
+
+ois",Bois,Coisa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,ornear,CARNE,Carne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,"bom
+Marques",KXV,Torque-,Marques,Vasques,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,Quieta,saleta,saleta da S. Joa-,Palletan,Salento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,MINAS DE SALOMÃO,Una paloma,Salomã,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,"Mise-
+reatur",Mise-,"Mise-
+rere",Miserere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,Outra-Banda,"apa-
+nhando",Anda-me,Anda,Sacke-hands,anda,Suspenda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,Sé,Morena de Leiria,Sé de Leiria,Jardim de Lázaro,Leiria,Ninon de Lenclos,Onde Leiria,dalizar Leiria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,Rapariga,Obrigado,Obrigada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,Conheci,Conhecia-a,Devia-a,Emagrecia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,Arco do Triunfo,Arco,Arcada,Circo,Arco...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,Paradou,Tira-mo,Assombrado,Tirado,Amodorrado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,Cáspite,zás,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,Espavorida,Espaçava,Espanha,Nutrida,Autoridade,Pavonio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,Quero,trinque,Quere-me,Queres,Teresas,Quereis,Queria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,reino do Céu,Porta do inferno,"veiro do Céu;""e",asa do capão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Capujá...,Capujá,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,Mor-,Amorável,Difamou,Vamo-nos,Famosa,Amor,Quorum,Moço,Morta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Expe-,Exc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,Ande,Mande,Fernandes,Mendes,nandes,Nantes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,Santo Antão,Santo Ambrósio,Santo António,"Santo Ilde-
+fonso",santo,Santo Tirso,boca dum santo,"Santis-
+sima Trindade",Santis-,Laboranti,Ievantou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,Japão,Hã,Hão-de,Malhão,Covilhã,lhão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Extrema-Unção,Assunção,"snr*
+D. Maria da Assunção",Ossuna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,névoa,Sé de Évora,"Sé de
+Évora",Távoras,ora-,Évora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,snr,Snr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,Convenção de Berna,Chão de Maçãs,"Chão de
+Maçãs",maçãs assadas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,Lisboa de Amaro Vieira,Lisboa,Oh,Boa,Lisboa...,estrada de Lisboa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,Gouveia,Gouvei,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,Lis-,Joli,Bispo,Pis,Lis,Eliseus,Filistinos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,Foste,XI,"monte do
+Castelo",Castelo,Castaldus,Traste,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,Chum-,Chut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,"Ur
+
+Digitized",Indignus,Digo,Viga-,jeropiga,Diga,fadiga,ig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,Perdoe-me,Perderam-me,Perdoa,Perdão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,Pároco,pároco,Ki,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,UKRIME,S. Gorislano,ORIME,Começos da Primavera,U ORIME,U CRIME,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,dir-lim,Inimigo,dim,Coimbra,Olimpo,Im,Berlim,Sim,Vim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,OEIME DO PADRE AMADO,"CRIME DO PADRE AMARO
+
+mada","CRIME DO PADRE AMARO
+
+de fósforos","CRIME DO PADRE AMARO
+
+do jantar","CRIME DO PADRE AMARO
+
+rabeca",UKIME DO PADRE AMARO,"CRIME DO PADRE AMARO
+
+Atirou-lho","CRIME DO PADRE AMARO
+
+lhas","CRIME DO PADRE AMARO
+
+& cabeceira","CRIME PO PADRE AMARO
+
+ 
+
+Tinha",CRiME DO PADRE AMARO,CRIME DO PAnRE AMARO,"CRIME D9 PADRE AMARO
+
+reu","CRIME DO PADRE AMARO
+
+Ta-a","CRIME DO PADRE AMARO
+
+Dias",CRIME DO PADKE AMARO,"CRIME DO PADRE AMARO
+
+padre","CRIME DO PADRE AMARO
+
+boulevard da Bastilha","CRIME DO PADRE AMARO
+
+Queria","CRIME DO PADRE AMARO
+
+Chamou",CRIME PO PADRE AMARO,CRIME DU PADRE AMARO,"CRIME DO
+PADRE AMARO",CRIME DO PANRE AMARO,"CRIME DO PADRE AMARO
+
+senhor",CRIME DO PADRE ANARO,CRIME DU PADEÉ AMARHÚ,CRIME DO PADRE AMAEO,"OBIME DO PALEE AMARO
+
+Janota",CRIME DO PADRE AMARU,OHIME DO PADRE AMARO,U CRIME DO PADRE AMARO,"CRIME DO PADRE AMARGO
+de Agosto","CRIME DO PADRE AMARO
+
+trudes","CRIME
+DO PADRE AMARO","CRIME DO PADRE AMARO
+Que João Cabral da Silva Maldonado
+Mendonça de Gouveia","CRIME PO PADRE AMARO
+
+de couro","CRIME DO PADRE AMARO
+
+pássaros",CRIME DO PADRE AMARO “,CRIME DO PADRE AXARO,"CRIME DO PADRE AMARO
+
+sa","CRIME DO PADRE AMARO
+
+chibatava",CRIME DO PADRE AMARG,CRIME DO PADRE AMAEG,"CRIME DO PADRE AMARO
+
+dade de esposo","CRIME DO PADRE AMARO
+
+siasmado",CRIME DO PADRU AMARO,"CRIME DO PADRE AMARO
+Saia","CRIME DO PADRE AMARO
+
+cinta",CRIME DO PADRE AMARO,"CRIME DO PADEE AMARO
+
+Amaro","CRIME DO PADRE AMARO
+
+mesa","CRIME DO PADRE AMARO
+
+Desprendeu-se","CRIME DO PADRE AMARO
+
+da Maia",GRIME DO PADRE AMARO,OPIME DO PADRE AMARO,"CRIME DO PADRE AMARO
+
+negra","CRIME DO PADRE AMARO
+
+mudeando","CRIME DO PADRE AMARO
+
+Dorme","CRIME DO PADRE AMARO
+
+lata","CRIME DO PADRE AMARO
+
+Aldeola","CRIME DO PADRE AMARO
+
+Da terrina","CRIME DO PADRE AMARO
+
+tas",CRINF DO PADRE AMARO,"CRIME DO PADRE AMARO
+
+alta",OERIME DO PADRE AMARO,CRIME DO PADRE AMAKO,CRIME DO PADRE AMAPO,"CRIME -DO PADRE AMARO
+
+Amaro","CRIME DO PADRE AMARO
+
+da serra!",CRIME DO PADEE AMARO,"CRIME DO PADRE AMARO
+
+Instintivamente",CRIME DO PADRE AMARÓ,"CRIME DO PADRE AMARO
+
+cabo","CRIME DO PADRE AMARO
+
+nhos",CRIME D9 PADRE AMARO,"CRIME DO PADRE AMARO
+
+snr",OEIME DO PADRE AMARO,PADRE AMARO,CRIME DO PADRE AMARO 5,"CRIME DO PADRE AMARO
+
+senhor padre Natário"
+141,Apoiado,Poiais,"cemitério
+de Poiais",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,necessita,Necessitava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,Calafates,Pala-,"rua dos Cala-
+fates n.º 53",Calas-te,"Cala-
+fates",Catecismo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,Cu,"OJUTADEL,|",Escute,Escusa,Escuta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,Pobre Teles,Abre,Pobre,Nobres,Sobre-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,Brito Correia,sorri,Coroa,Correia,rua do Correio,corujas,Corre,Correu,Corja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,Paciência,Pru-,Providência,Prudência,PONDÊNCIA,"Peni-
+tência",Vicência,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,Arouca,Carocho,faro,Cardoso,Atharo,Caro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,Simpatia,"cosia de
+lyneta",Ásia,Pérsia,Dionísia,Dionisia,sia,nisia,nísia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,Lambão,Temo-la,latão,Chalaça,Popúlar,Sílabo,Acumulava,Olaré,lampeão,LA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,S. Joaneira!,"casa da
+S. Joaneira",Amêliazinha da S. Joaneira,S. Joa-,"Praça pera
+casa da S. Joaneira",S. Luís,S. Joaneira,Janeiro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,Vidalti,lívida,Grávida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,palmas de mártires,Palma,palmas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,Tajeado da Sé,lajeado do largo,lajeado,lajes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,Outono,Doutor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,pondia,Índia,Dias,índia,Índias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,Éclogas,Abalou,Heliogabalo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,Ameliazinha,"Amêlia-
+zinha !",Ameéliazinha,Amêliazita,Amêliazinha,Amtêliazinha,Améliazinha,Ameêliazinha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,Jado do Loreto,Rigoleto,Mater-doloresa,Flores,Loreto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,Vêde-o,Pede-os,Pedroso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,Jerusalém,Persevere,Perfeito,Liberus,Lausperene,Percebera,peru,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,Pol-,Babilónia,Polónia,Santa Apolónia,insónia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,Esguelhas,Esgueinas,Ergueu-,Esgue-,Guedes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,Imaginem,Imaginara,Imagine,gerina,Imaginas,Imaginava,Medicina,Imagina,China,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,Dominara,pst do Domingos,S. Domingos,Abominava,Domingos,Dominus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,República,Passei,Passeio Público,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,Animais,saia branca,Caia,Ai,Maia,Demais,Maio,Saias,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,Aconselhou,Cacete,Macaco e da Baleia,Macaco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,Vadios,Adian-,invadia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,botica,Política Estrangeira,Jítica,Política,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,Pompa Espiritual,Mártires,Buénos-Aires,Pires,— Resumia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,Hoc,Batalha,Canalha,t,chocalhava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,bom paio,silvas,Silvério,bom Silvério,bom Ea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,Baldeschi,Saúde,Dey,Debalde,aldeia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,tristeza,Corpus-Christi,Indigestão,sacristão,sacristães,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Joanita,Bonito,Bonita,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,"taverna do
+tio Serafim",banco da taberna,tabernas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,Absolver,Sobe,olkar,Sol,Solidão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,Olha,Recolheu,velhe,Olhe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,Contempias,posponto,Srponto,poa,Charonte,Ponte,Defronte,tonturas,Ponte Nova,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,casacão,Havanesa,Casa Havanesa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,Epístola,Custou,Brístol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,depósito da Misericórdia,Córdova,rua da Misericórdia,"rua
+la Misericórdia","rua da
+Misericórdia","Mise-
+ricórdia","rua da Miseri-
+córdia",Misericór-,Misericórdia,Concórdia,"rua
+da Misericórdia",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,Carcavelos,Pesadelos,LELLO,velos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,para-,LS,Paraíso,Paris,Paraiso,paraiso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,Laudo,Tudo,Tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,Pereira,Ir,Vira,bebedeira,Vieira,"pri-
+meira",Gralheira,Baboseiras,"Gra-
+lheira",Beijo,praia da Vieira,Beira,trapeira,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,tonas,sotainas,zas,Boas-noites,anasarca,Una,nas-,Cas-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,Fica,embasbacava,polcava,Dava,Cavalgadura,Causava,Benfica,Ficava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,Juliana,Chiado,Júlia,Argélia,Agonia,Ria,Escócia,Gizia,Via-o,Eugênia,Taziam,gania,Amelia-,Betânia,Augias,calúmias,Etiópia,Haviam,Améiia,Ia,Cumiada,Jóia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,Igrea,Igreja...,Tgreja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,Merati,Fatigou,Ea,Beati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,consoladinho,Morgaditos,Cansadinho,"Mor-
+gadinho",Morgadinho,Morgados,Morgado,Morgadinhos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,Achava-o,Podia,Odiava-o,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,Algarve,falua,Pombal,bengalão,caluda,quintal,Al,Jabial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,Secundô,Mundo,Dois Mundos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,"PADEL AMARO
+
+Natário",Natária,Natá-,Natário,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,Desconfiai,Escorpião,escre,Escolástica,Esco-,sc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,Feche,— Fecha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,Santíssimo Sacramento,Certíssimo,"Santíssimo
+Sacramento",Santíssimo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,Tomar,Togo,Tome,Roma,Tomavam-na,Toma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,torre gemeu,"Torre
+de Babel",Minuete de Mozart,Belém,Torre de Babel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,rugiu Amaro,Amara,Amaru,Amaró,paiire Amaro,Sou Amaro,AMARHÚ,Oh Amaro,AMARU,Ó Amaro,Ribamar,“Amaro,amaro,” Amaro?,Amaro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,Jnspector,Recados,Cansadote,Pecado,adormecida,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,Ricoça,Ricas,Rica,Rico,Benedicat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,Natureza,Mur-,Juras,Ourém,Furão,Ur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,Carvalhosa,Agasalha-te,Agasalho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,Hossana,Posso,Nossa,Vossemecê,Vocês,Vossa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,Fale-lhe,Pode-lhe,Dize-lhe,Hei-de,Hei-de-lhe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,Jeito,Espírito,bric-à-brac,Brito,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,Longuinhos,Carlinhos,Inglesinhos,ombrozinhos,Godinho,Evangelhos,Godinhos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,Lully,estã Sul,suor,Sul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,F,Civilização,Civilização...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,More-,serena,Morenal,Morena,Renans,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,"Agos-
+tinho",gozo,"pocilga do
+Agostinho",Trago,pos-,Agos-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,Iv,Divagava,Vivia,Xavier,Viva,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,rua dos Condes,Aonde,Convindo,Desavergonhada,Condes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,"Eterna
+Dor",Ternei,taciturnidade dos santos,"Eternidade dos
+Louvores",Brutalidades,Eternidade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,Estimava,Instava,Voltava,Gostas,Repastava,Gostava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,altares,Salte,Salta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,V. S.,S. Sebastiões,"Reco-
+nheceu S. Sebastião",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,Aquilo,"LA
+FAUTE",fauteuil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,Ger-,Pudera,Trunfo,Gertrudinhas,Gertrudes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
