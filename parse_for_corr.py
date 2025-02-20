@@ -1,4 +1,5 @@
 from pathlib import Path
+from typing import Iterable, List, Generator
 
 import pandas as pd
 from tqdm.auto import tqdm
@@ -27,37 +28,105 @@ def from_for_corr_and_points_to_gt_points(
 
     df_joined.to_json(path_to_save, orient='records', lines=True)
 
+
+def corr_finder(root: Path, key: str, suffix: str, exclude:str) -> Generator[Path, None, None]:
+    for path in root.iterdir():
+        if path.is_dir():
+            yield from corr_finder(path, key, suffix, exclude)
+        elif key in path.name and path.suffix == suffix and exclude not in path.name:
+            yield path
+
+def keep_good_corrs(corrs: Iterable[Path]) -> List[Path]:
+    per_parent = {}
+    for corr in corrs:
+        if corr.parent not in per_parent:
+            per_parent[corr.parent] = []
+        per_parent[corr.parent].append(corr)
+
+    res = []
+    for parent, corrs in per_parent.items():
+        if len(corrs) > 1:
+            print(f"Multiple corrs for {parent.name}: {corrs}")
+
+            longest_name = max(corrs, key=lambda x: len(x.name))
+            print(f"Keeping {longest_name}")
+            res.append(longest_name)
+        else:
+            res.append(corrs[0])
+
+    return res
+
+def point_from_corr(corr: Path) -> Path:
+    return corr.parent / f"{corr.with_suffix('.jsonl').name.split('df_points_for_corr')[0].strip('_')}_df_points.jsonl"
+
+def all_points_from_corrs(corrs: List[Path]) -> List[Path]:
+    return [point_from_corr(corr) for corr in corrs]
+
+def outp_from_corr(outp_dir: Path, corr: Path) -> Path:
+    return outp_dir / f"{corr.parent.name}_GT_df_points.jsonl"
+
+def all_outps_from_corrs(outp_dir: Path, corrs: List[Path]) -> List[Path]:
+    return [outp_from_corr(outp_dir, corr) for corr in corrs]
+
+
 if __name__ == "__main__":
-    corrs = [
-        "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points_for_corr.csv",
-        "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr.csv",
-        "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points_for_corr.csv",
-        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr.csv",
-        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points_for_corr.csv",
-        "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr.csv",
-    ]
+    # corrs = [
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points_for_corr.csv",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr.csv",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points_for_corr.csv",
+    #     "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr.csv",
+    #     "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points_for_corr.csv",
+    #     "corpus (Copie)/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr.csv",
+    # ]
+    #
+    # points = [
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropHyperparams2_df_points.jsonl",
+    # ]
+    #
+    # outputs = [
+    #     "outp/AGUILAR_home-influence_Kraken_GT_df_points.jsonl",
+    #     "outp/AGUILAR_home-influence_Tesseract-PNG_GT_df_points.jsonl",
+    #     "outp/AGUILAR_home-influence_REF_GT_df_points.jsonl",
+    #     "outp/AIMARD_les-trappeurs_Kraken-base_GT_df_points.jsonl",
+    #     "outp/AIMARD_les-trappeurs_TesseractFra-PNG_GT_df_points.jsonl",
+    #     "outp/AIMARD_les-trappeurs_PP_GT_df_points.jsonl",
+    # ]
 
-    points = [
-        "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points.jsonl",
-        "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points.jsonl",
-        "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropHyperparams2_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropHyperparams2_df_points.jsonl",
-        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropHyperparams2_df_points.jsonl",
-    ]
+    corrs = corr_finder(Path("corpus_en"), "OK2", ".csv", "friendly")
+    corrs = keep_good_corrs(corrs)
 
-    outputs = [
-        "outp/AGUILAR_home-influence_Kraken_GT_df_points.jsonl",
-        "outp/AGUILAR_home-influence_Tesseract-PNG_GT_df_points.jsonl",
-        "outp/AGUILAR_home-influence_REF_GT_df_points.jsonl",
-        "outp/AIMARD_les-trappeurs_Kraken-base_GT_df_points.jsonl",
-        "outp/AIMARD_les-trappeurs_TesseractFra-PNG_GT_df_points.jsonl",
-        "outp/AIMARD_les-trappeurs_PP_GT_df_points.jsonl",
-    ]
+    points = all_points_from_corrs(corrs)
+
+    outputs = all_outps_from_corrs(Path("outp"), corrs)
+
+    # corrs = [
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr-annot_OK2.csv",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr-annot-OK-note.csv",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr_friendly_corr-annot-OK.csv",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points_for_corr-annot_OK2.csv",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points_for_corr-annot-OK2.csv",
+    # ]
+    #
+    # points = [
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points.jsonl",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points.jsonl",
+    # ]
+    #
+    # outputs = [
+    #     "outp/AGUILAR_home-influence_Tesseract-PNG_GT_df_points.jsonl",
+    #     "outp/AIMARD_les-trappeurs_Kraken-base_GT_df_points.jsonl",
+    #     "outp/AIMARD_les-trappeurs_PP_GT_df_points.jsonl",
+    #     "outp/AGUILAR_home-influence_Kraken_GT_df_points.jsonl",
+    #     "outp/AGUILAR_home-influence_REF_GT_df_points.jsonl",
+    # ]
 
     for corr, point, output in tqdm(zip(corrs, points, outputs)):
         from_for_corr_and_points_to_gt_points(Path(corr), Path(point), Path(output))
-
-
-
-
