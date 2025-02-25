@@ -56,6 +56,10 @@ def do_one_ref(ref, hyp_dir):
     res = {}
     pbar = tqdm(list(find_hyps(hyp_dir)))
     for hyp in pbar:
+        if "GT" in hyp.name:
+            pbar.write(f"Skipping {hyp.name} (GT)")
+            continue
+
         pbar.set_description(hyp.name)
         hyp_df = pl.read_ndjson(hyp)
 
