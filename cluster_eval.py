@@ -29,6 +29,10 @@ pos_metrics = {
     "davies_bouldin_score": davies_bouldin_score,
 }
 
+def get_lang_from_path(path: Path)->str:
+    for part in path.parts:
+        if part.startswith("corpus"):
+            return part.split("_")[1] if "_" in part else "fr"
 
 def do_metric(metric, yhat, y_or_X):
     try:
@@ -50,10 +54,12 @@ def find_hyps(book_dir: Path):
 
 
 def do_one_ref(ref, hyp_dir):
+    lang = get_lang_from_path(hyp_dir)
+
     ref_df = pl.read_ndjson(ref)
     y = ref_df[y_col].to_numpy()
 
-    res = {}
+    res = {"lang": lang}
     pbar = tqdm(list(find_hyps(hyp_dir)))
     for hyp in pbar:
         if "GT" in hyp.name:
