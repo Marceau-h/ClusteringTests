@@ -102,6 +102,10 @@ if __name__ == '__main__':
         "AGUILAR_REF_GT_df_points.jsonl",
         "AGUILAR_Kraken_GT_df_points.jsonl",
         "AGUILAR_Tesseract-PNG_GT_df_points.jsonl",
+
+        "AIMARD-TRAPPEURS_REF_GT_df_points.jsonl",
+        "AIMARD-TRAPPEURS_kraken_GT_df_points.jsonl",
+        "AIMARD-TRAPPEURS_TesseractFra-PNG_GT_df_points.jsonl",
     )
 
     refs = tuple(Path("outp") / ref for ref in refs)
@@ -110,6 +114,10 @@ if __name__ == '__main__':
         "corpus_en/AGUILAR_home-influence/AGUILAR_REF",
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken",
         "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG",
+
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF",
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken",
+        "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG",
     )
 
     hyp_dirs = tuple(Path(hyp_dir) for hyp_dir in hyp_dirs)
