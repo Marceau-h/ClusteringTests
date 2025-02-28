@@ -8,7 +8,8 @@ from tqdm.auto import tqdm
 def from_for_corr_and_points_to_gt_points(
         path_to_corr: Path,
         path_to_points: Path,
-        path_to_save: Path
+        path_to_save: Path,
+        **bonus_fields
 ) -> None:
     print(f"Processing {path_to_corr.name} and {path_to_points.name} to {path_to_save.name}")
 
@@ -30,6 +31,9 @@ def from_for_corr_and_points_to_gt_points(
 
     df_joined.drop(columns=['cluster_y', "cluster_x"], inplace=True)
     df_joined.rename(columns={'cluster_corrected': 'cluster'}, inplace=True)
+
+    for k, v in bonus_fields.items():
+        df_joined[k] = v
 
     df_joined.to_json(path_to_save, orient='records', lines=True)
 
@@ -111,13 +115,22 @@ if __name__ == "__main__":
 
     corrs_en = corr_finder(Path("corpus_en"), "OK2", ".csv", "friendly")
     corrs_fr = corr_finder(Path("corpus"), "OK", ".csv", {"friendly", "note"})
-    corrs = keep_good_corrs(corrs_en) + keep_good_corrs(corrs_fr)
+    corrs_en = keep_good_corrs(corrs_en)
+    corrs_fr = keep_good_corrs(corrs_fr)
 
-    print(corrs)
+    corrs = corrs_en + corrs_fr
+    print(*corrs, sep="\n")
 
     points = all_points_from_corrs(corrs)
 
     outputs = all_outps_from_corrs(Path("outp"), corrs)
+
+    bonus_fields = [
+        {"lang": "en"}
+    ] * len(corrs_en) + [
+        {"lang": "fr"}
+    ] * len(corrs_fr)
+
 
     # corrs = [
     #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr-annot_OK2.csv",
@@ -143,5 +156,5 @@ if __name__ == "__main__":
     #     "outp/AGUILAR_home-influence_REF_GT_df_points.jsonl",
     # ]
 
-    for corr, point, output in tqdm(zip(corrs, points, outputs)):
-        from_for_corr_and_points_to_gt_points(Path(corr), Path(point), Path(output))
+    for corr, point, output, bf in tqdm(zip(corrs, points, outputs, bonus_fields), total=len(corrs)):
+        from_for_corr_and_points_to_gt_points(Path(corr), Path(point), Path(output), **bf)
