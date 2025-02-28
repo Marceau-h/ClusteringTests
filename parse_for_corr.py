@@ -12,7 +12,12 @@ def from_for_corr_and_points_to_gt_points(
 ) -> None:
     print(f"Processing {path_to_corr.name} and {path_to_points.name} to {path_to_save.name}")
 
-    df_corr = pd.read_csv(path_to_corr)
+    try:
+        df_corr = pd.read_csv(path_to_corr)
+        assert df_corr.shape[1] == 3
+    except (pd.errors.ParserError, AssertionError):
+        df_corr = pd.read_csv(path_to_corr, sep=';')
+
     assert df_corr.cluster_corrected.isna().sum() < df_corr.shape[0]
     df_corr.cluster_corrected.fillna(-1, inplace=True)
 
@@ -29,11 +34,18 @@ def from_for_corr_and_points_to_gt_points(
     df_joined.to_json(path_to_save, orient='records', lines=True)
 
 
-def corr_finder(root: Path, key: str, suffix: str, exclude:str) -> Generator[Path, None, None]:
+def corr_finder(root: Path, key: str, suffix: str, exclude:str|Iterable[str]) -> Generator[Path, None, None]:
+    if isinstance(exclude, str):
+        exclude = {exclude}
+    elif isinstance(exclude, Iterable):
+        exclude = set(exclude)
+    else:
+        raise ValueError(f"exclude must be a str or an Iterable, got {exclude}")
+
     for path in root.iterdir():
         if path.is_dir():
             yield from corr_finder(path, key, suffix, exclude)
-        elif key in path.name and path.suffix == suffix and exclude not in path.name:
+        elif key in path.name and path.suffix == suffix and not any(excl in path.name for excl in exclude):
             yield path
 
 def keep_good_corrs(corrs: Iterable[Path]) -> List[Path]:
@@ -97,8 +109,11 @@ if __name__ == "__main__":
     #     "outp/AIMARD_les-trappeurs_PP_GT_df_points.jsonl",
     # ]
 
-    corrs = corr_finder(Path("corpus_en"), "OK2", ".csv", "friendly")
-    corrs = keep_good_corrs(corrs)
+    corrs_en = corr_finder(Path("corpus_en"), "OK2", ".csv", "friendly")
+    corrs_fr = corr_finder(Path("corpus"), "OK", ".csv", {"friendly", "note"})
+    corrs = keep_good_corrs(corrs_en) + keep_good_corrs(corrs_fr)
+
+    print(corrs)
 
     points = all_points_from_corrs(corrs)
 
