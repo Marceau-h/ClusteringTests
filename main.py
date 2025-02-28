@@ -22,6 +22,8 @@ from ClusterDBScan import cluster as cluster_dbscan
 from ClusterHDBScan import cluster as cluster_hdbscan
 from ClusterOptics import cluster as cluster_optics
 
+from ClusterHelper import ClusterHelper
+
 cluster_methods = {
     "Default": cluster_default,
     "AffpropHyperparams": cluster_affprop_hyperparams,
@@ -34,22 +36,6 @@ cluster_methods = {
     "Optics": cluster_optics,
     }
 
-
-def numpyToPythonType(obj):
-    if isinstance(obj, np.integer):
-        return int(obj)
-    elif isinstance(obj, np.floating):
-        return float(obj)
-    elif isinstance(obj, np.ndarray):
-        return obj.tolist()
-    elif isinstance(obj, np.bool_):
-        return bool(obj)
-    elif isinstance(obj, np.void):
-        return None
-    elif isinstance(obj, set):
-        return list(obj)
-
-    raise TypeError
 
 
 def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
@@ -87,9 +73,9 @@ def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
     for name, cluster_method in cluster_methods.items():
         points, clusters, dp, dpc = cluster_method(entities)
         with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
-            json.dump(points, f, ensure_ascii=False, default=numpyToPythonType)
+            json.dump(points, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
         with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
-            json.dump(clusters, f, ensure_ascii=False, default=numpyToPythonType)
+            json.dump(clusters, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
 
         dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
         dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
@@ -125,9 +111,9 @@ def do_1_text_constructor(resume:bool=True):
         for name, cluster_method in cluster_methods.items():
             points, clusters, dp, dpc = cluster_method(entities)
             with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
-                json.dump(points, f, ensure_ascii=False, default=numpyToPythonType)
+                json.dump(points, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
             with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
-                json.dump(clusters, f, ensure_ascii=False, default=numpyToPythonType)
+                json.dump(clusters, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
 
             dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
             dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
@@ -171,8 +157,8 @@ def dpc_to_friendly_csv(dpc: pd.DataFrame, path: Path) -> None:
 
 
 def main(path: Path, lang:str='fr', resume:bool=True) -> None:
-    warnings.simplefilter("ignore")
-    print("Caution: The warnings will be displayed ignored (too many warnings otherwise)")
+    warnings.simplefilter("ignore") # Ignore warnings in this scope
+    print("Caution: The warnings will be ignored (too many warnings otherwise)")
     if path.is_dir():
         files = list(recursive_find_docs(path))
         # do_1_text = do_1_text_constructor(resume)
@@ -206,8 +192,8 @@ def reset_errors(path: Path) -> None:
         raise ValueError(f"{path} is not a file or a directory")
 
 if __name__ == "__main__":
-    # corpus, lang = Path("corpus"), "fr"
-    corpus, lang = Path("corpus_en"), "en"
+    corpus, lang = Path("corpus"), "fr"
+    # corpus, lang = Path("corpus_en"), "en"
     # corpus, lang = Path("corpus_pt"), "pt"
     # reset_errors(corpus)
     main(corpus, lang, True)
