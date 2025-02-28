@@ -1,34 +1,18 @@
-import json
-from typing import List
+from typing import List, Any
 
 import numpy as np
 import pandas as pd
+from pandas import DataFrame
 from sklearn.cluster import MiniBatchKMeans
 from sklearn.decomposition import TruncatedSVD as SVD
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_distances
 
-cols_to_keep = ['text', 'cluster']
+from ClusterHelper import ClusterHelper
+from errors import SmolBoi
 
 
-def numpyToPythonType(obj):
-    if isinstance(obj, np.integer):
-        return int(obj)
-    elif isinstance(obj, np.floating):
-        return float(obj)
-    elif isinstance(obj, np.ndarray):
-        return obj.tolist()
-    elif isinstance(obj, np.bool_):
-        return bool(obj)
-    elif isinstance(obj, np.void):
-        return None
-    elif isinstance(obj, set):
-        return list(obj)
-
-    raise TypeError
-
-
-def cluster(docs: List[str]) -> dict:
+def cluster(docs: List[str]) -> tuple[list[dict[str, Any]], dict[str, set], DataFrame, DataFrame]:
     """
     Cluster the documents
     :param docs: The documents to cluster
@@ -37,7 +21,10 @@ def cluster(docs: List[str]) -> dict:
     treshold = 0.1
 
     V = CountVectorizer(ngram_range=(3, 4), analyzer='char', min_df=3)
-    X = V.fit_transform(docs).toarray()
+    try:
+        X = V.fit_transform(docs).toarray()
+    except ValueError:
+        raise SmolBoi("Not enough data to cluster")
     X_dist = cosine_distances(X)
 
     svd = SVD(n_components=2)
@@ -74,62 +61,47 @@ def cluster(docs: List[str]) -> dict:
             else:
                 wo_cluster.append(word)
 
-    points = []
-    for i, doc in enumerate(docs):
-        points.append(
-            {
-                "text": doc,
-                "x_pos": X_dist_svd[i][0],
-                "y_pos": X_dist_svd[i][1],
-                "cluster": best.labels_[i],
-                "is_centroid": best.cluster_centers_[best.labels_[i]] == X_dist_svd[i]
-            }
-        )
+    # points = []
+    # for i, doc in enumerate(docs):
+    #     points.append(
+    #         {
+    #             "text": doc,
+    #             "x_pos": X_dist_svd[i][0],
+    #             "y_pos": X_dist_svd[i][1],
+    #             "cluster": best.labels_[i],
+    #             "is_centroid": best.cluster_centers_[best.labels_[i]] == X_dist_svd[i]
+    #         }
+    #     )
+    #
+    # for word in wo_cluster:
+    #     points.append(
+    #         {
+    #             "text": word,
+    #             "x_pos": None,
+    #             "y_pos": None,
+    #             "cluster": -1,
+    #             "is_centroid": False
+    #         }
+    #     )
+    #
+    # clusters = {}
+    # for cluster_id in np.unique(best.labels_):
+    #     cluster = {docs[i] for i in range(len(docs)) if best.labels_[i] == cluster_id}
+    #     clusters[str(cluster_id)] = cluster
 
-    for word in wo_cluster:
-        points.append(
-            {
-                "text": word,
-                "x_pos": None,
-                "y_pos": None,
-                "cluster": -1,
-                "is_centroid": False
-            }
-        )
-
-    clusters = {}
-    for cluster_id in np.unique(best.labels_):
-        cluster = {docs[i] for i in range(len(docs)) if best.labels_[i] == cluster_id}
-        clusters[str(cluster_id)] = cluster
+    points, clusters, df_points, df_points_for_corr = ClusterHelper.generate_whole_outputs(docs, X, best.labels_)
 
     clusters["-1"] = wo_cluster
 
     df_points = pd.DataFrame(points)
-    df_points_for_corr = df_points[cols_to_keep].copy()
+    df_points_for_corr = df_points[ClusterHelper.cols_to_keep].copy()
     df_points_for_corr['cluster_corrected'] = ""
 
     return points, clusters, df_points, df_points_for_corr
 
 
 if __name__ == "__main__":
-    with open("sm_entities.json", "r", encoding="utf-8") as f:
-        sm_entities = set(json.load(f))
-
-    with open("lg_entities.json", "r", encoding="utf-8") as f:
-        lg_entities = set(json.load(f))
-
-    points, clusters, dp, dpc = cluster(list(sm_entities | lg_entities))
-
     # Name of the script \wo the `Cluster` prefix and the .py extension
     filename = __file__.rsplit("/", 1)[1][7:-3]
 
-    with open(f"tests/points_{filename}.json", "w", encoding="utf-8") as f:
-        json.dump(points, f, ensure_ascii=False, indent=4, default=numpyToPythonType)
-
-    with open(f"tests/clusters_{filename}.json", "w", encoding="utf-8") as f:
-        json.dump(clusters, f, ensure_ascii=False, indent=4, default=numpyToPythonType)
-
-
-    dp.to_json(f"tests/df_points_{filename}.jsonl", orient="records", lines=True)
-    dpc.to_json(f"tests/df_points_for_corr_{filename}.jsonl", orient="records", lines=True)
-    dpc.to_csv(f"tests/df_points_for_corr_{filename}.csv", index=False)
+    ClusterHelper.main(cluster, filename)
