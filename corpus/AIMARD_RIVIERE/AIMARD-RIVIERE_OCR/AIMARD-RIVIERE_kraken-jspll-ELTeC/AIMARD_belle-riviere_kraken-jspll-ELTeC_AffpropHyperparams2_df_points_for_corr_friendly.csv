@@ -1,32 +1,388 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40
-0,mone,".,L",lulL rapidemonl,Jumon-,IV,A4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,Rameau-d'O,Ramneau-d'Or,Rameau-d'Or,lameau d',Rameau-d'O.,Rameau-,Rameau-d,Rameau-d',IRameau-d'O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,faitel,- Faites,hospilalitel,Parfait,S',c1,retaitel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,tantbt,Anticosti,lDevant,Tuant,eflechissant,caignant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,- Suis,IL L0puis,.Puis,JE.-',guisel,"IL,1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,Quoi7,- Pourquoi7,zzz:35-,Quoil,lroquois,tibus,poulquoi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,"II
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41
+0,secet,oi,Océan,piece,us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Laisse,Mlais,tete baissee,I11,z=,Laissons,S-,Mississipi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,ordes,mavkawis,Accordez,Bordeaux,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"A
+ I
+l--
+I
+riii",ES,Luy,L--7,"A
 
-E","II
+I
+1","E
+A
 
-ELLE","I
+I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,soldut,soldatd',m-,"or,-",toldos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,fort Necessite,7I,Necessite,"fort
+Rupert",.-Je,fort Ncessite,.C,c1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Quoi7,- Pourquoi7,by God,poulquoi,Quoil,lroquois,"g2
+ 
+I",Pdldu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Voil,Voilh,voila,A,Voili,ELD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ompagnons,accompague,cotpagnon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,FORT DUQUESNE,fort Duquesne,Iort Duquesne,aprbes,Duquesne,fort Duquesnel,"I
+cI.",Chuque,"fort
+Duquesne",Duquese,fot Duquesne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Kouha-Hande,louha-Hande,Iouha-,Iouha-Hand6,Kouha,Iouha-Hande,IKouha-Hande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Viens,Inliens,Viens-tu?,revienlt,Tiens,s6,miens,II,z-,Reviendrez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Etats-Unis,etat,Y-:s,Mnis,"etat de
+defense",zeeta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Couleuwre,"P,-F",.r-3-r-,Coulon,Couleure,soulenir,Couleuve,Couleuure,toules,oula,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,pourvU,pouR,poude,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,cmpagne,d'Espagne,capagne,r-,espagne,Espace,"com-
+espagne",Espagnol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,chegz,sachem,tche,chefl,el,sachet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,PensA7,noyens,y-,Pensa,N7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,ijeune,Lejeune,Lajeune,lejeune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,tompei,I.1,trompei,".,.3-",Wad,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,senor Palamede,Palez,palce,Jerusalem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Cunadien,MI,L.oR,--'1,Canadien,Canudien,metropole canadienne,Canadieon,Cnadien,Canada,Canadiens,Le Canadienjelta,Canadions,Cauadien,A4,Canadienne,ILe Canadien,Canadien loes,Cana-,chasseu canadien,le Caadien,,,,,,,,,,,,,,,,,,,,,
+22,vincre,mediocre,Ancre,eNcre,grinca,Nlck,.L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Fance,L1,dislance,r-N,Fancis,cyes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,tistesse,Même,E7,Sans-Piste,maitesse,z-7,resister,.qu',foteresse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,¬¬,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Bonjou,Anjou,jours;.,Is,jou,bon7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Anticosti,tantbt,lDevant,eflechissant,caignant,Tuant,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,chassel,chasseu,Ehl,chasseui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,caractee,"L,5",LIN,Nhecte,Il:-,car--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,lJistorique,Amerique,Americains,Amerique septentrionale,briquet,l'Amerique,meritee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Mnais,i.naiiei,Eu,Inais,Franais,ceonnaissant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,XIY,obeir,baron de Grigny,baron do Grigny,endre temoin de .son bonheue,buron de Grigny,M. de Grigny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,alpio,ecurt,P,vecu,.g-c,I4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,- Reproduclion,stupetaclion,"N
+I",rEprit,Keproduelion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,jusque-lh,Risque-loup,A6,IN,Risque-Tout,jUsque-la,mousquet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,clairiere,claiiere,- Arriere,c0,clairiee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,lAigle-NYolant,"E
+N",Aigle-Volant,1'igle-Volant,Aigle-Volant roula,Aigle-Vous,1'Aigle-Volant,L'Aigle-Volnt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,aneantirent le Iruit,plant6 le Ioten,Ioten,t.,plantets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,centve,Ioissements,- Nullement,tristemenl,- Completement,bleme,dementi,Fatalement,entieement us,Caen,Matheueusement,TIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Pite,precipitee,depit,Iacilite,excitee,lEh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,"9
+
+UI",apport6e,appiopiees,appuyees,Fuyez,M,Irappa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,pluie glacee,tauie,ge,plupurt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,irentrer,".,L",atlire,SIRE,Dire,Vire,dire7,Sire,conslruire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,"E
 
 
-E","E
-II
+I
+E.
+IL","Z
+e.
+E",.:a-,"I'
+IL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,failliai,Villiersl,Yillies,Villies,x.L,alliees,taillis,Villiets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,Anglais,Es,Cc,sentihelles anglaises placees,ILes Indiens auxiliaires des Anglais,sanglols,Aiglais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Grigny,Carignan,Gigny,Griguy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,grace,Iace,Pace,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Relevez,alever,s-r,elevees,fidele,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Pittsbourg,r7-,ce',Itt,laville de Pittsbourg,Boucle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,"EEl
 
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,gaiet6,Aae,Et6,gaieto,EII,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,baie des Marmousets,baie d'Hudson,cap des Monts-Peles,GG,"A' 
+ ET",EEl,"S
+el
+ 
+ 1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,fouinie,Yirginie,Virginie,Inieux,N1,Viginie,Nirginie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Ouebec,Caudebec,Doue,Quebec,echoue,Qubec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,"L,;.",abbe,263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,pise,maquise,quif,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,place de nolre daim,"II
+vOYAGIE DE NU1I",1'epoque de nolre recit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,amarree,amaree,marqulse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Joignez,besogne,Seigneu,- Signe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,sepre,popre,wigwvm,amour-popre,Propre-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,"I
+
+M
+III","M
+I","LÀ
+
+I
+ M7",LIv,"IL,1",CI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Pardon,- Pardonne,pardon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Francef,"Francef
+- Non",Aae,la France,roi de France,France,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,ollert,Oll,L6on,Villlers,lac lEri,ler,"A' 
 t
 
-ES",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,Allehany,Alleghanys,Alleghany,wampums,monts Alleghanys,rivieres Alleghany,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,ELLe,Osna-Elle-Lucie,senlinelles,selle,",elle",mne rappellerent i la desolante realit6,cuelle,eLLE,ellE,1'elle,Quelles,soreellerie,I3ELLE,l3elle,lExcellenll,ELLE2,ELLE,crnelle,C.L:.-'---elle,Telles,"E
+ES",mollet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Beauregard,"chateau de
+Beauregard",A Beauregard,chteau de Beauregard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,Agis,5I,"2-,-AgIT-G",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,"JE
+III 
+
+IL
+t","III 
+
+I&","G
+
+III
+
+
+S
+f
+IL",e:-r- es-Ziiciiiaii i,"III
+
+I
+CI","--g,.s-I.-r rrr","II
+
+I","III 
+
+I","III
+
+R
+II
+
+-'
+
+
+1 L.
+1",GG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,Alleghanys,rivieres Alleghany,Allehany,monts Alleghanys,J1,"N
+
+E",Alleghany,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,moyen8,Voyel,Voyez,Z0,MP,"I
+M",Soyez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,penetra,Wurd,tu6s,penetrer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Ierme,fier,gibier1,ecoliers,oflficiers,merisier,D,Iin limier,cap Rosier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,E'i.I,II.i1,II.L,"II.I
+II",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,lUne,lune,forlune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,gueirre,guee,Iatigues,divulguee,EII,ET-,vigueui,zxzcE-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,Demohl,mademoiselle,mademoiselle 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,"A---
+ 
+III",a-- Hlasl,Osna,A---,A----t,J',JE.-',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,prepara,pepare,eparee,n1,Il3,peparee,epars,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,Tes,ctes-,htes,dilficulteset,a1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,Chaussée,El,LÀ,chaussues,saus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,Longtemnps,Lona,Iayelon,egayer,payeus,C'6tiit,i Rollon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,epondre,reponde,repondre,satnis reponse,Londres,Lo,hein,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,nuanoe,Franoe,Fran-,fray6,Franeais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,ellE,C.L:.-'---elle,lExcellenll,mne rappellerent i la desolante realit6,Osna-Elle-Lucie,adesse avee luuelle,ELLE,selle,1'elle,Celles-ei,I3ELLE,eLLE,",elle",Telles,"II
+
+ELLE",cuelle,senlinelles,crnelle,ELLe,ELLE2,l3elle,Quelles,"E
 E
-ELLE",Celles-ei,,,,,,,,,,,,,,,,,,,
-11,N-,penetrer,I4,Wad,penetra,L.a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,"II
+ELLE",soreellerie,,,,,,,,,,,,,,,,,,
+83,Maleval,Malevul,chateau de Maleval,Malevall,Mee de Maleval,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,-L,.-eer-,guer-,Iatiguer,guerisse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,extreme,remettez-le-moi,mneme,Mattre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,taces,Tacy,Circes,Enlaces,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,1(0,.et;L.,Ocean,lOcean,II1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,GEFFROY,GEIFFR0OH,".E',1",GEIFROY,GEFFIOY,.EFFROI,CGEFIFROY,GEFROY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,.G,L2LLLLL,LLLB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,lesFrangais,Frangais,Iragais,Fugais,Fangais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,Ii-,Maclay,Mluclay,saclem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,BELLB,BELLL,"Nouveau-
+
+I.1
+1
+I
+A
+I
+M
+
+
+
+
+I
+
+LA BELLL 1",BELLlE,BLLLE,BELLlE RIV1LE,LA HELLlE,BELLLE RIV1En,"BELLlE R1ELLE
+Deux heures",HELLlE,cascabel,boutellle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,"chefl
+- Attendez",attendenl,senl,E;.,.L-L,t1,batte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,"ŒIl
+I",L’,ŒIl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,Bois-l'racy,Bois-Arbres,Bois-Être7,bois-il6s,HBois-,du bois-le,Bois-Ombre,Bois-Brles,brave Bois-Elle,Bois-Irai,Bois-,Bois-irai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,Le soleil,gand soleil,soleil,regardez le soleil,Le succbs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,rien-Bleu,Leu,Corbleul,pleus,e’,.::A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,J7,Paris,parcouri,paratt,parviut,ParcE,F,parlez1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,clotue,aflot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,s---=-ee,mrs,Ln,--=--=---====-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,jura,A minuit,Inuimurai,EX2ET,Ennui-a,enTourait,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,zzz:35-,Apes,apes-midi,aupes,Apes ue,pese,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Idiens,Indien,a¬¬.,toldos indiens,Indiens,Indies,L'Indien,Lesindividus,cinIndiens,L'Indien sourit,L.L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,Pas,passee,pas7,Pa-,A'L,.:,- Pas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,r7:--,--a,Là:--a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,Plt,S',plts,seplt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,NE,atepelt,l1,epee,Createur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,Mexique,drue,Atlantique,Ameique,Amel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,du Nord,Hll1,l'Amerique du Nord,Amerique du Nord,"Amerique du
+Nord",.-2,Nord,tad,"m
+
+A",golfe du Mexique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,avee,foid,drole avee,Pavenu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,"OR
+
+I:E
+E
+L
+
+a
+
+g","E
+E
+t","OR
+
+I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112,Aewerccr-,perdula,percee,- Grce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,tomberent,l,nombe,g3i,Lh,timbe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,penez,Venez,meprenez,- Tenez,venezl,fene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,E2-,Jean-lPol,Jan-Pol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,Pſ,"II
+III
+I","II
+II","II
+III
+I
+II
+
+L","ILII
+II","II
+iII
+II","II
+III 
+ZZ","II
+II
+II 
+IL","I
+II","II
+III 
+Ii","A
+
+I
+1
+
+II
+II","I
+III",".III
+II","Eh
+UI","I
+
+I
+III
+I1","II
+III","I
+iII
+aI
+1",,,,,,,,,,,,,,,,,,,,,,,,,
+117,MLLLE IIVIEIE,BELLE IVIEnE,BELLE IY1JE,"F
+
+I
+
+2
+ELLe
+
+
+i
+P",IELLlE IVIEE,BELLLE IYIEnE,"2Z
+F
+
+I
+
+2
+ELLe
+
+
+i
+P",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,"I
+
+ii","I
+
+III","AH
+
+
+Il
+R
+II
+
+II
+nII","II
+
+II","6
+
+II
+ 
+ I
+
+I",O,"LIAE
+
+II
+
+IIZ
+x
+E","LIAE
+
+II
+
+IIZ","I
+
+IIh","II
+
+II
+t","II
+III 
+
+II
+
+I.","11
+
+Ii",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,aisaiaraar,Tais-toil,Égal,Paisienl,Iais,sais,Jamais,Faneais,etais apelcu,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Rameau-,Rameau-d'Or,Rameau-d'O.,Rameau-d',lameau d',Ramneau-d'Or,IRameau-d'O,Rameau-d'O,Rameau-d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,ICI,estici,"YSE
+
+ ICI",Sicile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Ble maudit1,"I
+Je",s-g3Rg,"IBois-
+Ble maudit1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,lProserit,s''1,Prosorit,Proserit,Prossrit,Pros-,Prosoit,L7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,paallele,Allez,alluma,allezl,Bas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,rponse,Voyons,Yoguons,colons.-,- Allonsl,Revenons,Bonsoir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,"de
+ castle",pyramides de Cholula,amiti6 de cbte,193,Ami,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,ZIE,Cherche,cher-,Tbucher,Cher,"leude cheri
+de",recherchee,R1,empecher,Cherie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,loyaut6,fauTe,Faut,vautou,Autel,suivaut,l.,Iaut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,pemier,Mve,pemiere,premiere,avrche dupemier hoe,bandouliere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,"I
+
+
+I","I
+
+I","Ci
+
+I","pei
+
+I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131,foree,L,lore,Ioret,Lignorez,aLOrs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,.Puis,- Suis,IL L0puis,guisel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,lese,Ilavgese,ILA,CGes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,GIIFIROY,dernie,Ironie,Iroid,pironpte,I,pseudo-Ironie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,MIontmorency,Monlmorency,Saut de Montmorency,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,Iume,c0Tu,coStume,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,opinion2,Albion,Enviion,Seduction,Ion-,Roproluction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,cumbree,BrEF3r;(Frc,scabrex,breche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,HEl,"HEl
+I","El
+E","El
+f
+Ii",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,"II
+I
+
+HIII","I
+I
+
+I.","I
+I
+
+ILII","II
 I
 
 I","II
@@ -38,273 +394,205 @@ II
 .:G","II
 I
 
+ 
+
 
 E","II
 I
 
-I
 
-x","I
-I
-
-I.","II
-I
-
-HIII","II
+E","II
 I
 
 
 
-II","I
+II","II
 I
 
-ILII","II
 I
 
- 
+x",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,Angle,Anglelterre,"S
 
+D",Angleterre,Anglelerre,Celte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,retou,beto,touva,etou,Poitou,Er,toul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,hha,cheminee,heminee,MIn,Iemines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,I1,degout,coutse,outle,lout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,los votres,trallres,miseres,odres,.A1,resuma,Sevres,bruyeres,notres,aulres,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,pardil,- Pardieul,Dieul,Padieul,Pardieul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,Rien N,Forie,symetrie,rie,curieuxi,madries,Prie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,blancsl,fe-blanc,elanca,Blancs,melancolie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,exageree,Veuiueree,severe,tereu,fere,Ferney,L'indifferenee,jespere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,maindes raquettes,ehaque,taquenatd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Bastel,Tels,Pestel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,N',aS,"S
 
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,.'ardente,jou pecedent,Accidente,tentee,Providenee,charpentee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,coeu,coeu gonfl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,Peaux-louges,Peaux-Rouges2,Peaux-louges qul,Peaux-Rouges epa-,Chteaux-,Peau-lRouge,Rouges,Peaux-ouest,Peaux-lRouges,Peaux-Rouges,Pean-Rouge,Peau-Rouge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,"I
-
-
-I",alpio,.C,"I
-
-I","pei
-
-I","Ci
-
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,"E
-
-R
-
-I
-Z","E
 E
+E","E
+E","2E
+E","S
 
-R
+
+
+E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+153,Bergei,l3erger,Berge,.aUberge,lBerger7,soci6t,Bergel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+154,hG,nousf,nousle,Yous,faisos-nous7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,Peau-lRouge,Pean-Rouge,Peaux-louges qul,Peaux-louges,Peaux-Rouges,Peaux-Rouges2,Chteaux-,Peau-Rouge,Peaux-Rouges epa-,Peaux-ouest,Peaux-lRouges,Rouges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,beauceoup,Eau-Jaune,lBeau-,EAU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+157,coureius,- trèS,fourr6s,tournai,Es-tu fou,fourrue,point dujour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,diables7,Semblables,accables,Misvables,"diables7
+- Plutot",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+159,gaiet6,Et6,"I
+ P",gaieto,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,Vois-tu,savoir7,Vois,Sois,voi,crois,IV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+161,terrass6,Rassure,ecrasez,verrasl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,ciencel N',appaence,pesence,Providence,.%,Point de diffrence,Frunce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,yeux7,amoureuxl,euxs,demeuxez,Aucue,auixyeux,alfreux,Veux-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,avol ehtedus,"L
+
+E",".l
+
+E","ſl
+
+Eau",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,est',IEst,- Est,ESt-ce,".est;:,i",Est,"I
+
+'N",ouEst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,Iin,Washiington,qualre-vingts,Washington,tone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,Enveloppe,echappe,Dinwidie,Dieppe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+168,Chichimeques,Ouelques,Qnelques,gre de quelques-un,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+169,Dej,Deji,deji,Dej midi,A7,Deja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,"E1
 
 I
-Z",".L
+N
+La","II'
+1I
+
+
+M","I'
+
+I","ii'
 
 I
-z
-2.-",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,i arrete,srete,reteni,Luy,teni,etendus,conteni,entreteni,"IVſ
-i",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,Duquesne,FORT DUQUESNE,Duquese,Lh,Chuque,Iort Duquesne,fort Duquesnel,fort Duquesne,"fort
-Duquesne",fot Duquesne,"m
+E","I
+E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+171,Iusil,Iils,ILs,fusils7,Usine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+172,Prc,"E
+N
 
-A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,RIYILEnRE,RIYIhE,E;.,RIYIEE,ILA BELLI RIYILRE,g3i,"r,:il",Ii-,tad,"P
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,wigwvm,taces,Tacy,Enlaces,a¬¬.,el,i,"N
+- 
+il
+- A demain",choses7 Demanda,Demain-,bienl Demain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,E1,s-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,"II
+E","II
+II
+II
+f
+1","II
+-'",N0tu,"1I
+II
+I
 
-E",Circes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,r-.----L-,L---E---L,---L-,Il:-,"t:.---
-L",a-.-,.T,"t-.----:sxereeEesaa-e
--
---s-.-`.-
-'
-l",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,Dieppe,Dinwidie,Ehl,Enveloppe,echappe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,"1 L.T
--
-189
-rEI
+1
+I","II
+II
+HUI
+E","II
+I","AI
+II
+2A","S
+IIPI
+II
+E","II
+II
+I","N
+grIS
 
-E",L-,"WZ
--
+II
+ILII
+e
+III 
+G","II
+II
+E.
+
+I
+
+I
+
+
+
+
+
+I.","II'
+II
+II
+
+I","I'
+II
+l
+R",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,faireune,faroces advesaires,faix,affairel,faire7,air2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,"I
+Ah
+E","AI
 A","I
 A.,
 -
 300
-x---i-","I
-Ah
-E","AI
-A",J',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,.L,Viginie,Yirginie,fouinie,Virginie,Nirginie,Inieux,"L,;.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,6viter.-,profitera-t-il7,serviteuen,vitel,svit,hesiter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,amiti6 de cbte,"de
- castle",AI,A7,pyramides de Cholula,Ami,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28,tu6s,"A
- I
-l--
-I
-riii","E
-A
+x---i-","1 L.T
+-
+189
+rEI
 
-I",E1,"A
-
-I
-1",L--7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,ge,moyen8,noyens,Nlck,"N
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,de Versailles,Versailles,Doussailles,taversee,193,vers6s,Vesailles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31,"I
-
-III","II
-
-I","II
-
-II","LIAE
-
-II
-
-IIZ","II
-III 
-
-II
-
-I.","II
-
-II
-t","LIAE
-
-II
-
-IIZ
-x
-E","6
-
-II
- 
- I
-
-I","or,-","P,-F","I
-
-ii","11
-
-Ii","I
-
-IIh","AH
-
-
-Il
-R
-II
-
-II
-nII",,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,Nouvelle-France,Nouvelle-Frnce,Nouvelle-Orleans,Caen,Nouvelle-Or6as,Nouveau-,PoUvez,".,-",Nouvelle-Hollande,Nouvelle- francS'tait,Nouvelle-lFrance,Nouvelle-Fance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33,plir,plius,aceomplir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-34,E'i.I,"II.I
-II",II.i1,II.L,XIY,z=,--'1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-35,LIY,Fance,Fancis,"I
-cI.",dislance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-36,yeux7,amoureuxl,euxs,alfreux,demeuxez,auixyeux,Veux-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37,- Reproduclion,stupetaclion,Keproduelion,rEprit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,Merci,Inerci,Remerciez,Commercy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-39,fauTe,Autel,Faut,suivaut,vautou,N',Iaut,loyaut6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40,oi,s---=-ee,--=--=---====-5,l,.et;L.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41,Bisons-Hurons,Hurons,Fumerons-,Huron,i5,everrons,Loups-Hurons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42,Relevez,elevees,r1l,alever,fidele,7I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43,amour-popre,Propre-,popre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44,Grigny,Griguy,Carignan,Gigny,-L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45,"RIVIEnE
-La",IBBLLB HRIVIERE,"RIVIlEnE
-A",Riviere,ct de la riviere,la Riviere,IVIERNE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46,coStume,Iume,mrs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47,sorl,New-Yorl,LIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48,Irancais,lrancais,Francais,brancad,Fancais,francais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49,Poitou,etou,toul,retou,tournai,beto,touva,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50,blessee,oblesse,Iaiblesse,oppessee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51,IN,obeir,Y-:s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52,ompagnons,cotpagnon,accompague,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-53,jUsque-la,jusque-lh,Risque-Tout,Risque-loup,mousquet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-54,Celte,Anglelerre,Anglelterre,Angleterre,Angle,t.,.-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-55,quif,maquise,pise,A'L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-56,"E
-
-
-I
-E.
-IL","I'
-IL",A60,"Z
-e.
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-57,car--,caractee,Nhecte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-58,"III
-
-R
-II
-
--'
-
-
-1 L.
-1","G
-
-III
-
-
-S
-f
-IL","III 
-
-I&","JE
-III 
-
-IL
-t",Es,"III
-
-I
-CI",e:-r- es-Ziiciiiaii i,"III 
-
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-59,Losque,Wurd,Pesque,.qu',Alos,lLorsque,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-60,blancsl,fe-blanc,elanca,melancolie,Blancs,MRS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-61,Douai-Hande,Hande,hein,Douai-Hand6,douai,n1,Douai-lande,Douai,loup-Hande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-62,aparte,- Partons,PaPa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-63,Lajeune,lejeune,a1,Lejeune,ijeune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-64,"I
-
-I
-I
-
-Ii 1","I
+E","WZ
+-
+A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,Bege,siege,segent7,legeret6,piege,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,hospitalit6,lIe,cavalie,Teocalis,Italie,N,italie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,"ICI
 
 i
-I","CI
-
-I
-IL","I
-
-I
-i","N
+:s
+l
+tU","N
 
 I
 
 i
 5
 R","I
-
-I
-I1","I
-
-I
-I","ICI
-
-i
-:s
-l
-tU","I
 S
 I
 
 I
 -
 m1","I
-I
-
 
 I
- 
- i
+I1",V8,"I
+
+I
+I.
+I
+I","CI
+
+I
+IL","I
+
+I
+II","I
+
+I
+i","I
+
+I
+I
+l","I
+
+I
 I","aH
 
 I
@@ -314,142 +602,306 @@ II1I
 
 I
 i
-1","I
+1",".L.
+
+I
+I","I
+
+i
+I","I
 
 I
 I
-l",F1N,"I
+
+Ii 1","I
 
 I
 t
 I
 
 
-N",".L.
-
-I
-I","I
-
-I
-II","I
-
-I
-I.
-I
-I",,,,,,,,,,,,,,,,,,,,,,,,
-65,luii,LUi,e’,.::A,celui-ei,hG,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-66,amaree,amarree,marqulse,s-g3Rg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-67,z-,Vienne,Menne-,SE,Canudienne,E7,anne,Menneville,Guyenne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-68,1'epoque de nolre recit,"II
-vOYAGIE DE NU1I",place de nolre daim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-69,Jean-lPol,.A1,Jan-Pol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-70,Venez,meprenez,fene,penez,.-Je,L1IN,Oih,- Tenez,Osna,venezl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71,Proscrit.-,lProscrit,Poscrit,proscritl A,Le Proscrit,Proscrit-,Proscrit,Procrit,IIy,Pyoscrilten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-72,"I
-E
+N","I
 I
 
-C
 
-R
 I
-I
-
  
--
-ET
-ELLE",M,LIv,"XI
+ i
+I",,,,,,,,,,,,,,,,,,,,,,,,,
+180,Puuvre,fievre,au Havre,vrenoontra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,"consentezl
+- Pardieu",Consentez-,contentez,Consentez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,reveni,interveni,souveni,veni,Venise,"veni
+- A",oment de veni enaide,s5,IR1AVENIR,preveni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+183,malgre,Malge,Malgre,"T'I
+r",gre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,i5,retaitel,faitel,Parfait,c-.L,- Faites,hospilalitel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+185,"I
+
 E
-I
- C",L1y,"E
-I
 
-amI1","I
+I
+f
+E","Ee ie e iees
+daa",Ohio,"E
 E
-L","P
+ 
+
+II","EH
+
 E
-I
-T
 
-I
+II",LIE IIECI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+186,Iermee,larmee,Armnund,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,parc du chteau,cap du Chat,AU CHATEAU,chatean,hate,ER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,Remerciez,Inerci,Merci,Commercy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,UN NI L.,"II
 
+l","I
 
-tu
-E","I
-E
-t",Bas,"E
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73,Enviion,r7-,Albion,Ion-,Seduction,Roproluction,opinion2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-74,empecher,Cher,¬¬,"leude cheri
-de",cher-,Cherche,recherchee,Tbucher,Cherie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75,Apes ue,Apes,apes-midi,aupes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-76,epee,N0tu,atepelt,Createur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-77,Ioissements,Matheueusement,- Nullement,dementi,Fatalement,tristemenl,- Completement,entieement us,bleme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-78,L'Aigle-Avait,L'Aigle,Aigle-,Avait,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79,Iace,Pace,grace,C1.-,Lovelace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-80,pemiere,premiere,pemier,avrche dupemier hoe,Iin limier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-81,Qnelques,Chichimeques,.l,Ouelques,Or,gre de quelques-un,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-82,pluie glacee,plupurt,tauie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-83,hommE-,hommesrea,Sommes,Hommes,comment7,la somme,Sommes-,Iemmes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84,celasans,jela,LÀ,celaf,Pelage,elau,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85,S,sauvagesl A bientt,a.-,GLFK0Y,Totem,Bientot,centve,C'0étaient,bientot,Ients,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86,"L
-
-E",avol ehtedus,".l
-
-E",ÇA,"ſl
-
-Eau",l1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-87,gand,E2-,Ande,m-,Qand,Armnand,Andre,Amand,unsgrand,guand,bandouliere,gand air,Andel,Grand,,,,,,,,,,,,,,,,,,,,,,,,,,,
-88,tistesse,foteresse,maitesse,Sans-Piste,resister,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89,plantets,plant6 le Ioten,aneantirent le Iruit,Ioten,P,baon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-90,"I
-iII
-aI
-1","II
-III 
-Ii","A
-
-I
-1
-
-II
-II","II
-III","II
-iII
-II","II
-III
-I",".III
-II","II
-III
-I
-II
 
 L","II
-III 
-ZZ","I
-III","II
-II",r2,"II
-II
-II 
-IL","ILII
-II","I
 
+
+
+
+ L","CI
+
+l
+M
+OR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,natuure,heure-:t-e,CI1,L1y,Heure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,profitera-t-il7,hesiter,vitel,svit,6viter.-,N-,serviteuen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,Moi7,amoins,moi7,moil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,A60,LE6A L,"xEZIE
+
+l
+EAU","El
+
+l
+E",MRS,"A L
+T",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,"Ci
+
+z=","E
+
+ N
+ 
+I
+ 
+r","G'
+
+AH
+
+I
+
+Z",LLr- AH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,Europe,delicatesse des Europeens,Europeens,lEuropeens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+196,Petil-Fort,Vil-,IL-,Il-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,"II
+LE OR","I
+12I
+L","IL
+
+
+II
+l",C018,"I
+L",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+198,avanl,auptravant,Gcagse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,la Riviere,ct de la riviere,"RIVIlEnE
+A",Riviere,IVIERNE,IBBLLB HRIVIERE,"RIVIEnE
+La",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,"r,:il",As,"II
+filLe'
+ D",trvaille,Eparpille,feuillee,lille,Veuillez,G¬,Jumonville,tamille,Eveille,ille,Suveille,batnillel,iille,,,,,,,,,,,,,,,,,,,,,,,,,,
+201,efuse,audacieusemenl,meuse,gnereuse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+202,".,-",grnd lrve,reserve,L.a,Observez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+203,rendez-vousl,savez-vous7,Oi voulez-vovs,Savez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+204,francais,Fancais,brancad,Francais,Irancais,lrancais,L1N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,Sommes,Sommes-,la somme,comment7,Iemmes,Hommes,hommE-,hommesrea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,douai,Hande,Douai-Hande,Douai,Douai-Hand6,loup-Hande,Douai-lande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,"I
+I
+-
+1
+
+I","asIE
+
+I
+
+T
+I
+I
+IL
+ SI","I
+I
+E","E
+
+I
+I
+I
+I1","I
+I
+I","II
+I
+I
+I.
+I.","I
+I
+IL
+III","I
+I
+I
+I
+IL",".:F'
+
+r
+I
+I","I
+I
+t'","I
+I
+I
+
+
+
+
+i1
+I
+I
+I
+
+I","I
+I
+A","I'
+t.
+I
+I
+I
+I
+I
+I","I
+I
+I
+I","I
+I
+E.","I
+I
+I
+.I",".:AI
+i
+I","I
+I
+t","I
+I
+I
+I
+I","I
+I
+Ma
+ AH",,,,,,,,,,,,,,,,,,,,,,
+208,.-------.-,L-----1,A---------.--.--ELLE,".-:---,C-",Y---,e----e,LAn------:-L,----L.',L----,.----es,L-----ra,y.,-----ecxxz,y---------,--------ah,or----,Iiiltie------ELle-,L.L----A-,e:----.--------,T----,.-----------,e:-----,"F-,----P--,-êtRe",i----,espère-et-err'`r---------------a----------------------,L:---,ŒiL--.-----.---a---.-----a-----=i-------------------------------------eau=il=-=je,.'---;--------c=.-,"P' ``,-
+---- --
+..:...----------:-
+316
+LA ELLIE","IVſ
+i",--------.-,ai-------,ELLE-----se--------------------L.,i:::--.---------:------------:a,AInsi-'.5.C-2C:--::-----A----e-::=-a--,C----ii,c:----------------,----,"c-,r----c",je-------------,"E.:y,:P----rrre-ree",s------
+209,Marcher,Marches armoricaines,Ee,Marches,SE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,Ponce-Pilate,cpilaine,pilosoplie%,il’,Pilma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,Achives,arrivonsl,Aives,arrives7,Arrives,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,proscritl A,Procrit,Poscrit,Proscrit-,Proscrit,Pyoscrilten,Proscrit.-,Le Proscrit,lProscrit,L1IN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,Avait,Aigle-,L'Aigle,L'Aigle-Avait,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,reconnalte,malte,alttira,Altendre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,rer,verai,jurerais,ignorais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,vouS Conaltre,samaltresse,"P
+I",Conaltre,IL,Leona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,elrange,vengel,etranges,Ange,Angele,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,"S
+n.
+I
+ QU","I
+i
+
+
+S","I
+I
+
+
+
+
+ L.I
+
+E","I
+I
+
+2","II
+
+21I
+I
+
+.2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,wampums,cap des Monts-Peles,baie des Marmousets,baie d'Hudson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,dnans,maintenant7,pintemps,Mluintenant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+221,l1 cria,L2,ecria,Qu'6cria,Cria-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+222,Aupres,Presque aussitot,Apres,pres,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+223,cbte?1,coeu,gargon,coeu gonfl,Iagon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,flt Ward,- Gueusard,Ward,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+225,Oih,couirs,Louisiane,Louisl,-1Louis,Louislt,Louis3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+226,"grIS
+
+II",.en,Harison,Oui-Fine,OUI-GRIS,.T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+227,reunion de Manongohela,G,Manangahela,Manongahela,Mlanonghahela,Manongohela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+228,Ients,Bientot,sauvagesl A bientt,Totem,C'0étaient,bientot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+229,m-autre.5---a-,aUtre-,Autre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,Nouvelle-Fance,Nouvelle- francS'tait,Nouvelle-Orleans,Nouvelle-France,PoUvez,Nouvelle-Hollande,Nouvelle-lFrance,Nouvelle-Frnce,Nouvelle-Or6as,Nouveau-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+231,"1A
+I.I","1I
+I.I","zZ
+E
+
+I
+x1I
+I.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+232,Tecits,Sije,Cecije,EeCi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+233,ganie,.l,aniti6,IANIEE,calomniee,diane,ilnie vix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,Contrecoeu,Contre-,concentree,Montreal,Contreceur,Contrecur,CONTRECEUR,Contrecoeur,ceurl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,Visages-Ples,visge,banchages,s-L,Visages-Les,Visages-Alors,nuaages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,l3elle-Olivier,.2-,Ilelle-RRiviere,IBelle Riviere,Belle-Rivire,lBelle-Riviere,Belle-Olivier,JE-riisiiaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,--z--,.A2,.-Z-,-Z-G,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,IL L,- M',IL M',"c,-","E
+
+
+IL
+
+d
+e",IL S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,.--,-7-.--,L.--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,Canudienne,anne,Guyenne,Menneville,Vienne,Menne-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,Alos,"I
+
+
+-",tibus,Pesque,Losque,lLorsque,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,Lovelace,Pelage,celaf,celasans,elau,jela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+243,matiee,HR1VIEE,vieillacd,avie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+244,"II
+
+I
+I
+I","II
+III
+ 
+ I
+1I
+'
+1
+I
+I1","I
+III 
 I
 III
-I1","I
-II",,,,,,,,,,,,,,,,,,,,,,,,,
-91,Consentez,"consentezl
-- Pardieu",Consentez-,contentez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-92,"I
 
-M
-III","LÀ
-
-I
- M7","M
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93,"II
+l
+ J","II
 
 I
 t
@@ -460,20 +912,8 @@ L.
 E","II
 
 I
-I
-I","II
-E
-
-I
-III 
-
-jE
-
-jE
-
-R
-
-JE","S
+II
+M","S
  E
 
 AH
@@ -489,15 +929,14 @@ SI
 I
 3
 t
-LA BELLE",Même,"III
+LA BELLE","E
+
+I
+II","III
 
 I
 I
-IIHI","II
-
-I
-II
-M",".l
+IIHI",".l
 
 II
 IL
@@ -513,501 +952,144 @@ III
 i
 I
 2.A","II
-III
- 
- I
-1I
-'
-1
+E
+
 I
-I1","I
 III 
-I
-III
 
-l
- J",us,"E
+jE
 
-I
-II",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-94,GEIFROY,GEIFFR0OH,GEFFROY,A6,.EFFROI,CGEFIFROY,GEFROY,GEFFIOY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-95,ŒiL--.-----.---a---.-----a-----=i-------------------------------------eau=il=-=je,----,".-:---,C-",ELLE-----se--------------------L.,e:----.--------,.-------.-,"P' ``,-
----- --
-..:...----------:-
-316
-LA ELLIE",je-------------,"E.:y,:P----rrre-ree",y---------,i:::--.---------:------------:a,i----,LAn------:-L,Iiiltie------ELle-,"c-,r----c",L-----ra,.----es,.'---;--------c=.-,or----,--------ah,"F-,----P--,-êtRe",e:-----,c:----------------,A---------.--.--ELLE,C----ii,L-----1,----L.',.-----------,L----,e----e,ai-------,L.L,espère-et-err'`r---------------a----------------------,-----ecxxz,Y---,--------.-,s------,L.L----A-,L:---,T----,AInsi-'.5.C-2C:--::-----A----e-::=-a--
-96,ILes Indiens auxiliaires des Anglais,Indien,cinIndiens,L'Indien sourit,toldos indiens,Indiens,Idiens,Lesindividus,L'Indien,Indies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-97,couirs,Louisl,Louis3,Louisiane,-1Louis,Louislt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-98,terrass6,verrasl,ecrasez,Rassure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-99,IL L,J7,- M',Égal,IL S,IL M',"E
+jE
 
+R
 
-IL
+JE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+245,lulL rapidemonl,Jumon-,mone,IL1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+246,trouves-,Iauves,Iauve,Ves,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+247,r1l,"II
 
-d
-e",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-100,Ange,vengel,elrange,.:,Angele,etranges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-101,.:a-,ajouta-t-il,CI,--t--,Va-t'en,- Ajoutant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-102,eusset,sete,bruitset,tete,L6on,C'6tiit,.A2,repete,anxiete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-103,"II
-filLe'
- D",batnillel,feuillee,Veuillez,iille,ille,Suveille,Jumonville,Eveille,trvaille,lille,tamille,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-104,Aigle-Vous,L'Aigle-Volnt,Aigle-Volant,1'igle-Volant,Ln,Aigle-Volant roula,lAigle-NYolant,1'Aigle-Volant,r-N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-105,Eu,plts,Plt,seplt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-106,senor Palamede,palce,Palez,Jerusalem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-107,Regardez,lRegardez,regardez,1(0,regardexz vos sentinelles,regardexz,egarde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-108,Reviendrez,L1N,Viens,miens,Tiens,Viens-tu?,revienlt,Inliens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-109,fourrue,fourr6s,Es-tu fou,coureius,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-110,moil,Moi7,amoins,moi7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-111,CI1,A----t,A---,a-- Hlasl,"A---
- 
-III",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-112,legeret6,G¬,Bege,siege,segent7,piege,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-113,Rien N,aprbes,madries,rie,I,curieuxi,Forie,Prie,symetrie,R1,rien-Bleu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-114,reconnalte,malte,alttira,Altendre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-115,appiopiees,Irappa,appuyees,Fuyez,apport6e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-116,Prc,"9
-
-UI",Conaltre,Leona,vouS Conaltre,samaltresse,J,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-117,Mnis,Etats-Unis,etat,zeeta,D,"etat de
-defense",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-118,"Ee ie e iees
-daa","EH
-
-E
-
-II",I.1,"E
-E
- 
-
-II","I
-
-E
-
-I
-f
-E",LIE IIECI1,Z0,NE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-119,UN NI L.,"I
-
-
-L",Pdldu,"II
-
-l","II
-
-
-
-
- L","CI
-
-l
-M
-OR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-120,Iemines,heminee,MIn,cheminee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-121,comntesse de,comtesse de Maleval,comtesse de MIa-,Mee la comtesse,eomte,parc de la comtesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-122,la Couleuvre,"de
-Couleuvre",Couleuvre,La Couleuvre,N1,"S
-
-D",La Couleuvre demasqua,ES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-123,Ee,hâtez,Eeoutez,Ajoutez,écoutez,Acceptez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-124,vincre,L’,mediocre,grinca,eNcre,Ancre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-125,ciell,BIELLE,BIELLB AIV1EIE,IELLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-126,Iais,etais apelcu,sais,Paisienl,Jamais,aisaiaraar,Faneais,Tais-toil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-127,batte,attendenl,senl,"chefl
-- Attendez",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-128,toldos,soldut,soldatd',.r-3-r-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-129,Dieul,Pardieul,pardil,Padieul,- Pardieul,Cc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-130,forlune,zxzcE-,lUne,lune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-131,I1,E,Iatigues,guee,"c,-",divulguee,gueirre,- Gueusard,vigueui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-132,atlire,r-,Dire,Vire,"I
-
-'N",irentrer,L,dire7,Sire,SIRE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-133,I2,Ioret,aLOrs,lore,foree,R,Lignorez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-134,efuse,gnereuse,audacieusemenl,meuse,.g-c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-135,Iouha-,Iouha-Hande,Iouha-Hand6,Kouha,IKouha-Hande,louha-Hande,Kouha-Hande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-136,- Signe,Seigneu,besogne,Joignez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-137,- Pardonne,pardon,Pardon,l.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-138,concentree,CONTRECEUR,Contrecoeu,Contreceur,ceurl,Contrecur,"I
-M",Contrecoeur,Montreal,Contre-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-139,deserl,deserte,lourdeset,desert,desert na cela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-140,fusils7,Usine,Iusil,ILs,Iils,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-141,Monlmorency,MIontmorency,Saut de Montmorency,E-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-142,"heIN
-aIME
-
-t",coinpartimentsau,Vraiment,vraimentl,IL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-143,Voyel,Soyez,Voyez,L2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-144,Renard-Bleu,Renard-Elle,Le Renard-Bleu,Renard-Blou,Renard-,lRenard-Bleu,Renard-Le,Benardo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-145,Pendanl,chevaux7 Cependant,Spndassin,pendunt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-146,Longtemnps,egayer,payeus,i Rollon,Iayelon,Lona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147,LA HELLlE,HELLlE,BLLLE,BELLlE,"BELLlE R1ELLE
-Deux heures",BELLL,BELLlE RIV1LE,BELLB,BELLLE RIV1En,boutellle,"Nouveau-
-
-I.1
-1
-I
-A
-I
-M
-
-
-
-
-I
-
-LA BELLL 1",cascabel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-148,Necessite,fort Necessite,fort Ncessite,"fort
-Rupert",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-149,opposea,Opossum,epouvnte,epos,reposet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-150,du Nord,Amerique du Nord,Nord,"Amerique du
-Nord",l'Amerique du Nord,golfe du Mexique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-151,Pensa,PensA7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-152,Ble maudit1,"IBois-
-Ble maudit1",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-153,TIT,Agis,"2-,-AgIT-G",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-154,mademoiselle,Demohl,Lo,mademoiselle 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-155,.-eer-,guer-,Iatiguer,guerisse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-156,IL-,Mve,"T'I
-r",Vil-,Il-,Petil-Fort,by God,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-157,bienl Demain,choses7 Demanda,Demain-,"E
-N
-
-- 
-il
-- A demain",mavkawis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-158,ecoliers,Ierme,fier,gibier1,oflficiers,Ilibustier,merisier,cap Rosier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-159,cpilaine,Pilma,pilosoplie%,Ponce-Pilate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-160,lil,".,.3-",Lile,Ailez,ILes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-161,ZIE,"YSE
-
- ICI",Sicile,ICI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-162,abbe,avanl,auptravant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-163,etles,cetle,atlend,etle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-164,"El
-
-l
-E","xEZIE
-
-l
-EAU",LE6A L,"A L
-T",ER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-165,Tonne,"...
-- Pas de mots malsonnantsl",seuil de la maisonnette,prisonnie,pexsonne annoncee,Sonne,- Abandonne-les,mnaisonnette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-166,air2,s5,faireune,faix,"Eh
-UI",x.L,faroces advesaires,affairel,faire7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-167,II,foid,nousf,nousle,faisos-nous7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-168,ecria,Cria-,l1 cria,Qu'6cria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-169,avee,adesse avee luuelle,drole avee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-170,s-r,appaence,Frunce,pesence,Point de diffrence,El,ciencel N',Providence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-171,LLLB,L2LLLLL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-172,IBelle Riviere,Belle-Rivire,l3elle-Olivier,Belle-Olivier,lBelle-Riviere,Ilelle-RRiviere,JE-riisiiaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-173,il:.:s-,l3erger,Berge,lBerger7,.aUberge,Bergel,263,Bergei,"L,5",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-174,sanglols,Aiglais,E',Anglais,sentihelles anglaises placees,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-175,vieillacd,avie,HR1VIEE,matiee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-176,lac lEri,c0,ler,Villlers,ollert,Oll,.G,mollet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-177,Is,Londres,satnis reponse,epondre,repondre,s''1,reponde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-178,fl,"ŒIl
-I",ŒIl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-179,HEl,"El
-f
-Ii","El
-E","HEl
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-180,"IL
-
-
-II
-l","II
-LE OR","I
-L","I
-12I
-L",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-181,"E
-N",.:Z,- Pas,"M
- 
-I",pas7,passee,Pas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-182,"1A
-I.I","zZ
-E
-
-I
-x1I
-I.","1I
-I.I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-183,Franeais,Franoe,fray6,Fran-,nuanoe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-184,"g2
- 
-I",Iagon,Algonquins,gargon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-185,heure-:t-e,"rnn
-L",Heure,natuure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-186,depit,Pite,Iacilite,precipitee,excitee,ce',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-187,J1,Creole,drolel,G,dole,desole,y-,Hll1,affoles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-188,.--,N,L.--,-7-.--,cbte?1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-189,Misvables,accables,"diables7
-- Plutot",diables7,Semblables,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-190,"I
-i
-
-
-S","II
-
-21I
-I
-
-.2",Huml,"I
-I
-
-
-
-
- L.I
-
-E","I
-I
-
-2","S
-n.
-I
- QU",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-191,Combien,Bien-Aime,croyez-le bien,lBien,convenul A bienlot,Fort bienl,- Tres bienl,ET-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-192,5I,Er,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-193,Malevul,chateau de Maleval,Mee de Maleval,Maleval,Malevall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-194,EeCi,Cecije,Tecits,Sije,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-195,los votres,bruyeres,odres,aulres,notres,resuma,trallres,miseres,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-196,nombe,timbe,tomberent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-197,lEuropeens,Europeens,Europe,delicatesse des Europeens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-198,grnd lrve,Observez,reserve,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-199,Lhches,lche,lches,lchetel,Les brunches,Lhches banditsl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-200,il’,lesFrangais,Frangais,Fugais,Iragais,Fangais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-201,vecu,ecurt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-202,Eparpille,depart,JE,eparee,epars,pepare,peparee,prepara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-203,Revenons,Bonsoir,rponse,- Allonsl,Voyons,Yoguons,colons.-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-204,lEh,haron Armand,baron.etRs%,BAron1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-205,"I
-
-
--",soitl,A%lIItl,Soitl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-206,c0Tu,"I
-Je",Est,- Est,IEst,ESt-ce,est',estici,".est;:,i",ouEst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-207,Mluclay,saclem,Maclay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-208,Ocean,lOcean,C018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-209,M. de Grigny,baron do Grigny,buron de Grigny,endre temoin de .son bonheue,baron de Grigny,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-210,Oi voulez-vovs,Savez,savez-vous7,rendez-vousl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-211,verai,rer,jurerais,ignorais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-212,MI,tompei,trompei,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-213,regardez le soleil,hha,soleil,gand soleil,Le succbs,Le soleil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-214,L7,chefl,tche,sachet,chegz,sachem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-215,crois,voi,Sois,Vois,Vois-tu,savoir7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-216,Accordez,ordes,Bordeaux,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-217,bon7,jou,point dujour,Anjou,jours;.,.en,Bonjou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-218,Aives,arrivonsl,arrives7,Achives,Arrives,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-219,Villiersl,taillis,alliees,failliai,Villiets,Villies,Yillies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-220,"E
-E
-t","OR
-
-I:E
-E
-L
-
-a
-
-g","OR
-
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-221,Prosorit,Pros-,Proserit,lProserit,Prossrit,O,Prosoit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-222,Cunadien,Canadienne,Canada,ILe Canadien,Canadieon,Canadiens,chasseu canadien,Cnadien,Canadien loes,metropole canadienne,Le Canadienjelta,Canadions,Canudien,le Caadien,Canadien,N7,Cauadien,Cana-,,,,,,,,,,,,,,,,,,,,,,,
-223,Ben,1'Il-de-Buf,1'Il-de-benf,ENfIN0Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-224,chasseui,chassel,chasseu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-225,trouves-,Iauve,Ves,Ohio,Iauves,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-226,B,Presque aussitot,pres,Aupres,EX2ET,Apres,sepre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-227,saus,chaussues,Chaussée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-228,"I
-I
-I
-
-
-
-
-i1
-I
-I
-I
-
-I","I
-I
-I","I
-I
-I
-I",cyes,".:AI
-i
-I","I
-I
-Ma
- AH","I
-I
-E.","E
-
-I
-I
-I
-I1","II
-I
-I
-I.
-I.","I
-I
-IL
-III","I
-I
-I
-.I","I
-I
--
-1
-
-I","asIE
-
-I
+tu","II
 
 T
+L
 I
-I
-IL
- SI","I
-I
-E","I
-I
-I
-I
-IL","I
-I
-t'","I
-I
-A","I'
-t.
-I
-I
-I
-I
-I
-I","I
-I
-t","I
-I
-I
-I
-I",".:F'
+IL","E
+I'
 
-r
-I
-I",,,,,,,,,,,,,,,,,,,,
-229,Aewerccr-,percee,- Grce,perdula,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-230,plaes,bagaes,plaga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-231,preveni,"veni
-- A",Pavenu,souveni,reveni,interveni,Venise,veni,IR1AVENIR,oment de veni enaide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-232,ELD,Royal-Marine,Marigots,Aise-aux-Marigots,Même-aux-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-233,Bois-l'racy,Bois-Irai,Bois-Ombre,Bois-Être7,bois-il6s,Bois-irai,du bois-le,Bois-Brles,brave Bois-Elle,Il3,Bois-,Bois-Arbres,HBois-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-234,maindes raquettes,ehaque,taquenatd,- trèS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-235,aniti6,calomniee,IANIEE,dernie,ilnie vix,ganie,diane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-236,verlige,exigeez,inllige,Maige,ige,assiger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-237,GIIFIROY,pironpte,pseudo-Ironie,Ironie,".E',1",Iroid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-238,Manangahela,Manongohela,Manongahela,Mlanonghahela,reunion de Manongohela,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-239,BELLLE IYIEnE,"2Z
-F
+ ET
+E
+II
 
+T
+L
 I
-
+IL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,haron Armand,baron.etRs%,BAron1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+249,"rnn
+L",luii,celui-ei,LUi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+250,lRegardez,Regardez,regardexz,regardexz vos sentinelles,regardez,egarde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+251,parc de la comtesse,eomte,comtesse de Maleval,comntesse de,comtesse de MIa-,Mee la comtesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,IELLE,BIELLB AIV1EIE,BIELLE,ciell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,Doussailles,taversee,Versailles,vers6s,Vesailles,de Versailles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,chevaux7 Cependant,Spndassin,pendunt,L-,Pendanl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,Rendez,B,Huml,C1.-,surprende,.:Z,SURPR1SE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,teni,i arrete,etendus,srete,conteni,entreteni,reteni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,BBLLE,BBLLE R1ELLE,"BLLLE R1YIE
+landier",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,".2-
+-
+ 
 2
-ELLe
 
 
-i
-P",MLLLE IIVIEIE,S-,BELLE IY1JE,soci6t,IELLlE IVIEE,"F
-
-I
-
-2
-ELLe
-
-
-i
-P",BELLE IVIEnE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-240,Eetiiiee,"IIIIIl
-II","WIIIIII
-III 
-L",IIIIIIIIIIIIIII,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-241,"loirs7
+E","loirs7
 - J'","¬- 
  -
 .s","I
 - 
  
  
--,",".2-
--
+-,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+259,RIYILEnRE,RIYIhE,ILA BELLI RIYILRE,RIYIEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,"WIIIIII
+III 
+L",IIIIIIIIIIIIIII,Eetiiiee,"IIIIIl
+II",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+261,Andre,gand air,Amand,Ande,unsgrand,Andel,gand,Grand,Qand,guand,Armnand,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,litieie,eeoieie,aeiEEE,A peie,eeieeie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,Lhches banditsl,Lhches,a.-,Les brunches,lches,ÇA,E-,lchetel,lche,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,atlend,cetle,etles,etle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,huche,morichee,Couchez,penchee,ouchee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,sorl,fl,New-Yorl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,Loups-Hurons,Huron,Fumerons-,Bisons-Hurons,Hurons,everrons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,baon,z-L.,.-L.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,"de
+Couleuvre",Couleuvre,La Couleuvre demasqua,la Couleuvre,La Couleuvre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,ENfIN0Y,Ben,1'Il-de-benf,1'Il-de-Buf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,"E
+
+E","E
+
+e
+
+
+3L
+x","E
+
+
+E",5E E,"JE
+
+E","E
  
-2
 
-
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-242,pintemps,dnans,maintenant7,Mluintenant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-243,comtne,comle,compugnie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-244,huche,Couchez,penchee,ouchee,morichee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-245,chatean,hate,aS,t1,cap du Chat,parc du chteau,AU CHATEAU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-246,porte patr,Iort,II1,Iorte,fIort,Iortement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-247,cavalie,lIe,Teocalis,hospitalit6,italie,Italie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-248,Marches armoricaines,Marcher,Marches,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-249,laville de Pittsbourg,Boucle,Pittsbourg,Itt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-250,tereu,exageree,severe,Ferney,Veuiueree,jespere,fere,L'indifferenee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-251,pouR,.2-,poude,pourvU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-252,mnains,ain,souple,souterain,Soudain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-253,-Z-G,.-Z-,--z--,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-254,"E1
+E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,R,tounure,Boune,touner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,Providenee,tentee,charpentee,Or,.'ardente,jou pecedent,Accidente,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+274,vousl,J,vOuS.,gare a vousl,vousf,Avouea,voUS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,drolel,affoles,desole,Creole,dole,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,anxiete,bruitset,repete,tete,eusset,sete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,".L
 
 I
-N
-La","I
-E","II'
-1I
+z
+2.-","E
+E
 
-
-M","ii'
+R
 
 I
-E","I'
+Z",ca,"E
 
-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-255,Wacondah,tfaconla,la lecon,L'inconnu'arrêta,Gascon,conslruire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-256,.-L.,z-L.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-257,Espace,IL1,"com-
-espagne",capagne,Espagnol,espagne,d'Espagne,cmpagne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-258,"I
-I
-II
-2I
-t
-
-'","mer
-
-II
-I
-1
-I","II
-I
-I.
-
-II
+R
 
 I
-II
-I","I
+Z",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,Renard-Bleu,lRenard-Bleu,Renard-Elle,Le Renard-Bleu,Benardo,Renard-Blou,Renard-Le,Renard-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,Tonne,"...
+- Pas de mots malsonnantsl",prisonnie,- Abandonne-les,mnaisonnette,seuil de la maisonnette,Sonne,pexsonne annoncee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,plius,aceomplir,plir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,"zEEEEE
+E",zEEEEE,gEEEE,"L.S.EEECih1
+---",E:.LEEEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,piece eclairee,declarer,Wnldecl,eclai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,ILes,lil,sterile,GLFK0Y,Ailez,Lile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,coinpartimentsau,"heIN
+aIME
+
+t",vraimentl,Vraiment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,il:.:s-,comtne,comle,compugnie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,"I
 I
 II
 II
  
 III
 I
-II","El
+II","II
+I
+1Y","II
+I
+IMA","El
 
  
 I
@@ -1051,12 +1133,45 @@ I
 III
 IL","II
 I
-II
+E
+
+E",IIy,"II
+I
 I","II
 I
-vI","II
+II
+I","IIM
 I
-IL","A
+II","II
+I
+IL","I
+I","II
+I
+I
+I
+III
+F","mer
+
+II
+I
+1
+I","II
+I
+A","I
+I
+II
+2I
+t
+
+'","II
+I
+I.
+
+II
+
+I
+II
+I","A
 I
 II
 II
@@ -1064,203 +1179,87 @@ II1
 I
 N","II
 I
-IMA","II
+Il//IL","I
 I
-A","II
+II","II
 I
-I
-I
-III
-F","II
-I
-I","II
+vI","II
 I
 A.
 
 I","II
 I
-II","IIM
-I
-II","II
-I
-1Y","I
-I
-II","II
-I
+II",,,,,,,,,,,,,,,,,,,
+287,Iaiblesse,oppessee,blessee,oblesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,écoutez,Ajoutez,Acceptez,hâtez,Eeoutez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,Fort bienl,- Tres bienl,Bien-Aime,I2,convenul A bienlot,croyez-le bien,Combien,lBien,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+290,ain,souterain,Soudain,mnains,souple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,Royal-Marine,Même-aux-,Marigots,Aise-aux-Marigots,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,capiltaine Palamede,cpitaine,capitaihe,chitaignie,capitaiue,toldos renfemenl we tentaine de gueiers,capitaineJames Maclay,oapitaine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,tfaconla,la lecon,L'inconnu'arrêta,Gascon,Wacondah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,"I
 E
-
-E","I
-I","II
-I
-Il//IL",,,,,,,,,,,,,,,,,,,
-259,Mlais,Mississipi,tete baissee,Laisse,Laissons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-260,clotue,As,aflot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-261,voUS,gare a vousl,Yous,vousf,Avouea,vousl,vOuS.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-262,"S
-el
- 
- 1","EEl
-
- ET",EEl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-263,"L.S.EEECih1
----",zEEEEE,"zEEEEE
-E","--g,.s-I.-r rrr",E:.LEEEE,gEEEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-264,Amel,Mexique,"I
- P",Ameique,Atlantique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-265,"Ci
-
-z=","E
-
- N
- 
-I
- 
-r","G'
-
-AH
-
 I
 
-Z",LLr- AH,ca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-266,- Arriere,L1,clairiee,clairiere,claiiere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-267,pleus,Corbleul,Leu,.%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-268,Couleuve,toules,oula,soulenir,Couleuure,Couleure,Couleuwre,Coulon,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-269,mneme,remettez-le-moi,extreme,Mattre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-270,aUtre-,Autre,m-autre.5---a-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-271,Aucue,"E
-E","S
+C
 
+R
+I
+I
 
-
-E","2E
-E","S
-
+ 
+-
+ET
+ELLE",i,"P
 E
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-272,EAU,beauceoup,lBeau-,Eau-Jaune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-273,"II
-II
-E.
-
 I
+T
 
 I
 
 
-
-
-
-I.","AI
-II
-2A","I'
-II
-l
-R","S
-IIPI
-II
-E","II
-I","1I
-II
+tu
+E","E
 I
 
-1
-I","II
-II
-II
-f
-1","II
-II
-I","N
-grIS
+amI1","E
+I","I
+E
+L","I
+E
+t","XI
+E
+I
+ C",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,A%lIItl,LIY,Soitl,JE,soitl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,"fleuve
+Saint-Laurent",saint-,Le Saint-Laurent,tfleuve Saint-Laurent,Saint-lLauent,Sainte,Saint-Laurent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,PaPa,- Partons,depart,aparte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,querrezla,deierre,A terre,Erreu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,E',"I
 
-II
-ILII
-e
-III 
-G","II'
-II
-II
-
-I","II
--'","II
-E","II
-II
-HUI
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-274,echoue,Caudebec,Doue,Quebec,Qubec,Ouebec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-275,Puuvre,au Havre,vrenoontra,fievre,Sevres,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-276,deji,Dej midi,V8,Dej,Deji,Deja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-277,declarer,Wnldecl,piece eclairee,eclai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-278,cumbree,scabrex,breche,BrEF3r;(Frc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-279,5E E,"E
-
-e
-
-
-3L
-x","E
-
-
-E",MP,"E
- 
 
 E","E
-
-E","JE
-
-E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-280,Ward,flt Ward,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-281,piece,secet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-282,meritee,l'Amerique,Amerique septentrionale,briquet,Americains,lJistorique,Amerique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-283,"grIS
-
-II",Oui-Fine,OUI-GRIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-284,tounure,Boune,touner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-285,Ennui-a,enTourait,A minuit,Inuimurai,jura,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-286,"E
-I'
-
- ET
-E
 II
 
-T
-L
-I
-IL","II
+E","II
 
-tu","II
-
-T
-L
-I
-IL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-287,roi de France,Gcagse,la France,"Francef
-- Non",Francef,France,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-288,tfleuve Saint-Laurent,Sainte,"fleuve
-Saint-Laurent",saint-,Le Saint-Laurent,Saint-lLauent,Saint-Laurent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-289,Océan,Armnund,Iermee,larmee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-290,s-L,visge,banchages,Visages-Alors,Visages-Ples,nuaages,Visages-Les,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-291,Voilh,Voili,voila,Voil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-292,Franais,Mnais,i.naiiei,ceonnaissant,Inais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-293,Rendez,SURPR1SE,surprende,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-294,sterile,Pestel,Tels,Bastel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-295,c-.L,A peie,litieie,eeoieie,eeieeie,aeiEEE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-296,querrezla,deierre,A terre,Erreu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-297,qualre-vingts,Iin,I11,Washington,tone,Washiington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-298,paratt,Paris,z-7,ParcE,parcouri,parviut,parlez1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-299,alluma,paallele,allezl,Allez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-300,BBLLE,"BLLLE R1YIE
-landier",BBLLE R1ELLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-301,L.oR,Inalgie,gre,drue,malgre,Malge,Lhidalgo,Malgre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-302,dilficulteset,htes,s6,y.,ctes-,Tes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-303,Pa-,outle,lout,coutse,degout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-304,pese,CGes,ILA,lese,Ilavgese,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-305,cimetieres,Pſ,ontfond6,frontiere,"opinion2
-- Pas entierement",Iontiere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-306,chteau de Beauregard,A Beauregard,"chateau de
-Beauregard",s-3,Beauregard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-307,Arive,Vive,Harison,- Ariverons,ariver,copaguie de rigny m'eel arive,RIV1,arive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-308,.L-L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-309,r7:--,--a,Là:--a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-310,capitaiue,cpitaine,chitaignie,capiltaine Palamede,capitaihe,toldos renfemenl we tentaine de gueiers,capitaineJames Maclay,oapitaine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300,Opossum,reposet,opposea,epouvnte,epos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,exigeez,Maige,r2,assiger,inllige,verlige,ige,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,porte patr,fIort,Iort,Iortement,Iorte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,Algonquins,Inalgie,F1N,Lhidalgo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,plaes,bagaes,plaga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+305,- Ajoutant,--t--,Va-t'en,ajouta-t-il,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306,- Ariverons,Vive,ariver,Arive,RIV1,copaguie de rigny m'eel arive,arive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,L---E---L,a-.-,"t-.----:sxereeEesaa-e
+-
+--s-.-`.-
+'
+l","M
+ 
+I","t:.---
+L",---L-,r-.----L-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+308,ontfond6,frontiere,Ilibustier,"opinion2
+- Pas entierement",cimetieres,Iontiere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+309,deserl,lourdeset,desert na cela,deserte,desert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

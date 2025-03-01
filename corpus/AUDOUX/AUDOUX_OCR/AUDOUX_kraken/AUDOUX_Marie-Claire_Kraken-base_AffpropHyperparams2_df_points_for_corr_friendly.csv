@@ -1,52 +1,48 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9
-0,Ismerie,rS,lingerie,superieure,Ismrie,z=,,,,
-1,c6te,ger,YL,Augustine,1'afne,,,,,
-2,Douze,buis,violacee,lacai,Eugene,grace,,,,
-3,guettais,ar-,etais,etais glacee,leuse,repetais,Jetais,etaissre,,
-4,pre,pre Chicon,Rome,Apres,Chicon,,,,,
-5,Blanche,Es,la manche,de France,manche,Tirande,la Blanche,Lse,,
-6,tetes,tete,arrete,"ma
-tete",tournai la tete,jetee,,,,
-7,voyais,.'avais,S,Javais,gagea,aimais,baissee,,,
-8,bruyeres,bruyeres tres hautes,Mattre,etais tres inquiete,Pas tres,,,,,
-9,Tn iour,fourrai,,,,,,,,
-10,Ad2le,So-,"P S
-P or",,,,,,,
-11,champs de ble,Merci,Table,champ de ble,prte,Vin,,,,
-12,betes,Tes,bete,prikre,F,Chemineau la Bete,,,,
-13,"II
-
-S",ri Deslois,Parfois,foins,IM,J',Sois,Deslois,,
-14,refectoire,soiree,Tireli,,,,,,,
-15,Texpliquai,Eile,le soleil,Bel-Eil,exiles,-L,,,,
-16,"Gue
-Perdu",FE,Gue Perdu,poele,U,chateau du Gue Perdu,,,,
-17,Combien,miens,Mlle Maximilienne,,,,,,,
-18,I,"IlIi
-I",servantel,luisantsde,,,,,,
-19,Dansces,e,,,,,,,,
-20,Communs,,,,,,,,,
-21,Vronique,Quelque,Ioo,Paques,Quelquefois,Veronique,,,,
-22,Saeur,S5,Seur Maie,Seur,IlIi,,,,,
-23,Soeur Marie-Aimee,arie-Aimee,Eugkne,Seur Marie-Aimee,Marie-Aimee lavit,Marie-Aimee,Maie-Aimee,moitie,Paris,Narie-Aimee
-24,E,1 I1MARIE-CLAIRB,MARIE-CLAIRB,notre Marie-Claire,"1 I1MARIE-CLAIRB
-noire",laMARIE-CLAIRB,Marie-Claire,,,
-25,Elle ajiouta,Rvelle-to,G,Gabrielle,poche;elle,fievre,,,,
-26,II,I',"I
-R",,,,,,,
-27,fete de la Saint-ean,voila Henri,Saint-ean,La Saint-Iean,Saint-Iean,,,,,
-28,reveillon,vecu,tilleuls,NSJ,Orgueilleuse,"vieille
-Bibiche",Villevieille,ILl,Castille,Ville-
-29,Agathe,chataignier,allee des chataigniers,chitaigniers,,,,,,
-30,serree,passee,ler,"II
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11
+0,Marie-Aimee,Soeur Marie-Aimee,Marie-Aimee lavit,Paris,Seur Marie-Aimee,Vin,Douze,Narie-Aimee,Maie-Aimee,arie-Aimee,"II
 IIIIIII
-YA",lasserl,Malgre,,,,
-31,Maintenant,laSainte,Saintes Huiles,ainsi.r,Sainte-Montagne,Josai,,,,
-32,grosse Melanie,grosse Mlanie,Mlanie,Mla-,Melanie,,,,,
-33,alluma,M.Alphonse,Sautons,obeir,allees,A,Allonsl,,,
-34,barriere de peupliers,Vierge,.Hier,,,,,,,
-35,W,piece,Noel,,,,,,,
-36,Madeleine,ca,Eugne,Sologne,logne,,,,,
-37,ecroula,cheminee,precher,pimbeche,accrochee,bcheron,Bibiche,Cache,,
-38,M,noux,bobo,,,,,,,
-39,Seur Dsiree-des-Anges,Desire-des-Anges,nuages.a6,Sur Desiree-des-Anges,Seur Desiree-des-Anges,hesita,es-,Desiree-des-Anges,,
+YA",ger
+1,Eile,Bel-Eil,exiles,le soleil,II,,,,,,,
+2,MARIE-CLAIRB,notre Marie-Claire,1 I1MARIE-CLAIRB,piece,So-,"1 I1MARIE-CLAIRB
+noire",laMARIE-CLAIRB,Marie-Claire,,,,
+3,Mlanie,F,Melanie,grosse Mlanie,grosse Melanie,Noel,I',G,Mla-,,,
+4,refectoire,leuse,soiree,Tireli,,,,,,,,
+5,laSainte,Saintes Huiles,Maintenant,IM,Sainte-Montagne,ainsi.r,Josai,S,,,,
+6,manche,la Blanche,la manche,YL,Blanche,de France,,,,,,
+7,bobo,Rvelle-to,Gabrielle,"II
+
+S",poche;elle,Elle ajiouta,,,,,,
+8,Es,servantel,Texpliquai,ecroula,A,luisantsde,,,,,,
+9,Tn iour,fourrai,,,,,,,,,,
+10,lasserl,passee,serree,,,,,,,,,
+11,M,Tirande,e,,,,,,,,,
+12,grace,1'afne,violacee,lacai,rS,,,,,,,
+13,IlIi,allee des chataigniers,chataignier,z=,Ioo,chitaigniers,,,,,,
+14,S5,Allonsl,Sautons,allees,M.Alphonse,alluma,,,,,,
+15,Sois,ri Deslois,Parfois,Deslois,fievre,foins,,,,,,
+16,Dansces,arrete,tournai la tete,"ma
+tete",tetes,tete,jetee,,,,,
+17,Mattre,etais tres inquiete,bruyeres tres hautes,bruyeres,"I
+R",Ad2le,Pas tres,,,,,
+18,I,Castille,Orgueilleuse,poele,reveillon,Villevieille,Ville-,ILl,"vieille
+Bibiche",tilleuls,,
+19,c6te,miens,Mlle Maximilienne,Combien,,,,,,,,
+20,U,voila Henri,Saint-Iean,fete de la Saint-ean,La Saint-Iean,Saint-ean,"P S
+P or",,,,,
+21,chateau du Gue Perdu,Gue Perdu,"Gue
+Perdu",,,,,,,,,
+22,FE,etaissre,prikre,guettais,Jetais,etais,ca,repetais,etais glacee,ler,,
+23,Seur Maie,Lse,Seur,"IlIi
+I",noux,Saeur,-L,,,,,
+24,lingerie,superieure,Ismrie,Ismerie,moitie,,,,,,,
+25,obeir,Apres,pre Chicon,pre,Chicon,vecu,E,,,,,
+26,Sur Desiree-des-Anges,nuages.a6,hesita,Seur Dsiree-des-Anges,es-,Madeleine,Desiree-des-Anges,Seur Desiree-des-Anges,Desire-des-Anges,,,
+27,accrochee,cheminee,Cache,precher,Merci,Bibiche,bcheron,pimbeche,,,,
+28,gagea,Communs,NSJ,prte,ar-,,,,,,,
+29,Quelque,Vronique,Quelquefois,Veronique,Paques,J',,,,,,
+30,Eugkne,logne,Eugene,Sologne,Eugne,,,,,,,
+31,voyais,.'avais,baissee,Malgre,Javais,aimais,,,,,,
+32,barriere de peupliers,Vierge,buis,W,.Hier,,,,,,,
+33,Tes,Chemineau la Bete,bete,Augustine,betes,,,,,,,
+34,Table,champs de ble,Rome,champ de ble,,,,,,,,
+35,Agathe,,,,,,,,,,,

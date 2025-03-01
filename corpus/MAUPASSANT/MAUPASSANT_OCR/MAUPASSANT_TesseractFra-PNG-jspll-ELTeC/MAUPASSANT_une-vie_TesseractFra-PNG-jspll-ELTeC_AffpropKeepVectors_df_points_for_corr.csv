@@ -1,26 +1,100 @@
 text,cluster,cluster_corrected
-alle,0.0,
-alluma,0.0,
-Allez-,0.0,
-Flle,0.0,
-élle,0.0,
-Allemagne,0.0,
-"AH 
- 
- X",1.0,
-"J 
- AH 
- X",1.0,
-"J 
- AH 
- AH",1.0,
-"J 
-   
- 
- 
- 
- 
- AH",1.0,
+lJulién,0.0,
+Julien,0.0,
+"IL N.
+
++ Julièn",0.0,
+Bastia,1.0,
+Thysbé,1.0,
+Lastique,1.0,
+Bas,1.0,
+poür,2.0,
+toujoürs,2.0,
+Suisse,3.0,
+Laisse-,3.0,
+Encaissée,3.0,
+alaise,3.0,
+dain,4.0,
+Soudain,4.0,
+Ellesse,5.0,
+ellE,5.0,
+javelle,5.0,
+Éternelle,5.0,
+elLE,5.0,
+tonnelle,5.0,
+Elle-s’,5.0,
+Elle,5.0,
+Puiselle,5.0,
+"|
+
+- Elle",5.0,
+Ellé,5.0,
+élle,5.0,
+-de-Ganache,6.0,
+Ganache,6.0,
+vert-de-gris,6.0,
+barôn,7.0,
+Le.baron,7.0,
+Barbes,7.0,
+aipardonna,8.0,
+Jardin,8.0,
+Sonna,8.0,
+reparue,8.0,
+Étouvent,9.0,
+venirs,9.0,
+"couvent
+
+de Versailles",9.0,
+trouves-tu,9.0,
+"hameau d’ -
+souvent",9.0,
+obséquieux,10.0,
+Hieux,10.0,
+quiéter,10.0,
+"À l
+l'obscurité",10.0,
+tricotani,11.0,
+Picot,11.0,
+bécota,11.0,
+Lheure,12.0,
+Eure,12.0,
+Impureté,12.0,
+heurta,12.0,
+Ieures,12.0,
+Heure-,12.0,
+"pays de
+L tout parsemée",13.0,
+pays de Caux,13.0,
+pays qu’,13.0,
+ner son amazone,14.0,
+ner,14.0,
+Damas,14.0,
+amazone,14.0,
+tont,15.0,
+ponT,15.0,
+Pontet,15.0,
+Moi,16.0,
+moi,16.0,
+Italie,17.0,
+V'escalier,17.0,
+d'Italie,17.0,
+italie,17.0,
+Cuitaux,17.0,
+Remontée,18.0,
+mont Riboudet,18.0,
+Reminil,18.0,
+sais-tu,19.0,
+Sais-tu,19.0,
+sais,19.0,
+mer par-dessus,20.0,
+mer invisible,20.0,
+m'’aimer,20.0,
+Évisa,20.0,
+mer r bleu À,20.0,
+uand,21.0,
+Hollande,21.0,
+iand,21.0,
+Etle,21.0,
 "sur-
 
  
@@ -29,32 +103,7 @@ Allemagne,0.0,
  
  AH 
    
- X",1.0,
-"AH 
- X 
- 
- 
- J 
- 
- J 
- AH 
- 
- X",1.0,
-"AH 
- X",1.0,
-"J 
-   
-   
-   
- AH 
- 
- X",1.0,
-"X 
- 
- 
- 
- AH 
- X",1.0,
+ X",22.0,
 "AH 
 
  
@@ -71,21 +120,7 @@ VII
  
  
  AH 
- X",1.0,
-"X 
- 
- AH 
- X",1.0,
-"X 
- 
- 
- AH 
- X 
- 
- AH 
- AH 
- 
- X",1.0,
+ X",22.0,
 "AH 
  
  J 
@@ -100,189 +135,578 @@ VII
  
  
  
- X",1.0,
-Demain-,2.0,
-Lemaire,2.0,
-hümains,2.0,
-demAin-,2.0,
-Fer,3.0,
-ferme d’Életot,3.0,
-sais-tu,4.0,
-sais,4.0,
-Sais-tu,4.0,
-Bastia,5.0,
-Lastique,5.0,
-Bas,5.0,
-"VEUX
-
-Une grosse femme",6.0,
-"VEUX
-
-I",6.0,
-Femme,6.0,
-j.sensà,7.0,
-sen,7.0,
-Tiens,7.0,
-Ilsne,8.0,
-Ils’,8.0,
-Chinoiïs,9.0,
-nanoir,9.0,
-Chine,9.0,
-Coutelier,10.0,
-"S
-
-Elie",10.0,
-Écoutez,10.0,
-ombrE,11.0,
-Chambre-aux-Demoiselles,11.0,
-moiselle de la Roche-Aubert,11.0,
-champagne,11.0,
-Étre,12.0,
-Étretat,12.0,
-étremoral,12.0,
-Vaucotte,13.0,
-Vauds,13.0,
-Yport,14.0,
-fort rouge,14.0,
-| Yport,14.0,
-Normand,15.0,
-Normandie,15.0,
-Hôtel de Normandie,15.0,
-Normande,15.0,
-"hôtel d
-
-Lenormand",15.0,
-lJulién,16.0,
-"IL N.
-
-+ Julièn",16.0,
-venirs,17.0,
-Étouvent,17.0,
-"couvent
-
-de Versailles",17.0,
-trouves-tu,17.0,
-"hameau d’ -
-souvent",17.0,
-Cria-,18.0,
-Crisange,18.0,
-Lisan,18.0,
-changée,18.0,
-vallon sauvage d'Ota,19.0,
-"rue
-Sauvage",19.0,
-rue du Sauvage,19.0,
-savez,20.0,
-Savez,20.0,
-Avez,20.0,
-Religion,21.0,
-lign,21.0,
-Fection,21.0,
-naie,22.0,
-sernaiñes,22.0,
-Éloignait,22.0,
-serrure,22.0,
-Sainte-Hélène,23.0,
-Saint-Léonard,23.0,
-ournée,24.0,
-Bourse,24.0,
-Dour,24.0,
-Four-,24.0,
-Four,24.0,
-el hourrue,24.0,
-Coursil,24.0,
-Livourne,24.0,
-Fr bornme,25.0,
-éotnme,25.0,
-jeta,26.0,
-Jet,26.0,
-mon-beau-frère,27.0,
+ X",22.0,
+"J 
+   
+   
+   
+ AH 
+ 
+ X",22.0,
+"AH 
+ X",22.0,
+"J 
+   
+ 
+ 
+ 
+ 
+ AH",22.0,
+"AH 
+ 
+ X",22.0,
+"AH 
+ X 
+ 
+ 
+ J 
+ 
+ J 
+ AH 
+ 
+ X",22.0,
+"X 
+ 
+ 
+ AH 
+ X 
+ 
+ AH 
+ AH 
+ 
+ X",22.0,
+"J 
+ AH 
+ X",22.0,
+"X 
+ 
+ AH 
+ X",22.0,
+"X 
+ 
+ 
+ 
+ AH 
+ X",22.0,
+"J 
+ AH 
+ AH",22.0,
+calmé,23.0,
+caleçon,23.0,
+calme-toi,23.0,
+Penples,24.0,
+Péuples,24.0,
+Naples,24.0,
+VOIX,25.0,
+sesavoir,25.0,
+VOIX195,25.0,
+voilÀ,25.0,
+VOIX229,25.0,
+Re-je-regarDE,26.0,
+N'ai-je,26.0,
+regardez,26.0,
+apportez-les-moi,27.0,
+mariez-les,27.0,
+Pourriez-,27.0,
+Trébuche,28.0,
+Béelzébuth,28.0,
+Gouche,28.0,
+savez,29.0,
+Avez,29.0,
+Savez,29.0,
+Enchaînée,30.0,
+Providence,30.0,
+Florence,30.0,
+pides,30.0,
+Provence,30.0,
+Ils’,31.0,
+Ilsne,31.0,
+Rollebosc,32.0,
+olle,32.0,
+Bassolle,32.0,
+amollis,32.0,
+Folle,32.0,
+Rouen,33.0,
+caoutchoues,33.0,
+deuxijouts,33.0,
+Bout,33.0,
+Sainte-Hélène,34.0,
+pau,34.0,
+Saint-Léonard,34.0,
+d’aiguille,35.0,
+Vrillette,35.0,
+gille,35.0,
+ille,35.0,
+Oreilles,35.0,
+fille;Elle,35.0,
+Vrilleite,35.0,
+Marseille,35.0,
+dormeuse,36.0,
+meuse,36.0,
+honteuse,36.0,
+"Écu-
+meuse",36.0,
+au-,37.0,
+mon-beau-frère,37.0,
 "au-
 
  
  
  
- X",27.0,
-au-,27.0,
-Réponds,28.0,
-Répondez,28.0,
-crois,29.0,
-Trois-Mares,29.0,
-"Co |
-
-Dè rares",29.0,
-phare de Fécamp,30.0,
-golfe de Sagone,30.0,
-Fécamp,30.0,
-gare de Beuzeville,30.0,
-Batteviile,31.0,
-Batte-,31.0,
-Batteville,31.0,
-agonie,32.0,
-rémonie,32.0,
-rémonie funèbre,32.0,
-Re-je-regarDE,33.0,
-regardez,33.0,
-N'ai-je,33.0,
-Jeanné,34.0,
-es’,34.0,
-EtJeannes’,34.0,
-.:JEanne,34.0,
-"VEUX
-
-Jeanne",34.0,
-ceLA,35.0,
-Gela,35.0,
-calmé,36.0,
-calme-toi,36.0,
-caleçon,36.0,
-s’'augmentent,37.0,
-Est Entendu,37.0,
-pau,37.0,
-Dentu,37.0,
-Roi-Louis,38.0,
-Marquis,38.0,
-buis,38.0,
-Leperthuis,38.0,
+ X",37.0,
+Hommes,38.0,
+ôrmes,38.0,
+Lomme,38.0,
+"rue
+Sauvage",39.0,
+rue du Sauvage,39.0,
+vallon sauvage d'Ota,39.0,
+Madère,40.0,
+Madeleines,40.0,
+malaDe’,40.0,
+eleis,40.0,
+la Seine,40.0,
+entR-inaccoutumé.-Les châtelains,41.0,
+cntra,41.0,
+sapins,41.0,
+entru,41.0,
+La plaine,41.0,
+Ajaccio,41.0,
+gônflée,42.0,
+halées,42.0,
+mélée,42.0,
+squ,43.0,
+Océan jusqu’,43.0,
+Océan,43.0,
+jusqu’,43.0,
+qu’,43.0,
+Chinoiïs,44.0,
+nanoir,44.0,
+Chine,44.0,
+Sitôt,45.0,
+Tassit,45.0,
+Lés,45.0,
+hé-,46.0,
+Hé-,46.0,
+entemps,47.0,
+temps',47.0,
+emps,47.0,
+Tiens,48.0,
+j.sensà,48.0,
+etle,48.0,
+sen,48.0,
+Batteviile,49.0,
+Batteville,49.0,
+Batte-,49.0,
+Val,50.0,
+val,50.0,
+eval,50.0,
+val d'Ota,50.0,
+val d’Ota,50.0,
+valetsen,51.0,
 "AH 
  
  
  
 
-du valet",39.0,
-valetsen,39.0,
+du valet",51.0,
 "air
-du Val",39.0,
-mariez-les,40.0,
-Pourriez-,40.0,
-apportez-les-moi,40.0,
-Hé-,41.0,
-hé-,41.0,
-vert-de-gris,42.0,
--de-Ganache,42.0,
-Ganache,42.0,
-Sacré-Cœur,43.0,
-Sacristi,43.0,
-Sace,43.0,
-Croyez-,44.0,
-Crott,44.0,
-Fuyez,44.0,
-V'escalier,45.0,
-Rosalie,45.0,
-d'Italie,45.0,
-ROSALIE,45.0,
-italie,45.0,
-Cuitaux,45.0,
-Italie,45.0,
-Trébuche,46.0,
-Gouche,46.0,
-Béelzébuth,46.0,
-Barbes,47.0,
-barôn,47.0,
-Le.baron,47.0,
-tricotani,48.0,
-bécota,48.0,
-Picot,48.0,
+du Val",51.0,
+Blesséos,52.0,
+Îles,52.0,
+Les,52.0,
+Île,52.0,
+sson,53.0,
+Tongs,53.0,
+Songe,53.0,
+Lison,53.0,
+ongeur,53.0,
+taillis dépouillés,54.0,
+uillon,54.0,
+Couillon,54.0,
+Coup,55.0,
+s’assoupir,55.0,
+s’as-,55.0,
+changée,56.0,
+Crisange,56.0,
+Cria-,56.0,
+Lisan,56.0,
+Varneville,57.0,
+riseville,57.0,
+Brisseville,57.0,
+Briseville,57.0,
+Beuzeville,57.0,
+cher,58.0,
+la manche,58.0,
+pôche,58.0,
+Corniche,58.0,
+Sachez,58.0,
+Vouset,59.0,
+souS,59.0,
+lsblouse,59.0,
+"AH 
+ AH 
+ 
+ J 
+ X 
+ 
+ 
+ J 
+ X 
+ 
+ 
+ AH 
+ 
+ 
+ 
+ 
+ 
+
+UNE VOIX67",60.0,
+"vieux
+
+ 
+
+ X 
+ 
+ 
+ 
+ J 
+ 
+ 
+
+330 NE",60.0,
+"AH 
+   
+ AH 
+ 
+ X 
+ 
+ J 
+ X 
+ 
+ J 
+ 
+ 
+ X 
+ 
+ J",60.0,
+"AH 
+ AH",60.0,
+"AH 
+ X 
+ 
+ J 
+ 
+ X 
+ 
+ J 
+ X 
+ 
+ 
+ 
+ 
+ 
+ J",60.0,
+Enjamber Un Fleuve,61.0,
+Jambes,61.0,
+la Jampe,61.0,
+Yport,62.0,
+| Yport,62.0,
+Voisine Portait,62.0,
+fort rouge,62.0,
+Quittez-le,63.0,
+Guettez-,63.0,
+Gette,63.0,
+Comptez,63.0,
+LÀ-haut,64.0,
+"| |
+
+Hauts",64.0,
+automne’,64.0,
+Répondez,65.0,
+Réponds,65.0,
+Jet,66.0,
+jeta,66.0,
+"AH 
+ 
+ 
+ 
+ 
+ 
+ J 
+     
+ 
+ 
+ 
+ J 
+ 
+ 
+ J 
+   
+ 
+ 
+
+ 
+
+47",67.0,
+"AH 
+ 
+ 
+ J 
+   
+   
+ X",67.0,
+"X 
+ 
+ 
+ AH 
+ 
+ J 
+ X",67.0,
+"AH 
+ 
+ J 
+   
+   
+   
+ X",67.0,
+Gela,68.0,
+ceLA,68.0,
+Éloignait,69.0,
+naie,69.0,
+serrure,69.0,
+sernaiñes,69.0,
+Flle,70.0,
+Allemagne,70.0,
+alle,70.0,
+Allez-,70.0,
+alluma,70.0,
+Religion,71.0,
+Fection,71.0,
+lign,71.0,
+Tolbiac,72.0,
+Bolbec,72.0,
+Normande,73.0,
+Normand,73.0,
+Hôtel de Normandie,73.0,
+"hôtel d
+
+Lenormand",73.0,
+Normandie,73.0,
+Pyrame,74.0,
+ieau,74.0,
+rêver,74.0,
+hameau de Verneuil,74.0,
+Verneuil,74.0,
+Vauds,75.0,
+Vaucotte,75.0,
+Méditerranée,76.0,
+la-Méditerranée,76.0,
+éotnme,77.0,
+Fr bornme,77.0,
+ournée,78.0,
+el hourrue,78.0,
+Four,78.0,
+Livourne,78.0,
+Four-,78.0,
+Coursil,78.0,
+Dour,78.0,
+Bourse,78.0,
+Cana,79.0,
+Piana,79.0,
+Cany,79.0,
+Athènes,80.0,
+ajones,80.0,
+rome,80.0,
+Romäines,80.0,
+Impatienté,81.0,
+blaient,81.0,
+Oriental,81.0,
+BIentôt Apparut Le Village,81.0,
+mignonne,82.0,
+Mignonne,82.0,
+Patronne,82.0,
+bosquet,83.0,
+bois bruni,83.0,
+Quelquefois,83.0,
+Autrefois,83.0,
+quem devoret,83.0,
+Croquerat,83.0,
+Jeanné,84.0,
+EtJeannes’,84.0,
+.:JEanne,84.0,
+es’,84.0,
+"VEUX
+
+Jeanne",84.0,
+A comtesse,85.0,
+Corse,85.0,
+t-la Corse,85.0,
+"loi,-la",85.0,
+Élança,86.0,
+Adélaïde,86.0,
+HÉLAs,86.0,
+Las,86.0,
+Le soleil,87.0,
+le soleil,87.0,
+Île s’,87.0,
+soleil,87.0,
+S'explique,88.0,
+expliquA,88.0,
+Rosalie,89.0,
+ROSALIE,89.0,
+Ltorturée,90.0,
+Chicorées,90.0,
+Évaporée,90.0,
+AImait-,91.0,
+Allait-Royal,91.0,
+Était-,91.0,
+Pouvait,91.0,
+Tai,91.0,
+Fuyez,92.0,
+Crott,92.0,
+Croyez-,92.0,
+Brise-,93.0,
+Paris,93.0,
+Lise,93.0,
+surfabeno,93.0,
+Surprise,93.0,
+Jeinne,94.0,
+nne,94.0,
+éanne,94.0,
+Jéanne,94.0,
+moiselle de la Roche-Aubert,95.0,
+ombrE,95.0,
+champagne,95.0,
+Chambre-aux-Demoiselles,95.0,
+Fourville,96.0,
+Courville,96.0,
+Barville,96.0,
+Goder-,96.0,
+Goderville,96.0,
+Ile,97.0,
+Ileutmème,97.0,
+Écoutez,98.0,
+"S
+
+Elie",98.0,
+Coutelier,98.0,
+"el
+morne",99.0,
+alaternes,99.0,
+Mornes,99.0,
+s‘blancs.-,100.0,
+L{ran,100.0,
+franchit,100.0,
+la France,100.0,
+France,100.0,
+étremoral,101.0,
+Côte,101.0,
+Étre,101.0,
+Étretat,101.0,
+gare de Beuzeville,102.0,
+Fécamp,102.0,
+phare de Fécamp,102.0,
+golfe de Sagone,102.0,
+Demain-,103.0,
+hümains,103.0,
+Lemaire,103.0,
+demAin-,103.0,
+supplie,104.0,
+Jülien,104.0,
+wlien,104.0,
+cueillie,104.0,
+Lieu,104.0,
+anca,105.0,
+s’'enfoncer,105.0,
+dOnc,105.0,
+cütrenoncé,105.0,
+dénonca,105.0,
+Sèvres,106.0,
+Notre-Dame du Gros-Ventre,106.0,
+Londres,106.0,
+Apôtres,106.0,
+"Co |
+
+Dè rares",107.0,
+crois,107.0,
+Trois-Mares,107.0,
+Marquis,108.0,
+Roi-Louis,108.0,
+Leperthuis,108.0,
+buis,108.0,
+"VEUX
+
+I",109.0,
+Femme,109.0,
+"VEUX
+
+Une grosse femme",109.0,
+Voulez,110.0,
+piéds;. Poulet,110.0,
+Paulet,110.0,
+souleva,110.0,
+Poulet,110.0,
+comtesse Gilberte,111.0,
+Alber-,111.0,
+GIlbert,111.0,
+Gilberte,111.0,
+Dentu,112.0,
+Est Entendu,112.0,
+s’'augmentent,112.0,
+e Havre,113.0,
+au Havre,113.0,
+du Havre,113.0,
+le Havre,113.0,
+rue du Havre,113.0,
+collège du Havre,113.0,
+1 Havre,113.0,
+L'Amérique,114.0,
+Amérique,114.0,
+Anti-physiques,114.0,
+l'Afrique,114.0,
+Afrique,114.0,
+Faire,115.0,
+l'Empire,115.0,
+Lire,115.0,
+surgirent.de,115.0,
+Gésirer,115.0,
+Cigogne,116.0,
+"col
+fl",116.0,
+Niolo,116.0,
+cognac,116.0,
+Cologne,116.0,
+"UNE VOIX129
+
+m",117.0,
+"AH 
+     
+ 
+ J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+UNE VOIX179",117.0,
+UNE VOIX69,117.0,
 "UNE VOIX267
 
    
@@ -302,42 +726,13 @@ Picot,48.0,
  
  J 
 
-../: Qu'est-ce que je deviendrai",49.0,
-"AH 
-     
- 
- J 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- AH 
- 
- 
- 
- 
- 
- 
- 
-
-UNE VOIX179",49.0,
-"UNE VOIX129
-
-m",49.0,
+../: Qu'est-ce que je deviendrai",117.0,
 "AH 
  
 
  
 
-UNE VOIX51",49.0,
-UNE VOIX69,49.0,
+UNE VOIX51",117.0,
 "AH 
    
  AH 
@@ -355,536 +750,141 @@ UNE VOIX69,49.0,
  J 
  
 
-UNE VOIX155",49.0,
-Le soleil,50.0,
-Île s’,50.0,
-le soleil,50.0,
-soleil,50.0,
-Rouen,51.0,
-Bout,51.0,
-caoutchoues,51.0,
-deuxijouts,51.0,
-Piana,52.0,
-Cana,52.0,
-Cany,52.0,
-Côte,53.0,
-Val,53.0,
-val d'Ota,53.0,
-eval,53.0,
-val,53.0,
-val d’Ota,53.0,
-Tolbiac,54.0,
-Bolbec,54.0,
-Blesséos,55.0,
-Îles,55.0,
-Les,55.0,
-Île,55.0,
-Gette,56.0,
-Guettez-,56.0,
-Quittez-le,56.0,
-Comptez,56.0,
-VOIX229,57.0,
-voilÀ,57.0,
-VOIX,57.0,
-sesavoir,57.0,
-VOIX195,57.0,
-Élança,58.0,
-HÉLAs,58.0,
-Las,58.0,
-Adélaïde,58.0,
-obséquieux,59.0,
-Hieux,59.0,
-"À l
-l'obscurité",59.0,
-souleva,60.0,
-Poulet,60.0,
-Voulez,60.0,
-Paulet,60.0,
-piéds;. Poulet,60.0,
-éanne,61.0,
-Jeinne,61.0,
-nne,61.0,
-Jéanne,61.0,
-Tassit,62.0,
-Sitôt,62.0,
-ieau,63.0,
-Verneuil,63.0,
-hameau de Verneuil,63.0,
-Pyrame,63.0,
-rêver,63.0,
-au Havre,64.0,
-du Havre,64.0,
-e Havre,64.0,
-le Havre,64.0,
-collège du Havre,64.0,
-1 Havre,64.0,
-rue du Havre,64.0,
-Jardin,65.0,
-reparue,65.0,
-aipardonna,65.0,
-Sonna,65.0,
-Ileutmème,66.0,
-Ile,66.0,
-Ellé,67.0,
-Elle,67.0,
-ellE,67.0,
-elLE,67.0,
-Puiselle,67.0,
-tonnelle,67.0,
-Elle-s’,67.0,
-Ellesse,67.0,
-"|
-
-- Elle",67.0,
-fille;Elle,67.0,
-Éternelle,67.0,
-javelle,67.0,
-Coup,68.0,
-s’assoupir,68.0,
-s’as-,68.0,
-Faire,69.0,
-Gésirer,69.0,
-l'Empire,69.0,
-surgirent.de,69.0,
-Thysbé,69.0,
-Lire,69.0,
-Romäines,70.0,
-rome,70.0,
-Athènes,70.0,
-ajones,70.0,
-Jülien,71.0,
-supplie,71.0,
-Lieu,71.0,
-wlien,71.0,
-Julien,71.0,
-Bassolle,72.0,
-amollis,72.0,
-Folle,72.0,
-Rollebosc,72.0,
-olle,72.0,
-Mornes,73.0,
-"el
-morne",73.0,
-alaternes,73.0,
-Lomme,74.0,
-Hommes,74.0,
-ôrmes,74.0,
-mer par-dessus,75.0,
-mer r bleu À,75.0,
-m'’aimer,75.0,
-mer invisible,75.0,
-Évisa,75.0,
-gônflée,76.0,
-mélée,76.0,
-halées,76.0,
-la Jampe,77.0,
-Jambes,77.0,
-Enjamber Un Fleuve,77.0,
-Soudain,78.0,
-dain,78.0,
-Moi,79.0,
-moi,79.0,
-Naples,80.0,
-Péuples,80.0,
-Penples,80.0,
-riseville,81.0,
-Varneville,81.0,
-Briseville,81.0,
-Beuzeville,81.0,
-Brisseville,81.0,
-la-Méditerranée,82.0,
-Méditerranée,82.0,
-ongeur,83.0,
-Lison,83.0,
-sson,83.0,
-Songe,83.0,
-Tongs,83.0,
-toujoürs,84.0,
-poür,84.0,
-pays qu’,85.0,
-"pays de
-L tout parsemée",85.0,
-Lés,85.0,
-pays de Caux,85.0,
-surfabeno,86.0,
-Brise-,86.0,
-Lise,86.0,
-Surprise,86.0,
-Paris,86.0,
-Heure-,87.0,
-Ieures,87.0,
-Impureté,87.0,
-Lheure,87.0,
-heurta,87.0,
-Eure,87.0,
-cueillie,88.0,
-Vrilleite,88.0,
-gille,88.0,
-Oreilles,88.0,
-Marseille,88.0,
-d’aiguille,88.0,
-Vrillette,88.0,
-ille,88.0,
-Pontet,89.0,
-tont,89.0,
-ponT,89.0,
-ucune,90.0,
-lune,90.0,
-Pas de lune,90.0,
-blaient,91.0,
-Oriental,91.0,
-BIentôt Apparut Le Village,91.0,
-Impatienté,91.0,
-bosquet,92.0,
-Croquerat,92.0,
-Autrefois,92.0,
-quem devoret,92.0,
-Quelquefois,92.0,
-bois bruni,92.0,
-cher,93.0,
-Corniche,93.0,
-Sachez,93.0,
-pôche,93.0,
-la manche,93.0,
-AImait-,94.0,
-Tai,94.0,
-Pouvait,94.0,
-Voisine Portait,94.0,
-Allait-Royal,94.0,
-Était-,94.0,
-emps,95.0,
-temps',95.0,
-entemps,95.0,
-Faven-,96.0,
-àvec,96.0,
-seulavec,96.0,
-comtesse Gilberte,97.0,
-GIlbert,97.0,
-Gilberte,97.0,
-Alber-,97.0,
-Reminil,98.0,
-mont Riboudet,98.0,
-Remontée,98.0,
-Londres,99.0,
-Notre-Dame du Gros-Ventre,99.0,
-Sèvres,99.0,
-Apôtres,99.0,
-"| |
-
-Hauts",100.0,
-automne’,100.0,
-LÀ-haut,100.0,
-Océan,101.0,
-jusqu’,101.0,
-qu’,101.0,
-Océan jusqu’,101.0,
-squ,101.0,
-Corse,102.0,
-A comtesse,102.0,
-t-la Corse,102.0,
-"loi,-la",102.0,
-Fourville,103.0,
-Barville,103.0,
-Goderville,103.0,
-Goder-,103.0,
-Courville,103.0,
-Angleterre,104.0,
-s’exalter,104.0,
-quiéter,104.0,
-terre de Barville,104.0,
-terre,104.0,
-perret,104.0,
-Niolo,105.0,
-"col
-fl",105.0,
-Cigogne,105.0,
-Cologne,105.0,
-cognac,105.0,
-Anti-physiques,106.0,
-Afrique,106.0,
-Amérique,106.0,
-L'Amérique,106.0,
-l'Afrique,106.0,
-souS,107.0,
-lsblouse,107.0,
-Vouset,107.0,
-Ltorturée,108.0,
-Chicorées,108.0,
-Évaporée,108.0,
-"vieux
-
- 
-
- X 
- 
- 
- 
- J 
- 
- 
-
-330 NE",109.0,
-"AH 
- AH",109.0,
-"AH 
- X 
- 
- J 
- 
- X 
- 
- J 
- X 
- 
- 
- 
- 
- 
- J",109.0,
-"AH 
- AH 
- 
- J 
- X 
- 
- 
- J 
- X 
- 
- 
- AH 
- 
- 
- 
- 
- 
-
-UNE VOIX67",109.0,
-"AH 
-   
- AH 
- 
- X 
- 
- J 
- X 
- 
- J 
- 
- 
- X 
- 
- J",109.0,
-honteuse,110.0,
-dormeuse,110.0,
-"Écu-
-meuse",110.0,
-meuse,110.0,
-Damas,111.0,
-amazone,111.0,
-ner,111.0,
-ner son amazone,111.0,
-la France,112.0,
-s‘blancs.-,112.0,
-France,112.0,
-franchit,112.0,
-L{ran,112.0,
-malaDe’,113.0,
-la Seine,113.0,
-Madère,113.0,
-eleis,113.0,
-Madeleines,113.0,
-"AH 
- 
- 
- J 
-   
-   
- X",114.0,
-"X 
- 
- 
- AH 
- 
- J 
- X",114.0,
-"AH 
- 
- 
- 
- 
- 
- J 
-     
- 
- 
- 
- J 
- 
- 
- J 
-   
- 
- 
-
- 
-
-47",114.0,
-"AH 
- 
- J 
-   
-   
-   
- X",114.0,
-iand,115.0,
-Hollande,115.0,
-uand,115.0,
-etle,116.0,
-Etle,116.0,
-S'explique,117.0,
-expliquA,117.0,
-uillon,118.0,
-taillis dépouillés,118.0,
-Couillon,118.0,
-Patronne,119.0,
-mignonne,119.0,
-Mignonne,119.0,
+UNE VOIX155",117.0,
+àvec,118.0,
+Faven-,118.0,
+seulavec,118.0,
+Fer,119.0,
+ferme d’Életot,119.0,
+rémonie funèbre,120.0,
+agonie,120.0,
+rémonie,120.0,
+ucune,121.0,
+lune,121.0,
+Pas de lune,121.0,
+Sacristi,122.0,
+Sace,122.0,
+Sacré-Cœur,122.0,
+Angleterre,123.0,
+s’exalter,123.0,
+terre de Barville,123.0,
+perret,123.0,
+terre,123.0,
+aimais,124.0,
+maison,124.0,
 "Tue
-oo Mais ta mère n’",120.0,
-aimais,120.0,
-maiS,120.0,
-maison,120.0,
-s’'enfoncer,121.0,
-anca,121.0,
-dOnc,121.0,
-dénonca,121.0,
-cütrenoncé,121.0,
-Provence,122.0,
-Enchaînée,122.0,
-pides,122.0,
-Providence,122.0,
-Florence,122.0,
-cntra,123.0,
-Ajaccio,123.0,
-La plaine,123.0,
-sapins,123.0,
-entru,123.0,
-entR-inaccoutumé.-Les châtelains,123.0,
-Suisse,124.0,
-alaise,124.0,
-Encaissée,124.0,
-Laisse-,124.0,
-pre,,
-I,,
-J1,,
-lu,,
-Qué,,
-E,,
-Es,,
-Cargèse,,
-.$eS,,
-EH,,
-à-,,
-t’,,
-ca,,
-Ro-,,
-Ou,,
-kB,,
-Ïl,,
-maïns,,
-S’,,
-Juï,,
-Toüt,,
-2 L,,
-Fans,,
-c0chér,,
-yme,,
-y-,,
-D|,,
--.Je',,
-j’,,
-"sa-
-ns",,
-m-,,
-recut,,
-AH,,
-LÀ,,
-v’'la,,
-e’,,
-Gao,,
-habitué,,
-N,,
-b,,
-S,,
-pothes,,
-droïte,,
-d2,,
-Jeriné,,
-Lys,,
-es,,
-jura,,
-Fe,,
-ns,,
-Haït,,
-A84,,
+oo Mais ta mère n’",124.0,
+maiS,124.0,
 CE,,
-Î,,
-É,,
-Lac,,
-Grèce,,
-Ù,,
+Ro-,,
+t’,,
+à-,,
+GO Gp,,
+Es,,
+pothes,,
+Mira,,
+F,,
+Ts,,
+S’,,
+z0n€,,
+b,,
+maïns,,
+I,,
+N,,
+el,,
+d2,,
+m’,,
+m-,,
+2 L,,
+y-,,
+Cargèse,,
+rivige,,
+jura,,
+Lo,,
+Gao,,
 Après-,,
-Jui,,
+Haït,,
+droïte,,
+Sobrés,,
 He,,
+c0chér,,
+Lys,,
+HU,,
+Î,,
+es,,
+Je,,
+-.Je',,
+Ia,,
+habitué,,
+Grâce,,
+l’,,
+EH,,
+recut,,
+Fe,,
+galo,,
+Grèce,,
+ER,,
+RRO A,,
+IS,,
+Juï,,
+Te,,
+e’,,
+L’,,
+D|,,
+.$eS,,
 fa-,,
+Coco,,
+l.,,
+É,,
+AH,,
+d’,,
+Ïl,,
 V',,
 Dis,,
-Coco,,
-ler,,
-Te,,
-ER,,
-Mira,,
-UN,,
+Ci,,
 qü’,,
-Dè,,
-Sobrés,,
+v’'la,,
 |LE,,
-rivige,,
-L’,,
-A,,
 ge,,
-Has,,
+Ou,,
+Toüt,,
+us,,
 Lu,,
 R,,
-S-,,
-l.,,
-IS,,
-Je,,
-NE,,
-m’,,
-Lo,,
-us,,
+UN,,
+S,,
+lu,,
+Jeriné,,
+A,,
+Qué,,
 Be,,
-HU,,
-RRO A,,
-el,,
-émus,,
-l’,,
-galo,,
-s’,,
-Grâce,,
-Ts,,
-ES,,
-rs,,
-Midi,,
+ns,,
+pre,,
 j-,,
-Ci,,
-GO Gp,,
+ES,,
+NE,,
+A84,,
+s’,,
+j’,,
+Lac,,
+"sa-
+ns",,
 J,,
-Ia,,
-D S,,
-z0n€,,
-d’,,
-F,,
+ca,,
+Jui,,
 |,,
+Midi,,
+yme,,
+Fans,,
+S-,,
+ler,,
+D S,,
+rs,,
+kB,,
+E,,
+émus,,
+Ù,,
+Has,,
+Dè,,
+LÀ,,
+J1,,

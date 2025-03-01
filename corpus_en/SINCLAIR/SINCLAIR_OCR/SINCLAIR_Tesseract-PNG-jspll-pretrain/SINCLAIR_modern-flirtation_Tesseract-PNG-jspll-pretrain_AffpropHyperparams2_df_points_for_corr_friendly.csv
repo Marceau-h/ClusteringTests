@@ -1,23 +1,27 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10
-0,Caroline,Dublin,Kilmarnock,"L.60,000",Adeline,DUBLIN,inn,Monsieur D’Ambereau,,,
-1,Great Britain,Britain,Limerick,Spain,Saul,Pinnock,Israel,,,,
-2,Providence,United Ser-,Survival,Rosemount,us,,,,,,
-3,Dunbar,Ernest,"Agnes
-Dunbar",Agnes,Agnes.,Leeds,wi,Jacob,Agnes Dunbar,,
-4,Fife,Marion,,,,,,,,,
-5,Louis de Crew-,Melton,"Louis De
-Crespigny",verde,GLASGOW,Louis,,,,,
-6,Canada,Henry,"St
-John’s Lodge",,,,,,,,
-7,Srveran,Courant,rich~,piggy,Geranium,china,,,,,
-8,LONDON,ny,London,Doncaster,MoDERN,,,,,,
-9,St Cecilia,Julian,Australia,,,,,,,,
-10,"earth,—by",Holyrood,Holyrood House,"quakers,—a","heart,—and",L,"room,—a",Oxford,,,
-11,Abbey,beaux,nile,,,,,,,,
-12,Shetland,Laugh,Windermere,juve-,Tattersall,Score,Ireland,Scotland,Highland,SCOTLAND,England
-13,Argyloshire,Argyleshire,Edinburgh,Yorkshire,,,,,,,
-14,"Clara Gran-
-ville",Rosemount Villa,Clara,Clara Granville,Hebe,Agrippina,Sea,Granville,"Clara
-Granville",Clara Granville’s,Paris
-15,Charles,Bibles,,,,,,,,,
-16,Clara Novello,parnell,Kelso,Galloway,Portobello,,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
+0,L,Pinnock,nile,piggy,,,,,
+1,Marion,,,,,,,,
+2,Sea,Saul,Kelso,wi,,,,,
+3,Louis de Crew-,"Louis De
+Crespigny",Louis,,,,,,
+4,Julian,Paris,Australia,ny,St Cecilia,,,,
+5,Jacob,"Clara
+Granville",Clara Granville,Rosemount Villa,Clara Granville’s,"Clara Gran-
+ville",MoDERN,Granville,Clara
+6,"St
+John’s Lodge",Argyloshire,Argyleshire,United Ser-,Yorkshire,,,,
+7,inn,Abbey,Israel,,,,,,
+8,England,Highland,Laugh,Shetland,Scotland,Ireland,SCOTLAND,Score,
+9,Windermere,us,Canada,Hebe,,,,,
+10,Bibles,Kilmarnock,Charles,,,,,,
+11,Edinburgh,Fife,Tattersall,Providence,,,,,
+12,"heart,—and",Holyrood,"quakers,—a","room,—a",Agrippina,Holyrood House,,,
+13,juve-,Limerick,Doncaster,LONDON,London,beaux,,,
+14,Leeds,Oxford,verde,Monsieur D’Ambereau,,,,,
+15,Spain,Britain,Great Britain,,,,,,
+16,Agnes.,Dunbar,Agnes,"Agnes
+Dunbar",Ernest,Agnes Dunbar,,,
+17,Survival,Srveran,rich~,Courant,GLASGOW,Geranium,"earth,—by",,
+18,Caroline,DUBLIN,Rosemount,Adeline,Dublin,,,,
+19,Clara Novello,parnell,Galloway,Portobello,"L.60,000",,,,
+20,Melton,Henry,china,,,,,,

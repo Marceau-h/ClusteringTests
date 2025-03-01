@@ -1,64 +1,32 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538,elem_539,elem_540,elem_541,elem_542,elem_543,elem_544,elem_545,elem_546,elem_547,elem_548,elem_549
-0,crois,du Nord,lit n’,Pod,baie de Naples,Océan,Cécilia,Bamban,Pruneaux,P,Université,TS,Demain-,Désir-de-plaire,Combien,IL L,veux-tu,Trouves-tu,Pierrotte s’,Fer,Hospitalier,Fanfan-la-Italie,Foin,sagne,îles Marquises,estimez,gros Serrières,fier,Pardonnez,trouverez là-bas des amis,Polichinelle,Rà,Grand-Cercle,fort Loyasse,bte,mans,Coquine,80 LE,Cuba,RCE,Araignée,RCE S ON,lui!.,jACques,Moi,"collège de
-Sarlande",Quartier Latin,poète!.,oo ot oo todo,Aer,Conseillez,LS L,Précédé,jusqu’,Chinois,Château-,S,"Pierrotte!
+0,Bien,Vois,Po,Odéon,À,Sd,Enr,Comprenez,salie!.,Vendredi,Fougeroux,Moi,Y A,ellE,"place des
+Terreaux",Perroquet,Cévenol l’,Grenelle,LES,rEgardez,"Coucou-
+Blanc",Chers,DER,mans,Chili,Daniel,Ménalque,chut!.,voyais,Beaucaire,boulevard Montparnasse,Vienne,m'’effraya,Jugez,RCE,Demain-,Écoutez,Conseillez,Bandit,Désir-de-plaire,rue Lanterne,Guigne,SL  Sd,Angélus,Infortunes,Amour,"3
 
-Pierrotte",Quartier-,Moustier,"CHOSE
-
-RSS RER E SR R",principal,Neuf-des-Après,Place!,Jugez,Amour,Sd,Eu,tueras là-haut,Egypte,Annou,Montparnasse,Barbette!.,tolocototignan,pAs eNcore,"vieux
-Lalouette","Bati-
-gnolles",Vatel,Grenelle,LA BÊTE A BON DIEU,Caveau,Pier-,rEgardez,Coucou-Blanc!.,m'’assit,entr’,m'’asseoir,Vieux-Collège,Charivaris,Agen,Midi-Opinion,Nous vivions,"Es-tu
-retourné",Enr,Rime,"LÀ
-
- 
-
- 
-
-L","PER
-
-T
-
-72 LE PETIT",Religion,"Quartier
-Latin!",Muguet,Gymnase,Entrerai-je,Laquelle,PAS,Loyasse,Is,Perrache,mois!.,"Pierrotte…
-Est",amérique,kakatoès,niais,Bamban!.,À,"PAPILLON
-
-Je crois bien!",Odette,Anastasie,Sarlandais,Blanc,Musette,rue de Lille,Savez,théâtre de Paris Quant,sur-le-champ,aplatisse,"3
-
- ELle",Rome,Jacques,Pérou,Trouves-tu mon Muguet,Turc,"Quartier
-Latin",AmUser,recopiât,Rosellen,Malheu-,rs,miséra-a-le!,Vallée,Inde,"Coucou-
-Blanc",la Prairie,Vive,"-
-
-Moi",m'’écrivaient,pyramide d'Egypte,Rendez,chut!.,Récollets,"CRISTAUX
+ ELle",hIer,Brave,Courage,Le Rosellen,Grand-Cercle,Italie,Comprends-tu cela,Lombards,Petit Chose,Mademoiselle,Bibliothèque,lapromenade,L’,fort Loyasse,O,Chenilles,Montparnasse,TS,Touraine,Palais-Royal,Nous vivions,sabré,"CRISTAUX
 Ancienne Maison Lalouette
 
 |
 |
-|",kss!.,Bonsoir,I,D TER,fe me cn -,Chauve-Souris,Palais-Mazarin,voyais,Bouzanquet,Bhagiratha,Evêché,buis,Se dd,Rogé,Sarlande,Promettez,LA BÊTE À BON DIEU,t’,principal n’,Vois-tu!,S«C’,Micou,noble n’,Cristaux,le Midi,Bravo,champagne,Naples,Grand-Orient,Guigne,collège de Lyon,Madagas-,Cunocépa,Serrières,Zéperons,Réfléchissez,"PAPILLON S
-Ah!",Mont-,Porcelaines,Prés,Saumon,Parisien,Chers,Magasins,songeuse,Batignolles,Lyon,Mon cher,Anastagille,Eyssette,Dsnemeete-,cette Bastille,Çudra,Langlumeau,RER,Roberte,Comprends-tu cela,Kalatçala,Chenilles,m'’inspiraient,"RÊVE233
+|",théâtre de Paris Quant,Italiens,Pardonnez,Fanfan-la-Italie,bourrée,Turc,du Nord,Ebloui,Quels,Papillon,Précédé,gros Serrières,Sais-tu qu’,"CHOSE
 
- 
+RSS RER E SR R",Neuf-des-Après,Anastasie,soufHe,Rime,Angleterre,Bhagiratha,Trouves-tu,Rome,Couru-Blanc,m'’invitait,PAPILLON,rue des Dames,porte Zéperons,Puis,Prairie,Marsala,s'’entraînant,Tiens,Montez,Sitôt,Quartier-Latin,Barbette… Allons!,j’,Pie,Sceaux,la Prairie,"FETE
 
-Moi, j'étais d’avis",Lalouette,Lovelaces,Ià-bas,Fouette,"IX
-
-L’AFFAIRE",Tolocototignan,Ser-,Les Chenilles,Avez,Angélus,Vois,théâtre de Paris,SOit,Muguets,Bach’,Robinson,Grillon,D,Bandit,irons /à-bas,bésigue,—- Bonjour,Italiens,Crusoé,critérium!.,vages,Écoutez,Travaille,Scarabées,Italien,Champenoise,Voilà,qu’,croisée,Prairie,Amalécites,Algérien,Fût,Sitôt,-je,Papillon,Cassagne,goutte,Pilouitt!.,MIle,Mole,ellE,Vienne,victoria de la dame,Perroquet,Afrique,ElLe,"collège de
+JE",tonnelle,le Midi,Foin,D,Inde,Eu,Providence,critérium!.,m'’allait,Fouette,Laquelle,RSR R RER,Consterna-,S«C’,Cahier,veux-tu,alençon,aimais,"collège de
 
  
 
  
  i
 
-240 LE PETIT",honte!.,bah,Comprenez,s’,Venez,Courage,Cadet,théâtre Montparnasse,Mademoiselle,Coucou,LA BÊTE A BON,SAUMON,Comédie,Figurez,m'’introduire,Boucoyran,LS,Cher,le Rhône,m'’appelait,Maine,Souwaroff,COUCI-BLANC,LES,Angleterre,Sèvres,RSR R RER,Beaucaire,Regardez,Nice,"CHOSE
+240 LE PETIT",Pruneaux,Dsnemeete-,J',Naples,Charivaris,Cassagne,t’,Sarlandais,Quartier Latin,Chardon,titis de l’,Pouah,noble n’,Réfléchissez,trouverez là-bas des amis,Grossiers,Midi-Opinion,Rogé,Port-au-Prince,"PAPILLON
 
-TU",Quartier-Latin,Inouï,cimetière des Papillons,Signez,Pardon,m'’invitait,"mer
+Je crois bien!",Micou,"PAPILLON
 
- 
-
- 
+C’",principal,"Toloco-
+totignan",Carmélites,Éliacin,collège n’,Paris,DAME,Pérou,Raspail,Porcelaines,Pilois,«Ce,Dame,Ser-,RER,Mile Coucou-Blanc,Trouves-tu mon Muguet,Vallée,jACques,Travaille,Notre-Seigneur,Roberte,A l’aube,Parthénon,ElLe,"Pierrotte!
 
- 
-
- 
-
-LE ROMAN",Géniès,Marseille,Fougeroux,Ménalque,Coucou-Blanc,Mlle,porte Zéperons,Nizier,Philistine,Brave,BE,Daniel,Chili,Montez,tonnelle,sire-de-plaire,Théâtre-Français,N,IL S,Cévenol,Coucou-,Palais-Royal,PAPILLON,Nanterre,Fe,pagna,Alsace,TU,Boulons,J'ai,DAME,Rana-Valo,Bien,"mer
+Pierrotte",Tolocototignan,LA BÊTE A BON DIEU,m'’introduire,Pierrotte,"mer
 
  
 
@@ -68,30 +36,62 @@ LE ROMAN",Géniès,Marseille,Fougeroux,Ménalque,Coucou-Blanc,Mlle,porte Zépero
 
  
 
-LE ROMAN DE",Tiens,DIRE,Toto do do dd,beurrées,la Bretagne,Alsacien,Comédie-Française,TE,Sais-tu qu’,Port-au-Prince,Marsala,Barbette,As-tu bien travaillé,aimais,Écris,Notre-Seigneur,Voudrait-,Embrasse,rue des Dames,guipure,Un Garçon,Carmélites,Lombards,"FETE
+LE ROMAN DE",lit n’,fe me cn -,kss!.,Boulons,SOit,Attention,Algérien,Sire,Muguets,"mer
 
-JE",Attends,Pie,Emporte,du cher,hIer,Limoux,160 LE PETIT,"Tell
+ 
+
+ 
+
+ 
+
+ 
+
+LE ROMAN",Polichinelle,Fer,Ma Petite-Cercle,Voilà,Rhône,Rose,bte,Attends,SAUMON,Languedoc,Embrasse,pyramide d'Egypte,MIle,Loyasse,LS L,Langlumeau,Soubeyrol,collège cèlèbre,Figurez,—- Bonjour,Mathurine,la manche,Sèvres,Faust,mastoïdes,"-
+
+Moi",Cévenole,Rio,dr rs,Evêché,bordeaux,trompe-la-mort,Vatel,baie de Naples,LL LL Sd,Écris,le Rhône,Scarabées,Autre,Barbette,Malheureuse-,Palais-Mazarin,Kalatçala,Géniès,Or,Grillon,Pardon,Agen,Le Rhône,Colombine,Eyssette,Nécro-,serrure,Bernerette,J'aimais,Signez,DIRE,Araignée,Champenoise,Bouzanquet,ailleurS,Lalouette,Mont-,d’hippopotames,LS,"FER 97
+
+Sd",Chose,recopiât,Pilois!.,Coucou-,Cévennes,Malheu-,irons /à-bas,cette Bastille,Aer,m'’inspiraient,Regardez,IL L,Un Garçon,wagon,Bach’,Quelque,Vieille,Voyez,fier,Religion,victoria,Lamartine d’Elvire,S’,Pacheco,Sois,Loin,estimez,goutte,ben,"Quartier
+Latin",Cristaux,N,Palerme,"Bati-
+gnolles",m’,Pas,ronfla,Batignolles,Tes,Madagas-,Comédie-Française,"IX
+
+L’AFFAIRE",Odette,Magasins,Cuba,Escargots,Caveau,Blanc,tolocototignan,les Angélus,Est,initiais,"Es-tu
+retourné",PAris,Annou,Hospitalier,m'’écrivaient,Souwaroff,sire-de-plaire,poète!.,Maine,Comédie,dOnc,uma,Bibliothèque nationale de France,LT LS,Egypte,Lakçamana,Gymnase,lilas,Quartier-,Théâtre-Français,Cunocépa,Les Chenilles,Nanterre,Océan,amérique,Coucou,gardes-du-corps,"Tell
 À.
 
-de",Cap,Autre,Montmartre,Lamartine d’Elvire,Ebloui,Mlle Pier-,trompe-la-mort,ST St,Pacheco,ronfla,ailleurS,"Limoux
-Seulement",bourrée,Attention,Quelquefois,Parisiens,alençon,l’,l'Italie,Hacqueville,C’,Chose,Consterna-,Cahier,Colombine,Vendredi,Cévennes,Grossiers,Observatoire,DER,cendis,O,Eux,Hier-,collège cèlèbre,Midi,Danielo,d’,Quels,bordeaux,Mathurine,Bibliothèque nationale de France,Montélimart,Lakçamana,Or,Est,Pouah,Crois-tu,"Toloco-
-totignan",Ma Petite-Cercle,wagon,Toloco-,Luxembourg,Holà,continuais,Infortunes,Soubeyrol,lapromenade,Y A,Levez-,suisse,s'’entraînant,lilas,soufHe,fillesen,Éliacin,la manche,Pierrotte,Confusément,"CHOSE
-
-LÀ",Pas,S’,Parthénon,Malheureu-,VI,Jardin des Plantes,Vieille,Sire,uma,Nécro-,A l’aube,dr rs,SRE,"place des
-Terreaux",Rose,salie!.,j’,collège de,JE,LT LS,Touraine,Le Rosellen,Cévenole,d’hippopotames,Bretagne,Vénus,Tribou,Palerme,Mile Pierrotte,soleil,"collège de
-
- 
-
- 
- i",initiais,terre,Bas,"FER 97
-
-Sd",Quelque,Te rappelles-tu,m'’allait,Rio,sais,Odéon,Latin,dOnc,l'Afrique,Bibliothèque,Rhône,Couru-Blanc,"PAPILLON
-
-C’",Dame,m'’appelais,PAris,Mne Evyssette,"PAPILLON
-
-Est",sabré,Faust,Allez,n'’irai,Sceaux,Pilois,J',"LA BÊTE A BON DIEU
+de",Cap,Rà,pagna,Coucou-Blanc,"Pierrotte…
+Est",n'’irai,TU,TE,Tribou,croisée,jusqu’,Emporte,vages,Quelquefois,Levez-,Sarlande,"LA BÊTE A BON DIEU
 
 Quoi donc ?
 
-LE PAPILLON",Raspail,serrure,Prêtez,rue Lanterne,Mie Pierrotte,Barbette… Allons!,ER,È,Pilois!.,Petit Chose,Italie,Puis,gardes-du-corps,A,L’,titis de l’,Po,SL  Sd,Tes,boulevard Montparnasse,victoria,Poussé,Seigneur,Voyez,Chine,mastoïdes,Escargots,d’Espagne,m’,Chardon,Languedoc,Paris,Sar-,PA fesse RD,J'aimais,Bernerette,«Ce,Providence,collège n’,Malheureuse-,Le Rhône,Bohême,Mile Coucou-Blanc,LL LL Sd,Loin,ben,Sois,Cévenol l’,m'’effraya,Daçaratha,les Angélus
-1,Maintenant,Saint-Emilion,rue Saint-Benoît,Saint-Esprit,clocher de Saint-Germain,Saint-Germain-des-,Saint-,Saint-Germain,faubourg Saint-Germain,Saint-Nizier,Saint-Germain—,rue Saint-Guillaume,église Saint-Pierre,Saint-Germain-des-Prés,Saint-Cloud,Saint-Pierre,Saint-Pétesbourg,Prés-Saint-Gervais,Saint-Théophile,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LE PAPILLON",Serrières,Moustier,Pilouitt!.,Eux,cimetière des Papillons,Çudra,crois,Parisien,Limoux,principal n’,Bamban,m'’asseoir,sur-le-champ,Poussé,rue de Lille,S,BE,d’Espagne,Rendez,Château-,Nizier,LA BÊTE À BON DIEU,Daçaratha,champagne,"CHOSE
+
+TU",Cévenol,Jacques,C’,s’,Coucou-Blanc!.,Coquine,Amalécites,qu’,Is,Chauve-Souris,théâtre de Paris,Crois-tu,Vois-tu!,du cher,pAs eNcore,VI,Lyon,Robinson,D TER,Barbette!.,lui!.,Pierrotte s’,Inouï,Toto do do dd,Parisiens,Italien,Bravo,rs,Vénus,Rana-Valo,Montmartre,Combien,Bretagne,-je,Toloco-,Luxembourg,Avez,îles Marquises,Chinois,théâtre Montparnasse,Mon cher,Alsace,collège de Lyon,Venez,Mile Pierrotte,m'’assit,Entrerai-je,Vieux-Collège,Bamban!.,LA BÊTE A BON,bah,sais,Mlle,"PAPILLON
+
+Est",sagne,Hacqueville,I,160 LE PETIT,JE,bésigue,Pier-,Hier-,Muguet,Allez,aplatisse,Cher,mois!.,IL S,"collège de
+Sarlande",Zéperons,Montélimart,Bohême,RCE S ON,"PER
+
+T
+
+72 LE PETIT","RÊVE233
+
+ 
+
+Moi, j'étais d’avis",Marseille,Bonsoir,Voudrait-,guipure,Chine,Université,Cadet,Nice,Alsacien,m'’appelait,COUCI-BLANC,Récollets,l’,Te rappelles-tu,Fe,AmUser,buis,SRE,ER,Confusément,l'Italie,Vive,"vieux
+Lalouette",Mie Pierrotte,"Quartier
+Latin!",Boucoyran,P,Jardin des Plantes,Grand-Orient,collège de,Mlle Pier-,kakatoès,Cécilia,Danielo,d’,Bas,Fût,beurrées,Saumon,Latin,ST St,cendis,victoria de la dame,suisse,80 LE,PAS,oo ot oo todo,l'Afrique,fillesen,honte!.,Lovelaces,Malheureu-,Place!,J'ai,"CHOSE
+
+LÀ",Musette,Afrique,Mole,Pod,"LÀ
+
+ 
+
+ 
+
+L",PA fesse RD,A,Philistine,Ià-bas,Prés,songeuse,miséra-a-le!,continuais,soleil,entr’,"Limoux
+Seulement",Observatoire,Seigneur,Savez,Holà,Rosellen,Prêtez,Promettez,"PAPILLON S
+Ah!",Crusoé,tueras là-haut,Se dd,Midi,Sar-,As-tu bien travaillé,terre,Perrache,È,Mne Evyssette,niais,Anastagille,"collège de
+
+ 
+
+ 
+ i",la Bretagne,m'’appelais
+1,Saint-Théophile,église Saint-Pierre,clocher de Saint-Germain,Saint-,Saint-Germain-des-,Saint-Esprit,rue Saint-Guillaume,Saint-Germain,Maintenant,faubourg Saint-Germain,Saint-Nizier,Saint-Germain—,Saint-Pétesbourg,Saint-Germain-des-Prés,Saint-Pierre,Prés-Saint-Gervais,rue Saint-Benoît,Saint-Emilion,Saint-Cloud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

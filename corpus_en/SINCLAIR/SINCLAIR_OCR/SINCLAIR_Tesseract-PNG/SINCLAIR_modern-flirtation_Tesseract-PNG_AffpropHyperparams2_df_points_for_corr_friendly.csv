@@ -1,28 +1,26 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9
-0,Great Britain,Britain,Spain,Melton,Rosemount,L,"St
-John’s Lodge",,,
-1,Limerick,the arbour,rich~,Paris,,,,,,
-2,Dovetap,Hebe,Pinnock,,,,,,,
-3,Providence,,,,,,,,,
-4,Charles,Edinburgh,Bibles,Australia,,,,,,
-5,De Cres-,Louis de Cres-,"Louis De
-Crespigny",Leeds,Louis,,,,,
-6,Dunbar,Ernest,juve-,"Agnes
-Dunbar",Agnes,Agnes.,Agnes Dunbar,,,
-7,Saul,Tattersall,Kelso,Jacob,Portobello,,,,,
-8,Clara Novello,"earth,—by",Clara,quad-,Olara,nile,,,,
-9,"Clara Gran-
-ville",ceil-,Rosemount Villa,Fife,Clara Granville,Canada,us,Granville,"Clara
-Granville",Clara Granville’s
-10,Kilmarnock,GLASGOW,wero,,,,,,,
-11,Shetland,Ireland,Scotland,"heart,—and",Highland,SCOTLAND,England,Scorr,,
-12,United Ser-,Marion,Sea,,,,,,,
-13,Seabeach,Beaujolie,beaux,Monsieur D’Ambereau,,,,,,
-14,Holyrood,Holyrood House,"L.60,000","room,—a",Finden,,,,,
-15,St Cecilia,ny,Abbey,Henry,,,,,,
-16,LONDON,London,Doncaster,,,,,,,
-17,Agrippina,mo,Oxford,Israel,china,,,,,
-18,Queensferry,Jaugh,,,,,,,,
-19,Argyloshire,Argyleshire,Yorkshire,,,,,,,
-20,Caroline,Dublin,DUBLIN,,,,,,,
-21,Srveran,Tho,Courant,MoDERN,inn,Geranium,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
+0,Edinburgh,Queensferry,Marion,Paris,mo,,,,
+1,ceil-,inn,"St
+John’s Lodge",Dovetap,,,,,
+2,Caroline,DUBLIN,ny,Kelso,Dublin,"L.60,000",,,
+3,Jacob,the arbour,rich~,us,Canada,,,,
+4,quad-,Bibles,Charles,,,,,,
+5,Melton,Limerick,"Clara
+Granville",Clara Granville,Rosemount Villa,Clara Granville’s,"Clara Gran-
+ville",Hebe,Granville
+6,Srveran,Tattersall,Courant,St Cecilia,Geranium,Portobello,,,
+7,Fife,Argyloshire,Argyleshire,Rosemount,Yorkshire,,,,
+8,Pinnock,Kilmarnock,Israel,Oxford,Tho,,,,
+9,Jaugh,juve-,Sea,Louis de Cres-,De Cres-,"Louis De
+Crespigny",china,Louis,
+10,"heart,—and",England,Highland,Shetland,Scotland,Ireland,SCOTLAND,Scorr,
+11,Australia,Henry,,,,,,,
+12,Finden,GLASGOW,United Ser-,,,,,,
+13,nile,"earth,—by",,,,,,,
+14,L,Spain,Britain,Great Britain,,,,,
+15,Agnes.,Dunbar,Agnes,Agrippina,"Agnes
+Dunbar",Ernest,Agnes Dunbar,,
+16,Doncaster,Saul,LONDON,London,,,,,
+17,Olara,Clara Novello,Abbey,Leeds,Clara,,,,
+18,Beaujolie,Seabeach,MoDERN,wero,beaux,Monsieur D’Ambereau,,,
+19,Holyrood,Providence,"room,—a",Holyrood House,,,,,

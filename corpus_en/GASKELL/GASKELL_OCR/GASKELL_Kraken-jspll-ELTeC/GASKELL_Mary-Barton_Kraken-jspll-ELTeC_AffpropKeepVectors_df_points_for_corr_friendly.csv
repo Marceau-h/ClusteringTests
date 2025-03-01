@@ -1,9 +1,8 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5
-0.0,manchester,Manchester,Lancashire,oman,chester,Thou
-1.0,Waterloo,the United Stated,,,,
-2.0,Halifax,CALIFORNIA,Hlalifix,morn-,,
-3.0,Samaritan,Infirmary,,,,
-4.0,Wild,thou,"Wild
-east",,,
-5.0,New Bailey,Hem Newson'as,,,,
-6.0,Inn,inn,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6
+0.0,thou,Thou,,,,,
+1.0,CALIFORNIA,Halifax,morn-,Hlalifix,New Bailey,,
+2.0,Hem Newson'as,inn,Inn,,,,
+3.0,Wild,"Wild
+east",,,,,
+4.0,Manchester,Lancashire,chester,manchester,Samaritan,oman,Infirmary
+5.0,Waterloo,the United Stated,,,,,

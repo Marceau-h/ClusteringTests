@@ -1,56 +1,58 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538,elem_539
-0,desmantelos,Entio,Vamos,Tenho,"KI
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538
+0,us,ingenna,elle lhas,pre,Podia,k,"pas-
+sar",Santo Deus,Senhora de Castelo,Ilistorias,"casa dos
+Carneiros",bnço,grandoza,Tvol,aq,Choravam,48 DIANIO,Soror Claudea,Farta,Olho-mo,Ina da Camera Rego,lovantar daquelle abismo,Inta,Esquecia-mo,Fitava-a,Soror Gortrudes,Saudades do Ceu,Dahi,fecbou,Portugal,terra,lha,Perdão,Pobre 'Ferczinha,coitadinha,Plumeiras,Surrateiramente,"se-
+nhora morgada",nma,fui-mo,céo azul,gôto,Senhora do Castelo,gião,gnem,Mocidado,Acordara,Vinha,Cho-,damasco,Intas,polo môsto de cheiro,snor,imanhã,Mens,ix,Reco,nogueira,tornon,Raqnel,Próspera,exam,sempro,cllas de mágua,Ma-,Fira,Horída,JE,visinho,santo Deus,crescidinha jk,Senhora,Carsões,vonva,"apa-
+nhando nm",torminar,inconsciontemento,cadete,Aquelle,clla decifrava,Olhe,Ulane,DIAKIO,Veja-a,poudo,Infias,Escrevia,Oiga,vianda,olla,Havana,Estive,flôr,Teresita do barbeiro,Camborço,Resignada,deviaZ,Mariquinhas,herdaste,Compreendia,"Clara do
+Rezadeira",Chegon-me,Ai,quizesso,Peniche...,Socegasso,Amhos,Pedir,Chorava,!,bemaventurança,vólhota,álacres,Marviquinhas,rôxos,Abrenuncio,Soror Gertrudes,Mancela,"quasi
+odiento",Jilhas,Tepreensões,EN,Pambem Manoela,Auto da « Sebenta,grande chapéo,"Christina
+Será",tragedia,aquelle,Soror Manoela,Viera,bôas,herva,"Senhorã
+dos Verdes",Ixreutzss,Tenho,Dous,"KI
 
  
 
-José Calêae",tomara,confandia,"quasi
-caveira",Pedir,Assistin,elle,Pobre 'Ferczinha,contér,alegre,Porquo,grandoza da arte,"olla mote-
-java",aiuda,imanhã,Soror,grandoza,Senhora do Castelo...,Lima Vidal,Campos Lima,Eduarda,Teresita do barbeiro,Sahi,Baixa,valôr,intemperies,Cbico,sabbat,sofredôra,volta delle,nossa velha igreja,ix,Terezinha,Brazil,herdaste,daquelle,Zarôlha,vêr,crescento,bom do padre,lha abrisso,"se-
-gniram",Manoal,Sempro,es viajantes,nova companhoira,Choravam,tôr comnosco,Joelhos,Una,Alegre,ello,Chorava,amnito serena,Morgado,porto delle,Prós-,Havana,"dei-
-xasso",Desatou,Ama,Zéfinha da horta,Dizia-me,Angelus,oleografia barata,Padre,cllas de mágua,Soror Claudea,Jbe,Infias,Perdão,"Gertrndos
-Zarôlha",48 DIANIO,roca,rétidão,Gostava,Entroncamento,Auto da « Sebenta,apa-,"Maria do
-Próspero","300
-Gomes Leal",Anda,quizesso,"vin-
-dima",Mariquinhas,Manil,Lisbôa,opulencia,Pequena,Soror Angelica,us,Eolheto,Ningnem,Nosso Senhor,Manoola,Espanha,lugubre,Bocaok,Aninhei-me,Clara do Reza-,sta,gôto,tra,Corre,Intas,Chamaram-mo,men destino,Santas,familia,pará,Peniche...,Fonte do Inferno,naquelle,Manél da Clara do Rezadeira,"pas-
-sar",ig deslisar,Abrenuncio,Horída,estivesso,eriança,cadete,graçada,"aquello
-santo",Mens,Resignada,Ina,Cacilda,Caia,elle lhas,Farta,Mignelsinho,poudo,desconfiança,"Clara de
-Rezedeira",últi-,Tavares Cardoso,vonva,ID,Ama-Rita,"Via
+José Calêae",lha abrisso,Sorria,grandoza da arte,"sim-
+patia",Recordava,COIMBRA,Talhados,Cederia,contér,Jidalga,ceremonia,softor,sahir,Jbe,Cacilda,Nosso Senhor,comunidado,alle,Ds,dôce,Dastanto,saude,ORIANÇA,valôr,bruzu,Sévres,Tavares Cardoso,Diabo,Vai-to,lôrpas,Christina,Conselhos,Tenha,Clara do Reza-,"se-
+gniram",Desatou,sen bonito,Esquecia,estivesso,Madre,Manil,nascorá,braza,Padre,Bôn,"241
 
-DIARIO DUMA",HU,Minha,vianda,Iria,Aquelle,Academia do Coimbra,"Senhorã
-dos Verdes",Sagramor,Córei,Estive,Próspera,Posso,lôrpas,Camborço,Sorri,"apa-
-nhando nm",es,Chico,Paraizo,snor,quasi,brevo,DIABIO,gárrulas,sen bonito bigode,Confiando da Ama-Rita,Tepreensões,Vinha,EN,Christo,tam-,vêr-me,Fonte do Inferno?,Raqnel,ontão,Christina,aquella santa casa,dulcida,penson,aféto,ruinas,em Portugal,braza,grande chapéo,Ai,Manoel,Relia,Ultimas,"visinho cemiterio grasnaram agoi-
-rentamente",Maucela,nogueira,desinteresso,Eóló,Abraçava,tornon,"se-
-nhora morgada",Ohristina,terra,qno,Jidalga,"cam-
-pos",pavôr,Serra da Estrella,visinho,crescidinha jk,pormenorisava,Fôra ne-,Bôn,bemaventurança,Freira,Estremoz,flôr,França,Dastanto,Pobre Madre,sêér,Mariguinhas,bruzu,ceremonia,Portugal,Soror Gertrudes,Pedro Cem,Candia,"sen
-chapéo",comunidado,"Seror
-Manoela",Aconselhava-a,Senhora do Castelo,Madre Angelica,qne,"Presentimen-
-tos",Cho-,Tigre,uem,DIAKIO,Chamou-a,Paris,olla,mulhor,Dahi,preferoncia,Sorria,nella,Pôs,"pas-
-sado",Encostada,damasco,Madrid,Fôra,Podia,Yoltoi,Miguelsinho,Pigro,"campo sem obstacu-
-los",Manoela,Talhados,coremonia,TANGO,palreiras,n'Portugal,Aquella,TO,Ífante,Jantas,Mes,Diabo,sus el,proxima,porquo,tilha,Eulalia,Conselhos,bôca vasia,nascorá,Hon-,coitadinha,gião,Plumeiras,"una
-pessõa",Inglaterra,Ere,Viera,Fitava-a,"proprio
-Diabo em pessôa !",Esquecia-mo,Ilte,"Clara do
-Rezadeira",Konte do Inferno,Dovia-lhos,pessõas,"casa dos
-Carneiros",Marviquinhas,Chegon,Soror Manoela,Miguel,Zéfa do Padro,deviaZ,& cova,Ma-,Veja-lhe,Tearão IxFASTIL,capola,silvas,Reco,"estrada
-Teal",Dissemo,Tonito,Ds,Torezinha,costune delle,sahio,"Christina
-Será",vólhota,paquêta,Madro Angelica?,ORIANÇA,desajava,vivacidado,celegio,Maneela,rôxos,Estados-Unidos,Clara do Rezadoira,Soror Gortrudes,Sentia-so,VISA,Crédo,Maricas,Rezadeira,Priste,dôce,"Pnz dos
-Povos",metro partiu-lho mma aza,Ixreutzss,Casas,minas batatinhas,céo azul,bistoria,vasia,COIMBRA,Ivol,aq,Ouves,"rapariga
-uubil",vivio,Surrateiramente,cemiterio público,revêr,lha,Mancela,Acordara,tndo,bôas,alle,Continuará,Ab,assistin,Já,Ulane,Clara,Nortyres,"Luisa da
-Roda",Senhora Gertrudes,Escrevia,Fira,Madre,Pautino de Oliveira,k,promotedoras de fertes,chapéo móle,Dous,exam,TIE,Vergonhas,Tenha,"mo
-osperava",Superiora,tragedia,ra,Mand,Madre Claudes,Compreendia,ingenna,herva,Tvol,Decerto,santo Deus,Martinho,Sahira,Vou,Poeta Sandade,materialisar,atordoava,S.º,fui-mo,cpunham,Ina da Camera Rego,Pa-,lua,JE,mamã sabe,Senhora Condessa,So,Saudades do Ceu,Qnom,Olha,Importa-me,hóspeda,sobresalton,této,dornas,nma,Esquecia,Á sim-,Plantado,Desprender,fúrma,Contos,Coimbra,Madro Augelica,Inta,Cederia,Adeus,Pambem Manoela,Saltava,Recordava,Marques,ahi,Joncamente,Oh,fúra,Yonte do Inferno,"Ó
-Gertrudes",Madre Superiora,sen bonito,FEL Titonaz,Pés,polo môsto de cheiro,Socegasso,Dispensariam,fecbou,causticar,"241
+Angelica",Madro Angelica?,Relia,Ama,"estrada
+Teal",Olha,Pigro,Soror Angelica,Aconselhava-a,"ú
 
-Angelica",Hivremente,Vai-to,Geitoso,Alemtejo,Premia,cosinha,"Santas
-Terezas de Jesus",Madre Clandea,Jilhas,Carsões,Enlalia,aquelle,Chinas,Amhos,mo dizia,gnem,fóra,"Soror
-Manoela",chapéo,anreolar,I vol,sahir,inconsciontemento,Soror Magyoela,feitôr,Barba Azul,Quasi,"quasi
-odiento",Rtar,sempro,"Terezinha da Zófa
-do Padre",Madre-Superiora,Ilistorias,torminar,tompo,Lvol,Olhe,lovantar daquelle abismo,"claustro de cima
-aponas",clla decifrava,Sahir,ICEIRA,Santo Deus,Esplendores do Srcerdocio,oudo,Peniche,Senhora,Olho-mo,Hãode,Fechaudo,Ifistoria,brovo &,Emqnanto,Dizialhe,softor,bnço,Veja-a,Jembrara,Tejo,pre,responden,si-,saude,Paraphraso,Claudea,Oiga,Pedroso Rodrigues,dosejo,"ú
+Acordara","Seror
+Manoela",vivio,"300
+Gomes Leal",vasia,Ultimas,Pautino de Oliveira,Mignelsinho,"Terezinha da Zófa
+do Padre",Miguel,Senhorã,aquella santa casa,chapéo,Chamou-a,Zarôlha,Una,lagrimas,mamã sabe,PEITICRIRA,Ere,Corre,Miguelsinho,"campo sem obstacu-
+los",této,Serra da Estrella,Tearão IxFASTIL,minas batatinhas,Pôs,Freira,Madre Clandea,Chegon,dornas,Contos,porto delle,ontão,fóra,tomara,Martinho,Brazil,Rezadeira,tompo,Campos Lima,Santas,TO,Caia,Mand,Ningnem,oudo,Yonte do Inferno,Sahira,tndo,Jhiam,materialisar,atordoava,Oh,Posso,sus el,vêr,Aquella,Senhora do Castelo...,Mes,Christo,Paraphraso,"sen
+chapéo",hóspeda,Fonte do Inferno?,Madro Augelica,vêr-me,Hon-,Peniche,sta,Superiora,n'Portugal,brovo &,ra,desajava,Ohristina,Chico,em Portugal,crescento,Dovia-lhos,Saltava,Paraizo,aféto,Dizialhe,celegio,Adeus,Premia,desinteresso,Esplendores do Srcerdocio,Madrid,causticar,sabbat,sahio,gárrulas,roca,es viajantes,DIABIO,Naquelle,Prós-,"Via
 
-Acordara","sim-
-patia",pinhel,Senhorã,PEITICRIRA,Jarras,Chegon-me,Mocidado,Jeves,Dens,Mancl,Sévres,lagrimas,Pobre Soror Claudoa,dôco,álacres,!,salvadora,om,Naquelle,Senhora de Castelo,Coisa,Jhiam,Gertrudes Zarôlha,segnida
-1,"SACRIFICADA
+DIARIO DUMA",Emqnanto,fúra,Sentia-so,Senhora Gertrudes,"Presentimen-
+tos",promotedoras de fertes,Coisa,Dizia-me,Aninhei-me,TANGO,Maucela,Lisbôa,Chamaram-mo,assistin,Alemtejo,aiuda,responden,Anda,Morgado,Jeves,"proprio
+Diabo em pessôa !",ICEIRA,Entroncamento,Cbico,Eulalia,Ab,paquêta,revêr,"cam-
+pos",Confiando da Ama-Rita,bom do padre,nella,Angelus,Poeta Sandade,S.º,Torezinha,preferoncia,"Maria do
+Próspero",Sagramor,Pedro Cem,intemperies,Fechaudo,capola,cosinha,uem,dôco,"Pnz dos
+Povos",bistoria,Gertrudes Zarôlha,Fonte do Inferno,qne,Ama-Rita,confandia,salvadora,"visinho cemiterio grasnaram agoi-
+rentamente","Ó
+Gertrudes",Pa-,pormenorisava,proxima,Manoola,men destino,Priste,rétidão,Estremoz,Plantado,Dispensariam,Senhora Condessa,mo dizia,apa-,Iria,ahi,Já,"aquello
+santo","quasi
+caveira",Paris,Fôra,Pés,Chinas,Dens,Terezinha,Desprender,tilha,Continuará,dulcida,Maneela,Hivremente,Encostada,anreolar,Ouves,pinhel,Porquo,Hãode,Zéfa do Padro,sen bonito bigode,Qnom,familia,om,Coimbra,Eolheto,"pas-
+sado",Vergonhas,tôr comnosco,segnida,Joncamente,So,Ífante,lugubre,Á sim-,desconfiança,Sempro,Tigre,nossa velha igreja,Yoltoi,Bocaok,vivacidado,amnito serena,porquo,Enlalia,Nortyres,Ilte,Soror Magyoela,brevo,qno,Tejo,Pedroso Rodrigues,Eduarda,Jarras,si-,Vamos,ruinas,Ifistoria,sêér,Córei,Sahi,Vou,Maricas,Madre-Superiora,Entio,Barba Azul,VISA,"Luisa da
+Roda",Estados-Unidos,Mancl,cpunham,pavôr,Quasi,ID,Lima Vidal,ello,elle,Assistin,chapéo móle,I vol,nova companhoira,Eóló,dosejo,Manoel,Academia do Coimbra,lua,Manél da Clara do Rezadeira,"olla mote-
+java",naquelle,sofredôra,& cova,Importa-me,Madre Superiora,alegre,quasi,Pobre Soror Claudoa,coremonia,Decerto,metro partiu-lho mma aza,Gostava,tra,Candia,Veja-lhe,Alegre,Pobre Madre,"Soror
+Manoela",FEL Titonaz,Clara,Soror,bôca vasia,"Gertrndos
+Zarôlha",últi-,Madre Claudes,"claustro de cima
+aponas",Marques,ig deslisar,Zéfinha da horta,Manoela,mulhor,"una
+pessõa",Madre Angelica,volta delle,fúrma,HU,Geitoso,Fôra ne-,Abraçava,pará,Clara do Rezadoira,Lvol,"vin-
+dima","Clara de
+Rezedeira",Ivol,Claudea,Minha,Konte do Inferno,Pequena,tam-,pessõas,Jembrara,silvas,Baixa,palreiras,es,Casas,penson,sobresalton,França,Crédo,Sahir,"mo
+osperava",Tonito,daquelle,Inglaterra,Joelhos,"rapariga
+uubil","Santas
+Terezas de Jesus",Dissemo,feitôr,oleografia barata,eriança,Sorri,Mariguinhas,"dei-
+xasso",TIE,Ina,Jantas,Espanha,costune delle,desmantelos,opulencia,cemiterio público,Manoal,Rtar
+1,"SACRIFIGADA
 
-familia",BACHIFICADA,SACRIFICADA,SACHIFICADA,BACRIFICADA,Amérrica,BAORIFICADA,BAPRIFICADA,SACRIFIGADA,America,SACRIFIÇADA,Bibliotica,tisica,burvica,SACRIPICADA,BACRIRICADA,Amérricana,"Madre
+Falou",Africa,America,SACRIPICADA,burvica,tisica,BAORIFICADA,Amérricana,BACRIFICADA,nevada,SACRIFIGADA,"SACRIFIGADA
+
+Y",SACRIFICADA,"Madre
 
  
 
@@ -60,8 +62,6 @@ familia",BACHIFICADA,SACRIFICADA,SACHIFICADA,BACRIFICADA,Amérrica,BAORIFICADA,B
 
  
 
-BACRIFICADA",Africa,"SACRIFIGADA
+BACRIFICADA",Bibliotica,BACRIRICADA,"SACRIFICADA
 
-Falou","SACRIFIGADA
-
-Y",nevada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+familia",BACHIFICADA,SACRIFIÇADA,SACHIFICADA,BAPRIFICADA,graçada,Amérrica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

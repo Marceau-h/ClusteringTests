@@ -1,90 +1,87 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35
--1,Nannotte,Estimez,ar-,Margue-,choirs,Gathorino,Monge,Jugez,défrotter,Embrasse,Saint-Pierre,tôte,la somme,pou,Je,Pompes,Jouanno,porte de la eure,provins,jamüis,monsieur,So-,le japon,Menuet,Lécœur,Es-tu,Ca,Siû,Ettu,A,vendange,Apprenez,jy,Achetez,porto,veux-tu dtre.ma
-0,Ê,s’,Ü,SL,|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,J1,a6,Ïl,s09,e’,Îà,S,Kh,Où,ct,F,I,E,j’,+,M,@t,L’,,,,,,,,,,,,,,,,,,
-2,En Bretagne,Bretagne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,maman,Maman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,Savez,Avez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,Vatan,Sylvain,Sylvan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Astu,Pas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,qu’,Afrique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Mesdemoiselles,moselle,mademoiselle,Payez-les-moi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,hôpital de Bourges,Bourges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,Berrÿ,Berry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,Mapauvrefille,entreéla,vivreé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,Isaure,Isauro,Îsauve,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,nir,garniront,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,juil,IL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,brune,lune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50
+-1,Où,Regardez,Estimez,choirs,Cinquante,@t,serbie,Jugez,le japon,endureît,Margue-,Je,Monge,Nannotte,L’,So-,pou,Ïl,Pompes,Jeantié,tôte,Ê,Jouanno,vendange,S,jamüis,Grand,Combien,AL,"Chétif-
+Bail",Menuet,Saint-Pierre,Mettez,Allons,Apprenez,Embrasse,la somme,Ettu,Achetez,ar-,monsieur,Ca,Es-tu,chand,Siû,porte de la eure,Jusserand,porto,défrotter,Durand,veux-tu dtre.ma
+0,Kh,s’,j’,|,J1,E,+,F,Îà,I,jy,s09,a6,Ü,M,e’,ct,A,SL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,En Bretagne,Bretagne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,maman,Maman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Avez,Savez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sylvan,Sylvain,Vatan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Pas,Astu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,qu’,Afrique,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,mademoiselle,Payez-les-moi,Mesdemoiselles,moselle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,hôpital de Bourges,Bourges,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Berrÿ,Berry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Mapauvrefille,entreéla,vivreé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Isauro,Isaure,Îsauve,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Gathorino,nir,garniront,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,IL,juil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Voyez,Lécœur,Voulez,croyez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,lune,brune,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 16,Jeune,"jeuné
 
-—",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,ferme des Ormeaux,tairie des Ormeaux,Ormeaux,kermesse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,réchauff,Cinquante,Tréchaufferie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,blämer,Merci,MERE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Voulez,croyez,Voyez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,Ri-haut,Hautes-,broc,Roches,Hautes-Roches,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,printétps,meprie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,forez,meitras,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,"se-
-maine",Île capitaine,maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,cupées,veines,pée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Jo-,"Jo-
-séphine",José-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,SERVICE,SERVIR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28,Coupez,occupez,Écoutez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,sère-le tout,tout.—C',le-profit -de la vigne tout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,lâle,Blanche,bâle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31,rioux,mâtériaux,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,france,de France,fran,la France,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33,ler,éle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-34,ge,rige,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-35,Durand,endureît,Grand-Bai,Grand Bail,Grand,chand,"Chétif-
-Bail","Grand-
-Bail",Jusserand,Grand-Bail,Grand-Bal,,,,,,,,,,,,,,,,,,,,,,,,,
-36,charrue,"char-
+—",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,MERE,Merci,blämer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Tréchaufferie,réchauff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,ferme des Ormeaux,kermesse,tairie des Ormeaux,Ormeaux,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Roches,Hautes-,broc,Hautes-Roches,Ri-haut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,meprie,printétps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,José-,Jo-,"Jo-
+séphine",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,pée,cupées,meitras,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,forez,veines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,maine,Île capitaine,"se-
+maine",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,SERVIR,SERVICE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Écoutez,Coupez,occupez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,rige,ge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,tout.—C',sère-le tout,le-profit -de la vigne tout,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,la France,de France,france,fran,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,"char-
 
-- gée du ménage",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37,Regardez,"au-
-tres",au-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,AL,Allons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-39,Bi,BI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40,rougeur,euré,heurèse,beurrée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41,cüré,Prévôt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42,n'’aidait,Nantaise,Aidez,n'’ôtais,Tixier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43,Combien,serbie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44,los vendre,Flandre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45,Tiens,Conviens,miens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46,vienne,"93
+- gée du ménage",charrue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,beurrée,euré,rougeur,heurèse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Prévôt,cüré,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,"au-
+tres",au-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Blanche,mâtériaux,rioux,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,éle,ler,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,lâle,bâle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,"Grand-
+Bail",Grand Bail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Grand-Bail,Grand-Bal,Grand-Bai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,n'’ôtais,Nantaise,Tixier,Aidez,n'’aidait,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,los vendre,Flandre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,BI,provins,Bi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,sempêcher,Cher,cher,"département du
+Cher",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Borderie,lingerie,Péonnerie,ner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,Péinertiel,TROISIÈME PARTIR,PARTIE,QUATRIÈNE PARTIR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,soudan,sou,Mudamè,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Inourables d'Issoudun,Issoudun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Conviens,Tiens,miens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,vienne,"93
 
-Senne",rennes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47,ner,Borderie,lingerie,Péonnerie,Péinertiel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48,QUATRIÈNE PARTIR,TROISIÈME PARTIR,PARTIE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49,cher,"département du
-Cher",sempêcher,Cher,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50,sou,Mudamè,soudan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51,Issoudun,Inourables d'Issoudun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52,mülin,lincou,nankin,In,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-53,Los,Lo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-54,Attends,Entends-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-55,la Grise,Crise,église n’,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-56,Pares,Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-57,J loin,Lois,Voie,Vois,Sois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-58,Jeantié,Mettez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-59,"Pierres-
-Folles",Pierres-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-60,Is-,Is,buis,Louiso,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-61,crois-tu,Crois-tu,Crois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-62,aimais,aimais-tu,Sais-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-63,Annette,Nanette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-64,Suisse,suisse,Suisse-le done faire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-65,Laisse,valais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-66,Jeanno,JEANNE,champ de Jeanne,grenier;-car Jeanne,Joanne,"ai
+Senne",rennes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Lo,Los,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,lincou,mülin,In,nankin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,Entends-tu,Attends,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,église n’,la Grise,Crise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,Pares,Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Vois,Sois,Voie,Lois,J loin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,"Pierres-
+Folles",Pierres-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Louiso,Is,Is-,buis,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,crois-tu,Crois,Crois-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,aimais-tu,aimais,Sais-tu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Suisse,Suisse-le done faire,suisse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Laisse,valais,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Annette,Nanette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Saint-Jean,"Saint-
+Jean",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Sainte-Solange,sainte-Solange,Sainte-So-,Solange,sainte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,grenier;-car Jeanne,champ de Jeanne,JEANNE VEUVE,JEANNE,Jeanno,"ai
 
-Jeanne",JEANNE VEUVE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-67,"PETITE JEANNE
+Jeanne",Joanne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,"PETITE JEANNE
 
-LE DEVOIR",Petite Jeanne,petite Jeanne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-68,Saint-Jean,"Saint-
-Jean",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-69,Solange,Sainte-So-,sainte-Solange,sainte,Sainte-Solange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LE DEVOIR",petite Jeanne,Petite Jeanne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

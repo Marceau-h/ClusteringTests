@@ -1,72 +1,32 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538,elem_539,elem_540,elem_541,elem_542,elem_543,elem_544,elem_545,elem_546,elem_547,elem_548,elem_549,elem_550,elem_551,elem_552,elem_553,elem_554,elem_555,elem_556,elem_557,elem_558,elem_559,elem_560,elem_561,elem_562,elem_563,elem_564,elem_565,elem_566,elem_567,elem_568,elem_569,elem_570,elem_571,elem_572,elem_573,elem_574,elem_575,elem_576,elem_577,elem_578,elem_579,elem_580,elem_581,elem_582,elem_583,elem_584,elem_585,elem_586,elem_587,elem_588,elem_589,elem_590,elem_591,elem_592,elem_593,elem_594,elem_595,elem_596,elem_597,elem_598,elem_599,elem_600,elem_601,elem_602,elem_603,elem_604,elem_605,elem_606,elem_607,elem_608,elem_609,elem_610,elem_611,elem_612,elem_613,elem_614,elem_615,elem_616,elem_617,elem_618,elem_619,elem_620,elem_621,elem_622,elem_623,elem_624,elem_625,elem_626,elem_627,elem_628,elem_629,elem_630,elem_631,elem_632,elem_633,elem_634,elem_635,elem_636,elem_637,elem_638,elem_639,elem_640,elem_641,elem_642,elem_643,elem_644,elem_645,elem_646,elem_647,elem_648,elem_649,elem_650,elem_651,elem_652,elem_653,elem_654,elem_655,elem_656,elem_657,elem_658,elem_659,elem_660,elem_661,elem_662,elem_663,elem_664,elem_665,elem_666,elem_667,elem_668,elem_669,elem_670,elem_671,elem_672,elem_673,elem_674,elem_675,elem_676,elem_677,elem_678,elem_679,elem_680,elem_681,elem_682,elem_683,elem_684,elem_685,elem_686,elem_687,elem_688,elem_689,elem_690,elem_691,elem_692,elem_693,elem_694,elem_695,elem_696,elem_697,elem_698,elem_699,elem_700,elem_701,elem_702,elem_703,elem_704,elem_705,elem_706,elem_707,elem_708,elem_709,elem_710,elem_711,elem_712,elem_713,elem_714,elem_715,elem_716,elem_717,elem_718,elem_719,elem_720,elem_721,elem_722,elem_723,elem_724,elem_725,elem_726,elem_727,elem_728,elem_729,elem_730,elem_731,elem_732,elem_733,elem_734,elem_735,elem_736,elem_737,elem_738,elem_739,elem_740,elem_741,elem_742,elem_743,elem_744,elem_745,elem_746,elem_747,elem_748,elem_749,elem_750,elem_751,elem_752,elem_753,elem_754,elem_755,elem_756,elem_757,elem_758,elem_759,elem_760,elem_761,elem_762,elem_763,elem_764,elem_765,elem_766,elem_767,elem_768,elem_769,elem_770,elem_771,elem_772,elem_773,elem_774,elem_775,elem_776,elem_777,elem_778,elem_779,elem_780,elem_781,elem_782,elem_783,elem_784,elem_785,elem_786,elem_787,elem_788,elem_789,elem_790,elem_791,elem_792,elem_793,elem_794,elem_795,elem_796,elem_797,elem_798,elem_799,elem_800,elem_801,elem_802,elem_803,elem_804,elem_805,elem_806,elem_807,elem_808,elem_809,elem_810,elem_811,elem_812,elem_813,elem_814,elem_815,elem_816,elem_817,elem_818,elem_819,elem_820,elem_821,elem_822,elem_823,elem_824,elem_825,elem_826,elem_827,elem_828,elem_829,elem_830,elem_831,elem_832,elem_833,elem_834,elem_835,elem_836,elem_837,elem_838,elem_839,elem_840,elem_841,elem_842,elem_843,elem_844,elem_845,elem_846,elem_847,elem_848,elem_849,elem_850,elem_851,elem_852,elem_853,elem_854,elem_855,elem_856,elem_857,elem_858,elem_859,elem_860,elem_861,elem_862,elem_863,elem_864,elem_865,elem_866,elem_867,elem_868,elem_869,elem_870,elem_871,elem_872,elem_873,elem_874,elem_875,elem_876,elem_877,elem_878,elem_879,elem_880,elem_881,elem_882,elem_883,elem_884,elem_885,elem_886,elem_887,elem_888,elem_889,elem_890,elem_891,elem_892,elem_893,elem_894,elem_895,elem_896,elem_897,elem_898,elem_899,elem_900,elem_901,elem_902,elem_903,elem_904,elem_905,elem_906,elem_907,elem_908,elem_909,elem_910,elem_911,elem_912,elem_913,elem_914,elem_915,elem_916,elem_917,elem_918,elem_919,elem_920,elem_921,elem_922,elem_923,elem_924,elem_925,elem_926,elem_927,elem_928,elem_929,elem_930,elem_931,elem_932,elem_933,elem_934,elem_935,elem_936,elem_937,elem_938,elem_939,elem_940,elem_941,elem_942,elem_943,elem_944,elem_945,elem_946,elem_947,elem_948,elem_949,elem_950,elem_951,elem_952,elem_953,elem_954,elem_955,elem_956,elem_957,elem_958,elem_959,elem_960,elem_961,elem_962,elem_963,elem_964,elem_965,elem_966,elem_967,elem_968,elem_969,elem_970,elem_971,elem_972,elem_973,elem_974,elem_975,elem_976,elem_977,elem_978,elem_979,elem_980,elem_981,elem_982,elem_983,elem_984,elem_985,elem_986,elem_987,elem_988,elem_989,elem_990,elem_991,elem_992,elem_993,elem_994,elem_995,elem_996,elem_997,elem_998,elem_999,elem_1000,elem_1001,elem_1002,elem_1003,elem_1004,elem_1005,elem_1006,elem_1007,elem_1008,elem_1009,elem_1010,elem_1011,elem_1012,elem_1013,elem_1014,elem_1015,elem_1016,elem_1017,elem_1018,elem_1019,elem_1020,elem_1021,elem_1022,elem_1023,elem_1024,elem_1025,elem_1026,elem_1027,elem_1028,elem_1029,elem_1030,elem_1031,elem_1032,elem_1033,elem_1034,elem_1035,elem_1036,elem_1037,elem_1038,elem_1039,elem_1040,elem_1041,elem_1042,elem_1043,elem_1044,elem_1045,elem_1046,elem_1047,elem_1048,elem_1049,elem_1050,elem_1051,elem_1052,elem_1053,elem_1054,elem_1055,elem_1056,elem_1057,elem_1058,elem_1059,elem_1060,elem_1061,elem_1062,elem_1063,elem_1064,elem_1065,elem_1066,elem_1067,elem_1068,elem_1069,elem_1070,elem_1071,elem_1072,elem_1073,elem_1074,elem_1075,elem_1076,elem_1077,elem_1078,elem_1079,elem_1080,elem_1081,elem_1082,elem_1083,elem_1084,elem_1085,elem_1086,elem_1087,elem_1088,elem_1089,elem_1090,elem_1091,elem_1092,elem_1093,elem_1094,elem_1095,elem_1096,elem_1097,elem_1098,elem_1099,elem_1100,elem_1101,elem_1102,elem_1103,elem_1104,elem_1105,elem_1106,elem_1107,elem_1108,elem_1109,elem_1110,elem_1111,elem_1112,elem_1113,elem_1114,elem_1115,elem_1116,elem_1117,elem_1118,elem_1119,elem_1120,elem_1121,elem_1122,elem_1123,elem_1124,elem_1125,elem_1126,elem_1127,elem_1128,elem_1129,elem_1130,elem_1131,elem_1132,elem_1133,elem_1134,elem_1135,elem_1136,elem_1137,elem_1138,elem_1139,elem_1140,elem_1141,elem_1142,elem_1143,elem_1144,elem_1145,elem_1146,elem_1147,elem_1148,elem_1149,elem_1150,elem_1151,elem_1152,elem_1153,elem_1154,elem_1155,elem_1156,elem_1157,elem_1158,elem_1159,elem_1160,elem_1161,elem_1162,elem_1163,elem_1164,elem_1165,elem_1166,elem_1167,elem_1168,elem_1169,elem_1170,elem_1171
-0,Mr.,Exijo,victoria da primeira,Reparem,Roz,Í,Parece-me,"rua das
-Flores",Tenho,Adivinhas,Forte,anciosa,Quente,Prompto,Pedir,Freixo,Vate,Pozeram-me,Coitadinhos,balbuciou elle,Douro,És,io tristeza,Julguei,"tis
-nha",botica,estrada de cima,Guiné,Bocado,Princ-,joven,Verduras,Fortunato,Fumar,Folgara,velleidades,Tibre,ná,Paulo,scismava,travêssa creança,Reconheceu-os,balbuciou Crescia,Debil,Diga,nossa atmosphera,Obrigada,"XXHI
+0,valle das duas janellas florescia,Bispo,"Cara
+los",larão lão,Podia,quaes,Humana,Jockey,joven padre,Fa-,Gonçalo,bom retiro,Quer-me,Vae,"Se=
+hor Jesus Christo",Imminencia,brochura,Base,Imagine,es|,lettra grande,snr.º D. Crescia,"mis
+nha",Tremo,Furioso,Lusiadas,Souto,Com-,victoria,Quça,terra,Perdão,Cam-,Allega-,es=,cença,hypocrisia,"Tanto-
+nia",veigas,respiraste,| Emilia,Primor,baixo Peste,Mr.,Achilles,a-,AGGRAVAM-SE,Ta,Aguia d'Ouro,America do Norte,Typos,taboa,céo Florindo,damasco,Toca,lettras,Creia,Admira,do Norte,Espere,morada d'aquella senhora,Marianna,cancella,porta do cemiterio,"go
 
-DIPLOMACIA DO CORAÇÃO","ca-
-minho",prometter,Bra,Creança,Ande,collo,"Cara
-Jos",proseg,victoria,Formosa,Incendiar,Hespanha,Bonito,Bretanha,Parva,Crescia,INGLEZA,"fi
-lha","es
-cassa luz",Voltava,bella de bel-,mim,Aspirando,v,Padre,cancella,zes Emilia,poleiro,bre,Fa-,Perdão,Josefinha da Agua-benta,Vista,pe-,Pois,ade,Expatria,Manoel Quentes,CR,Russia,Cavalinho,céo Florindo,Pausa,— Talvez,Anda,Trauteando,lucta,ámanhã,Cêdo,N'aquelle,Amaryllida,"pa
+Jenny",Mettia,"Eu-
+chtersleben",Anciada,Foscaris,Estouvada,Aquelle,"Car-
+Jos",Ceder,nova terra,Quebrantoões,Peço-lhes,eia,jury,áquillo,somma avultada,Coragem,tos do vaso,"phantasia
+popular",lateraes,Causava,Inefficaz,ade,Delicadas,rua dos Inglezes,Commoveu-a,Amplo-,Que-me,surprendia,m'aquelle,malícia,Estroinices,Cuida,Senhor,Principio,Er,"as-
+tres",00-,RO,Emfim,Córou,Folgara,Longe,molestia,—,Reparem,Promettia,Queres,Ai,pa,illudia,Bate,Pedir,prometter,penna,aía,Doença,cereaes,— Quem,Lembra-me,Exquisita,Conhece,Fartura,Milton,"mis
+nha cara",Exijo,Pano,És,do conchego,Diga-m'o,somma,Dizia,Expliquem-as,Escuso,Cêdo,Cito,anciosa,Sebastopol,Cavalinho,Yorkshire,aquelle,critica atrabiliaria,malvasia,Excellentissima,zes-me,tranquillisar,amão,commover,Servida,Tenho,Principiava,St,Ultra,Vôo,Agradecida,Vês,saír d'alli,balbuciou elle,Ir,Tegasse,Sena,Triste,la Tais,Aspirando,Lisboa,Vossa,Branca,Vêem,Car-,d'antes,accusou,Mel,Tudo,Lucrecia,Trai,exercito da Saia,sílios,analyso,Ma,lisongeiras,Pires,"Fei-
+toria","Ilha dei-
+xára",Agonia,Mão,Australias,Tenha,habituaes,Santa Catharina,penha,aquella,UNA FAMILIA INGLEZA,Lembrou-lhe,Preparava-se-lhe,"im
+gem",Braga,— Olhe,Carecia,"cre
+Perde",Grecia,Credo,m”o,Maus,Josétinha,Ilha,"deserto
+pio",Brito,Demais,"A
+Lido",Tens-te,christão,Repara,N'aquelle,Verdade,Ha n'aquelle,affectuosa,cida do baile,Olha,Contas de Carlos,"Santa Ca-
+adriana",EU,"d'esta
+commovente",Supponho,chapéo,oceano arrojam,ci,biscuit,Tres,Physionomia,Convencida,sé,Es-,Catharina,Cinque,horrorisado,Forte,Cauda,impaciencia,Lon-,Vá!,agasalha,CR,Joséfinha,Ahi,pe-,Pausa,Inglezes,PERA,lenão,Agitam,Formosa,Raparigas,Nha,Thereza,calembourg,China,attracção,XXI,Padre-nosso,ã,Praça?,theatro de S. João,syntaxe,Mancha,Providencia,"S UMA FAMILIA INGLEZA
 
-Carlos",Santa Casa,Crescia Crescia,Atividade,Bate,d'essa,dóminó,lencia,N'esse,"A
+miss",Mademoiselle,Xerez,Ponta,Valbom,Effectivamente,Daria,Padrão,Posso,Serra do Pilar,aguas limpidas,nºum,soccorro,cemiterio contiguo,Procurar,Londres,Iyricos,Creança,Comtudo,jardim de S. Lazaro,"XXHI
 
-Extincta",Gonçalo,m'aquelle,Aquellas,Cerco,Reconhecera,Rasgue-a,Incha,Vivia,Chegaram,doura,"di
-
-zia",Mist-,Catharina,Bria,Fiambre,vigilia,Paciência,Pena,Victoria!,Souto,Guichard,esforço do velho,Peste,Impaciente-me,gingerbeer,"escrit=
-Patria de Mr. Brincar",dega,despenseira,aía,Lembrou-lhe,Volta,Pois Crescia,XI,Venham,Ria,"Cata-
-ria",Long,pas-,Serão,tranquillisar,Trai,puerilidades,Parte,Entra,theatro de S. João,Hontem,"aquella pos
-bre",Fazes,"Fortes
-edi",Rara,Santa Catharina,pi,Mostarda... Queijo,preponderancia,nºelle,Snr,"im
-gem",Areinho,creança,Chegar's Opera de Gra,Branca,bom retiro,Delicadas,Vão com Deus,saír d'aquelle,Boa Vista,Ir,Fecha,Cumpre-me,Queira,silencioóos,Sempre,camara,attracção,ci,Rebecca,Hollanda,Ncio,Dºesta,"ti-
-nha",Tinhamos,trouxe-m'os,Ámanhã,"passára
-alli",Partira,Bu,Est of Enganar,Roast,florete,interrogadoramente,Salve-me,Sem-,Juizo,"Eu-
-chtersleben",belgica,traiçoeira,em Portugal,Exquisito,berne,nºeste,lenão,Tegasse,Des,braza...,syntaxe,zes-me,Servida,Manoel,taboa,Pulos,Adivinha,Osjogos,attender,Vejam,christão,"pas-
-
-mM.",terra,malvasia,Dizia,pallido,Bispo,Córou,exquisito,valle,Anel,Tempestad,Seça,"Si-
-blia",Éo,Creia,go,Precisei,taes estados,áquillo,Virginia,SYMPTOMAS,Bata-,Whis,"S UMA FAMILIA INGLEZA
-
-miss",saiba,snr.º D. Crescia,Ecce Deus qui letificat,ceremonia,Tableau,Jantar,adquiri,prova d'isso,Duvido,gosar della,Diga-m'o,Guntando,Partirem,"|
-Antonia",Tres,Quereria,camarim,affectuosa,"57
-
-Exercera",ora-,Redobrou,acanhado,sôfrega curiosidade,defeza,nella,Peço-lhes,Vôo,Decis,io,Vieste,Sim,Tossia,analyso,"cre
-Perde",Prata,respiraste,biscuit,Ser,tóza,impaciencia,umá victoria,Talhados,Ágora,Leio-o,Senhor,Biblia,luzir,Aquella,Marianna,Supponho,porta do cemiterio,Blz,Antevejo,Jecturar,Aonde,Continue,Vim,Amparar,Imagine,Cec,jury,casa d'isso,appetecer,proxima,Batamos,Ensinando-me,Estações,Rossio-Cassi,Meus,Inglaterra,brochura,Praça com-,Especie,Distin-,Trapalhona,Appeteceu-me,Com-,Pantheon,appari,baixo das janellas,Tremi,oceano arrojam,acrimonia,Balas,Tens,innocente,Lembra-me,America do Norte,Convenci,Mr. Branca!,"Cara
-los",taes,Car-,Milton,almada,Joséfinha da Agua-benta,valle das duas janellas florescia,Historia,Porto,Vês,Mara-,nºella,Morena,ni Branca applaudiu,Tr,Quça,Menina,Codigo,Corporal Prim,Verdade,Gra,Humana,a-,Fallam,pac,Jendeu,Tira,Esteiro,ramada,communs,Ahi,Escuso,commover,veigas,na-occasião,terra dos meetings,Larguem-me,capellinha do Padrão,obsequio,Ha,Civilisa-te,Pantagruel,Cava,Lamparina,Mão,tica desta bureaucracia,Valle de lagrimas,Doe,vigilia da vespera,Mancha,Estroinices,Conhece,saír d'alli,"Porto
-e Madeira",Dê-lhe,| Emilia,Padre-nosso,joven padre,Carmo,severo Douro,Sóentão,Cachimbo,nova e.,estrada da Foz,soccorro,amão,somno,Sa,Felice Romani,DER,Reino,Merc,XXI,Es,Diahia,Josophico,Carlos,Laura,aquella sardonisca,Rar,Manoel Que-,"di
-tos",campinas,tos do vaso,— Olhe,Jos,Tambem,Tenha,m”o,"Forte tola!
-
-— B elle",ZA,as-,agasalha,Base,Mand,Desbarretem-se,Serio,po,Aguia d'Ouro,Luiza,pa,Horas de Ocio,Lusiadas,PERPATAmaO,Iyricos,la Tais,Curvei,Chico da Losã,Vou,Fonte da Vinha,calembourg,Toca,Praça de,Ceder,Exquisita,Prometterei,Pa-,Assumpto,Q,sociaes,Quçamos,Mortalnemico,Agua-benta,Volveu,sonhos dourados,Fa,bonito,Olha,La,Es-,Barbaro,Quarta,Acreditará,Queres,Norte,Pano,Quer-me,Lisboa,Coimbra,ins,chamma,ahi,"Car-
-Jos",Excellente,Europa,Triste,Forte-,UNA FAMILIA INGLEZA,ce,Tomára,Que-me,Mor-,Ociosidade,es=,n'aquelle,Carnaval,Ir'a,Quero,Desconheço-te,Albyon,Descansa,De,Cinza,Acredita-me,Saraus,Primor,punhaes,escossez,Julgára,Joséfinha,aquelle,Tremo,Lucrecia,larão lão,Campanhã,Pennor,Santa Emilia,Mos-,Mr. Branca —,Succeder-lhe-hia,Assumptos,Mano,Rica,Causava,"rua
-dos Inglezes",alli,Ascende,Estás,Tristeza,Apoiado,Manrique,Olhe,sorrisos,F,Pu,"cisTirasos
-Leva...",Olhem,B,sos de familia,Yimes,aquilio,Daria,Enganar,Varreram,Salta,Amplo-,—,Thereza,andar de cima,theatro lyrico,Mr. Brincar,St,malícia,Praça,Venho,tranho,Cários,Vossa,Recordo-me,Fartura,EU,Fogo,revelans,Consola,Escriptura,Fevereiro,quaes,d'este,Anciada,Ta,interposi,rua de Santa,Mas-era,Bom,Presentimentos,Jhar,lagrimas,Cedofeita,Achilles,Credo,Enganas-te,habituaes,"d'esta
-commovente","insaci
-
-dos","andar uni
-
-quella",Coisa,bilhetes de beneficio,Costumo,Xerez,S. Pedro,Procurarei,Emilia,Vá,Cujos,tristeza,Bra-,Assim-Paciá,Vamos,paraça,Santo Antonio,Mademoiselle de la Seguiêre,Praça Commercial,Praça?,Dize-me,Inefficaz,contrahida,Misericordia,"Tanto-
-nia",Vimbiin,Prezado,de Lisboa,bre do alto das montanhas,Repito,Forno Ve-,elle,Interpretaram,Amanhã,Impressionou-,bairro de Cedofeita aquelle,RE,Promptos,Delgado,Pedra Salgada,acre,alameda do Repouso,accusou,proprio Mr.,Maus,Porisso,"Se=
-hor Jesus Christo",Ponta,Harmental,Universidade,misericordia,Padrão,aguas limpidas,lateraes,Ceil,vozeria,Doença,"|
-viára",Sevilha,00-,Marino Ligeiro,Saturno,Mr. Branca,larão,Typos,Expliquem-as,Moraes,Minho,Eia,Alegre,critica atrabiliaria,ba,do Norte,RO,Smithfield,"|
-
-Mr. Brincar",Pa,d'elle,Falle,"Singular-
-ral oh!",elia,Timas,st,elle bebe,Londres,Vouga,Vomitam,lia,Mim,Ega,Foz,lisongeiras,Basta,Ostras,Shandeismo,illudia,funebre,Estiveste,Educação,julgára,Dizes-te,insomnia,Garganta,Cam-,nhou,dandoó-lh'o,aguia,Avintes,Grecia,Largos,cida do baile,"re-
-sciencia",snr,Emile Fugir,Marcha,cereaes,Peso,Mattos,lugubre,Divina Comedia,Inglezes,Agonia,Valbom,atrazado,Porto mu-,Demais,Sejam,tra,Grande,elleês,levans,serena,Aquillo,ros,familia,"serio tam-
-bem",Giorno,Grã-Bretanha,Assignado,"Chamin-
-nés","aguas dos
-rios caudalosos","as-
-sos levissimos",Allega-,Serra do Pilar,Aguia,Concordo,cortezias,"go
-
-Jenny",Comquanto,Applicadas,comprehendia,Seguimol-a,lavras,allemães,Ha-,penha,póde,Cacilda,Eh,N,Ellas,desviei,caes,Al,Nha,occaso,Principiava,Carolina,Saia,Commoveu-a,Ereciheum club,"Fei-
-toria",orém,mamente,Subia elle,America,Longe,Cara,Ess,casa d'elle,Concilia,Aquelle,"fe
-
-Apenas",passeiar,Estive,Posso,Ce,Providencia,Clementina Alvaro,es,Carecia,bar-me,Madeira,quasi,"|
-Janella",Vae,Mr. Brincar Whitestone,Vinha,ES,V,Paiz,Commigo,Qu,tinuar,"Mes
-lho",Polyphemo,"as-
-tres",Basto,Imaginem,Verei,Vil,Falta-nos,Ai,Porque Mr. Branca,ã,penhore,Furioso,"deserto
-pio",Infeliz,Appellava,Desconfio,Perdôo,Rua Ferreira Borges,Vens,Querem,sorri,"pris
-
-XV",Tola,"los
-gar",Fazer-te,Alexandria,bom Charles,chavena,da Bretanha,Estranha-me,v-,Deem-lhe,Racine,Jari,Milion,Qual,Observava,Pires,Brito,França,Victoria,Yorkshire,Successos,Sabem,surprendia,— Peço-lhe,Portugal,"sé póde
+DIPLOMACIA DO CORAÇÃO",pallido,bairro de Cedofeita aquelle,hontem,Forte-,Porto,Falta-nos,"Manoel Que-
+tino",Raspai,Fazer-te,Aonde,Guichard,sôfrega curiosidade,Pois,SYMPTOMAS,Concilia,Mim,"se-
+guinte exclamação",Paulo,Audaces,Balas,UMA-FAMILIA INGLEZA,Excellente,Boa Vista,puerilidades,Adeus,Alexandria,Largos,baixo das janellas,Pois Crescia,Fiambre,Grenlei,Jenny,ER,Vim,Depressa,Consola,Mouras,XI,Ascende,Prometto,Salta,Vens,Hontem,Lucta,perola,collo,paraça,"Mat-
+tos",Basto,Racine,Pennor,Obrigado,Fortunato,somno,Shandeismo,ba,adquiri,florete,funebre,lavras,Appellava,Multic,Precisei,Praticaria,Anda,interrompia,Cara,Delgado,Escolheu,valle,Pó,"cisTirasos
+Leva...",Obrigada,Vejam,Falla-me,tilissimas,Exquisito,Cuidas,Brincar,Rica,Estranha-me,Carolina,Reconhecera,Vieste,Provas,saiba,gaia casa theatro,commetter,nºaquelle,Reparo,bom gentleman,Batamos,escossez,Al,Acho-lhe,Debil,mathematicas,nol Quente,Morena,"sé póde
 
  
 
@@ -78,35 +38,75 @@ gar",Fazer-te,Alexandria,bom Charles,chavena,da Bretanha,Estranha-me,v-,Deem-lhe
 
    
 
-UMA FAMILIA INGLEZA",Espinho,assumpto,Jupiter,apreciar n'aquella,Varios,Fazei,Quan,Acredite-me,AGGRAVAM-SE,Vêem,Cuidei,Arvoredo,somma,graciosa,Thebaida,Paris,nol Quente,Campo Pequeno,"Cara
-los 0",Principio,Guarda-a,ni Branca,damasco,Maia,Cec-,folha,Poetico,Podia,cemiterio contiguo,permitte,"phantasia
-popular","se-
-guinte exclamação","pr
+UMA FAMILIA INGLEZA",calumnia,estrada do Padrão,passeiar,Reino,desviei,Rara,Sabem,Fevereiro,Pedra Salgada,Luiza,Serão,Lados da Cruz da Rasteira,Julgo,proxima,aquilio,Enganar,esforço do velho,Smithfield,Mas-era,Ostras,SimAbicapo,n'aquelle,Passeiava,Campo Pequeno,ámanhã,larão,creança,Peso,preponderancia,— Peço-lhe,Raras,Russia,"tos
+biographia",Meus,Universidade,familia,almada,Historia,Cosme Villas-boas,torre de S. Francisco,Vil,Praça de,Larguem-me,vigilia da vespera,Trai la rai,Crescia,d'isso,graciosa,tristeza,Juizo,Trapalhona,Cinza,Harmental,taes,Tableau,silencioóos,Nºesse,Cellaço,vozeria,Julgára,gêlo,Subia elle,"Cara
+los 0",Strech,Seça,B,ZA,capellinha do Padrão,acre,De,Tempestad,"aquella pos
+bre",Curvei,nºella,"Mes
+lho",terra dos meetings,Assumpto,Jos,Jari,sc,pas-,punhaes,Fonte da Vinha,Liverpool,Thebaida,Costumo,estrada de cima,"Blz
+las",alameda do Repouso,commiseração,vessou,Abre,Quasi,Ribeira,Pobre Paulo,elle,Responde-me...,agatha,y,folha,Marcha,"Queren's The-
+tre",camarim,Irei,"pr
 
-Jenny",Praticaria,"Ilha dei-
-xára",lettra grande,Chale,horrorisado,Vasado,chins,porta de fortaleza,Persuas,Julgo,Nºesse,Adivinho-o,Prometto,Servi,Quebrantoões,tilissimas,agatha,physionomia,Josétinha,"A
-Lido",jardim de S. Lazaro,Ralhava,Ficando,Correu,Alegrar,Multic,patriarchal,nºum,China,Agitam,Cuidas,Pr,Lucta,Lumes,"a-
-nella",Physicas,baixo Peste,Sena,Escolheu,Escute,bom gentleman,Jardim,Acho-lhe,suggerir,Socega,Grenlei,Coragem,nova terra,Carinhos,Ma-,Bom Jesus,sc,perenne contentamento,Audaces,Cellaço,"si-
+Jenny",Areinho,Agua-benta,taes estados,India,Santa Emilia,Í,Est of Enganar,scismava,Cos,Es,Aquillo,Cec-,Volta,Qu,mutua,Pozeram-me,chamma,Jardim,Reconheceu-os,balbuciou Crescia,Alegre,"di
 
-a.",Rua dos Caldeireiros,Abre,Branda,"Manoel Que-
-tino",Ma,Terreiro,Physionomia,commetter,Passeiava,PUBLICA,Strech,Justeza,do conchego,Narrativas,Ilha,Raspai,torre de S. Francisco,"mis
-nisto",Basta-me,prosodia,Falla-me,Communicaram,PERA,Ingl-,idade d'isso,Admira,Ob,Er,Jenny,D'ahi,Lasciva la dona in pace,Liverpool,exercito da Saia,Ribeira,taes momentos,Entre Crescia,hontem,Reparo,— Quem,"Lucta de Lammer-
+zia",Gadas,Trazida,Mist-,Carlos,Polyphemo,Fiz-te,Quçamos,Josophico,Ocidente,Queira,Guntando,Alegrar,Vae...,te,saír d'aquelle,Ralhava,Descansa,Voltava,beatifica idiotia,interrogadoramente,Dizes-te,"fe
 
-mor",l-,Pobre Paulo,Estouvada,Saíu,sta ingratidão,d'antes,"Car-
-los Whitestone",Safa,"Blz
-las",Fallára,lix de vinho,frança,commerciaes,aguas boas,Pobre Cecilial,Lon-,Gadas,gracejo,coraes,Excellentissima,alameda lateral,Matam,casa delle,interrompia,Horas,villania,Comprehendeu,Obsequio,Creiam-me,Caminho,Provas,Effectivamente,Antonia,Raparigas,Ficava,Mettia,"Santa Ca-
-adriana",te,vessou,Africa,hypocrisia,Diario,cença,Convencida,Butterfly,justificará,perola,la rai,Digo,Bonan,Medroso,tenue,Jockey,ER,phrenesi,penna,Foscaris,Rossio,Vae...,salvador,Saberia,Tens-te,Cauda,Braga,Vá!,lua,SimAbicapo,Nºeste,Lyrico,Cos,beijos,"Queren's The-
-tre",pinheiros,mathematicas,Tudo,Promettia,Cinque,morada d'aquella senhora,portão do jardim,"pas-
-sos precipitados",commentarios,Taes,rio da Villa,Mouras,Ha n'aquelle,impossivel fa-,antecedencias,Imminencia,Emilia Victoria,ran-ville,lettras,d'isso,Adeus,Trai la rai,Viverás,peior,rua do jardim,Ocidente,es|,Responde-me...,"rua dos
-Inglezes",Perdia,India,Contrastava,molestia,Espere,Terceira,Sebastopol,commiseração,alto da folha,André,"v-
+Apenas","tis
+nha",Olhem,Digo,Cujos,Bocado,"as-
+sos levissimos",doura,Venham,proprio Mr.,Vão com Deus,Vá,"Manoel Que-
 
-rias particularidades",Nem,Faço,"mis
-nha cara",estrada do Padrão,Tanto-,Lados da Cruz da Rasteira,Abeillard,io santo,com-,chapéo,calumnia,Dica,"chapéo de
-seda",Onde-,Aposentos,Ent,Etegeria,sa,"theatro
-Lyrico",Quasi,rua dos Inglezes,Vae-me,indec,gêlo,eia,Ya-lhe,Luz,mercio,Cosme Villas-boas,Phase,Atilas,Australias,Trazida,Brincar,UMA-FAMILIA INGLEZA,Receio,beatifica idiotia,Depressa,sé,Inglesa,Cito,"mis
-nha",somma avultada,Pôe,Perdôa,Senhora,mutua,Dizes-me,Raras,Cuida,Fiz-te,Ultra,Surpreende,assumptos,aquella,Pó,iypocrisia,Irei,succedeu,Boccarro,tunos,y,Julga-me,Tejo,"Mat-
-tos","Esteiro de
-Campanhã",pre,Comtudo,"tos
-biographia",Procurar,Trabalharei,Rompia,Emfim,podérdes,Morria,Paus,Obrigado,Preparava-se-lhe,Repara,nºaquelle,acrolitho,Pobre,eflicacia delle,gaia casa theatro,Rego Lameiro,Venha,Mel,Agradecida,Mademoiselle,Repouso,collegio,"Manoel Que-
+tino",Paciência,es,julgára,podérdes,Joséfinha da Agua-benta,v-,Avintes,"rua
+dos Inglezes",bonito,Doe,sorrisos,bar-me,F,Bom,Tanto-,antecedencias,Estás,Presentimentos,Eia,Saberia,tenue,Bu,Éo,Matam,Jantar,Tambem,Paiz,Bonan,Ha-,"andar uni
 
-tino",Sinto,Conheceu-a,Contas de Carlos,Passos,sílios
+quella",aquella sardonisca,Basta,Ncio,pac,"es
+cassa luz",io,"pris
+
+XV",Succeder-lhe-hia,pre,Guarda-a,taes momentos,Venho,Bonito,v,zes Emilia,peior,ora-,Julga-me,Misericordia,lencia,Tinhamos,Victoria,Adivinha,casa d'isso,prosodia,tinuar,bre,Giorno,Apoiado,serena,"|
+Antonia",RE,Esteiro,eflicacia delle,Quente,Portugal,INGLEZA,Sim,bilhetes de beneficio,commerciaes,Julguei,Impressionou-,Rossio-Cassi,Interpretaram,DER,Africa,casa delle,"pas-
+sos precipitados",Vinha,Seguimol-a,Viverás,Ha,porta de fortaleza,mamente,villania,Perdôa,Roast,estrada da Foz,Ma-,Bria,Commigo,S. Pedro,phrenesi,nºelle,Rar,Senhora,Rossio,Garganta,Morria,Santa Casa,go,Sejam,"|
+Janella",Surpreende,Olhe,Sem-,revelans,"Si-
+blia",Ficava,Quereria,Nºeste,Cumpre-me,Pena,"|
+viára",America,"Forte tola!
+
+— B elle",Estive,orém,Inglesa,Cedofeita,Chico da Losã,dandoó-lh'o,Medroso,Receio,poleiro,suggerir,communs,"rua dos
+Inglezes",Mostarda... Queijo,Continue,Terreiro,Emilia Victoria,com-,Peste,Timas,Varreram,nºeste,velleidades,Tossia,Fecha,Pobre,Vouga,alto da folha,Redobrou,Correu,Chale,Grã-Bretanha,d'este,Sinto,victoria da primeira,caes,campinas,Biblia,Mortalnemico,Appeteceu-me,Luz,Escute,"pa
+
+Carlos",exquisito,mercio,Praça Commercial,Ir'a,Jecturar,Carnaval,Obsequio,"Singular-
+ral oh!",Adivinho-o,Cec,Sóentão,prova d'isso,Barbaro,Socega,D'ahi,Prometterei,interposi,Fa,Escriptura,Anel,Vae-me,Mara-,Gra,Manoel Quentes,Talhados,sociaes,Ria,Observava,"rua das
+Flores",io santo,Vomitam,Minho,sorri,Onde-,ceremonia,elle bebe,Fallam,Cacilda,Ficando,Sempre,Repouso,Desconheço-te,beijos,Assignado,l-,Saraus,Communicaram,Victoria!,Ess,d'essa,Boccarro,Lasciva la dona in pace,Tristeza,Lumes,ni Branca,Rasgue-a,Assumptos,Lamparina,casa d'elle,"a-
+nella",Tremi,allemães,Emile Fugir,Corporal Prim,Coitadinhos,Tola,Vate,Padre,dóminó,atrazado,insomnia,ran-ville,Mr. Brincar,Hollanda,Ob,Adivinhas,"Chamin-
+nés",Ent,Emilia,theatro lyrico,Ellas,N,Butterfly,"mis
+nisto",Pantagruel,elleês,"pas-
+
+mM.",aguas boas,Ingl-,PERPATAmaO,Fogo,Serio,Moraes,bom Charles,Snr,Partira,Santo Antonio,lagrimas,idade d'isso,Mr. Brincar Whitestone,Poetico,Conheceu-a,Long,Porisso,pi,nova e.,Bata-,alameda lateral,de Lisboa,sonhos dourados,Falle,Querem,Dica,Especie,Milion,Parece-me,lucta,na-occasião,"escrit=
+Patria de Mr. Brincar",umá victoria,Whis,Leio-o,bella de bel-,"passára
+alli",Civilisa-te,Cários,Entre Crescia,"ti-
+nha",Marino Ligeiro,Rebecca,Diahia,André,Forno Ve-,Fallára,Impaciente-me,Tira,succedeu,Fazes,"Cata-
+ria",Paus,Convenci,Mr. Branca —,ES,Mand,innocente,contrahida,comprehendia,Mr. Branca,permitte,Aquella,Ágora,proseg,"57
+
+Exercera",Acredite-me,Partirem,Madeira,Sevilha,Roz,"|
+
+Mr. Brincar",Campanhã,Saia,braza...,Princ-,Saturno,"serio tam-
+bem",Taes,rio da Villa,gosar della,Applicadas,N'esse,belgica,Qual,ramada,Q,Servi,andar de cima,lix de vinho,Varios,Arvoredo,berne,"theatro
+Lyrico",ce,em Portugal,d'elle,Acredita-me,rua do jardim,Fumar,sos de familia,collegio,Pa,Successos,Clementina Alvaro,Contrastava,Carmo,ins,Antonia,Menina,Expatria,chins,tóza,PUBLICA,Coisa,camara,Dºesta,dega,Maia,Diario,tunos,Vivia,Virginia,tranho,obsequio,Incha,Crescia Crescia,appari,Europa,da Bretanha,Quan,Pu,Amanhã,Volveu,Ámanhã,traiçoeira,Fazei,Cuidei,Ecce Deus qui letificat,Blz,Carinhos,Assim-Paciá,apreciar n'aquella,Salve-me,Norte,nella,"Esteiro de
+Campanhã",La,Yimes,V,Pulos,Cerco,Ereciheum club,pinheiros,Laura,Tr,"chapéo de
+seda",levans,Dizes-me,Estiveste,Guiné,botica,"insaci
+
+dos",Safa,Pa-,Cachimbo,Albyon,Mano,sa,nossa atmosphera,Praça com-,"Car-
+los Whitestone",coraes,Branda,Infeliz,Comprehendeu,ahi,ni Branca applaudiu,Pôe,Paris,ná,Aquellas,mim,gracejo,"fi
+lha",Bra-,"si-
+
+a.","Porto
+e Madeira",Manrique,Jupiter,trouxe-m'os,— Talvez,despenseira,Mor-,Coimbra,rua de Santa,Comquanto,Jendeu,Mattos,Douro,Mademoiselle de la Seguiêre,Freixo,Trabalharei,Enganas-te,Vimbiin,Verduras,appetecer,Etegeria,Bra,Incendiar,Ega,severo Douro,Prata,lugubre,Amparar,Pr,acrimonia,Nem,Foz,impossivel fa-,sta ingratidão,Phase,Quero,Estações,Dê-lhe,Desconfio,Rompia,snr,Imaginem,Hespanha,Tens,Pantheon,acrolitho,frança,"di
+tos",Tejo,penhore,Grande,Deem-lhe,Creiam-me,Verei,Ociosidade,Osjogos,Vamos,st,Tibre,iypocrisia,la rai,cortezias,alli,póde,Ceil,justificará,perenne contentamento,Vou,Ande,Prompto,Aguia,as-,Horas,acanhado,Terceira,Repito,Desbarretem-se,Physicas,"Lucta de Lammer-
+
+mor",physionomia,Concordo,occaso,"aguas dos
+rios caudalosos",elia,tica desta bureaucracia,Felice Romani,attender,Procurarei,Manoel,"A
+
+Extincta",lua,Rua Ferreira Borges,Venha,gingerbeer,"Cara
+Jos",po,nhou,Bretanha,Basta-me,Ser,"ca-
+minho",Jhar,assumptos,Antevejo,Tomára,io tristeza,Ce,Mr. Branca!,Amaryllida,Persuas,quasi,patriarchal,Passos,Porque Mr. Branca,Trauteando,Entra,tra,chavena,Faço,"Fortes
+edi",Parva,Horas de Ocio,defeza,Perdôo,Vasado,Codigo,Narrativas,Distin-,Duvido,aguia,Porto mu-,salvador,Sa,Quarta,Dize-me,Acreditará,lia,luzir,Merc,Rua dos Caldeireiros,Ensinando-me,"los
+gar",Vista,Justeza,Atilas,assumpto,Des,bre do alto das montanhas,Prezado,Decis,Espinho,Chegar's Opera de Gra,"re-
+sciencia",Valle de lagrimas,Rego Lameiro,Abeillard,Eh,Promptos,Praça,Divina Comedia,Caminho,travêssa creança,Mos-,Chegaram,Ya-lhe,Perdia,França,misericordia,Lyrico,Cava,Inglaterra,Aposentos,Saíu,Pobre Cecilial,Educação,joven,indec,ros,"v-
+
+rias particularidades",Diga,Manoel Que-,Recordo-me,portão do jardim,Parte,Bom Jesus,Josefinha da Agua-benta,commentarios,Atividade,vigilia

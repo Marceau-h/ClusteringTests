@@ -1,13 +1,13 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23
-0.0,ALGIERS,Algiers,,,,,,,,,,,,,,,,,,,,,,
-1.0,Imperative,Opera,aspirati,,,,,,,,,,,,,,,,,,,,,
-2.0,MARKHAM,Thon Markham,+ Markham,Markham Plios,Marriot Markham,Markham,"Markham
-Pince",Rice Markham,Markham Place,,,,,,,,,,,,,,,
-3.0,edo,Edo,toledo,,,,,,,,,,,,,,,,,,,,,
-4.0,lima,Imagine,Limb,,,,,,,,,,,,,,,,,,,,,
-5.0,timor,Timplore,Morcar,Morpheus,Morean,,,,,,,,,,,,,,,,,,,
-6.0,Throne,hebron,Byron,"throne,—a",,,,,,,,,,,,,,,,,,,,
-7.0,East,Eastern Counties Railway,Eastern Lon-,Holford east,nfoleastere,Eastwards,"the
+0.0,Street,Flower Street,Bow Street,Smart Street,Curzon Street Chapel,"Piumptre
+Street",Friar Street,Regent Street,Stratton Street,West Street,King Street,Calthorpe Street,Gerrard Street,Whitecross Street,Oxford Street,St. John-street,Pitfield Street,Essex Street,High Street,Whiteoross Street,"Jermyn
+Street",Ada Street,Gracechurch Street,Jermyn Street
+1.0,Cambridge,Knightsbridge,Cambridgeshire,,,,,,,,,,,,,,,,,,,,,
+2.0,District,Jur district,,,,,,,,,,,,,,,,,,,,,,
+3.0,Portsmouth,"mouth,—oh",Port,,,,,,,,,,,,,,,,,,,,,
+4.0,Buffer,agruff,,,,,,,,,,,,,,,,,,,,,,
+5.0,Madonnas,Bonn,Vienna,,,,,,,,,,,,,,,,,,,,,
+6.0,Holford east,East,"the
 
  
 
@@ -49,187 +49,225 @@ Pince",Rice Markham,Markham Place,,,,,,,,,,,,,,,
 
  
 
-Railway east",Aston,,,,,,,,,,,,,,,,
-8.0,nepal,palo,,,,,,,,,,,,,,,,,,,,,,
-9.0,atar,barat,tara,niagara,Paradise,Tarantini,Mascara,Meara,,,,,,,,,,,,,,,,
-10.0,"affectation,—in",Laffeur,"affected,—I",Reformation,invitation:—then,,,,,,,,,,,,,,,,,,,
-11.0,Amelia,Isnhelia,melt-,Mameluke,,,,,,,,,,,,,,,,,,,,
-12.0,Earth,Garter,earth,,,,,,,,,,,,,,,,,,,,,
-13.0,Gypsy Palace,Gypsy,THE GYPSY PALACE,Egypt,Palace,the Gypsy Palace,,,,,,,,,,,,,,,,,,
-14.0,Black,Blackheath,Clackamas,Black Veil,the Black Eagle,Barracks,the Black Tower,Black Chamber,,,,,,,,,,,,,,,,
-15.0,the East Indies,the East a few weeks ago,Ladies,West Indian,the East Indians,the West Indies,,,,,,,,,,,,,,,,,,
-16.0,Cambridge,Cambridgeshire,Knightsbridge,,,,,,,,,,,,,,,,,,,,,
-17.0,fort,Beaufort,Effort,’—'For,Misfortunes,Tilbury Fort,Fort,Frankfort,fortin,,,,,,,,,,,,,,,
-18.0,"the Holy Land,§","the Holy
-Land",the Holy Land,,,,,,,,,,,,,,,,,,,,,
-19.0,sonoran,Oran,Dawson,sonoma,,,,,,,,,,,,,,,,,,,,
-20.0,voloe,Wooloomooloo,Colonies,,,,,,,,,,,,,,,,,,,,,
-21.0,Aldgate,Newgate,New,Ramsgate,Margate,,,,,,,,,,,,,,,,,,,
-22.0,Sweden,SWEDEN,,,,,,,,,,,,,,,,,,,,,,
-23.0,France,Vengeance,france,FRANCE,,,,,,,,,,,,,,,,,,,,
-24.0,Havannah,Levant,Hannah,Havre,,,,,,,,,,,,,,,,,,,,
-25.0,the Victoria Park,Victoria,the Green Park,,,,,,,,,,,,,,,,,,,,,
-26.0,"Diana,—I",Diana,,,,,,,,,,,,,,,,,,,,,,
-27.0,St. James’s Park,St. James's,Saint James’s Park,,,,,,,,,,,,,,,,,,,,,
-28.0,thun,agruff,Buffer,,,,,,,,,,,,,,,,,,,,,
-29.0,japonica,weapons:—of,Mica,,,,,,,,,,,,,,,,,,,,,
-30.0,Labrador,Gradus,Brazil,,,,,,,,,,,,,,,,,,,,,
-31.0,"Louis
-XIV",Louse,Louisa,Louis,,,,,,,,,,,,,,,,,,,,
-32.0,Wicks,Brunswick,Twickenham,Tokenhonse,Pakenham,Knicker,Tottenham,,,,,,,,,,,,,,,,,
-33.0,Jersey,Quakers,Wrsed,perseroro,,,,,,,,,,,,,,,,,,,,
-34.0,"Rio
-Janeiro",Rio,Janeiro,Geir,,,,,,,,,,,,,,,,,,,,
-35.0,Diab,India,Lydia,,,,,,,,,,,,,,,,,,,,,
-36.0,Harborough,Marlborough,Scarborough,Borough,Harborough to-day,Harborongh,,,,,,,,,,,,,,,,,,
-37.0,Brick Lane,Brick-lane,Drury Lane,"Chick Lane,§",,,,,,,,,,,,,,,,,,,,
-38.0,bhutan,Gaétano,Satan,Titan,Sultan,,,,,,,,,,,,,,,,,,,
-39.0,Hare,Harpy,Sahara,Charlotte,,,,,,,,,,,,,,,,,,,,
-40.0,norway,Medway,,,,,,,,,,,,,,,,,,,,,,
-41.0,"curses,—their","inmates,—a",curLy,"jests,—their blasphemous jokes",Elmhurst,,,,,,,,,,,,,,,,,,,
-42.0,Westminster,Westminster Abbey,Kidderminster,,,,,,,,,,,,,,,,,,,,,
-43.0,SSSsSSSeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS,Essex,Messalina,Sussex,by'a posse,,,,,,,,,,,,,,,,,,,
-44.0,Woolwich,Toole,Solera,Tooth,Holes,,,,,,,,,,,,,,,,,,,
-45.0,SUBTERRANEAN,Subterranean,"the Mediterranean
+Railway east",Eastwards,nfoleastere,Aston,Eastern Lon-,Eastern Counties Railway,,,,,,,,,,,,,,,,
+7.0,Kentish,Kent,"Kentish
+Town","Kentish
 
-Sea",Serrano,,,,,,,,,,,,,,,,,,,,
-46.0,Mule,Hercules Passage,,,,,,,,,,,,,,,,,,,,,,
-47.0,"Kentish
-Town",Kentish,Kentish Town,Kent,"Kentish
+'",Kentish Town,,,,,,,,,,,,,,,,,,,
+8.0,the Yellow Drawing-room,Yellow,room/—I,the Yellow Drawing-Room,Swallowing,the Yellow Drawing Room,,,,,,,,,,,,,,,,,,
+9.0,Tuscany,Barbican,can’I,Tus,,,,,,,,,,,,,,,,,,,,
+10.0,Regent,Argentina,tina,,,,,,,,,,,,,,,,,,,,,
+11.0,plano,flank,Plain,Bazzano,,,,,,,,,,,,,,,,,,,,
+12.0,Castelcicala,Castelicicala,Castelricala,Casielcicala,Eustelicala,Jastelcicala,"Castaic-
+cala",the Grand Duchy of Castelcicala,Castolcicala,Custelcicala,Casteicicala,Castolcicalan,the State of Castelcicala,,,,,,,,,,,
+13.0,the Herne Bay,Herne Bay,,,,,,,,,,,,,,,,,,,,,,
+14.0,Iran,tehran,Madeira,Mira,iran,,,,,,,,,,,,,,,,,,,
+15.0,huge;piece,Pierre,Receiving Ward,,,,,,,,,,,,,,,,,,,,,
+16.0,Button,Butts,,,,,,,,,,,,,,,,,,,,,,
+17.0,Naples,Temple,naples,NAPLES,,,,,,,,,,,,,,,,,,,,
+18.0,Villa,Villabella,"Wy
+vil",Villabeila,VILLA,,,,,,,,,,,,,,,,,,,
+19.0,Holmesiord,the Marquis of Holmesford,Stockholm,DECISION,,,,,,,,,,,,,,,,,,,,
+20.0,VERNON,Nevernave,Vernon la,Duvernay,Vernon,,,,,,,,,,,,,,,,,,,
+21.0,Egerton,St. Leger,COOL.—Egerton,Pemberton,Liege,,,,,,,,,,,,,,,,,,,
+22.0,earth,Earth,Garter,Carthage,,,,,,,,,,,,,,,,,,,,
+23.0,the West End,the West Strand,West End,the West End of London,The West End,,,,,,,,,,,,,,,,,,,
+24.0,Ilala,Milan,milan,,,,,,,,,,,,,,,,,,,,,
+25.0,MeI Bolt,Meitnerium,cei va,,,,,,,,,,,,,,,,,,,,,
+26.0,Rottenborough,Rottenborough Article-,Rottenborough Union,Rottenborpugh,Rotteuborough,Rottenbordugh,,,,,,,,,,,,,,,,,,
+27.0,Clare Market,Clarke,Leadenhall Market,,,,,,,,,,,,,,,,,,,,,
+28.0,Stephens,queens,Stephen,phenix,,,,,,,,,,,,,,,,,,,,
+29.0,Wapping,beijing,appoint~,Keeping,,,,,,,,,,,,,,,,,,,,
+30.0,Mufiles,nile,Old Bailey,Ile,,,,,,,,,,,,,,,,,,,,
+31.0,"Prince Albert,—thrilling",Prince Albert,Prince Alberto,"Prince Alberto lester-
+day",the Prince of Wales,expel!ed,,,,,,,,,,,,,,,,,,
+32.0,Jand,Vandclenr,andes,Janus,Pandora,handkerchiefs,,,,,,,,,,,,,,,,,,
+33.0,Aisha,kenosha,Bishops-,po-shay,,,,,,,,,,,,,,,,,,,,
+34.0,ELIZA SYDNEY,Plaza Sydney,Sydney,Eliza Sydney,Putney,,,,,,,,,,,,,,,,,,,
+35.0,voloe,Colonies,Wooloomooloo,,,,,,,,,,,,,,,,,,,,,
+36.0,"san
 
-'",Argentina,,,,,,,,,,,,,,,,,,
-48.0,Stockholm,Holmesiord,DECISION,the Marquis of Holmesford,,,,,,,,,,,,,,,,,,,,
-49.0,Finsbury Pavement,Finsbury,Finsbarj,Bloomsbury,"Finsbury
-Pavement",Canterbury,Malmesbury,Lothbury,,,,,,,,,,,,,,,,
-50.0,automaton,Tommy,Stilton,Kato-|,,,,,,,,,,,,,,,,,,,,
-51.0,Dover,Hanover,Sovereigns,Govern-,Uncovered,,,,,,,,,,,,,,,,,,,
-52.0,bees’-win,does’t,,,,,,,,,,,,,,,,,,,,,,
-53.0,Birmingham,Bingham,"the Ball Room of Buckingham
-Palace",Nottingham,,,,,,,,,,,,,,,,,,,,
-54.0,M.P.,M.P,,,,,,,,,,,,,,,,,,,,,,
-55.0,New York,NEW EPOCH,York,the Duke of York,New Toad,,,,,,,,,,,,,,,,,,,
-56.0,notre,Nota,Treviso,,,,,,,,,,,,,,,,,,,,,
-57.0,huge;piece,Receiving Ward,Pierre,,,,,,,,,,,,,,,,,,,,,
-58.0,Fever,Ver~,verde,denver,Liverpool,Everard Home,Braver,,,,,,,,,,,,,,,,,
-59.0,Montague,Beaumont,guelph,Tagliont,Montreal,,,,,,,,,,,,,,,,,,,
-60.0,"Prince Albert,—thrilling",Prince Albert,"Prince Alberto lester-
-day",Prince Alberto,the Prince of Wales,,,,,,,,,,,,,,,,,,,
-61.0,Whiteoross Street,St. John-street,Friar Street,Curzon Street Chapel,Street,Bow Street,King Street,"Jermyn
-Street",Regent Street,Ada Street,Stratton Street,Essex Street,Jermyn Street,Flower Street,Gracechurch Street,Gerrard Street,"Piumptre
-Street",Calthorpe Street,Whitecross Street,Smart Street,West Street,High Street,Pitfield Street,Oxford Street
-62.0,Boulogne-sur-Mer,Toulon,Boulogne,Sawboues,,,,,,,,,,,,,,,,,,,,
-63.0,Bonn,Madonnas,Vienna,,,,,,,,,,,,,,,,,,,,,
-64.0,Lean,orleans,Leary,,,,,,,,,,,,,,,,,,,,,
-65.0,Transylvania,narnia-,Vanity,,,,,,,,,,,,,,,,,,,,,
-66.0,Rotterdam,Iwroteto,Amsterdam,,,,,,,,,,,,,,,,,,,,,
-67.0,Gibbs,Gibbet,,,,,,,,,,,,,,,,,,,,,,
-68.0,Paris,"the paris-|
-tracy",invari,Paria,Baris,paris,,,,,,,,,,,,,,,,,,
-69.0,Pocket,Packet,Jock,,,,,,,,,,,,,,,,,,,,,
-70.0,Katherine east,Katherine,Kathorin,CATHERINE STREET,Prine,,,,,,,,,,,,,,,,,,,
-71.0,Clara Maberly,Berlin,Dublin,Terlizzi,Garlick,,,,,,,,,,,,,,,,,,,
-72.0,United Kingdom,the united kingdom,Kingdom,the United Kingdom,,,,,,,,,,,,,,,,,,,,
-73.0,Somers Town,Somersetshiro,Someot,Somersetshire,,,,,,,,,,,,,,,,,,,,
-74.0,norfolk Island,ting Norfolk Island,Norfolk,Norfolk Island,,,,,,,,,,,,,,,,,,,,
-75.0,Staffordshire,Berkshire,Lancashire,Stafford,,,,,,,,,,,,,,,,,,,,
-76.0,Banks,flank,Millbank,nisatbanar San,,,,,,,,,,,,,,,,,,,,
-77.0,Babylon,undo1,LONDON,CONDON,THE MY6SERIES OF LONDON,"Lon
-don",london,London,OF¥ LONDON,,,,,,,,,,,,,,,
-78.0,Saffron,Saffron Hill,,,,,,,,,,,,,,,,,,,,,,
-79.0,Aus,Australia,Illustrious,Austria,Sesostris,,,,,,,,,,,,,,,,,,,
-80.0,MARIAN,Algeria,Syria,Maria,Marian,,,,,,,,,,,,,,,,,,,
-81.0,yonder grove,Yonder,Lyons,yonder corner,,,,,,,,,,,,,,,,,,,,
-82.0,Break,Belfast,BREAKFAST,Breakfast,Preach,,,,,,,,,,,,,,,,,,,
-83.0,Largo,largo,,,,,,,,,,,,,,,,,,,,,,
-84.0,Chick,thick-,the thick grove,,,,,,,,,,,,,,,,,,,,,
-85.0,ste,Ste,steraly,Benstead,,,,,,,,,,,,,,,,,,,,
-86.0,know-,Snow Hill,dunghills,Cornhill,Ludgato Hill,Smaller Hill,,,,,,,,,,,,,,,,,,
-87.0,tune;—bat,Maikbatou,Malklatoun,Stour,,,,,,,,,,,,,,,,,,,,
-88.0,Griffin,Coffin,,,,,,,,,,,,,,,,,,,,,,
-89.0,Séilligalee,Skilligalee,,,,,,,,,,,,,,,,,,,,,,
-90.0,Mac Chile,chile,Chile,Much Chile,,,,,,,,,,,,,,,,,,,,
-91.0,Kerala,the Emerald Isle,the Isle of Man,Redeemer,,,,,,,,,,,,,,,,,,,,
-92.0,Stephen,phenix,Stephens,queens,,,,,,,,,,,,,,,,,,,,
-93.0,Jonettes,Gazette,,,,,,,,,,,,,,,,,,,,,,
-94.0,Wigginton,Manton,Edmonton,toronto,Montoni,,,,,,,,,,,,,,,,,,,
-95.0,District,Jur district,,,,,,,,,,,,,,,,,,,,,,
-96.0,Camden,Camden Town,,,,,,,,,,,,,,,,,,,,,,
-97.0,+L wil,Wilmot,"Dr, Wilmot",,,,,,,,,,,,,,,,,,,,,
-98.0,Old Bailey,Mufiles,Ile,nile,,,,,,,,,,,,,,,,,,,,
-99.0,Hamburg,hamburg,"St.
-Petersburg",Edinburgh,Buren,,,,,,,,,,,,,,,,,,,
-100.0,Holiness,Adeline,Adelino,Adelaide,,,,,,,,,,,,,,,,,,,,
-101.0,Ellis,TELL,expel!ed,Tell mo,,,,,,,,,,,,,,,,,,,,
-102.0,dri,Madras,Madrid,putrid,,,,,,,,,,,,,,,,,,,,
-103.0,Hoxton,Hoxton Old,Hoxton Old Town,Brixton,,,,,,,,,,,,,,,,,,,,
-104.0,Y'doa,I'Do,,,,,,,,,,,,,,,,,,,,,,
-105.0,Contarini,Continent,Cont,contemptuoualy,sont,Content,Silicon,,,,,,,,,,,,,,,,,
-106.0,Birchin,tina,China,CHINA,china,Fieschi,,,,,,,,,,,,,,,,,,
-107.0,mo seo,Lethean sea,Lethean,the Dead Sea,,,,,,,,,,,,,,,,,,,,
-108.0,the Happy Valley,calle,Valley,Talleyrand,,,,,,,,,,,,,,,,,,,,
-109.0,Great Britain,Britain,Tainps,britain,,,,,,,,,,,,,,,,,,,,
-110.0,spain,Spain,,,,,,,,,,,,,,,,,,,,,,
-111.0,ain’t,ithn’t,n’t,don’t,in’t,,,,,,,,,,,,,,,,,,,
-112.0,Budge Row,Judges,,,,,,,,,,,,,,,,,,,,,,
-113.0,Yes:—in,also!—Yes,"pursuits,—yes",folsom,,,,,,,,,,,,,,,,,,,,
-114.0,Ferdinand,dinand,,,,,,,,,,,,,,,,,,,,,,
-115.0,SMITHFIELD,Smithfield Market,Smithfield,,,,,,,,,,,,,,,,,,,,,
-116.0,St. David’s,"St, David’s",St. David's,,,,,,,,,,,,,,,,,,,,,
-117.0,Macquarie,"acquaintances,—to",Macquarie Harbour,Port Macquarie,,,,,,,,,,,,,,,,,,,,
-118.0,Giltspur,"St, Giles",St. Giles,St. Giles's,St. Giles’s,,,,,,,,,,,,,,,,,,,
-119.0,Santa Croce,Santa-Croce,SANTA CRUZ,,,,,,,,,,,,,,,,,,,,,
-120.0,"the United
-States",the United States,Ab!—the United States,Tunis,the united races,,,,,,,,,,,,,,,,,,,
-121.0,Glasgow,las,Glacier,,,,,,,,,,,,,,,,,,,,,
-122.0,Switzerland,Oberland,Cumberland,Borland,,,,,,,,,,,,,,,,,,,,
-123.0,"quaint-
-ance",Saint,"Saint
-Nepomecenus",Saint Giles's,Saint John's,Saint Sepulebre's,Saint James's,Saint David's,Saint Joana,Saint Giles’s,,,,,,,,,,,,,,
-124.0,West-End,Majesty,Lewes,West,west.,Nest,Select Vestry,,,,,,,,,,,,,,,,,
-125.0,Custeleicala,Leipzig,Eustelicala,"Castaic-
-cala",Casteleicala,Castelelcala,Castelricala,Castcleicala,Casteletcala,,,,,,,,,,,,,,,
-126.0,the North Pole,Farnsworth Park,Leavenworth Park,Leavenworth,,,,,,,,,,,,,,,,,,,,
-127.0,Walmer,Church,Palmerston,Walmer Churchyard,,,,,,,,,,,,,,,,,,,,
-128.0,Castle,"Castle
-Ghichor",Cast,Bustle,,,,,,,,,,,,,,,,,,,,
-129.0,Mark~,"Mark
-ham",Marking,mars,mart,,,,,,,,,,,,,,,,,,,
-130.0,the Roman States,Roman,Roman States,‘Roman States,,,,,,,,,,,,,,,,,,,,
-131.0,handkerchiefs,andes,Jand,Janus,Pandora,Vandclenr,,,,,,,,,,,,,,,,,,
-132.0,the Herne Bay,Herne Bay,,,,,,,,,,,,,,,,,,,,,,
-133.0,AR Grand Duchy,Grand Duchy,Duchy,Grand,the Grand Duchy,,,,,,,,,,,,,,,,,,,
-134.0,Bombay,The Lobster Tavern,the Lombardy Arms,,,,,,,,,,,,,,,,,,,,,
-135.0,Greéwood,GREENWOOD,Wooden,Greece,Greenwich,Greenwood,,,,,,,,,,,,,,,,,,
-136.0,the County of,the Counts Horn,,,,,,,,,,,,,,,,,,,,,,
-137.0,Parsonage,Persona,Persia,,,,,,,,,,,,,,,,,,,,,
-138.0,Jew,the Old Jewry,the Great Desert,Old Drury,"TI
+Tf",san regiment,Oregon,,,,,,,,,,,,,,,,,,,,,
+37.0,Dapper,"Dapper to-
+wards",,,,,,,,,,,,,,,,,,,,,,
+38.0,Tho,thou,methodist,Thon,,,,,,,,,,,,,,,,,,,,
+39.0,XXX.—Mental Struggles,Snoggles,Centaur,,,,,,,,,,,,,,,,,,,,,
+40.0,Morocco,moro,morocco,Morosino,red morocco,Morocco Railway,MOROCCO,,,,,,,,,,,,,,,,,
+41.0,asia,Asia,Kasich,Asia Minor,,,,,,,,,,,,,,,,,,,,
+42.0,does’t,bees’-win,,,,,,,,,,,,,,,,,,,,,,
+43.0,orient,Derwent,Derby,Camberwell,Belvidere,,,,,,,,,,,,,,,,,,,
+44.0,"daughter,—to","monster,—I","her,—she",Monster,"sir,—I",,,,,,,,,,,,,,,,,,,
+45.0,‘Roman States,the Roman States,Roman States,Roman,,,,,,,,,,,,,,,,,,,,
+46.0,quad-,Quad-,,,,,,,,,,,,,,,,,,,,,,
+47.0,Saint Theo-,Saint Theodosia,Saint Theodosla,St. Theodosia,,,,,,,,,,,,,,,,,,,,
+48.0,"you,—not","you,—if","bed,—not",,,,,,,,,,,,,,,,,,,,,
+49.0,Mossop,Jessop,Ossoro,,,,,,,,,,,,,,,,,,,,,
+50.0,Banks,nisatbanar San,Millbank,,,,,,,,,,,,,,,,,,,,,
+51.0,Berkeley,Clerkenwell,berkeley,,,,,,,,,,,,,,,,,,,,,
+52.0,Medway,norway,,,,,,,,,,,,,,,,,,,,,,
+53.0,Bibles,Vinciblo,Inaccessible,,,,,,,,,,,,,,,,,,,,,
+54.0,Rio,"Rio
+Janeiro",Geir,Janeiro,,,,,,,,,,,,,,,,,,,,
+55.0,France,Vengeance,FRANCE,france,,,,,,,,,,,,,,,,,,,,
+56.0,"Dr, Wilmot",+L wil,Wilmot,,,,,,,,,,,,,,,,,,,,,
+57.0,NEED,Leeds,,,,,,,,,,,,,,,,,,,,,,
+58.0,St. David’s,St. David's,"St, David’s",,,,,,,,,,,,,,,,,,,,,
+59.0,Persona,Persia,Parsonage,,,,,,,,,,,,,,,,,,,,,
+60.0,"affectation,—in","affected,—I",invitation:—then,Reformation,Laffeur,,,,,,,,,,,,,,,,,,,
+61.0,largo,,,,,,,,,,,,,,,,,,,,,,,
+62.0,Edo,toledo,edo,,,,,,,,,,,,,,,,,,,,,
+63.0,Brummagem,Brussels,agen,mag~,,,,,,,,,,,,,,,,,,,,
+64.0,Holes,Toole,Woolwich,Tooth,Solera,,,,,,,,,,,,,,,,,,,
+65.0,the Happy Valley,Valley,calle,Talleyrand,,,,,,,,,,,,,,,,,,,,
+66.0,Gypsy Palace,Palace,the Gypsy Palace,THE GYPSY PALACE,Egypt,Gypsy,,,,,,,,,,,,,,,,,,
+67.0,invari,paris,"the paris-|
+tracy",Baris,Paria,Paris,,,,,,,,,,,,,,,,,,
+68.0,Ver~,Everard Home,Liverpool,Fever,Braver,verde,denver,,,,,,,,,,,,,,,,,
+69.0,Pocket,Jock,Packet,,,,,,,,,,,,,,,,,,,,,
+70.0,Georgia,Georgian,,,,,,,,,,,,,,,,,,,,,,
+71.0,"wildly,—at","in,—a","him,—and","theatre,—an",me;’—and,"writing,—and","behind,—and","man,”—and","her,—and","account,’—And","joy,—and","wear,—and",kind;—and,"fault,—an",buzzim!”—and,,,,,,,,,
+72.0,Rochefoucauld,herg,Cherry,sherry.,"Cherry
+Park",,,,,,,,,,,,,,,,,,,
+73.0,Baden-baden,aden,Aden,Baden,Sugden,,,,,,,,,,,,,,,,,,,
+74.0,Harborough,Marlborough,Harborough to-day,Borough,Harborongh,Scarborough,,,,,,,,,,,,,,,,,,
+75.0,Cornwall,"Cape
+Horn",Cape,Cape Horn,,,,,,,,,,,,,,,,,,,,
+76.0,Kato-|,Tommy,automaton,Stilton,,,,,,,,,,,,,,,,,,,,
+77.0,Panama,Namibia,,,,,,,,,,,,,,,,,,,,,,
+78.0,Eng,england,England,ENGLAND,Tn England,Old England,,,,,,,,,,,,,,,,,,
+79.0,Throne,hebron,"throne,—a",Byron,,,,,,,,,,,,,,,,,,,,
+80.0,Illustrious,Aus,Austria,Sesostris,Australia,,,,,,,,,,,,,,,,,,,
+81.0,Messalina,China,Fieschi,CHINA,china,Birchin,,,,,,,,,,,,,,,,,,
+82.0,Herbertstcin,Alberta,Alberto,Albeit,,,,,,,,,,,,,,,,,,,,
+83.0,Edmonton,Montoni,toronto,Manton,Beaumont,Wigginton,,,,,,,,,,,,,,,,,,
+84.0,Griffin,Coffin,,,,,,,,,,,,,,,,,,,,,,
+85.0,Calumny,Escalate,Tuvalu,Calcutta,,,,,,,,,,,,,,,,,,,,
+86.0,XXII,CLXIII,,,,,,,,,,,,,,,,,,,,,,
+87.0,Hercules Passage,Mule,,,,,,,,,,,,,,,,,,,,,,
+88.0,Normandy,cayman,oman,Manor,mansion,Germany,Unstable Manor,,,,,,,,,,,,,,,,,
+89.0,I'Do,Y'doa,,,,,,,,,,,,,,,,,,,,,,
+90.0,Kilbarn,Hobart,Bart,Hobart Town,,,,,,,,,,,,,,,,,,,,
+91.0,Camden Town,Camden,,,,,,,,,,,,,,,,,,,,,,
+92.0,Castle,Cast,"Castle
+Ghichor",Bustle,,,,,,,,,,,,,,,,,,,,
+93.0,Perigord,Superin,supp.y,Superintendent,bering,,,,,,,,,,,,,,,,,,,
+94.0,"low,—I","world,—if",loaf:—it,"Pacific,—I","work,—it",Septa,,,,,,,,,,,,,,,,,,
+95.0,Globo Town,Globe Town,Globo,Globe,Glove Town,"Surgeon Hill,—Globe Town",Globe Towa,,,,,,,,,,,,,,,,,
+96.0,"the Resurrection
+Map",Vesuvius,Surrey,"reflections,—or","the Resurrection
+Man",,,,,,,,,,,,,,,,,,,
+97.0,the North Pole,Leavenworth Park,Leavenworth,Farnsworth Park,,,,,,,,,,,,,,,,,,,,
+98.0,Nota,notre,Treviso,,,,,,,,,,,,,,,,,,,,,
+99.0,Budge Row,Judges,,,,,,,,,,,,,,,,,,,,,,
+100.0,Hyde Park,Park,Esparto,"Hyde
+Park",Paradise,Pardon,,,,,,,,,,,,,,,,,,
+101.0,Gravesend,"Belgrave
+Square","Cavendish
+Square",Traveller,,,,,,,,,,,,,,,,,,,,
+102.0,Petrarca,Strat-,strack mo,"ma
+Bistrates’",Trafalgar,Strand,Strasburg,,,,,,,,,,,,,,,,,
+103.0,Kingdom,the united kingdom,the United Kingdom,United Kingdom,,,,,,,,,,,,,,,,,,,,
+104.0,"danger,—when","it,—when","disease,—which",,,,,,,,,,,,,,,,,,,,,
+105.0,Saint James’s Park,St. James's,St. James’s Park,,,,,,,,,,,,,,,,,,,,,
+106.0,Inn,inn,cincinnati,,,,,,,,,,,,,,,,,,,,,
+107.0,Vikings,King,brookings,Hastings,Kingsdown,lodgings,,,,,,,,,,,,,,,,,,
+108.0,Marriot Markham,MARKHAM,Markham Place,Markham,Rice Markham,Thon Markham,Markham Plios,"Markham
+Pince",+ Markham,,,,,,,,,,,,,,,
+109.0,Mameluke,Amelia,melt-,Isnhelia,,,,,,,,,,,,,,,,,,,,
+110.0,aspirati,Imperative,Opera,,,,,,,,,,,,,,,,,,,,,
+111.0,M.P.,M.P,,,,,,,,,,,,,,,,,,,,,,
+112.0,Rossville,Lille,Bentonville,Piccadilly,Bastille,jilley,,,,,,,,,,,,,,,,,,
+113.0,India,Lydia,Diab,,,,,,,,,,,,,,,,,,,,,
+114.0,SSSsSSSeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS,Essex,by'a posse,Sussex,,,,,,,,,,,,,,,,,,,,
+115.0,Drury Lane,Brick Lane,Brick-lane,"Chick Lane,§",,,,,,,,,,,,,,,,,,,,
+116.0,Ellen,Ellis,TELL,Tell mo,,,,,,,,,,,,,,,,,,,,
+117.0,Armonia,Honour,Armoury,Injury,,,,,,,,,,,,,,,,,,,,
+118.0,Sultan,bhutan,Titan,Gaétano,Satan,,,,,,,,,,,,,,,,,,,
+119.0,Buren,hamburg,Hamburg,"St.
+Petersburg",Edinburgh,,,,,,,,,,,,,,,,,,,
+120.0,israel,Israel,,,,,,,,,,,,,,,,,,,,,,
+121.0,Diana,"Diana,—I",,,,,,,,,,,,,,,,,,,,,,
+122.0,"Philip
+Island",the South Sea Islands,Philip Island,Slavéy,Island,Leeward Island,Caribbean Islands,the Caribbean Islands,,,,,,,,,,,,,,,,
+123.0,Fields,Spitalfields,Field,Sheffield,Titchfield,Field Mar,,,,,,,,,,,,,,,,,,
+124.0,Glowiouth,sou,Southsea Common,South-sea,South Pole,"seat,—“it",,,,,,,,,,,,,,,,,,
+125.0,Imagine,lima,Limb,,,,,,,,,,,,,,,,,,,,,
+126.0,Journey Nereuerm Italy,Italy,Capital,italy,,,,,,,,,,,,,,,,,,,,
+127.0,Smithfield,Smithfield Market,SMITHFIELD,,,,,,,,,,,,,,,,,,,,,
+128.0,Aldgate,Ramsgate,Margate,Newgate,New,,,,,,,,,,,,,,,,,,,
+129.0,Adelino,Adelaide,Delaware,Holiness,Adeline,,,,,,,,,,,,,,,,,,,
+130.0,Break,BREAKFAST,Belfast,Breakfast,Preach,,,,,,,,,,,,,,,,,,,
+131.0,Carté,écarté,,,,,,,,,,,,,,,,,,,,,,
+132.0,Saint Joana,"Saint
+Nepomecenus",Saint Giles’s,Saint David's,Saint,"quaint-
+ance",Saint James's,Saint John's,Saint Giles's,Saint Sepulebre's,,,,,,,,,,,,,,
+133.0,Spain,spain,,,,,,,,,,,,,,,,,,,,,,
+134.0,Upper Clapton,Clapton,,,,,,,,,,,,,,,,,,,,,,
+135.0,the County of,the Counts Horn,,,,,,,,,,,,,,,,,,,,,,
+136.0,King Zingary,Hungary,Cingani,Zingarees,Zingary,Zingarces,,,,,,,,,,,,,,,,,,
+137.0,putrid,Madrid,dri,Madras,,,,,,,,,,,,,,,,,,,,
+138.0,Skilligalee,Séilligalee,thun,,,,,,,,,,,,,,,,,,,,,
+139.0,New South,deep wales,New South Wales,Wales,"New South
+Wales",,,,,,,,,,,,,,,,,,,
+140.0,TuRN,Picture,futuro,Urox,decatur,Turin,puro,,,,,,,,,,,,,,,,,
+141.0,éairé,Fairer,naira,Cairo,,,,,,,,,,,,,,,,,,,,
+142.0,Dark,Arkansas,daro,,,,,,,,,,,,,,,,,,,,,
+143.0,Kidderminster,Westminster Abbey,Westminster,,,,,,,,,,,,,,,,,,,,,
+144.0,palo,nepal,,,,,,,,,,,,,,,,,,,,,,
+145.0,know-,Cornhill,Smaller Hill,Snow Hill,dunghills,Ludgato Hill,,,,,,,,,,,,,,,,,,
+146.0,in'a,in'theé,they’reno,Thebes,"the
+moon",,,,,,,,,,,,,,,,,,,
+147.0,ALGIERS,Algiers,,,,,,,,,,,,,,,,,,,,,,
+148.0,Finsbarj,Finsbury Pavement,Finsbury,Bloomsbury,Canterbury,"Finsbury
+Pavement",Malmesbury,Lothbury,,,,,,,,,,,,,,,,
+149.0,Melbourne,Holborn,Talbot,crystal,Albion,,,,,,,,,,,,,,,,,,,
+150.0,norfolk Island,Norfolk Island,Norfolk,ting Norfolk Island,,,,,,,,,,,,,,,,,,,,
+151.0,Timplore,timor,Morpheus,Morean,Morcar,,,,,,,,,,,,,,,,,,,
+152.0,Mint,Mind,indus,,,,,,,,,,,,,,,,,,,,,
+153.0,Dawson,sonoma,Oran,sonoran,,,,,,,,,,,,,,,,,,,,
+154.0,Bingham,"the Ball Room of Buckingham
+Palace",Nottingham,Birmingham,,,,,,,,,,,,,,,,,,,,
+155.0,Minories,nino,wino,,,,,,,,,,,,,,,,,,,,,
+156.0,Cecilia,"the
 
  
 
-OLY",,,,,,,,,,,,,,,,,,,
-139.0,Katucriue,scribabie,Sucre,,,,,,,,,,,,,,,,,,,,,
-140.0,Cairo,éairé,naira,Fairer,,,,,,,,,,,,,,,,,,,,
-141.0,England,england,England for America,ENGLAND,Old England,Tn England,Eng,,,,,,,,,,,,,,,,,
-142.0,MYSTERIES,Gloucester,chester,Manchester,Rochester,Chichester,,,,,,,,,,,,,,,,,,
-143.0,Petrarca,Strand,Trafalgar,Strasburg,Strat-,"ma
-Bistrates’",strack mo,,,,,,,,,,,,,,,,,
-144.0,MeI Bolt,Meitnerium,cei va,,,,,,,,,,,,,,,,,,,,,
-145.0,maine,Tremain,Tremordyns,,,,,,,,,,,,,,,,,,,,,
-146.0,Bishops-,kenosha,Aisha,po-shay,,,,,,,,,,,,,,,,,,,,
-147.0,Cape Horn,Cape,Cornwall,"Cape
-Horn",,,,,,,,,,,,,,,,,,,,
-148.0,red morocco,Morocco,morocco,Morocco Railway,MOROCCO,moro,,,,,,,,,,,,,,,,,,
-149.0,Capital,italy,Italy,Journey Nereuerm Italy,,,,,,,,,,,,,,,,,,,,
-150.0,Hants,Gotha,dothan,Elizabethan,,,,,,,,,,,,,,,,,,,,
-151.0,Squids,Exquires,quito,Quillotines,,,,,,,,,,,,,,,,,,,,
-152.0,milan,Milan,Ilala,,,,,,,,,,,,,,,,,,,,,
-153.0,New Caledonia,"the New
-Road",the New Cut,,,,,,,,,,,,,,,,,,,,,
-154.0,Ossoro,Jessop,Mossop,,,,,,,,,,,,,,,,,,,,,
-155.0,Cingani,King Zingary,Zingarces,Zingary,Hungary,Zingarees,,,,,,,,,,,,,,,,,,
-156.0,Joeding,Sardinia,tain Fitshardinge,Tinge,,,,,,,,,,,,,,,,,,,,
-157.0,"it,—when","danger,—when","disease,—which",,,,,,,,,,,,,,,,,,,,,
-158.0,the City Road,the City of London,"the
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Cecilia","Lady
+Cecilia",Ladyship,,,,,,,,,,,,,,,,,,,,
+157.0,the East a few weeks ago,Ladies,West Indian,the West Indies,the East Indies,the East Indians,,,,,,,,,,,,,,,,,,
+158.0,Sheriffs,Middlesex,Middlesex Sheriffs,Sheridan,,,,,,,,,,,,,,,,,,,,
+159.0,Prine,Katherine east,Katherine,CATHERINE STREET,Kathorin,,,,,,,,,,,,,,,,,,,
+160.0,Saffron Hill,Saffron,,,,,,,,,,,,,,,,,,,,,,
+161.0,Gradus,Brazil,Labrador,,,,,,,,,,,,,,,,,,,,,
+162.0,Tainps,britain,Britain,Great Britain,,,,,,,,,,,,,,,,,,,,
+163.0,West-End,Select Vestry,Nest,West,Majesty,Lewes,west.,,,,,,,,,,,,,,,,,
+164.0,Northern Europe,Europa,Europe,Western Europe,,,,,,,,,,,,,,,,,,,,
+165.0,Clara Maberly,Terlizzi,Dublin,Berlin,,,,,,,,,,,,,,,,,,,,
+166.0,Arlington,Warrington,Mount Wellington,ARLINGTON,Islington,Jostling,Kensington,Newington,Wellington,,,,,,,,,,,,,,,
+167.0,Imprisonment,Prisons,yemen,Mentor,,,,,,,,,,,,,,,,,,,,
+168.0,@game,Guinea,Neame,,,,,,,,,,,,,,,,,,,,,
+169.0,turkey,Turkey,,,,,,,,,,,,,,,,,,,,,,
+170.0,"Mark
+ham",Marking,mart,mars,Mark~,,,,,,,,,,,,,,,,,,,
+171.0,Julia,Alia,Friuli,Tulia,,,,,,,,,,,,,,,,,,,,
+172.0,Hanover,Dover,Sovereigns,Uncovered,Govern-,,,,,,,,,,,,,,,,,,,
+173.0,yonder corner,yonder grove,Lyons,Yonder,,,,,,,,,,,,,,,,,,,,
+174.0,Sweden,SWEDEN,,,,,,,,,,,,,,,,,,,,,,
+175.0,"protfered,—a","heard,—a","kind,—a",,,,,,,,,,,,,,,,,,,,,
+176.0,Tunis,Ab!—the United States,"the United
+States",the United States,the united races,,,,,,,,,,,,,,,,,,,
+177.0,Much Chile,chile,Mac Chile,Chile,,,,,,,,,,,,,,,,,,,,
+178.0,the City of London,the City Road,"the
 
   
 
@@ -239,150 +277,115 @@ Road",the New Cut,,,,,,,,,,,,,,,,,,,,,
 
    
 
-City",the City,the Island of the City,the Casualty Ward,The City,,,,,,,,,,,,,,,,,
-159.0,bering,Superintendent,supp.y,Superin,Perigord,,,,,,,,,,,,,,,,,,,
-160.0,Clapton,Upper Clapton,,,,,,,,,,,,,,,,,,,,,,
-161.0,Carthage,Carté,écarté,,,,,,,,,,,,,,,,,,,,,
-162.0,Noone,One'of,Maidstone,,,,,,,,,,,,,,,,,,,,,
-163.0,mag~,Brussels,Brummagem,agen,,,,,,,,,,,,,,,,,,,,
-164.0,Quad-,quad-,,,,,,,,,,,,,,,,,,,,,,
-165.0,Prisons,Imprisonment,Mentor,,,,,,,,,,,,,,,,,,,,,
-166.0,cincinnati,inn,Inn,,,,,,,,,,,,,,,,,,,,,
-167.0,Portsmouth,"mouth,—oh",Port,,,,,,,,,,,,,,,,,,,,,
-168.0,New South,Wales,New South Wales,"New South
-Wales",deep wales,,,,,,,,,,,,,,,,,,,
-169.0,Villabella,Villa,Villabeila,"Wy
-vil",VILLA,,,,,,,,,,,,,,,,,,,
-170.0,Casteicicala,"Castel
-Gicala",Casielcicala,Jastelcicala,the State of Castelcicala,the Grand Duchy of Castelcicala,Castolcicalan,Castelcicala,Castelicicala,Castolcicala,Custelcicala,,,,,,,,,,,,,
-171.0,St. Leger,Liege,Pemberton,Egerton,COOL.—Egerton,,,,,,,,,,,,,,,,,,,
-172.0,Georgia,Georgian,,,,,,,,,,,,,,,,,,,,,,
-173.0,Kinds,Windsor,Windham,,,,,,,,,,,,,,,,,,,,,
-174.0,tehran,Mira,Iran,iran,,,,,,,,,,,,,,,,,,,,
-175.0,harriman thon,harriman,Harriet,Society,Harries,,,,,,,,,,,,,,,,,,,
-176.0,Miss.,promiseé,,,,,,,,,,,,,,,,,,,,,,
-177.0,Belvidere,orient,Derby,Camberwell,Derwent,,,,,,,,,,,,,,,,,,,
-178.0,Americas,"North
-America",Meriag,Africa,merced,America,cameroon,,,,,,,,,,,,,,,,,
-179.0,Pardon,Esparto,"Hyde
-Park",Hyde Park,Park,,,,,,,,,,,,,,,,,,,
-180.0,it'worth,Ravensworth Park,Craven,Ravensworth Hatt,Ravensworth Hall,Venus,Ravensworth,"Ravensworth
-lal",Rickmansworth,,,,,,,,,,,,,,,
-181.0,au rome,Rome,rome,,,,,,,,,,,,,,,,,,,,,
-182.0,Ellen,Bentonville,Piccadilly,Bastille,jilley,Rossville,Lille,,,,,,,,,,,,,,,,,
-183.0,Chatham,Northampton,Thames,Brompton,Southampton,Bohemia,,,,,,,,,,,,,,,,,,
-184.0,Whittinghs,Rechabites,Whitechapel,White,whirls,Whitefriars,Nephite,,,,,,,,,,,,,,,,,
-185.0,lodgings,brookings,King,Kingsdown,Hastings,Vikings,,,,,,,,,,,,,,,,,,
-186.0,Clare Market,Leadenhall Market,Clarke,,,,,,,,,,,,,,,,,,,,,
-187.0,lemaly,lesaly,unsucceafaly,aly,Healy,,,,,,,,,,,,,,,,,,,
-188.0,Golden,Lane,Bolder,"Golden
-Lane",Golden Lane,,,,,,,,,,,,,,,,,,,
-189.0,Globo Town,Globe,Globe Towa,"Surgeon Hill,—Globe Town",Glove Town,Globe Town,Globo,,,,,,,,,,,,,,,,,
-190.0,Guinea,@game,Neame,,,,,,,,,,,,,,,,,,,,,
-191.0,Plaza Sydney,Sydney,Putney,Eliza Sydney,ELIZA SYDNEY,,,,,,,,,,,,,,,,,,,
-192.0,Bethnal,Bethlem,Lambkin,Lambeth,,,,,,,,,,,,,,,,,,,,
-193.0,"world,—if","Pacific,—I","low,—I",loaf:—it,"work,—it",,,,,,,,,,,,,,,,,,,
-194.0,aden,Madeira,Baden-baden,Baden,Sugden,Aden,,,,,,,,,,,,,,,,,,
-195.0,Field Mar,Titchfield,Spitalfields,Fields,Field,Sheffield,,,,,,,,,,,,,,,,,,
-196.0,"san
-
-Tf",yemen,Oregon,san regiment,Regent,,,,,,,,,,,,,,,,,,,
-197.0,Kasich,asia,Asia,Asia Minor,,,,,,,,,,,,,,,,,,,,
-198.0,"the Resurrection
-Man",Surrey,"reflections,—or",Vesuvius,"the Resurrection
-Map",,,,,,,,,,,,,,,,,,,
-199.0,Swallowing,the Yellow Drawing Room,Yellow,the Yellow Drawing-room,room/—I,the Yellow Drawing-Room,,,,,,,,,,,,,,,,,,
-200.0,Clerkenwell,berkeley,Berkeley,,,,,,,,,,,,,,,,,,,,,
-201.0,they’reno,in'a,in'theé,"the
-moon",Thebes,,,,,,,,,,,,,,,,,,,
-202.0,ARLINGTON,Jostling,Warrington,Newington,Wellington,Arlington,Islington,Kensington,Mount Wellington,,,,,,,,,,,,,,,
-203.0,Scuttle,Pitt,\little,,,,,,,,,,,,,,,,,,,,,
-204.0,Gravesend,Traveller,"Cavendish
-Square","Belgrave
-Square",,,,,,,,,,,,,,,,,,,,
-205.0,Anadolu,canAda,,,,,,,,,,,,,,,,,,,,,,
-206.0,croatia,CasrEzcroaza,,,,,,,,,,,,,,,,,,,,,,
-207.0,Holborn,Albion,Melbourne,crystal,Talbot,,,,,,,,,,,,,,,,,,,
-208.0,voice.—'I,arctic,"presence,—I","justice,—I","nature,—if",,,,,,,,,,,,,,,,,,,
-209.0,the aforesaid province,Prove-,provo,Providence,,,,,,,,,,,,,,,,,,,,
-210.0,Middlesex,Sheriffs,Sheridan,Middlesex Sheriffs,,,,,,,,,,,,,,,,,,,,
-211.0,Turkey,turkey,,,,,,,,,,,,,,,,,,,,,,
-212.0,Rottenborpugh,Rottenborough Article-,Rotteuborough,Rottenbordugh,Rottenborough Union,Rottenborough,,,,,,,,,,,,,,,,,,
-213.0,Waterloo,swan,Waterford,the Waterloo Road,pater=,Bayswater,,,,,,,,,,,,,,,,,,
-214.0,Keeping,appoint~,beijing,Wapping,,,,,,,,,,,,,,,,,,,,
-215.0,Escalate,Calcutta,Tuvalu,Calumny,,,,,,,,,,,,,,,,,,,,
-216.0,Ireland,finland,Poland,Scold,poland,thailand,Holland,highland,"New
-Zealand",Moscow,Scotland,New Zealand,,,,,,,,,,,,
-217.0,West End,the West End of London,the West End,the West Strand,The West End,,,,,,,,,,,,,,,,,,,
-218.0,Myeloid,CLXIII,Penelope,Geneva,,,,,,,,,,,,,,,,,,,,
-219.0,South Pole,Southsea Common,Glowiouth,sou,South-sea,"seat,—“it",,,,,,,,,,,,,,,,,,
-220.0,Vernon la,Duvernay,Vernon,Nevernave,VERNON,,,,,,,,,,,,,,,,,,,
-221.0,Europa,Western Europe,Northern Europe,Europe,,,,,,,,,,,,,,,,,,,,
-222.0,Namibia,Panama,,,,,,,,,,,,,,,,,,,,,,
-223.0,trois,polis,Metropolitan,Neapolitan,,,,,,,,,,,,,,,,,,,,
-224.0,NEED,Leeds,,,,,,,,,,,,,,,,,,,,,,
-225.0,Honour,Armoury,Armonia,Injury,,,,,,,,,,,,,,,,,,,,
-226.0,"Shorediteh,—then",Shore,Shoreditch,,,,,,,,,,,,,,,,,,,,,
-227.0,"you,—if","bed,—not","you,—not",,,,,,,,,,,,,,,,,,,,,
-228.0,Morosino,Minories,wino,nino,,,,,,,,,,,,,,,,,,,,
-229.0,house’—Thereupon,Speak,Nepean,brook:—then,repeated.—Then,,,,,,,,,,,,,,,,,,,
-230.0,Vinciblo,Inaccessible,Bibles,,,,,,,,,,,,,,,,,,,,,
-231.0,Barbican,can’I,Tuscany,Tus,,,,,,,,,,,,,,,,,,,,
-232.0,Plain,plano,Bazzano,,,,,,,,,,,,,,,,,,,,,
-233.0,City Aegean,"s0-
-city",Gutity,City-,mighty city,,,,,,,,,,,,,,,,,,,
-234.0,the British Islands,haiti,British Isles,,,,,,,,,,,,,,,,,,,,,
-235.0,"the
+City",the Island of the City,The City,the Casualty Ward,the City,,,,,,,,,,,,,,,,,
+179.0,Someot,Somersetshiro,Somersetshire,Somers Town,,,,,,,,,,,,,,,,,,,,
+180.0,Shore,Shoreditch,"Shorediteh,—then",,,,,,,,,,,,,,,,,,,,,
+181.0,"pursuits,—yes",folsom,also!—Yes,Yes:—in,,,,,,,,,,,,,,,,,,,,
+182.0,St. Luke's,St.,St. Pancras,St. Patrick,Panctual,,,,,,,,,,,,,,,,,,,
+183.0,"inmates,—a",Elmhurst,"jests,—their blasphemous jokes","curses,—their",curLy,,,,,,,,,,,,,,,,,,,
+184.0,haiti,the British Islands,British Isles,,,,,,,,,,,,,,,,,,,,,
+185.0,Gazette,Jonettes,,,,,,,,,,,,,,,,,,,,,,
+186.0,Spring-Gardens,"the Zoological
+Gardens",Spring Gardena,"Spring
+Gardens",Spring Gardens,,,,,,,,,,,,,,,,,,,
+187.0,Santa-Croce,SANTA CRUZ,Santa Croce,,,,,,,,,,,,,,,,,,,,,
+188.0,Busby,Husband,Crossbar,,,,,,,,,,,,,,,,,,,,,
+189.0,Jew,the Great Desert,"TI
 
  
 
- 
+OLY",Old Drury,the Old Jewry,,,,,,,,,,,,,,,,,,,
+190.0,Switzerland,Borland,Oberland,Cumberland,,,,,,,,,,,,,,,,,,,,
+191.0,Amsterdam,Rotterdam,Iwroteto,,,,,,,,,,,,,,,,,,,,,
+192.0,Leary,orleans,Lean,,,,,,,,,,,,,,,,,,,,,
+193.0,au rome,rome,Rome,,,,,,,,,,,,,,,,,,,,,
+194.0,house’—Thereupon,repeated.—Then,Nepean,brook:—then,Speak,,,,,,,,,,,,,,,,,,,
+195.0,guelph,Tagliont,Montague,Montreal,,,,,,,,,,,,,,,,,,,,
+196.0,lesaly,lemaly,aly,unsucceafaly,Healy,,,,,,,,,,,,,,,,,,,
+197.0,Hoxton,Brixton,Hoxton Old,Hoxton Old Town,,,,,,,,,,,,,,,,,,,,
+198.0,Bethlem,Bethnal,Lambkin,Lambeth,,,,,,,,,,,,,,,,,,,,
+199.0,Content,Continent,Contarini,Silicon,Cont,contemptuoualy,sont,,,,,,,,,,,,,,,,,
+200.0,Mica,weapons:—of,japonica,,,,,,,,,,,,,,,,,,,,,
+201.0,Largo,,,,,,,,,,,,,,,,,,,,,,,
+202.0,Black Chamber,the Black Eagle,Black Veil,Blackheath,Black,Clackamas,Barracks,the Black Tower,,,,,,,,,,,,,,,,
+203.0,Hants,dothan,Gotha,Elizabethan,,,,,,,,,,,,,,,,,,,,
+204.0,Church,Palmerston,Walmer,Walmer Churchyard,,,,,,,,,,,,,,,,,,,,
+205.0,Windham,Kinds,Windsor,,,,,,,,,,,,,,,,,,,,,
+206.0,Gloucester,Chichester,Rochester,Manchester,chester,MYSTERIES,,,,,,,,,,,,,,,,,,
+207.0,the Isle of Man,Kerala,Redeemer,the Emerald Isle,,,,,,,,,,,,,,,,,,,,
+208.0,"the Holy
+Land","the Holy Land,§",the Holy Land,,,,,,,,,,,,,,,,,,,,,
+209.0,Gibbet,Gibbs,,,,,,,,,,,,,,,,,,,,,,
+210.0,Gutity,mighty city,"s0-
+city",City Aegean,City-,,,,,,,,,,,,,,,,,,,
+211.0,Africa,merced,England for America,Meriag,"North
+America",Americas,cameroon,America,,,,,,,,,,,,,,,,
+212.0,Constitution Hill,Const-,Constitution-,,,,,,,,,,,,,,,,,,,,,
+213.0,perseroro,Jersey,Quakers,Wrsed,,,,,,,,,,,,,,,,,,,,
+214.0,steraly,Ste,Benstead,ste,,,,,,,,,,,,,,,,,,,,
+215.0,Golden Lane,Lane,Golden,Bolder,"Golden
+Lane",,,,,,,,,,,,,,,,,,,
+216.0,the aforesaid province,Providence,provo,Prove-,,,,,,,,,,,,,,,,,,,,
+217.0,CasrEzcroaza,croatia,,,,,,,,,,,,,,,,,,,,,,
+218.0,Giltspur,St. Giles's,St. Giles,"St, Giles",St. Giles’s,,,,,,,,,,,,,,,,,,,
+219.0,Guixry,Guilford,Guildford,Guildhall,,,,,,,,,,,,,,,,,,,,
+220.0,Casteletcala,Custeleicala,Castcleicala,Castelelcala,Leipzig,Bohemia,Casteleicala,"Castel
+Gicala",,,,,,,,,,,,,,,,
+221.0,Northampton,Chatham,Thames,Brompton,Southampton,,,,,,,,,,,,,,,,,,,
+222.0,Ferdinand,dinand,,,,,,,,,,,,,,,,,,,,,,
+223.0,Montecuculi,@Montecueuli,,,,,,,,,,,,,,,,,,,,,,
+224.0,Lancashire,Stafford,Berkshire,Staffordshire,,,,,,,,,,,,,,,,,,,,
+225.0,Frankfort,fort,Misfortunes,Beaufort,Tilbury Fort,Effort,’—'For,fortin,Fort,,,,,,,,,,,,,,,
+226.0,narnia-,Transylvania,Vanity,,,,,,,,,,,,,,,,,,,,,
+227.0,Hare,Charlotte,Sahara,Harpy,,,,,,,,,,,,,,,,,,,,
+228.0,poland,"New
+Zealand",Poland,Moscow,Holland,Ireland,Scold,New Zealand,finland,Scotland,highland,thailand,,,,,,,,,,,,
+229.0,Stour,Malklatoun,Maikbatou,tune;—bat,,,,,,,,,,,,,,,,,,,,
+230.0,Grand,the Grand Duchy,Grand Duchy,Duchy,AR Grand Duchy,,,,,,,,,,,,,,,,,,,
+231.0,the Dead Sea,Lethean,mo seo,Lethean sea,,,,,,,,,,,,,,,,,,,,
+232.0,the thick grove,Garlick,thick-,Chick,,,,,,,,,,,,,,,,,,,,
+233.0,in’t,ithn’t,don’t,ain’t,n’t,,,,,,,,,,,,,,,,,,,
+234.0,"devised,—he",Penitentiary,life:—he,"treasure,—he","penitence,—he",,,,,,,,,,,,,,,,,,,
+235.0,Whittinghs,Nephite,Whitefriars,whirls,Whitechapel,White,Rechabites,,,,,,,,,,,,,,,,,
+236.0,Tinge,Sardinia,tain Fitshardinge,Joeding,,,,,,,,,,,,,,,,,,,,
+237.0,maine,Tremordyns,Tremain,,,,,,,,,,,,,,,,,,,,,
+238.0,harriman thon,harriman,Harries,Harriet,Society,,,,,,,,,,,,,,,,,,,
+239.0,Sawboues,Boulogne-sur-Mer,Toulon,Boulogne,,,,,,,,,,,,,,,,,,,,
+240.0,Richmond,Moncton,Salmon,Monroe,monaco,,,,,,,,,,,,,,,,,,,
+241.0,Wicks,Tokenhonse,Pakenham,Twickenham,Tottenham,Brunswick,Knicker,,,,,,,,,,,,,,,,,
+242.0,Surah,angola,Surango,,,,,,,,,,,,,,,,,,,,,
+243.0,"Ravensworth
+lal",Ravensworth Park,Craven,Ravensworth Hatt,Venus,it'worth,Ravensworth Hall,Ravensworth,Rickmansworth,,,,,,,,,,,,,,,
+244.0,Greéwood,GREENWOOD,Wooden,Greenwich,Greece,Greenwood,,,,,,,,,,,,,,,,,,
+245.0,Oxford,Holuesford,Stamford Stroot,Stamford,Holford,Ashford,Bordeaux,,,,,,,,,,,,,,,,,
+246.0,Geneva,Penelope,Myeloid,,,,,,,,,,,,,,,,,,,,,
+247.0,Bombay,The Lobster Tavern,the Lombardy Arms,,,,,,,,,,,,,,,,,,,,,
+248.0,Quillotines,Squids,quito,Exquires,,,,,,,,,,,,,,,,,,,,
+249.0,New Caledonia,"the New
+Road",the New Cut,,,,,,,,,,,,,,,,,,,,,
+250.0,the Green Park,the Victoria Park,Victoria,,,,,,,,,,,,,,,,,,,,,
+251.0,Babylon,"Lon
+don",London,OF¥ LONDON,CONDON,undo1,LONDON,THE MY6SERIES OF LONDON,london,,,,,,,,,,,,,,,
+252.0,voice.—'I,"nature,—if","presence,—I",arctic,"justice,—I",,,,,,,,,,,,,,,,,,,
+253.0,polis,trois,Neapolitan,Metropolitan,,,,,,,,,,,,,,,,,,,,
+254.0,Algeria,Marian,Syria,Maria,MARIAN,,,,,,,,,,,,,,,,,,,
+255.0,the Tower Hamlets,Holloway,Lower Union,Lower,Lower Holloway,Hounslow,,,,,,,,,,,,,,,,,,
+256.0,Anadolu,canAda,,,,,,,,,,,,,,,,,,,,,,
+257.0,Dearest Reginald,Death,Dearest,Weare,,,,,,,,,,,,,,,,,,,,
+258.0,York,New Toad,NEW EPOCH,the Duke of York,New York,,,,,,,,,,,,,,,,,,,
+259.0,Waterloo,the Waterloo Road,pater=,swan,Waterford,Bayswater,,,,,,,,,,,,,,,,,,
+260.0,las,Glacier,Glasgow,,,,,,,,,,,,,,,,,,,,,
+261.0,quassia,Circassia,Russia,cassia,,,,,,,,,,,,,,,,,,,,
+262.0,Scuttle,Pitt,\little,,,,,,,,,,,,,,,,,,,,,
+263.0,Noone,Maidstone,One'of,,,,,,,,,,,,,,,,,,,,,
+264.0,niagara,barat,atar,Mascara,Tarantini,Meara,tara,,,,,,,,,,,,,,,,,
+265.0,Bir,Bird-Cage Walk,,,,,,,,,,,,,,,,,,,,,,
+266.0,scribabie,Sucre,Katucriue,,,,,,,,,,,,,,,,,,,,,
+267.0,Miss.,promiseé,,,,,,,,,,,,,,,,,,,,,,
+268.0,Macquarie Harbour,"acquaintances,—to",Port Macquarie,Macquarie,,,,,,,,,,,,,,,,,,,,
+269.0,Subterranean,"the Mediterranean
 
-  
-
- 
-
- 
-
- 
-
-Cecilia",Cecilia,Ladyship,"Lady
-Cecilia",,,,,,,,,,,,,,,,,,,,
-236.0,angola,Surah,Surango,,,,,,,,,,,,,,,,,,,,,
-237.0,Arkansas,daro,Dark,,,,,,,,,,,,,,,,,,,,,
-238.0,"protfered,—a","kind,—a","heard,—a",,,,,,,,,,,,,,,,,,,,,
-239.0,Spring Gardens,Spring-Gardens,"the Zoological
-Gardens","Spring
-Gardens",Spring Gardena,,,,,,,,,,,,,,,,,,,
-240.0,Busby,Crossbar,Husband,,,,,,,,,,,,,,,,,,,,,
-241.0,Urox,puro,Turin,Picture,futuro,decatur,TuRN,,,,,,,,,,,,,,,,,
-242.0,the Caribbean Islands,"Philip
-Island",Philip Island,Slavéy,the South Sea Islands,Leeward Island,Caribbean Islands,Island,,,,,,,,,,,,,,,,
-243.0,Mint,indus,Mind,,,,,,,,,,,,,,,,,,,,,
-244.0,herg,Rochefoucauld,sherry.,"Cherry
-Park",Cherry,,,,,,,,,,,,,,,,,,,
-245.0,Death,Weare,Delaware,Dearest Reginald,Dearest,,,,,,,,,,,,,,,,,,,
-246.0,Lower,Lower Union,Holloway,Hounslow,the Tower Hamlets,Lower Holloway,,,,,,,,,,,,,,,,,,
-247.0,Button,Butts,,,,,,,,,,,,,,,,,,,,,,
-248.0,Holford,Stamford Stroot,Bordeaux,Holuesford,Stamford,Ashford,Oxford,,,,,,,,,,,,,,,,,
-249.0,Circassia,Russia,cassia,quassia,,,,,,,,,,,,,,,,,,,,
-250.0,Temple,naples,NAPLES,Naples,,,,,,,,,,,,,,,,,,,,
-251.0,"sir,—I","her,—she","daughter,—to",Monster,"monster,—I",,,,,,,,,,,,,,,,,,,
-252.0,Snoggles,Centaur,XXX.—Mental Struggles,,,,,,,,,,,,,,,,,,,,,
-253.0,Richmond,XXII,monaco,Moncton,Salmon,Monroe,,,,,,,,,,,,,,,,,,
-254.0,Bart,Kilbarn,Hobart Town,Hobart,,,,,,,,,,,,,,,,,,,,
-255.0,methodist,thou,Thon,Tho,,,,,,,,,,,,,,,,,,,,
-256.0,Const-,Constitution Hill,Constitution-,,,,,,,,,,,,,,,,,,,,,
-257.0,Saint Theo-,Saint Theodosla,St. Theodosia,Saint Theodosia,,,,,,,,,,,,,,,,,,,,
-258.0,Montecuculi,@Montecueuli,,,,,,,,,,,,,,,,,,,,,,
-259.0,life:—he,"treasure,—he",Penitentiary,"devised,—he","penitence,—he",,,,,,,,,,,,,,,,,,,
-260.0,mansion,Normandy,Germany,Unstable Manor,oman,Manor,cayman,,,,,,,,,,,,,,,,,
-261.0,me;’—and,"wear,—and","man,”—and",kind;—and,"her,—and","theatre,—an","in,—a","writing,—and",buzzim!”—and,"behind,—and","wildly,—at","account,’—And","joy,—and","fault,—an","him,—and",,,,,,,,,
-262.0,Julia,Alia,Friuli,Tulia,,,,,,,,,,,,,,,,,,,,
-263.0,Guilford,Guixry,Guildhall,Guildford,,,,,,,,,,,,,,,,,,,,
-264.0,Septa,Israel,israel,,,,,,,,,,,,,,,,,,,,,
-265.0,Bird-Cage Walk,Bir,,,,,,,,,,,,,,,,,,,,,,
-266.0,Alberto,Albeit,Herbertstcin,Alberta,,,,,,,,,,,,,,,,,,,,
-267.0,"Dapper to-
-wards",Dapper,,,,,,,,,,,,,,,,,,,,,,
-268.0,St. Patrick,Panctual,St. Luke's,St.,St. Pancras,,,,,,,,,,,,,,,,,,,
+Sea",Serrano,SUBTERRANEAN,,,,,,,,,,,,,,,,,,,,
+270.0,Levant,Havre,Hannah,Havannah,,,,,,,,,,,,,,,,,,,,
+271.0,"Louis
+XIV",Louisa,Louse,Louis,,,,,,,,,,,,,,,,,,,,

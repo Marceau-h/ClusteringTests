@@ -1,17 +1,14 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
-0,America,lOndon,n’t,,,,,,
-1,de Portugal,Davenport,Barton,Portugal,Death,New Bailey,Mrs.!Davenport,Liverpool,Ritling
-2,Canada,Providence,Clem,,,,,,
-3,Helen,Sophy,Skelton,Halifax,inn,,,,
-4,Golden,Oldham,beaux,OLDHAM,,,,,
-5,TA,Willows,wi,,,,,,
-6,LEIPZIG,Toronto,Holyhead,,,,,,
-7,China,Cumberland,Christ,Continent,England,St. Patriot’s,Glasgow,Westmoreland,Old England
-8,Isle,,,,,,,,
-9,Sorrowfully,,,,,,,,
-10,Rose,Newson,Lancashire,Wesse,before’em,Yorkshire,Buckinghamshire,Borgia,
-11,London,Jew,CALIFORNIA,Tellme,"mercy,—he",,,,
-12,the United Stated,the Isle of Man,Fahrmann,the’gown,the John Copper,,,,
-13,Alnaschar,Goptaatt,,,,,,,
-14,Waterloo,Foolishest,Manchester,know-,Richer,chester,,,
-15,Blackthorne,thou,Thou,,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7
+0,Oldham,Holyhead,Ritling,Golden,New Bailey,OLDHAM,lOndon,
+1,England,Glasgow,Old England,CALIFORNIA,Clem,beaux,Cumberland,Westmoreland
+2,Portugal,n’t,Davenport,Death,Mrs.!Davenport,de Portugal,,
+3,America,inn,Halifax,know-,London,Sorrowfully,Borgia,
+4,Continent,Goptaatt,Jew,Sophy,Skelton,wi,Wesse,
+5,Providence,Newson,TA,,,,,
+6,Christ,Rose,the’gown,the United Stated,the Isle of Man,the John Copper,Barton,Fahrmann
+7,Isle,Buckinghamshire,Yorkshire,Lancashire,,,,
+8,Foolishest,Manchester,Waterloo,Richer,chester,Willows,before’em,
+9,thou,Blackthorne,Thou,China,,,,
+10,Liverpool,St. Patriot’s,Alnaschar,Helen,,,,
+11,Toronto,Tellme,,,,,,
+12,LEIPZIG,"mercy,—he",Canada,,,,,

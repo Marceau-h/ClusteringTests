@@ -1,35 +1,36 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22
--1,Providence,United Ser-,Laugh,juve-,Survival,Saul,Tattersall,Fife,Score,L,Sea,Canada,ny,Galloway,"L.60,000",Henry,Oxford,Edinburgh,"St
-John’s Lodge",GLASGOW,wi,Jacob,Portobello
-0,Louis de Crew-,"Louis De
-Crespigny",piggy,Louis,,,,,,,,,,,,,,,,,,,
-1,Caroline,Adeline,,,,,,,,,,,,,,,,,,,,,
-2,Dublin,DUBLIN,,,,,,,,,,,,,,,,,,,,,
-3,Rosemount Villa,Rosemount,,,,,,,,,,,,,,,,,,,,,
-4,Great Britain,Britain,Spain,,,,,,,,,,,,,,,,,,,,
-5,LONDON,London,Doncaster,,,,,,,,,,,,,,,,,,,,
-6,St Cecilia,us,Julian,Australia,,,,,,,,,,,,,,,,,,,
-7,Holyrood,Holyrood House,,,,,,,,,,,,,,,,,,,,,
-8,Leeds,nile,,,,,,,,,,,,,,,,,,,,,
-9,Argyloshire,Argyleshire,Yorkshire,,,,,,,,,,,,,,,,,,,,
-10,Charles,Bibles,,,,,,,,,,,,,,,,,,,,,
-11,Kelso,Melton,Israel,,,,,,,,,,,,,,,,,,,,
-12,Agrippina,china,,,,,,,,,,,,,,,,,,,,,
-13,parnell,Marion,Paris,,,,,,,,,,,,,,,,,,,,
-14,Kilmarnock,Pinnock,inn,,,,,,,,,,,,,,,,,,,,
-15,Srveran,Courant,verde,Geranium,,,,,,,,,,,,,,,,,,,
-16,Agnes,Agnes.,,,,,,,,,,,,,,,,,,,,,
-17,Dunbar,"Agnes
-Dunbar",Agnes Dunbar,,,,,,,,,,,,,,,,,,,,
-18,beaux,Monsieur D’Ambereau,,,,,,,,,,,,,,,,,,,,,
-19,Hebe,Abbey,,,,,,,,,,,,,,,,,,,,,
-20,"earth,—by","heart,—and",,,,,,,,,,,,,,,,,,,,,
-21,Ernest,Windermere,MoDERN,,,,,,,,,,,,,,,,,,,,
-22,Limerick,rich~,,,,,,,,,,,,,,,,,,,,,
-23,"quakers,—a","room,—a",,,,,,,,,,,,,,,,,,,,,
-24,Shetland,Scotland,SCOTLAND,,,,,,,,,,,,,,,,,,,,
-25,Ireland,Highland,England,,,,,,,,,,,,,,,,,,,,
-26,Clara Novello,Clara,,,,,,,,,,,,,,,,,,,,,
-27,"Clara Gran-
-ville",Clara Granville,Granville,"Clara
-Granville",Clara Granville’s,,,,,,,,,,,,,,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19
+-1,Survival,L,juve-,Jacob,Fife,Sea,"St
+John’s Lodge",Laugh,ny,Canada,Henry,Oxford,Saul,Providence,GLASGOW,Portobello,Score,"L.60,000",wi,United Ser-
+0,Louis de Crew-,piggy,"Louis De
+Crespigny",Louis,,,,,,,,,,,,,,,,
+1,Rosemount Villa,Rosemount,,,,,,,,,,,,,,,,,,
+2,Caroline,Adeline,,,,,,,,,,,,,,,,,,
+3,DUBLIN,Dublin,,,,,,,,,,,,,,,,,,
+4,Spain,Britain,Great Britain,,,,,,,,,,,,,,,,,
+5,Doncaster,LONDON,London,,,,,,,,,,,,,,,,,
+6,Holyrood,Edinburgh,Holyrood House,,,,,,,,,,,,,,,,,
+7,Julian,Australia,us,St Cecilia,,,,,,,,,,,,,,,,
+8,Leeds,nile,,,,,,,,,,,,,,,,,,
+9,Argyloshire,Argyleshire,Yorkshire,,,,,,,,,,,,,,,,,
+10,Bibles,Charles,,,,,,,,,,,,,,,,,,
+11,Melton,Israel,Kelso,,,,,,,,,,,,,,,,,
+12,Agrippina,china,,,,,,,,,,,,,,,,,,
+13,"heart,—and","earth,—by",,,,,,,,,,,,,,,,,,
+14,Marion,Paris,parnell,,,,,,,,,,,,,,,,,
+15,inn,Pinnock,Kilmarnock,,,,,,,,,,,,,,,,,
+16,"quakers,—a","room,—a",,,,,,,,,,,,,,,,,,
+17,Srveran,Courant,verde,Geranium,,,,,,,,,,,,,,,,
+18,Agnes.,Agnes,,,,,,,,,,,,,,,,,,
+19,Dunbar,"Agnes
+Dunbar",Agnes Dunbar,,,,,,,,,,,,,,,,,
+20,beaux,Monsieur D’Ambereau,,,,,,,,,,,,,,,,,,
+21,Abbey,Hebe,,,,,,,,,,,,,,,,,,
+22,Tattersall,Galloway,,,,,,,,,,,,,,,,,,
+23,Shetland,Scotland,SCOTLAND,,,,,,,,,,,,,,,,,
+24,England,Highland,Ireland,,,,,,,,,,,,,,,,,
+25,Windermere,MoDERN,Ernest,,,,,,,,,,,,,,,,,
+26,Limerick,rich~,,,,,,,,,,,,,,,,,,
+27,Clara Novello,Clara,,,,,,,,,,,,,,,,,,
+28,"Clara
+Granville",Clara Granville,Clara Granville’s,"Clara Gran-
+ville",Granville,,,,,,,,,,,,,,,

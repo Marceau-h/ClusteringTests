@@ -1,101 +1,101 @@
-{"text":"St Cecilia","cluster":0.0,"cluster_corrected":""}
-{"text":"Australia","cluster":0.0,"cluster_corrected":""}
-{"text":"Clara Novello","cluster":1.0,"cluster_corrected":""}
-{"text":"Dovetap","cluster":1.0,"cluster_corrected":""}
-{"text":"Clara","cluster":1.0,"cluster_corrected":""}
-{"text":"Olara","cluster":1.0,"cluster_corrected":""}
-{"text":"Portobello","cluster":1.0,"cluster_corrected":""}
-{"text":"Great Britain","cluster":2.0,"cluster_corrected":""}
-{"text":"Britain","cluster":2.0,"cluster_corrected":""}
-{"text":"Spain","cluster":2.0,"cluster_corrected":""}
-{"text":"Providence","cluster":3.0,"cluster_corrected":""}
-{"text":"Finden","cluster":3.0,"cluster_corrected":""}
-{"text":"Rosemount Villa","cluster":4.0,"cluster_corrected":""}
-{"text":"Rosemount","cluster":4.0,"cluster_corrected":""}
-{"text":"De Cres-","cluster":5.0,"cluster_corrected":""}
-{"text":"Louis de Cres-","cluster":5.0,"cluster_corrected":""}
-{"text":"Louis De\nCrespigny","cluster":5.0,"cluster_corrected":""}
-{"text":"Louis","cluster":5.0,"cluster_corrected":""}
-{"text":"Seabeach","cluster":6.0,"cluster_corrected":""}
-{"text":"Sea","cluster":6.0,"cluster_corrected":""}
-{"text":"Ernest","cluster":7.0,"cluster_corrected":""}
-{"text":"MoDERN","cluster":7.0,"cluster_corrected":""}
-{"text":"LONDON","cluster":8.0,"cluster_corrected":""}
-{"text":"London","cluster":8.0,"cluster_corrected":""}
-{"text":"Dunbar","cluster":9.0,"cluster_corrected":""}
-{"text":"Agnes\nDunbar","cluster":9.0,"cluster_corrected":""}
-{"text":"Agnes","cluster":9.0,"cluster_corrected":""}
-{"text":"Agnes.","cluster":9.0,"cluster_corrected":""}
-{"text":"Agnes Dunbar","cluster":9.0,"cluster_corrected":""}
-{"text":"Argyloshire","cluster":10.0,"cluster_corrected":""}
-{"text":"Argyleshire","cluster":10.0,"cluster_corrected":""}
-{"text":"Yorkshire","cluster":10.0,"cluster_corrected":""}
-{"text":"Tattersall","cluster":11.0,"cluster_corrected":""}
-{"text":"Doncaster","cluster":11.0,"cluster_corrected":""}
-{"text":"Dublin","cluster":12.0,"cluster_corrected":""}
-{"text":"DUBLIN","cluster":12.0,"cluster_corrected":""}
-{"text":"Clara Gran-\nville","cluster":13.0,"cluster_corrected":""}
-{"text":"Clara Granville","cluster":13.0,"cluster_corrected":""}
-{"text":"Granville","cluster":13.0,"cluster_corrected":""}
-{"text":"Clara\nGranville","cluster":13.0,"cluster_corrected":""}
-{"text":"Clara Granville\u2019s","cluster":13.0,"cluster_corrected":""}
-{"text":"Holyrood","cluster":14.0,"cluster_corrected":""}
-{"text":"Holyrood House","cluster":14.0,"cluster_corrected":""}
-{"text":"the arbour","cluster":15.0,"cluster_corrected":""}
-{"text":"Courant","cluster":15.0,"cluster_corrected":""}
-{"text":"Shetland","cluster":16.0,"cluster_corrected":""}
-{"text":"Scotland","cluster":16.0,"cluster_corrected":""}
-{"text":"SCOTLAND","cluster":16.0,"cluster_corrected":""}
-{"text":"Scorr","cluster":16.0,"cluster_corrected":""}
-{"text":"earth,\u2014by","cluster":17.0,"cluster_corrected":""}
-{"text":"heart,\u2014and","cluster":17.0,"cluster_corrected":""}
-{"text":"room,\u2014a","cluster":17.0,"cluster_corrected":""}
-{"text":"Kilmarnock","cluster":18.0,"cluster_corrected":""}
-{"text":"Pinnock","cluster":18.0,"cluster_corrected":""}
-{"text":"inn","cluster":18.0,"cluster_corrected":""}
-{"text":"Caroline","cluster":19.0,"cluster_corrected":""}
-{"text":"Beaujolie","cluster":19.0,"cluster_corrected":""}
-{"text":"beaux","cluster":19.0,"cluster_corrected":""}
-{"text":"Monsieur D\u2019Ambereau","cluster":19.0,"cluster_corrected":""}
-{"text":"Limerick","cluster":20.0,"cluster_corrected":""}
-{"text":"rich~","cluster":20.0,"cluster_corrected":""}
-{"text":"Ireland","cluster":21.0,"cluster_corrected":""}
-{"text":"Highland","cluster":21.0,"cluster_corrected":""}
-{"text":"England","cluster":21.0,"cluster_corrected":""}
-{"text":"GLASGOW","cluster":21.0,"cluster_corrected":""}
-{"text":"Charles","cluster":22.0,"cluster_corrected":""}
-{"text":"Bibles","cluster":22.0,"cluster_corrected":""}
-{"text":"Marion","cluster":23.0,"cluster_corrected":""}
-{"text":"Paris","cluster":23.0,"cluster_corrected":""}
-{"text":"Srveran","cluster":24.0,"cluster_corrected":""}
-{"text":"Geranium","cluster":24.0,"cluster_corrected":""}
+{"text":"heart,\u2014and","cluster":0.0,"cluster_corrected":""}
+{"text":"room,\u2014a","cluster":0.0,"cluster_corrected":""}
+{"text":"earth,\u2014by","cluster":0.0,"cluster_corrected":""}
+{"text":"Holyrood","cluster":1.0,"cluster_corrected":""}
+{"text":"Holyrood House","cluster":1.0,"cluster_corrected":""}
+{"text":"Finden","cluster":2.0,"cluster_corrected":""}
+{"text":"Providence","cluster":2.0,"cluster_corrected":""}
+{"text":"England","cluster":3.0,"cluster_corrected":""}
+{"text":"Highland","cluster":3.0,"cluster_corrected":""}
+{"text":"GLASGOW","cluster":3.0,"cluster_corrected":""}
+{"text":"Ireland","cluster":3.0,"cluster_corrected":""}
+{"text":"Limerick","cluster":4.0,"cluster_corrected":""}
+{"text":"rich~","cluster":4.0,"cluster_corrected":""}
+{"text":"Olara","cluster":5.0,"cluster_corrected":""}
+{"text":"Clara Novello","cluster":5.0,"cluster_corrected":""}
+{"text":"Portobello","cluster":5.0,"cluster_corrected":""}
+{"text":"Dovetap","cluster":5.0,"cluster_corrected":""}
+{"text":"Clara","cluster":5.0,"cluster_corrected":""}
+{"text":"Marion","cluster":6.0,"cluster_corrected":""}
+{"text":"Paris","cluster":6.0,"cluster_corrected":""}
+{"text":"inn","cluster":7.0,"cluster_corrected":""}
+{"text":"Pinnock","cluster":7.0,"cluster_corrected":""}
+{"text":"Kilmarnock","cluster":7.0,"cluster_corrected":""}
+{"text":"Doncaster","cluster":8.0,"cluster_corrected":""}
+{"text":"Tattersall","cluster":8.0,"cluster_corrected":""}
+{"text":"Australia","cluster":9.0,"cluster_corrected":""}
+{"text":"St Cecilia","cluster":9.0,"cluster_corrected":""}
+{"text":"DUBLIN","cluster":10.0,"cluster_corrected":""}
+{"text":"Dublin","cluster":10.0,"cluster_corrected":""}
+{"text":"Clara\nGranville","cluster":11.0,"cluster_corrected":""}
+{"text":"Clara Granville","cluster":11.0,"cluster_corrected":""}
+{"text":"Clara Granville\u2019s","cluster":11.0,"cluster_corrected":""}
+{"text":"Clara Gran-\nville","cluster":11.0,"cluster_corrected":""}
+{"text":"Granville","cluster":11.0,"cluster_corrected":""}
+{"text":"Argyloshire","cluster":12.0,"cluster_corrected":""}
+{"text":"Argyleshire","cluster":12.0,"cluster_corrected":""}
+{"text":"Yorkshire","cluster":12.0,"cluster_corrected":""}
+{"text":"Caroline","cluster":13.0,"cluster_corrected":""}
+{"text":"Beaujolie","cluster":13.0,"cluster_corrected":""}
+{"text":"beaux","cluster":13.0,"cluster_corrected":""}
+{"text":"Monsieur D\u2019Ambereau","cluster":13.0,"cluster_corrected":""}
+{"text":"Louis de Cres-","cluster":14.0,"cluster_corrected":""}
+{"text":"De Cres-","cluster":14.0,"cluster_corrected":""}
+{"text":"Louis De\nCrespigny","cluster":14.0,"cluster_corrected":""}
+{"text":"Louis","cluster":14.0,"cluster_corrected":""}
+{"text":"Bibles","cluster":15.0,"cluster_corrected":""}
+{"text":"Charles","cluster":15.0,"cluster_corrected":""}
+{"text":"Sea","cluster":16.0,"cluster_corrected":""}
+{"text":"Seabeach","cluster":16.0,"cluster_corrected":""}
+{"text":"MoDERN","cluster":17.0,"cluster_corrected":""}
+{"text":"Ernest","cluster":17.0,"cluster_corrected":""}
+{"text":"the arbour","cluster":18.0,"cluster_corrected":""}
+{"text":"Courant","cluster":18.0,"cluster_corrected":""}
+{"text":"Agnes.","cluster":19.0,"cluster_corrected":""}
+{"text":"Dunbar","cluster":19.0,"cluster_corrected":""}
+{"text":"Agnes","cluster":19.0,"cluster_corrected":""}
+{"text":"Agnes\nDunbar","cluster":19.0,"cluster_corrected":""}
+{"text":"Agnes Dunbar","cluster":19.0,"cluster_corrected":""}
+{"text":"Spain","cluster":20.0,"cluster_corrected":""}
+{"text":"Britain","cluster":20.0,"cluster_corrected":""}
+{"text":"Great Britain","cluster":20.0,"cluster_corrected":""}
+{"text":"Rosemount Villa","cluster":21.0,"cluster_corrected":""}
+{"text":"Rosemount","cluster":21.0,"cluster_corrected":""}
+{"text":"Srveran","cluster":22.0,"cluster_corrected":""}
+{"text":"Geranium","cluster":22.0,"cluster_corrected":""}
+{"text":"Shetland","cluster":23.0,"cluster_corrected":""}
+{"text":"Scotland","cluster":23.0,"cluster_corrected":""}
+{"text":"SCOTLAND","cluster":23.0,"cluster_corrected":""}
+{"text":"Scorr","cluster":23.0,"cluster_corrected":""}
+{"text":"LONDON","cluster":24.0,"cluster_corrected":""}
+{"text":"London","cluster":24.0,"cluster_corrected":""}
 {"text":"Agrippina","cluster":25.0,"cluster_corrected":""}
 {"text":"china","cluster":25.0,"cluster_corrected":""}
-{"text":"L","cluster":null,"cluster_corrected":""}
-{"text":"juve-","cluster":null,"cluster_corrected":""}
-{"text":"Israel","cluster":null,"cluster_corrected":""}
-{"text":"Canada","cluster":null,"cluster_corrected":""}
-{"text":"ny","cluster":null,"cluster_corrected":""}
-{"text":"Edinburgh","cluster":null,"cluster_corrected":""}
-{"text":"Jaugh","cluster":null,"cluster_corrected":""}
-{"text":"us","cluster":null,"cluster_corrected":""}
-{"text":"nile","cluster":null,"cluster_corrected":""}
-{"text":"L.60,000","cluster":null,"cluster_corrected":""}
-{"text":"Abbey","cluster":null,"cluster_corrected":""}
-{"text":"Saul","cluster":null,"cluster_corrected":""}
-{"text":"Henry","cluster":null,"cluster_corrected":""}
-{"text":"ceil-","cluster":null,"cluster_corrected":""}
 {"text":"St\nJohn\u2019s Lodge","cluster":null,"cluster_corrected":""}
-{"text":"United Ser-","cluster":null,"cluster_corrected":""}
+{"text":"Jaugh","cluster":null,"cluster_corrected":""}
 {"text":"wero","cluster":null,"cluster_corrected":""}
-{"text":"Kelso","cluster":null,"cluster_corrected":""}
-{"text":"mo","cluster":null,"cluster_corrected":""}
-{"text":"Fife","cluster":null,"cluster_corrected":""}
-{"text":"Melton","cluster":null,"cluster_corrected":""}
-{"text":"Leeds","cluster":null,"cluster_corrected":""}
-{"text":"Jacob","cluster":null,"cluster_corrected":""}
-{"text":"Hebe","cluster":null,"cluster_corrected":""}
-{"text":"Queensferry","cluster":null,"cluster_corrected":""}
+{"text":"Edinburgh","cluster":null,"cluster_corrected":""}
+{"text":"Henry","cluster":null,"cluster_corrected":""}
 {"text":"Oxford","cluster":null,"cluster_corrected":""}
+{"text":"L","cluster":null,"cluster_corrected":""}
+{"text":"ceil-","cluster":null,"cluster_corrected":""}
+{"text":"Saul","cluster":null,"cluster_corrected":""}
 {"text":"Tho","cluster":null,"cluster_corrected":""}
 {"text":"quad-","cluster":null,"cluster_corrected":""}
+{"text":"Queensferry","cluster":null,"cluster_corrected":""}
+{"text":"mo","cluster":null,"cluster_corrected":""}
+{"text":"Melton","cluster":null,"cluster_corrected":""}
+{"text":"juve-","cluster":null,"cluster_corrected":""}
+{"text":"nile","cluster":null,"cluster_corrected":""}
+{"text":"Kelso","cluster":null,"cluster_corrected":""}
+{"text":"Jacob","cluster":null,"cluster_corrected":""}
+{"text":"Fife","cluster":null,"cluster_corrected":""}
+{"text":"Israel","cluster":null,"cluster_corrected":""}
+{"text":"Leeds","cluster":null,"cluster_corrected":""}
+{"text":"ny","cluster":null,"cluster_corrected":""}
+{"text":"us","cluster":null,"cluster_corrected":""}
+{"text":"Abbey","cluster":null,"cluster_corrected":""}
+{"text":"Canada","cluster":null,"cluster_corrected":""}
+{"text":"United Ser-","cluster":null,"cluster_corrected":""}
+{"text":"L.60,000","cluster":null,"cluster_corrected":""}
+{"text":"Hebe","cluster":null,"cluster_corrected":""}

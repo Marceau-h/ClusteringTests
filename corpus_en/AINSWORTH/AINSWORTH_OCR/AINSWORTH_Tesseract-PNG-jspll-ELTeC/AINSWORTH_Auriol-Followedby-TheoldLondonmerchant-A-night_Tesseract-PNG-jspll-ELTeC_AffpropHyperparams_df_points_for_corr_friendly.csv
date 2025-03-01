@@ -1,52 +1,53 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
-0,Rougemont,Beaumont,Beatitudes,,,,,,
-1,Wyandotte,Vignettes,Watts,Rotterdam,,,,,
-2,HYDE PARK,Hyde Park,Park,Paris,Old Pair,,,,
-3,nearest kinsman,Westminster,c.g.,Munster Festivals,Zoroaster,Steel Plates,master’ll,scaly sea-monster,Leicestershire
-4,Regent,25th Regiment,Ve're,,,,,,
-5,DR,Podrida,Drury,,,,,,
-6,South,South-,Southwark,,,,,,
-7,ROUTLEDGE,Tlosiage,Routledge,,,,,,
-8,flagon,scagliola,Flapdragon,,,,,,
-9,Phantom Ship,Santa,ANTIQUARIES,Santa Maria,Antverp,Satan,,,
-10,Rookwood,Woodstock,Paston,Tokay,,,,,
-11,Inn,Ninus,Inn-lane,,,,,,
-12,Mosses,Mississippi,Masses,,,,,,
-13,anon,Cristofano,Manon,ROSICRUCIAN,Swan,Ispahan,,,
-14,Richmond,LONDON,Old London,London,Curzon,Abingdon,London Stone,,
-15,Mardol,Mars,Marion,Farquhar,Marked,,,,
-16,Byron,KRONHEIM,KronuEIM,Blenheim,,,,,
-17,LAUREL,Dauris,Laurel,laurel,Red,,,,
-18,Thames,’s,St. James’ss,,,,,,
-19,Faint,Spain,"Saint
-James's-square",Mackintoshes,Saint,Wintry,"Saint
-Gives’s",,
-20,Grafton,Sins-,Kensington,Monsieur Violet,Washington,,,,
-21,Barns,Temple-bar,Barabbas,,,,,,
-22,Turk,Pictures,Loftus,,,,,,
-23,Italy,Whitefriars,Whitehall,"Hallywoed Es
-Hall",,,,,
-24,Kenilworth,Forest Days,AINSWORTH,Portrait,fort,Oxford,Beaafort,,
-25,Se,Sea Lions,Eastcheap,Dunleath,Sea,sepulchre,Peak,The Inland Sea,
-26,Charing,Serpentine,Tinge,Nottingham,Oak Openings,saying’-,,,
-27,the Chaplain ages,Calabria,W.H.,"the Alabama
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9
+0,Kensington,Washington,Grafton,Monsieur Violet,Sins-,,,,,
+1,Beaumont,Rougemont,Beatitudes,,,,,,,
+2,thou,Thou,Author,"you,—‘Ll",,,,,,
+3,Mosses,Masses,Mississippi,,,,,,,
+4,vol,scagliola,Godolphin,Vol,Belvoir,Colours,Bivouac,,,
+5,Ninus,Inn,Inn-lane,,,,,,,
+6,flagon,Flapdragon,,,,,,,,
+7,England,Highland,Lamplight,Scotland,Highlands,,,,,
+8,Se,Sea Lions,Peak,Sea,sepulchre,Dunleath,The Inland Sea,Eastcheap,,
+9,Regent,25th Regiment,Venice,,,,,,,
+10,Bohemian Libraries,ROSICRUCIAN,L. EL.,Amelia,Elia,"Queen
+Elizabeth’s time",Pelham,Boscobel,penetralia,
+11,Cristofano,Manon,anon,Ispahan,c.g.,Ivanhoe,Swan,,,
+12,Leicestershire,master’ll,Munster Festivals,Westminster,Steel Plates,Zoroaster,scaly sea-monster,nearest kinsman,,
+13,’s,St. James’ss,Thames,,,,,,,
+14,Wyandotte,Rotterdam,Vignettes,Watts,,,,,,
+15,Wakefield,Fields,Yielding,,,,,,,
+16,France,Chance,Strand,Fra,,,,,,
+17,Barns,Temple-bar,Barabbas,,,,,,,
+18,Ve're,laurel,LAUREL,Dauris,Red,Laurel,,,,
+19,Paston,Tokay,Woodstock,Rookwood,,,,,,
+20,Marked,Marion,Mardol,Mars,Farquhar,,,,,
+21,Forest Days,AINSWORTH,Portrait,Beaafort,fort,Oxford,Kenilworth,,,
+22,Strike,Packet,Park-street,King-street,,,,,,
+23,New Myers,NEW YORK,New Type,Newton,,,,,,
+24,Pompeii,Rome,ROME,,,,,,,
+25,W.H.,,,,,,,,,
+26,DR,Drury,Podrida,,,,,,,
+27,"St.
+George’s",St. Peter,St.,STATUE,Lyndhurst,,,,,
+28,Pictures,Turk,Loftus,,,,,,,
+29,"Saint
+James's-square",Faint,Spain,"Saint
+Gives’s",Saint,Wintry,Mackintoshes,,,
+30,Bastille,Cornhill,Charles,Isle of Sky,Up.ch,Achilles,china,,,
+31,Blenheim,KRONHEIM,KronuEIM,Byron,,,,,,
+32,Richmond,London Stone,Curzon,LONDON,Old London,Abingdon,London,,,
+33,Santa Maria,Phantom Ship,ANTIQUARIES,Satan,Santa,,,,,
+34,America,River,Serpentine,Perth,Waterloo,Antverp,Chamber,Stepfather,Hermetic,ER
+35,Millbank,Billinsgit,Old Bailey,Henry VEIL,IL,,,,,
+36,South-,Southwark,South,,,,,,,
+37,the Black Dwarf,Calabria,the Chaplain ages,"the Alabama
 
 Il
 
-Case",the Black Dwarf,,,,
-28,Belvoir,Vol,Bivouac,Colours,vol,Godolphin,,,
-29,Charles,Bastille,Isle of Sky,Achilles,Up.ch,Cornhill,china,,
-30,Scotland,Highlands,Highland,England,Lamplight,,,,
-31,Perth,Hermetic,River,America,Waterloo,Stepfather,ER,Chamber,
-32,Newton,NEW YORK,New Type,New Myers,,,,,
-33,King-street,Park-street,Packet,,,,,,
-34,Venice,Fra,Strand,France,Chance,,,,
-35,Thou,"you,—‘Ll",thou,Ivanhoe,Author,,,,
-36,Old Bailey,Henry VEIL,Millbank,Billinsgit,IL,,,,
-37,"St.
-George’s",STATUE,Strike,Lyndhurst,St. Peter,St.,,,
-38,Wakefield,Yielding,Fields,,,,,,
-39,Amelia,penetralia,Bohemian Libraries,L. EL.,Pelham,Boscobel,"Queen
-Elizabeth’s time",Elia,
-40,ROME,Pompeii,Rome,,,,,,
-41,Plot,Haliburton,Midlothian,Finsbury,Canterbury,Lothbury,,,
+Case",,,,,,
+38,saying’-,Nottingham,Charing,Oak Openings,Tinge,,,,,
+39,Paris,Hyde Park,Park,HYDE PARK,Old Pair,,,,,
+40,Routledge,Tlosiage,ROUTLEDGE,,,,,,,
+41,"Hallywoed Es
+Hall",Italy,Whitefriars,Whitehall,,,,,,
+42,Haliburton,Canterbury,Finsbury,Plot,Midlothian,Lothbury,,,,

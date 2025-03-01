@@ -1,25 +1,27 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10
-0,INDIA,India,MS,Harding,Edinburgh,,,,,,
-1,Caroline,Seneca,LiBRARY,Caithness,Lina,Barbary,Collins,,,,
-2,"the Sea
-Queen",hearda,the Sea Queen,,,,,,,,
-3,Samboese,T—.,Samboe,,,,,,,,
-4,LONDON,STORY.—A CONFESSION,Seldon Grange,Delmont,London,,,,,,
-5,the Feroe Islands,the Shetland Isles,Oakwood,Elizabethan,moment”—she,,,,,,
-6,me?—oh,Bricuriy,British America,"South
-America",Grahame,,,,,,
-7,Germany,Greville Manor,Dearest Eleanor,Manor,Nota,Denmark,,,,,
-8,Lady,Jady,,,,,,,,,
-9,Lelly,&c.,Scotsmen,Ellen,Sweden,Benevolence,Cheltenham,Tn,,,
-10,Crarton,"promise,—if",Seaton,"birds,—(several sea",Swansea,Torrington,Ashburton,"itself,—Morton",,,
-11,Portsmouth,North,comfort,fort,myrtle,Milford,Oxford,,,,
-12,Gehazi,n’t,Earth,Harcourt,"Luey
-Harcourt",Tus,Hamiltou,,,,
-13,Berry Pomeroy,Hasty,Euphrosyne,Easter,Feroe,Exeter,Osteroe,JT,,,
-14,Llangwillan,Glamorgan,Leander,Old England,Ireland,Scotland,Atlantic,Highland,Nurse Langford,England,Moorlands
-15,Truth,Plymouth,Sabbath,Thou,thou,,,,,,
-16,MR,Mr,,,,,,,,,
-17,Madeira,Providence,deceit,Cecil,,,,,,,
-18,Psalm,Italy,wasa,Esq,Halifax,Algiers,Wales,,,,
-19,Devonshire,New York,Yorkshire,,,,,,,,
-20,Percy?—let,Perey,Pembroke,Percy,,,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11
+0,thou,Plymouth,Truth,Thou,Sabbath,,,,,,,
+1,Swansea,Seaton,Crarton,"birds,—(several sea","promise,—if",Torrington,Ashburton,"itself,—Morton",,,,
+2,England,Highland,Nurse Langford,Scotland,Glamorgan,Atlantic,Moorlands,Old England,Ireland,Leander,Tus,Llangwillan
+3,Caroline,Caithness,Collins,LiBRARY,Seneca,Lina,,,,,,
+4,Samboese,Samboe,,,,,,,,,,
+5,British America,me?—oh,Bricuriy,"South
+America",Grahame,,,,,,,
+6,MS,Ellen,Sweden,Scotsmen,Benevolence,Lelly,Cheltenham,,,,,
+7,Easter,Hasty,Osteroe,Feroe,Euphrosyne,Berry Pomeroy,Exeter,,,,,
+8,"the Sea
+Queen",the Sea Queen,hearda,,,,,,,,,
+9,Oakwood,,,,,,,,,,,
+10,Cecil,deceit,Providence,Madeira,T—.,,,,,,,
+11,Mr,MR,,,,,,,,,,
+12,Lady,Jady,,,,,,,,,,
+13,Wales,Esq,wasa,Italy,Halifax,n’t,Algiers,Psalm,,,,
+14,&c.,JT,Tn,,,,,,,,,
+15,Percy?—let,Pembroke,Percy,Perey,,,,,,,,
+16,Portsmouth,North,fort,Oxford,myrtle,Milford,comfort,,,,,
+17,Delmont,Seldon Grange,LONDON,London,STORY.—A CONFESSION,,,,,,,
+18,Edinburgh,INDIA,India,Harding,,,,,,,,
+19,Gehazi,"Luey
+Harcourt",Hamiltou,Harcourt,Earth,Barbary,,,,,,
+20,moment”—she,Elizabethan,the Feroe Islands,the Shetland Isles,,,,,,,,
+21,Devonshire,New York,Yorkshire,,,,,,,,,
+22,Dearest Eleanor,Denmark,Nota,Greville Manor,Germany,Manor,,,,,,

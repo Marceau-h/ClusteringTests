@@ -1,188 +1,283 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538,elem_539,elem_540,elem_541,elem_542,elem_543,elem_544,elem_545,elem_546,elem_547,elem_548,elem_549,elem_550,elem_551,elem_552,elem_553,elem_554,elem_555,elem_556,elem_557,elem_558,elem_559,elem_560,elem_561,elem_562,elem_563,elem_564,elem_565,elem_566,elem_567,elem_568,elem_569,elem_570,elem_571,elem_572,elem_573,elem_574,elem_575,elem_576,elem_577,elem_578,elem_579,elem_580,elem_581,elem_582,elem_583,elem_584,elem_585,elem_586,elem_587,elem_588,elem_589,elem_590,elem_591,elem_592,elem_593,elem_594,elem_595,elem_596,elem_597,elem_598,elem_599,elem_600,elem_601,elem_602,elem_603,elem_604,elem_605,elem_606,elem_607,elem_608,elem_609,elem_610,elem_611,elem_612,elem_613,elem_614,elem_615,elem_616,elem_617,elem_618,elem_619,elem_620,elem_621,elem_622,elem_623,elem_624,elem_625,elem_626,elem_627,elem_628,elem_629,elem_630,elem_631,elem_632,elem_633,elem_634,elem_635,elem_636,elem_637,elem_638,elem_639,elem_640,elem_641,elem_642,elem_643,elem_644,elem_645,elem_646,elem_647,elem_648,elem_649,elem_650,elem_651,elem_652,elem_653,elem_654,elem_655,elem_656,elem_657,elem_658,elem_659,elem_660,elem_661,elem_662,elem_663,elem_664,elem_665,elem_666,elem_667,elem_668,elem_669,elem_670,elem_671,elem_672,elem_673,elem_674,elem_675,elem_676,elem_677,elem_678,elem_679,elem_680,elem_681,elem_682,elem_683,elem_684,elem_685,elem_686,elem_687,elem_688,elem_689,elem_690,elem_691,elem_692,elem_693,elem_694,elem_695,elem_696,elem_697,elem_698,elem_699,elem_700,elem_701,elem_702,elem_703,elem_704,elem_705,elem_706,elem_707,elem_708,elem_709,elem_710,elem_711,elem_712,elem_713,elem_714,elem_715,elem_716,elem_717,elem_718,elem_719,elem_720,elem_721,elem_722,elem_723,elem_724,elem_725,elem_726,elem_727,elem_728,elem_729,elem_730,elem_731,elem_732,elem_733,elem_734,elem_735,elem_736,elem_737,elem_738,elem_739,elem_740,elem_741,elem_742,elem_743,elem_744,elem_745,elem_746,elem_747,elem_748,elem_749,elem_750,elem_751,elem_752,elem_753,elem_754,elem_755,elem_756,elem_757,elem_758,elem_759,elem_760,elem_761,elem_762,elem_763,elem_764,elem_765,elem_766,elem_767,elem_768,elem_769,elem_770,elem_771,elem_772,elem_773,elem_774,elem_775,elem_776,elem_777,elem_778,elem_779,elem_780,elem_781,elem_782,elem_783,elem_784,elem_785,elem_786,elem_787,elem_788,elem_789,elem_790,elem_791,elem_792,elem_793,elem_794,elem_795,elem_796,elem_797,elem_798,elem_799,elem_800,elem_801,elem_802,elem_803,elem_804,elem_805,elem_806,elem_807,elem_808,elem_809,elem_810,elem_811,elem_812,elem_813,elem_814,elem_815,elem_816,elem_817,elem_818,elem_819,elem_820,elem_821,elem_822,elem_823,elem_824,elem_825,elem_826,elem_827,elem_828,elem_829,elem_830,elem_831,elem_832,elem_833,elem_834,elem_835,elem_836,elem_837,elem_838,elem_839,elem_840,elem_841,elem_842,elem_843,elem_844,elem_845,elem_846,elem_847,elem_848,elem_849,elem_850,elem_851,elem_852,elem_853,elem_854,elem_855,elem_856,elem_857,elem_858,elem_859,elem_860,elem_861,elem_862,elem_863,elem_864,elem_865,elem_866,elem_867,elem_868,elem_869,elem_870,elem_871,elem_872,elem_873,elem_874,elem_875,elem_876,elem_877,elem_878,elem_879,elem_880,elem_881,elem_882,elem_883,elem_884,elem_885,elem_886,elem_887,elem_888,elem_889,elem_890,elem_891,elem_892,elem_893,elem_894,elem_895,elem_896,elem_897,elem_898,elem_899,elem_900,elem_901,elem_902,elem_903,elem_904,elem_905,elem_906,elem_907,elem_908,elem_909,elem_910,elem_911,elem_912,elem_913,elem_914,elem_915,elem_916,elem_917,elem_918,elem_919,elem_920,elem_921,elem_922,elem_923,elem_924,elem_925,elem_926,elem_927,elem_928,elem_929,elem_930,elem_931,elem_932,elem_933,elem_934,elem_935,elem_936,elem_937,elem_938,elem_939,elem_940,elem_941,elem_942,elem_943,elem_944,elem_945,elem_946,elem_947,elem_948,elem_949,elem_950,elem_951,elem_952,elem_953,elem_954,elem_955,elem_956,elem_957,elem_958,elem_959,elem_960,elem_961,elem_962,elem_963,elem_964,elem_965,elem_966,elem_967,elem_968,elem_969,elem_970,elem_971,elem_972,elem_973,elem_974,elem_975,elem_976,elem_977,elem_978,elem_979,elem_980,elem_981,elem_982,elem_983,elem_984,elem_985,elem_986,elem_987,elem_988,elem_989,elem_990,elem_991,elem_992,elem_993,elem_994,elem_995,elem_996,elem_997,elem_998,elem_999,elem_1000,elem_1001,elem_1002,elem_1003,elem_1004,elem_1005,elem_1006,elem_1007,elem_1008,elem_1009,elem_1010,elem_1011,elem_1012,elem_1013,elem_1014,elem_1015,elem_1016,elem_1017,elem_1018,elem_1019,elem_1020,elem_1021,elem_1022,elem_1023,elem_1024,elem_1025,elem_1026,elem_1027,elem_1028,elem_1029,elem_1030,elem_1031,elem_1032,elem_1033,elem_1034,elem_1035,elem_1036,elem_1037,elem_1038,elem_1039,elem_1040,elem_1041,elem_1042,elem_1043,elem_1044,elem_1045,elem_1046,elem_1047,elem_1048,elem_1049,elem_1050,elem_1051,elem_1052,elem_1053,elem_1054,elem_1055,elem_1056,elem_1057,elem_1058,elem_1059,elem_1060,elem_1061,elem_1062,elem_1063,elem_1064,elem_1065,elem_1066,elem_1067,elem_1068,elem_1069,elem_1070,elem_1071,elem_1072,elem_1073,elem_1074,elem_1075,elem_1076,elem_1077,elem_1078,elem_1079,elem_1080,elem_1081,elem_1082,elem_1083,elem_1084,elem_1085,elem_1086,elem_1087,elem_1088,elem_1089,elem_1090,elem_1091,elem_1092,elem_1093,elem_1094,elem_1095,elem_1096,elem_1097,elem_1098,elem_1099,elem_1100,elem_1101,elem_1102,elem_1103,elem_1104,elem_1105,elem_1106,elem_1107,elem_1108,elem_1109,elem_1110,elem_1111,elem_1112,elem_1113,elem_1114,elem_1115,elem_1116,elem_1117,elem_1118,elem_1119,elem_1120,elem_1121,elem_1122,elem_1123,elem_1124,elem_1125,elem_1126,elem_1127,elem_1128,elem_1129,elem_1130,elem_1131,elem_1132,elem_1133,elem_1134,elem_1135,elem_1136,elem_1137,elem_1138,elem_1139,elem_1140,elem_1141,elem_1142,elem_1143,elem_1144,elem_1145,elem_1146,elem_1147,elem_1148,elem_1149,elem_1150,elem_1151,elem_1152,elem_1153,elem_1154,elem_1155,elem_1156,elem_1157,elem_1158,elem_1159,elem_1160,elem_1161,elem_1162,elem_1163,elem_1164,elem_1165,elem_1166,elem_1167,elem_1168,elem_1169,elem_1170,elem_1171,elem_1172,elem_1173,elem_1174,elem_1175,elem_1176,elem_1177,elem_1178,elem_1179,elem_1180,elem_1181,elem_1182,elem_1183,elem_1184,elem_1185,elem_1186,elem_1187,elem_1188,elem_1189,elem_1190,elem_1191,elem_1192,elem_1193,elem_1194,elem_1195,elem_1196,elem_1197,elem_1198,elem_1199,elem_1200,elem_1201,elem_1202,elem_1203,elem_1204,elem_1205,elem_1206,elem_1207,elem_1208,elem_1209,elem_1210,elem_1211,elem_1212,elem_1213,elem_1214,elem_1215,elem_1216,elem_1217,elem_1218,elem_1219,elem_1220,elem_1221,elem_1222,elem_1223,elem_1224,elem_1225,elem_1226,elem_1227,elem_1228,elem_1229,elem_1230,elem_1231,elem_1232,elem_1233,elem_1234,elem_1235,elem_1236,elem_1237,elem_1238,elem_1239,elem_1240,elem_1241,elem_1242,elem_1243,elem_1244,elem_1245,elem_1246,elem_1247,elem_1248,elem_1249,elem_1250,elem_1251,elem_1252,elem_1253,elem_1254,elem_1255,elem_1256,elem_1257,elem_1258,elem_1259,elem_1260,elem_1261,elem_1262,elem_1263,elem_1264,elem_1265,elem_1266,elem_1267,elem_1268,elem_1269,elem_1270,elem_1271,elem_1272,elem_1273,elem_1274,elem_1275,elem_1276,elem_1277,elem_1278,elem_1279,elem_1280,elem_1281,elem_1282,elem_1283,elem_1284,elem_1285,elem_1286,elem_1287,elem_1288,elem_1289,elem_1290,elem_1291,elem_1292,elem_1293,elem_1294,elem_1295,elem_1296,elem_1297,elem_1298,elem_1299,elem_1300,elem_1301,elem_1302,elem_1303,elem_1304,elem_1305,elem_1306,elem_1307,elem_1308,elem_1309,elem_1310,elem_1311,elem_1312,elem_1313,elem_1314,elem_1315,elem_1316,elem_1317,elem_1318,elem_1319,elem_1320,elem_1321,elem_1322,elem_1323,elem_1324,elem_1325,elem_1326,elem_1327,elem_1328,elem_1329,elem_1330,elem_1331,elem_1332,elem_1333,elem_1334,elem_1335,elem_1336,elem_1337,elem_1338,elem_1339,elem_1340,elem_1341,elem_1342,elem_1343,elem_1344,elem_1345,elem_1346,elem_1347,elem_1348,elem_1349,elem_1350,elem_1351,elem_1352,elem_1353,elem_1354,elem_1355,elem_1356,elem_1357,elem_1358,elem_1359,elem_1360,elem_1361,elem_1362,elem_1363,elem_1364,elem_1365,elem_1366,elem_1367,elem_1368,elem_1369,elem_1370,elem_1371,elem_1372,elem_1373,elem_1374,elem_1375,elem_1376,elem_1377,elem_1378,elem_1379,elem_1380,elem_1381,elem_1382,elem_1383,elem_1384,elem_1385,elem_1386,elem_1387,elem_1388,elem_1389,elem_1390,elem_1391,elem_1392,elem_1393,elem_1394,elem_1395,elem_1396,elem_1397,elem_1398,elem_1399,elem_1400,elem_1401,elem_1402,elem_1403,elem_1404,elem_1405,elem_1406,elem_1407,elem_1408,elem_1409,elem_1410,elem_1411,elem_1412,elem_1413,elem_1414,elem_1415,elem_1416,elem_1417,elem_1418,elem_1419,elem_1420,elem_1421,elem_1422,elem_1423,elem_1424,elem_1425,elem_1426,elem_1427,elem_1428,elem_1429,elem_1430,elem_1431,elem_1432,elem_1433,elem_1434,elem_1435,elem_1436,elem_1437,elem_1438,elem_1439,elem_1440,elem_1441,elem_1442,elem_1443,elem_1444,elem_1445,elem_1446,elem_1447,elem_1448,elem_1449,elem_1450,elem_1451,elem_1452,elem_1453,elem_1454,elem_1455,elem_1456,elem_1457,elem_1458,elem_1459,elem_1460,elem_1461,elem_1462,elem_1463,elem_1464,elem_1465,elem_1466,elem_1467,elem_1468,elem_1469,elem_1470,elem_1471,elem_1472,elem_1473,elem_1474,elem_1475,elem_1476,elem_1477,elem_1478,elem_1479,elem_1480,elem_1481,elem_1482,elem_1483,elem_1484,elem_1485,elem_1486,elem_1487,elem_1488,elem_1489,elem_1490,elem_1491,elem_1492,elem_1493,elem_1494,elem_1495,elem_1496,elem_1497,elem_1498,elem_1499,elem_1500,elem_1501,elem_1502,elem_1503,elem_1504,elem_1505,elem_1506,elem_1507,elem_1508,elem_1509,elem_1510,elem_1511,elem_1512,elem_1513,elem_1514,elem_1515,elem_1516,elem_1517,elem_1518,elem_1519,elem_1520,elem_1521,elem_1522,elem_1523,elem_1524,elem_1525,elem_1526,elem_1527,elem_1528,elem_1529,elem_1530,elem_1531,elem_1532,elem_1533,elem_1534,elem_1535,elem_1536,elem_1537,elem_1538,elem_1539,elem_1540,elem_1541,elem_1542,elem_1543,elem_1544,elem_1545,elem_1546,elem_1547,elem_1548,elem_1549,elem_1550,elem_1551,elem_1552,elem_1553,elem_1554,elem_1555,elem_1556,elem_1557,elem_1558,elem_1559,elem_1560,elem_1561,elem_1562,elem_1563,elem_1564,elem_1565,elem_1566,elem_1567,elem_1568,elem_1569,elem_1570,elem_1571,elem_1572,elem_1573,elem_1574,elem_1575,elem_1576,elem_1577,elem_1578,elem_1579,elem_1580,elem_1581,elem_1582,elem_1583,elem_1584,elem_1585,elem_1586,elem_1587,elem_1588,elem_1589,elem_1590,elem_1591,elem_1592,elem_1593,elem_1594,elem_1595,elem_1596,elem_1597,elem_1598,elem_1599,elem_1600,elem_1601,elem_1602,elem_1603,elem_1604,elem_1605,elem_1606,elem_1607,elem_1608,elem_1609,elem_1610,elem_1611,elem_1612,elem_1613,elem_1614,elem_1615,elem_1616,elem_1617,elem_1618,elem_1619,elem_1620,elem_1621,elem_1622,elem_1623,elem_1624,elem_1625,elem_1626,elem_1627,elem_1628,elem_1629,elem_1630,elem_1631,elem_1632,elem_1633,elem_1634,elem_1635,elem_1636,elem_1637,elem_1638,elem_1639,elem_1640,elem_1641,elem_1642,elem_1643,elem_1644,elem_1645,elem_1646,elem_1647,elem_1648,elem_1649,elem_1650,elem_1651,elem_1652,elem_1653,elem_1654,elem_1655,elem_1656,elem_1657,elem_1658,elem_1659,elem_1660,elem_1661,elem_1662,elem_1663,elem_1664,elem_1665,elem_1666,elem_1667,elem_1668,elem_1669,elem_1670,elem_1671,elem_1672,elem_1673,elem_1674,elem_1675,elem_1676,elem_1677,elem_1678,elem_1679,elem_1680,elem_1681,elem_1682,elem_1683,elem_1684,elem_1685,elem_1686,elem_1687,elem_1688,elem_1689,elem_1690,elem_1691,elem_1692,elem_1693,elem_1694,elem_1695,elem_1696,elem_1697,elem_1698,elem_1699,elem_1700,elem_1701,elem_1702,elem_1703,elem_1704,elem_1705,elem_1706,elem_1707,elem_1708,elem_1709,elem_1710,elem_1711,elem_1712,elem_1713,elem_1714,elem_1715,elem_1716,elem_1717,elem_1718,elem_1719,elem_1720,elem_1721,elem_1722,elem_1723,elem_1724,elem_1725,elem_1726,elem_1727,elem_1728,elem_1729,elem_1730,elem_1731,elem_1732,elem_1733,elem_1734,elem_1735,elem_1736,elem_1737,elem_1738,elem_1739,elem_1740,elem_1741,elem_1742,elem_1743,elem_1744,elem_1745,elem_1746,elem_1747,elem_1748,elem_1749,elem_1750,elem_1751,elem_1752,elem_1753,elem_1754,elem_1755,elem_1756,elem_1757,elem_1758,elem_1759,elem_1760,elem_1761,elem_1762,elem_1763,elem_1764,elem_1765,elem_1766,elem_1767,elem_1768,elem_1769,elem_1770,elem_1771,elem_1772,elem_1773,elem_1774,elem_1775,elem_1776,elem_1777,elem_1778,elem_1779,elem_1780,elem_1781,elem_1782,elem_1783,elem_1784,elem_1785,elem_1786,elem_1787,elem_1788,elem_1789,elem_1790,elem_1791,elem_1792,elem_1793,elem_1794,elem_1795,elem_1796,elem_1797,elem_1798,elem_1799,elem_1800,elem_1801,elem_1802,elem_1803,elem_1804,elem_1805,elem_1806,elem_1807,elem_1808,elem_1809,elem_1810,elem_1811,elem_1812,elem_1813,elem_1814,elem_1815,elem_1816,elem_1817,elem_1818,elem_1819,elem_1820,elem_1821,elem_1822,elem_1823,elem_1824,elem_1825,elem_1826,elem_1827,elem_1828,elem_1829,elem_1830,elem_1831,elem_1832,elem_1833,elem_1834,elem_1835,elem_1836,elem_1837,elem_1838,elem_1839,elem_1840,elem_1841,elem_1842,elem_1843,elem_1844,elem_1845,elem_1846,elem_1847,elem_1848,elem_1849,elem_1850,elem_1851,elem_1852,elem_1853,elem_1854,elem_1855,elem_1856,elem_1857,elem_1858,elem_1859,elem_1860,elem_1861,elem_1862,elem_1863,elem_1864,elem_1865,elem_1866,elem_1867,elem_1868,elem_1869,elem_1870,elem_1871,elem_1872,elem_1873,elem_1874,elem_1875,elem_1876,elem_1877,elem_1878,elem_1879,elem_1880,elem_1881,elem_1882,elem_1883,elem_1884,elem_1885,elem_1886,elem_1887,elem_1888,elem_1889,elem_1890,elem_1891,elem_1892,elem_1893,elem_1894,elem_1895,elem_1896,elem_1897,elem_1898,elem_1899,elem_1900,elem_1901,elem_1902,elem_1903,elem_1904,elem_1905,elem_1906,elem_1907,elem_1908,elem_1909,elem_1910,elem_1911,elem_1912,elem_1913,elem_1914,elem_1915,elem_1916,elem_1917,elem_1918,elem_1919,elem_1920,elem_1921,elem_1922,elem_1923,elem_1924,elem_1925,elem_1926,elem_1927,elem_1928,elem_1929,elem_1930,elem_1931,elem_1932,elem_1933,elem_1934,elem_1935,elem_1936,elem_1937,elem_1938,elem_1939,elem_1940,elem_1941,elem_1942,elem_1943,elem_1944,elem_1945,elem_1946,elem_1947,elem_1948,elem_1949,elem_1950,elem_1951,elem_1952,elem_1953,elem_1954,elem_1955,elem_1956,elem_1957,elem_1958,elem_1959,elem_1960,elem_1961,elem_1962,elem_1963,elem_1964,elem_1965,elem_1966,elem_1967,elem_1968,elem_1969,elem_1970,elem_1971,elem_1972,elem_1973,elem_1974,elem_1975,elem_1976,elem_1977,elem_1978,elem_1979,elem_1980,elem_1981,elem_1982,elem_1983,elem_1984,elem_1985,elem_1986,elem_1987,elem_1988,elem_1989,elem_1990,elem_1991,elem_1992,elem_1993,elem_1994,elem_1995,elem_1996,elem_1997,elem_1998,elem_1999,elem_2000,elem_2001,elem_2002,elem_2003,elem_2004,elem_2005,elem_2006,elem_2007,elem_2008,elem_2009,elem_2010,elem_2011,elem_2012,elem_2013,elem_2014,elem_2015,elem_2016,elem_2017,elem_2018,elem_2019,elem_2020,elem_2021,elem_2022,elem_2023,elem_2024,elem_2025,elem_2026,elem_2027,elem_2028,elem_2029,elem_2030,elem_2031,elem_2032,elem_2033,elem_2034,elem_2035,elem_2036,elem_2037,elem_2038,elem_2039,elem_2040,elem_2041,elem_2042,elem_2043,elem_2044,elem_2045,elem_2046,elem_2047,elem_2048,elem_2049,elem_2050,elem_2051,elem_2052,elem_2053,elem_2054,elem_2055,elem_2056,elem_2057,elem_2058,elem_2059,elem_2060,elem_2061,elem_2062,elem_2063,elem_2064,elem_2065,elem_2066,elem_2067,elem_2068,elem_2069,elem_2070,elem_2071,elem_2072,elem_2073,elem_2074,elem_2075,elem_2076,elem_2077,elem_2078,elem_2079,elem_2080,elem_2081,elem_2082,elem_2083,elem_2084,elem_2085,elem_2086,elem_2087,elem_2088,elem_2089,elem_2090,elem_2091,elem_2092,elem_2093,elem_2094,elem_2095,elem_2096,elem_2097,elem_2098,elem_2099,elem_2100,elem_2101,elem_2102,elem_2103,elem_2104,elem_2105,elem_2106,elem_2107,elem_2108,elem_2109,elem_2110,elem_2111,elem_2112,elem_2113,elem_2114,elem_2115,elem_2116,elem_2117,elem_2118,elem_2119,elem_2120,elem_2121,elem_2122,elem_2123,elem_2124,elem_2125,elem_2126,elem_2127,elem_2128,elem_2129,elem_2130,elem_2131,elem_2132,elem_2133,elem_2134,elem_2135,elem_2136,elem_2137,elem_2138,elem_2139,elem_2140,elem_2141,elem_2142,elem_2143,elem_2144,elem_2145,elem_2146,elem_2147,elem_2148,elem_2149,elem_2150,elem_2151,elem_2152,elem_2153,elem_2154,elem_2155,elem_2156,elem_2157,elem_2158,elem_2159,elem_2160,elem_2161,elem_2162,elem_2163,elem_2164,elem_2165,elem_2166,elem_2167,elem_2168,elem_2169,elem_2170,elem_2171,elem_2172,elem_2173,elem_2174,elem_2175,elem_2176,elem_2177,elem_2178,elem_2179,elem_2180,elem_2181,elem_2182,elem_2183,elem_2184,elem_2185,elem_2186,elem_2187,elem_2188,elem_2189,elem_2190,elem_2191,elem_2192,elem_2193,elem_2194,elem_2195,elem_2196,elem_2197,elem_2198,elem_2199,elem_2200,elem_2201,elem_2202,elem_2203,elem_2204,elem_2205,elem_2206,elem_2207,elem_2208,elem_2209,elem_2210,elem_2211,elem_2212,elem_2213,elem_2214,elem_2215,elem_2216,elem_2217,elem_2218,elem_2219,elem_2220,elem_2221,elem_2222,elem_2223,elem_2224,elem_2225,elem_2226,elem_2227,elem_2228,elem_2229,elem_2230,elem_2231,elem_2232,elem_2233,elem_2234,elem_2235,elem_2236,elem_2237,elem_2238,elem_2239,elem_2240,elem_2241,elem_2242,elem_2243,elem_2244,elem_2245,elem_2246,elem_2247,elem_2248,elem_2249,elem_2250,elem_2251,elem_2252,elem_2253,elem_2254,elem_2255,elem_2256,elem_2257,elem_2258,elem_2259,elem_2260,elem_2261,elem_2262,elem_2263,elem_2264,elem_2265,elem_2266,elem_2267,elem_2268,elem_2269,elem_2270,elem_2271,elem_2272,elem_2273,elem_2274,elem_2275,elem_2276,elem_2277,elem_2278,elem_2279,elem_2280,elem_2281,elem_2282,elem_2283,elem_2284,elem_2285,elem_2286,elem_2287,elem_2288,elem_2289,elem_2290,elem_2291,elem_2292,elem_2293,elem_2294,elem_2295,elem_2296,elem_2297,elem_2298,elem_2299,elem_2300,elem_2301,elem_2302,elem_2303,elem_2304,elem_2305,elem_2306,elem_2307,elem_2308,elem_2309,elem_2310,elem_2311,elem_2312
-0,"Elei-
-cão",arremettida,Esposende,Cemiterio,Ladeado,Capital,Bona,Fidalguia,Tenho,Sor,Praga,anda,atravez do casarão,Il,moeiros,"sobreveste ne-
-gra",Vagarosas,Douro,Córtes,Paços d'Argelim,mette,districto d'Oliveira,alegre,agarrára,Relho,Sul,Terras d'Além-Jordão,Magistratura,canço,familia Noronha,Villas,Corin-,Camaras,Largo El-Rei,nôjo,Galliza,canaviaes,Bofé!,Pagem,Administração,valle estreito,bonito rapaz,Aleaçova,Russo,Vidalgo,"Roman-
-ce moderno",Fandar,Costa que S. Es,"cabeca
-alta",convento de S. Domingas,Amadis,arraial seguro,Pinhal,gorda,saphira,Hespanha,Cascaes,Videir,rão das fogueiras,Administra-,Rompe,Troia,Depoi,Valverde,ladeira de S. Bento,boa velha,Caramba,Cidadelhe,Assembléa,Josamente,MLESTRE,cabo Silleiro,Gonçalo optimo,Cas,Gago,Visconde,Parada,Hespanhas,Condado Portu-,Deslumbrado,Chefe do Districto,Primo,Serdal,Camolino,Verde,Guião,Aucloridade do Districto,tro da Bica-Santa,Cahe-,"Castello
-serviçaes",Villar Mendes,apa-,Vicente,Pelestina,Domingo,Russia,Sidonia,Magicas,Ca-,"Gonça-
-lo",Goncali-,Sorte,monte,ssa,lucta,Cêdo,Uliveiras,Palha-Cã,Canta-Pedra,Quartel,Sr-,Oli-,Lettras,Alca-,"vi-
-sinhança",Camar E,Geral da Corda,"ir-
-mã",Teixeira de Carredes,Ataque,Tavira,io Duarte,"Teixeira de
-Carredes","Manoel
-Duarte",Aquellas,Governo Civil,Snr.º D. Rosa,sta,Collares,cabeço d'Avellan,do Japão,Ilistoria,Portugue-,Portella,gros-,Accendeu,"RAMIRES
+0,Bispo,Costa,Dr.,"r
+ca",Estado,Golpho,Votam,Cavado,commis,U Noronha,valentias,Ramires,Gonçalo,"pa
 
-Velleda",Craquêde,Molle,bahu,entre,Peitosa,Dominava,Daro,d'Historia,Pharmacia,Torre de D. Rami-,"ribeira de
-Crêde",Novella,Aquitania,Estado,enramada d'hera,"Es
+impaciencia",Custello,Vae,"Governador
+dré Cavalleiro",Joaquim da Porta,Camara...,Enternecido,"anci
 
- 
-
-bre",bom Regenerador,pas-,LLESTRE CASA,vegatão,Castello de Peronne,incendio do Pala-,Santa Aidonça,Livraria,Entra,santos,"ra-
-pina","Conselhos do
-Banco Hypothecario",Atrica,Tende,Advogue,remocava,ciaes,Lugilde,Comedia,metteu,Snr,"loriga de ma-
-lha",Mordomo-mór da Curia,braço do Cavalleiro,creança,S,"chapéo de
-palha vermelha","Açor ne-
-gro",Bas-,Sar,Tolhida,Jeir,arcebispo de Thessalonica,sachristão,valentias,ci,sopeando a egua,Capitulo,Egreja de S. Christovão,Valverde a Craquéde,Resposta,Acor,Hibeibinha,Transfe-,"Governo
-Civil",agoa limosa,esgaseado,Cortes,"ro-
-
-imo 5",n96,Terras,Bardo,Senhores,Christo,Crime do Padre Amaro,Imperatriz,Alem-,aquella romantica,Cacr-abraços,Sem-,Cantapedra,Juizo,ponte da Portella,Samoras de Cendute,em Portugal,lheres,Realmente,Lisboa do 5,perra,Natal o Cavalleiro,cemiterio da Villa,"Santa
-Maria de Craquéde",Ordonho,Fidalgo da Torro,mófa,Hespanhoes do Conde de Venavente,Moguncia,Santa Ire-,Cousas,Jouras,Almas,Genealogica,Rebrte,Paço da Bemposta,Imagin,Honstruoso,"Domin-
-go",Manelsinho,Olhalvo,valle,randa,Manchester,"Ramos
-do",Vocemecê,"Torre albar-
-ran",Cama-,Murtosa,Vidainhos,Abalou,"pa
+ge do Largo",Manoel Pereira,Fidalgo da Torre,Santa Maria de Craquéde,canço,azinhaga,"viscira er-
+guida",Deanto,petroleo,Correspondencias,"Rei
+de Leão",Claro-Sol,incendio do Pala-,Perdão,Mendoncç,vella,Freguezia,polvarinhos,Lishoa,veigas,Ficialgo,Excellencias,Humanidade,Serena,Poço Velho,Ponte,escoucear,Córte,Sud-,Gago,quasi historica,damasco,V'além castello Landim,Toca,Riba-Cavado,armazem do Ramos,Reposteiro-Mór,Torn,Dobraram,Balsas,bastos,Pharmacia,Bispo de Coimbra,gloria,"peor
+desdouro","Rico-
+Homem",Sancharia,Baroneza,Aquelle,Simões,Castello,Toledo,Aquitania,Bispos,Destino,Fínis,próa,Debalde,Valverde a Craquéde,Santa Maria de Craquede,Villa Cla-,nellas,Torre de Santa Ireneia,Monicas,"Ministe-
+rio Historico",Concelho,Froylas,pudicicia,Snr.º Condessa de Chellas,Chama,Calcadinha,do Japão,Bernardino,Amoreira,"Pereira
+da Riosa",Titulo,Jantámos,Ministerio da Fazenda,Er,Reisinho,agarrára,Castello de Santa Ireneir,Emfim,rabear,Almodovar,—,"Grande Ca-
+tharina...",d'Arraz,Esgaseado,"Torre de
+Ramires",Queres,Ai,Castello Affonsino,Cerqueira,Terreiro da Louci,"be-
+guino","Tam-
 
  
 
-Mas","Caval-
-Aquella guedelha de trovador",Santo,Nympha,S. Bento,"Afri-
-ca...",Santa Treneia,Terço,Hospital,Choupal,Ulha,Sanches Lucena,cadciras de verga,Açor negro,Désteiro,Pinheiro,Egre-,AVE,Santos,Alemquer,Estirado,Moreno,Santa Ireneia,Santa,"Pec
+ro-Homem",rua Velha,dynastia d'Aviz,Templosinho do Amor,ponta molle da orelha,!,Palacete inaccessivel,Manoel Duarte,"Pereira
+
+va",Mata,Esposende,canar,Gra-,Fandar,boston,mette,mecheu,Peccadores,"Roman-
+ce moderno",Monge,Sé de Zamora,Lopo,Cêdo,Hibeibinha,U Cavalleiro,Emtfim,V. Fx,Biscainho,"capa-
+
+chapou",Santa Clara,tanque redondo,Imperio,"Absolut
 
  
 
- 
+mo","cha-
+mine",herva,Tenho,"Conselhos do
+Banco Hypothecario",Arcada,Cidade e as Serras,Pereira Brazileiro,Della,tenebrosa,Tende,Chefe do Districto,santos,Christãs,Tiló,pasmava,Constantinopla,Bom Samaritano...,Casimiras,Provedor,Riosa,Rua Grande,bengalão,d'Oliveira,d'Imperatriz da Russia,Casa dos Cunhnes,Manoel da Adega,Ma,Egreja de S. Christovão,"Condado Portu-
+calense",Abbade de Chandim,Villa-Clara,Vidainhos,Capitulo,Ba,Terço,"ra-
+zão",Obriga-,Elrei de Leão,Torre de D. Ramis,Racha do Moiro,assoalhar,Fuja,Dona,Largo El-Rei,Pirmina,cendia,Inglez,Brito,Cahe-,Lacrada,Verdade,valle estreito,amem emfim,"Reces-
+vinto",Olha,Maior,"Quinta
 
-imira",Leonez,Governador Civil de Monforte,S. Gun-,Rosa,Tres,Differença,Emtfim,D. Garcia,bastos,"cam-
-pos de lide",V'além castello Landim,Provineia,Malta,Semanario,Monte-mór,Marquez do Roncão,sos são delle,io,Debalde,Largo,"der-
-radeiro anno de",Louças,Poemeto do Tio Duarte,Graca,Bravo,Crispola,Joaquim da Porta noticias dos senhores,Quan-,Convento de Santa-Brigida de Oliveira,Alferes,El-rei Dom Affon-,Almoiovar,Aquella,singelament,Regenerador,Officina de s. José,Governador das Armas,Santa Maria de Craquêde,"Egreja de S.
-Bento",Solha,Urgia,As-,"Rei
-de Leão",desola,dhomeim,Can-,Ai meu Fidalgo,A Reliquia,Lourenço Ramires,Desembucha,RAMIRÍ 127,"Santa Rosa
-de Lima",vindima,Gazeta,Auctoridades,Almocei,Politico,Casca,Ilonra,Franefort,d'Alvaralhão,Vosst,Reformadores,"Dilhares da
-Sophia",Barróôlo,"Anto-
-ninho Moreno","fertili
+feira",Tripoli,Goi,"Santa Ire-
+neia de magoados harpejos",Casca,As-,Bardo,sensac,Cavalleiro,desola,Pereira,Cavalleivo,Imagens,Boa,sé,Es-,atravez das sen,Deslumbrado,Comprára,io Duarte,"Senhor de Santa Ire-
+neia",Andrê,iola,"banco de
+pedra",Pará,Treixedo,Annica,Convento de Santa,Senhorio de Santa Ireneia,Hotel Bragança,Geral da Corda,d'Aquilat,Esteves,Derrou,Precis,bocirinha,Machumba,Politico,China,Jesuina,Virotes,"Oliveir
 
-ima",Bispos,Corvello,Tens,Torr,Annae,Minas,Famosa,Historia,"Treixedo
+São",s Capitulos da Novella,Principe,Sunt Lucryme Revistarum,Governador Civil?...,solemnidade,"pas-
+sadas semanas",Matheus,Providencia,Leoneses,egoa...,veigas do Mondêgo,Nacejas,"Pas-
+sado","Nosso Se-
+nhor",Castanheiro Patrioti-,Barrolinho,Lrazia,Braganca,Torre aos Domingos,Fabrica de Vidros,Andar,"toa-
+lha",Ajudado,"Ma
 
-    
+rar",Cerda,Duas,Parabens,Paço do Bispo,Duzentos,Livraria,Hymno,Fidalgo,Tas,Crêde,Oliveira...,Além-Jordão,Primo,Porto,Jebreus,Appareceria,Bazar do Asylo Novo,Terreiro da Loug,Santa Thereza,monte,Prdo dos Ramires,Advogue,"Go-
 
-tos mil reis",Monicas,d'Arte Historica,haneo de pedra,Herculanos,azinhaga,Jornaes,Bica-Santa...,Joaquim da Horta,Verdade,rio Historico,Fallam,pac,Lazareto,Lacrada,d'este Cavalleiro,Novembro,"toa-
-lha",Torre!,Club,ur,am Portugal,Ficialgo,"n'uma
-
-sa",veigas,Casa illustre,Algarve,Cenaculo,Sua Senhoria,Mendoncç,Novela,"Torre de
-Ramires",Chro-,Braz Vietorino,Paraiso,Esgueira,"ava
-
-tensamente",Durguezia,portello das barbacans,Museu,próa,banco alto,Torre Videirinha,loja do Leão,Algés,Sôólha,Couraça,Flor da Torre,surdia,Rami-,Julho,Post-Scriptum,Con-,"Invento-
-Aventureiros",Bayão:—mas,Reino,Fabrica de Vidros,Alemtejana,Es,pagára,Manoel da Adega,Egreja das Monicas,"Notarios
-da Curia","Governo
+verno Civil",Ninguem,Ceylão,n96,Lis-,baptisado,dhomeim,Re-,Governo do S. Ful-,Palestina,Extraordinario,Peecado,legua,Graca,d'Arte Historica,Mendonça,Daro,Môrzinha,"Bomjai
+dim!",minha senhora,Arcos,resoou,perola,Secretaria,molle,"Villa Cla-
+ra",Pego das Bichas,Marte,bozina de marfim,camurca branca,suspendia,"Notarios
+da Curia",lusidia,Beja,entre,Marche,hRosa,lages,tauxeado,Dusinas,Arabes,"Pec
 
  
 
  
 
-ado",genebra,N'outro,Pittas,Semana,Gra-,"capa-
+imira",Torre de D. Ramires,Serras,S. Vicente,Voeês,"Calçadinha
+de Villa-Clara",fr,repellia,Instado,"a
+elle!",Portella,Bastardo,Visconde de Rio-Man-,Torre...,rescendia,Apezar,Córte do Ceu,Transfe-,Diombo,magnolia,Monaco,Senhor da Torre,Sanches,Bravissimo,Almas,d'Adão,Apparelha,Gouveia,Avantesmas,Real,Soólha,Sás,Centro Regenerador da Couraça,Jordão,Borgonha,Cunhaese,TRE CASA,torre albarran,aquella Fé,Couraça,Litte-,"loriga de ma-
+lha",Libertava,luda de rijas,pedregulhos d'oiro,anda,Açodado,Hotel Central,Bas-,Franziu,Désteiro,Bibliotheca do Paço,chão do Terreiro,n'aquelle,Therezas,idyllio,Porque,Ribe-,"Egreja dos Bra-
+vaes",Mercado da Herva,Dengalão,Authoridade,Guimarães,Romão,braço do Cavalleiro,mareha de fol-,Tructe-,remocava,Russia,Desembucha,Vossê,Policia,"riacho das
+Donas",familia,Casa de França,triampho dessa mi-,divan,Appareço,collina,Gouveia murmurára cóm,Manhã,tristeza,Torre Gracinha,Bravae,Sna Exe,bahu,Brabante,Maciel,"Pales-
+tina","Casal do
+Miranda",Sr-,Sr. Doutor,quairo,Blle,Gracinha céron,cavalleiro,d'onde,Egreja,cabo d'elles!,Louzadas,Chiche,Vide,"cidade d'Oli-
+veira",Rebolava,Fatali-,Can-,Jeir,Bravaes,pagára,Crispola,Explique,Irmão Tereeiro,FE,cadciras de verga,Thessalonica,Villa Clara,Marquez de Treixedo,sc,Accendeu,es della,Ministro,Truetesindo Mendes Ramires,"l
 
-chapou",Pereira da Riosa,Governo,Douro e Minho,Caçadas,lamina d'estanho,souto de azinheiros,graca tatal,Tambem,Mosteiro,Vêde,Monte-,Mo,Reposteiro-Mór,Fidalgo da Torre chegára,POA,upa,"Torre de D. Rami-
-
-R
-
- 
-
-s.",Gor,Condessa de Chellas,Immediatamente,Lishoa,Sacudia,casal do Miranda,"Claro-
-Sul",Tunis,Vi-,Baza-,torre:—e Titó,"Torre
-
- 
-
-Gonçalo","Governador das Armas d'Entre-
-Douro e Minho",Estontea-,Lyra,Ricos-Homens d'Hespanha,Martinho,"Calçadinha
-de Villa-Clara",Querida,João,Linda,— Para-,Bispo de Coimbra,festi,S.,Justica,Torre...,Admênis,armazem do Ramos,Videirinha,Recolheu,Derrava,Bibliotheca nacional,S. Fulgeneio,Es-,Bravae,marroquim,Votam,Truetesindos,"Passára
-ahi",bocirinha,Fronteiro,Norte,"Calle ess
-
-esso",Coimbra,Colera,ascumas,"Cavallei-
-ro de Malta",Juão Gouveia,guardasolinho,Verídica Inquiricão,"Santa Ire-
-neia",Paço,jaquetão,Honra,Tructesindo,"Governador
-dré Cavalleiro",Templosinho do Amor,Ascen-,Assem-,n'aquelle,d'onde Gonçalo,Lã,"Santa Ma-
-ria",man-,cantiga,Quero,Amainae,punhaes,Bica-Santa,Manoel Duarte,Coneelho de Villa-Clara,Poço grande,Flôr,lomba do cerro,Santa Thereza,calçúra,"cabo de
-Santa Maria",Extraordinario,Sombras,Pereira da Riosa...,braco do Fidalgo,"com-
-panheiro",convento de Santa Thereza,Dem,Di,Cayalleiro,Destino,"Braz
-Victorino",Sud-,Manrique,Vide,Ribas,"Penedo
+Gonçalo",agoa do regato,Poemeto,Esconde,Mareolino do INDEPENDENTE,bebedo,veira,Obras Publica,vessou,gria,"Governo
 
  
 
-da Saudade",Galiléa,São Reis,Temerosa,Paço...,cavallariços,Irmão Tereeiro,Hospital d'Oliveira,"Hoste Real
-Lourenço Ramires",brancuras de lapides,Snr.º D. Maria,Solar,es della,Córte,Maciel,"Absolut
+ 
+
+ado",Manoelzinho,Quasi,Effectivamente o Casco,Eleitores,Ribeira,Teixeira de Carredes,Barrólo,elle,Santo Estevam de Gu-,Panorcana,Officina de s. José,Acto,torcido so-,Nevtosa,lages do Largo,poeir,Linda,Enxarez de Sandornin,Torto,Chellas,Lourenço Ramires,Vagarosas,mófa,India,"Santa Al-
 
  
 
-mo",—,Enterrei,Uavalleiro,Sólha,"S.
-rasse",socega,Palacete,menineira,Rebate,QUEIROZ,"Bomjai
-dim!",Alcacova,Politica Colonial,Coimbra...,"be-
-guino",Districto do,Jeito,"Re-
-Deltos",theori,rescendia,"Governador Ci-
-vil",Castella,gre,en=,Truetesindo Mendes Ramires,Bayão,lagrimas,Senhorio de Santa Ireneia,ponta fina,"Snr.º
-D. Anna Lucena",Don Juan,amem emfim,Alferes-Mór,Louzadas,luda tremia,Vá,Jabutava,Bra-,Castello de Santa Ireneia,Vamos,Imperio,Salzedas,Crassa,"em Portugal
-Perras de Santa Treneia",Cavalleiro,sophar,Vendinha,Panorana,Concelho,Poema,lomba do onteiro,Novellasinh,Bibliotheca do Paço,Christãos,Crêde,Idéa,Lousada,Ra-,diligencia,Sahi,mosteiro de Lorvão,commendador Barros,Productores,Estevinha,Eleiç,Julios,Largo d'ElRei,Filho-d'Algo,BAMIRES,Moçambique,Santa Ire,TRE CASA,Avenida,Casal Novo,Horacios,Sevilha,Venciam,Chiche,Affoutado,Torre de Santa Ireneia,Tipoia,Matheus,receioso,"Reces-
-vinto","Guião
-d'El-Rey",Tres-Cominhos,d'Imperatriz da Russia,Minho,Torres,Cavalleiros,Conçalo,bulhas,escadaria redonda,Apparelha,bou,d'elle,Graça!—Então,"Ca-
+donça",Í,Athay-,Fidalxo,pu,Voti,Freixos,Veêde,Oliv,castellão,Di,Cerejeira,"RAMIRES
 
-conversarmo",pedra d'uma,Muros de Santa Ireneia,Te-Deum,Guiomar,Quinta,"Santa Al-
+Velleda",Ionra,Tibulo,aquella grande fidalga,canceira d'esmincar,cavallariços,Fabrica,caracolando,Explendido,convento de S. Bento,Queira,"es
+baixo da",Remarigues,humbrae,Santa,Costa Oriental,cumas,Monte,Guião,villão,Sua Senhoria,João Gouveia,Coitadinho,Lamego,Ilonra,Venham,Maio,Candi-,Quinta,Noronhas,palacete dos Barrólos,banco alto,Jenço,esgaseado,Vá,n'este Agosto,"loja do
+Ramos",Xo,chapéo alto,es,Casas,Ascen-,"Snr.º
+D. Anna Lucena",comeco da villa,Aucloridade do Districto,Meija-Edade Portugueza,Avellans,"polici
+tam",Intantas de Portugal,Santa Treneia,Museu,F,veridico,Centro Regenerador,Silleiro,lJonia,pre rijo,Admênis,Ataque,Moscatel,Paiz,ALLUSTRE CASA,Solar de Santa Ireneia,d'onde Gonçalo,pre,derriba,Casal Novo,Futuro,Justica,Jouras,Terreiro da Louça,Santo Deus,Sensibilisado,Novidades,Paços de Severim,Acaso,"Bispo
+de Oliveira","Governo
+bafou",Misericordia,Il,Oliveira,bosque de roseiras,Mitholog,Dr. Julio,"Trei-
+xedo",Centro,chech,"Vo-
+tos",ermida,socega,Olhalvo,leaçova,Castela,socego,Meia-Idade Portugueza,Portugal,Ramilde,Annaes de Litteratura,Galliza,"Governador Ci-
+vil",Rôtinhas,Lanhoso,"Espi-
+gal...",Olival,aldéa,Perola,Arega,Sor,Castello de Peronne,Simples,labutava,Josamente,"braço do Admi-
+nistrador",Africa,jornaes,Senhores,Ha,VALIESTRE CASA DE,"Ca-
+
+conversarmo",Santa-Ireneia,Collares,Ai o Fidalgo,la-Velhas,Torre Videirinha,Algarve,Natal,cirado da barbacan...,Goncalo,Miranda,Recesvinto,"Villa-
+Clara",Olhe,Clêves,Sem-,"Oh
+Gracinha",Murtosa,souto de azinheiros,terra molle,ve Emfim,Rebrte,zenia,districto d'Oliveira,Coronel Trancoso,El-Rey,vianda,Vosst,lusco fusco,Goncalo Rami-,Auctoridade Superior,Estive,Cerreu,morangal,Gareia,retiro encanniçado d'hera,Amainae,Ribeira sobre a rude,Alcace,Alemtejana,Assembléa,Cabo Verde,Panorcuna,Désta,comezaina,We/-,"Lan-
+dim",Rio de Janeiro,chammas,bravio,Aleac,com-,Afri,Acceitei,"n'uma
+
+sa",Largon,"sequito
+
+louvaminheiro",Tres-Cominhos,Congo,Escusados,Vil-,"te-
+legrammas",Jeito,"Anto-
+ninho Moreno",Correu,"com-
+panheiro",Goncalinho,Bari,Semana,— Emfim,Diplomacia,Echo de Traz-os-Montes,Torre de S. Matheus,Tructezindo,genebra,Barroólo,Junho,Correspondencia,Escute,Palaeio,João ferreiro,vermo,Magicas,Flandres,Verídica Inquiricão,Provincia,Famosa,Pelestina,Novellas,Mul-casada,Socega,Pittas,Coneelho de Villa-Clara,saphira,Governo,Santa Ma-,Pinheiro,Torre de 1,Nova?,Banco Hypotheca-,Lucena,Winchester,"Joaquim da
+Copa",cabo d'elles,Minho,QUEIROZ,Fallam,nhal,Idéa,Grainha,Pestana,Rocilho,Graç,Paco,Mibeirinha,Ilespa-,Capitanea,carcovas,d'essa,fído da Ariosa,Immediatamente Videirinha,Alfere,Cidadelhe,Sangria,Rematou,Serdal,agonisava,Atravez,Curiacios,Mundo,Uh,Oratorio,Rebate,theori,cabo d'osso,"pas-
+
+zada",Appareça,melhorára,Ribeira do Coice,Santos,commendador Barros,Alcaçar de Coimbra,Lova,Bonita,Cunhaes,Bom Deus,Empregos,cérca do Seminario Novo,"casa dos
+Souzas",Lobo,BAMIRES,Domingo,Esgueira,lima,Independente d'Oliveira,Ob,"Bica
 
  
 
-donça",pedra do jardim,"Villa Cla-
-ra",Ricos-Homens de Portugal,Regen,Penedo,tufava,Explique,André Cavaleiro,"quasi
-prehistorica",accrescentava,hio-Manso,Provincia,"Bibliotheca do Paço
+Santa",d'ElRei,Chut,Villas,"em Portugal
+Perras de Santa Treneia",Recebedoria,Paço da Bemposta,Novella...,Alerta,Governo Civil,Porque Portugal,"Lisboa
+elles",Lyra,Minas,"Hoste Real
+Lourenço Ramires",Cadeia,extasi,Populaça,Con-,Santa Maria de Craquêde,"Camaras
 
-ito...",Junho,Pallido,Ministerio da Fazenda,encaltnado,Moscatel,Curia,Gagô,Commendador Romão Barros,Barroólo,d'onde pendia,chapéo alto,cabo d'osso,Governo do S. Ful-,Jantámos,Capitanea,cabo d'elles,barbeava,ALLUSTRE CASA,Limpa,aclarava,Saceudiu,Prompio,Gouveia murmurára cóm,Remarigues,Presidente da Camara,camurca branca,Avantesmas,tra,Alva-do,Corre,casa da senhora sua mana...,Grande,Ordonho Mendes,Esgaseado,Videira,Monaco,torre da Camara,familia,Urcia,"joe-
-lhos",Craquéde,Donas,"Lisboa
-elles",jardim da Torre,Dusinas,Vil-,Baluarte-Velho,lages,Diplomacia,Reinos,bre Montemor,Annaes,Comprára,— Emfim,comprehendia,Marquez de Treixedo,Torre de Santa Irencia,Titulo,Graeinha,Francezes,Honra de Santa Ireneia,"Mosteiro de
-Recadães",Pestana,Lyceu,Effectivamente o Casco,pecto,nhal,Italia,Novel-,Jjára,Bragança,Avellans,Portu-,suspendia,Histor,V. Fx,Ermigues,Caminho de Ferro,Politica,"Tecedeiras
-Monicas",Levita,Pogo,Craquéêde,Longe,Avê-Marias,Aquelle,"Titó
-descess",largueza dos campos,Uliveira,Santo Estevam de Gu-,villão,Estive,morangal,"Ministe-
-rio Historico",Princeza,Silleiro,Cabo Verde,canar,arrebatadamente,Centro Regenerador,es,Madeira,jornaes,"Mariquinhas
-Marges",Perras de Santa Treneia,carrascão,Revista do,Vae,ES,clle,Nevtosa,atravez das sen,João Gouveia,róla,Ri-,Snr.º,Sandim,balsão,Louzad,Ai,Môrzinha,Impossibil,Córte do Ceu,Ireneia,la-Velhas,Monforte,"torre
-albarran",Gazela,Jebreus,Cáú,"Po-
-liítica",collegio de S. Fiel,Empregos,velho Ramiro,Recesvinto,Condes,Enxarez de Sandornin,Trez,Mercado da Herva,Brito,Pidalgo,Vossé,Secretario Geral,egua,Rebolou,Nova?,Emlim,Portugal,Bica,"Condado Portu-
-calense",Real,Alcaçova,cabo d'aljofar da sombrinha,"lagar do
-Snr",Védor da Fazenda,cemiterio,Fl-Rei,Torre,Jã,Praça da Liberdade,Almodovar,Capellão,Imagina,Sancharia,Paris,Andrésinho,Boa,Echo de Traz-os-Montes,Circulo,damasco,Mosteiro de Craquêde,Templo,V. E,pera de S. João,Academias,Egrejinha,cérca do Seminario Novo,"bra-
-zão d'armas",afan da Eleição,permitte,Instrueção,garganta de Lourenço,bom Titó,"Go-
+ 
 
-verno Civil",cavalleiro,Principes da Christandade,Patriota,rua das Vendas,U Noronha,Cerqueira,Goi,Tancarvilles,Barrólo,"Castanheiro Patrioti-
+Gonçalo",El-rei Dom Affon-,Defronte,Serpa,Choupal,10 Snr,lagôa,Manchester,boa velha,Trn-,arremessaria,Gom,José Casco dos Bravaes,mosteiro de Lorvão,edencia,cabo do renque d'alamos,Derrava,Alcacer-Kebir,poeira da lide,"Politi-
+ca",Gazeta,Pidalgo,lucta,Rossilho,mercê de Deus,Titô,despendurando,Sandim,Redacções,d'Orgaz,Rei,Rocio,Brazil,Vejo,Alcacer,Paço...,Cavaleiro,Pereira da Riosa...,Temerosa,"Passára
+ahi",Vêde,Videira,vein,ES,Pogo,Alcaçova procurar,MLLUSTRE,Tabaca-,Aquella,Vaiverde,Poemeto do Tio Duarte,Dynastias,Sevilha,bom Padre Sueiro,Seculo,casa da senhora sua mana...,Ilistoria,eomo,Bica-Velha,Panorama,tro da Bica-Santa,— Para-,Caramba,Necessito,Vendinha,Barrólos,Patriotismo,Semsabor,abraca,"incendio do Pala-
+cio",Paço de Santa Ireneia,Borguinhão,Moreno,Heitosa,demitto,S,familia Noronha,ce,em Portugal,Drutos,Casa de Ramires,Ladeado,d'agoa,collegio,Filho-de-Algo,pera de S. João,Suecedeu,Largo d'ElRei,ecdeu,Gor,sc some,relogio da Camara,Violante,Salzedas,n'aguelle,"Pano-
+rama",Pegas,menineira,gorda,festi,Flôr,El-Rei — Goncalo,Chefe,"An-
+dré",Governo Civil de bracos,ALLUSTRE CASA DE,Musas,Torre de D. Ramire,escadaria redonda,Santa Ire-,"Caval-
+Aquella guedelha de trovador",grbssa pocirada,Quan,Mondego,Mosteiro,Temerario,stencia,ão dos Proprios Nacionaes,Chega,Deatitude,Cas,Beliscava,Jargav,Bibliotheca,hombiro,Terras d'Além-Jordão,Graça!—Então,Academias,perra,Politica,"bra-
+zão d'armas",Franefort,Crispola...,Norte,Hotel Braganca,Lancava,Torre de D. Ra-,agoa limosa,Pegureira,Severosa,Coudel,Novel-,cova negra,lreneia,Limonada,caleche apparatosa,braco do Titó,faleão,S. Es,Castello de Santa Ireneia,Vossé,Safa,Agasalhem,Seminario,Mette,Nosso,luda tremia,Monte-,Crassa,Vidago,Trans-,Hospital d'Oliveira,Governador Civil,N'outro,garbo,Castanhei,dade,Ga,collete,Curamba,Cavallei,ahi,ssa,"cam-
+pos de lide",Velleda,banco de pedra,comprehender,Santa Ire,Paris,Aquellas,Bra-,canaviaes,Governador Civil de Monforte,am Portugal,Bruscamente Gracinha,bom Barrólo,Fronteiro,d'Olivei,Alcaçova,"re-
+posteiro",Novela,Annica es,Vocês,Hirtamente,Alferes,"Calçadinha de
+Villa-Clara",Villa-Velhas,Douro,Sabe-,Almirante,"Honra
+de Santa Ireneia",Graça,LLESTRE CASA,Peitosa,ponta da sombrinha,Pereira Brasileiro,Poço grande,Post-Scriptum,Lamello,Officina,portello das barbacans,Tio Duarte,Aguiar,Genealogica,"Governadures
+Civis",Índia,Bruxas,Mãe d'Agua,Litteratura,Terra,"Amarante
 
-nheiro",Casco,Novecenios,Edade,Precis,"Egreja dos Bra-
-vaes",Us,Mãe d'Agua,Explendido,Romão,Landim,puz,vein,Affon-,casarão,Athenas,Calçada,Pego das Bichas,Val-,Rossilho,Correu,Ha n'ella,fído da Ariosa,Companh,assoalhar,mosteiro de Recadães,cabego alto,Appareça,China,Paço com o Snr,Caro,Aguiar,Apezar,Delas,Graç,Torre de D. Ramis,Escute,casaes,"Mada-
+  
+
+Rei",Roqueira,"quasi
+prehistorica","Mada-
 
  
 
  
 
-ma",Socega,vidraça,Amieiro,Ura,Ma-,Sr. Doutor,sc,s Capitulos da Novella,Criticos,valla,Alfere,Ma,Arribada,Administrador,Mitholog,Deves,Filho-de-Algo,valle de Canta-Pedra,"valle
-da Riosa",Acaso,Castanheiro,Torre Redonda,"Politi-
-ca",Suecedeu,sc some,Doa,Bica Santa,Hotel Mondego,Sunt Lucryme Revistarum,d'Adão,"mercê de
-Deus!",acaci,Casas,Er,Ob,Constantinopla,Aministrador,Vidago,Terreiro do Paço,Candi-,pranchada de cavalleiro,S. Es,Bonita,Arrancou,Safa,ria elle,Manhã,caleche apparatosa,Mathildes,Enfiado,Figueira da Voz,boeirinha,Bibliotheca do Paco do Bispo,descancar,opprime,Futuro,Negocios,Coimbra Antoninha Morena,Deatitude,Alcacova de S.ta Ireneia,Parou,"lages do
-pateo",cabeliei,pasmava,Lousadas,Sobretudo,Governador Civil?...,Litteratura Grega,Vendeia,"pa
+ma",brancuras de lapides,paro,Vento,Borróôlo,Urcia,arraial seguro,"pi
 
-impaciencia",Gonçalão,Denzia,Tructezindo,bengalinha,Alcaide,Cas-,Regeneradores,Sabes,vessou,"viscira er-
-guida",Esteves,Africa,Cahio,Pros-,"Lan-
-dim",Manoelsinho,Violante,"Visconde de
-Rio-Manso",edencia,"Re-
-gedores",mma,Barrôlo,Mamã,Casa dos Cunhnes,penna,herva,Braganca,commis,Toros,Tio Duarte,Videi,"Pintai-
+rigão de malha",Tens,"egua pu-
+lou",bom Barrôlo,Drancas,pégo das Bichas,braza das lareiras,Mamã,pharol,"fertili
+
+ima",Casco,Santa Theresa,Mor,"alto pu-
+nho dourado",aclarava,Lisboa tres,Senhora da Boa Morte!,úmanhã,Colonia,esguio,Dezembro,carvalheiras do Casal No-,Vou,Meia-idade,Maricas,valla,Derrou Goncalo,"Torre
+
+do cache-nez",Biblio-,Terreiro da Loutas,Infamemente,Mirante,Noronha,graca tatal,Alugaria,Proprios Nacionaes,immenso Titó,Uliveira,lina,Marquez do Roncão,Bofé!,Camolino,physionomia,Pelourinho,Regedor,Iospedaria do Gago,Differença,valle de Canta-Pedra,sarga,ILUSTRE,"Torre
 
  
 
-nho enfiado",Circulos,Pen,Snr.º D. Arminda,"cha-
-mine",lagôa,Concelho da Villa,Ramos,repellia,Mirante,Lancava,carcovas,vulgarisar Portugal,Ribeira do Coice,Lanhoscllo,Rebolava,Grande Ronda,Torre de Santa Treneia,Bar-,Varandinha,Gouveia,mercê de Deus,"Fidalgo
-da Torre",Blle,"Paio Ramires
+Gonçalo","jale-
+ca",opprime,boeirinha,Senhora das Candeias,"Po-
+liítica",Bragança,"Egreja de S.
+Bento",Colera,pelluda,Moçambique,Rompe,quasi,Numerou,Assembleia,Passos,Enxarez,Côrte,intencão,tra,Condes,Bica-Santa...,Jouvando,Duvido,perança,Patriota,Sacavem,POA,Bom Samaritano,"Governo
+Civil",Ministerio,Politica Colonial,Herculanos,calçúra,n'um alto,puz,Roncio,Septembro,assumpto,bandós on-,Marias Mendonças,Provins,Mareolino,Unhello,Companh,Torre!,delonga,Eh,cabo d'aljofar da sombrinha,Affonsina,Palavras,róla,suecessivas,T,egoa,"Governador das Armas d'Entre-
+Douro e Minho",Regeneradores,Arronches,Ai Soledad,Praca,Mos-,Sombras,Alcaide d'Aveyras,Comedia,"Assembleia da
 
-Põe",Rica-Dona,"Largo
-dEl-Rei",Arrendei,agoa do regato,Oh,Chefe,"Governo
-bafou","Senhor de Santa Ire-
-neia",relusia,Terreiro da Loug,Semsabor,Humanidade,Relhos,Toledo,palacete dos Barrólos,"es
-baixo da",lima,Necessito,Sur,Mendonças,Severim,André,Infamemente,Afri,Temerario,peri,Correspondencias,pendia,com-,Cavalleiros de Santa,Casa de França,Atraz,solemnidade,Auctoridade Superior,Azurara,Affonsino,ILLUSTRE,Chega,escarneos d'Oliveira,miradoiro,Balsas,Barrólos,pars,Paço formoso,Mm,Quasi,Poente,Velleda,guesugas,Sud-Express,Monarchia,Ramires,Maltrapilho,prado d'Africa,braco,Santo Deus,Íugidio,sa antiga,Mordomo-Mór,4 Pegureira,Mosteiro de Ribadaes,Brocas,El-Rei,Acceitei,Pereira Brasileiro,Védor,"Governador Ci
+Villa",palmas,Custello de Santa Ireneia,Estirado,Ouviste,cemiterio da Villa,Sa-,Regenerador,encaltnado,Oliveir,Enfiado,Esente,Camara,Denemeritos,Donas,Malta,Ribas,AVE,Calçadinha,"Santa Ma-
+ria",Realmente,Leão,d'Ultramar,Setiaes,Coim-,receioso,Passára,"Es
+
+ção do Fidalgo da Torre",Arranja,Clerigo,braco,Convento de Santa-Brigida de Oliveira,Reparti,Tor,Caminho de Ferro,Sanches Lucena,"Santa
+Maria de Craquéde",Provineia,Atraz,Morra,surdia,barbeava,Alboins,Bayão,Lyceu,Ribeirinha,ur,V.,Gottoso,Com-,Recolheu,legoas,Russo,Governador Civil do Districto,ultrajava,"João
+Gouveia",& Central,Limpa,Imperatriz,Quer,Monforte,"Ilespa-
+nha n'uma pandega heroica",Ordonho,vergari,Snr.º D. Arminda,pos-,Vigario Geral,Olha o Fidalgo da Torre,casal do Miranda,Affoutado,"Carnet-Mon-
+dain",Republica,chinella,Major,Moral,bom Titó,Fl-Rei,Instrueção Publica,Ura,Vi-,V. Ex,Craquêde,Sar,Concilio de Toledo,Perei,Paio Ramires,Abalou,Administrador do Concelho da Villa,Reinos,Historia da Sé d'Oliveira,Sol,eia,enramada d'hera,Horacios,d'Olivi,Trez,"mercê de
+Deus!",hio,Tonifica,Estevinha,Marcolino do Independente,rugio,"Açor ne-
+gro",Torre,Sul,valle muito fundo,Princeza,Cáú,Visconde,bonito rapaz,"Ribeira
+do Coiee",Grajelos,Urgia,"Fidalgo da
+Torre",Figueira da Voz,Lisboa do 5,valle surde,Pedagogicas,Longe,ILLUSTRE CA,Manelsinho,Aministrador,Janeiro,Sala,convento de Santa Thereza,Titó,Uliveiras,"Fidalgo
+da Torre",Espantado,penna,"Sr. Governador
+il dOliveir",Montemor,bebedeira,"HO
 
  
 
-il de",Alcaide d'Aveyras,Uh,asseteado,"Caval-
-leiro",Oliv,egoa...,caracolando,d'Olivei,Bravissimo,pre,n'aguelle,desterra,Corõa,Emfim,Poço de S. Domingos,peros,Rigoleto,"Quinta
+DE RAMIN",— Quem,"rapasola do
+Gago",Ai Santo,"bom
+Barrôlo","Santa Rosa
+de Lima",Praga,Alem-,collaço do moço,Suevo,Reparti-,Castelhano,Videirinha...,pendia,Deputado de Villa-Clara,Cavaleiro dentro da Politica,Bica Santa,Palacete,aquelle,Santo,Depoi,Villar Mendes,Queixa-perra,Prosa,Craquede,"S.
+rasse",Capella,Conçalo,tança,Zambezia,Pacien-,ee,Ricos-Homens de Portugal,Bibliotheca do Paco do Bispo,bengalinha,RAMIES,Syria,Lisboa,ascumas,"ra-
+pina",Snr.º D. Graça,Zésinho,Gamas,Baza-,Bemaventurança,São Reis,Démos,Revista do,Monarchia,Para-,Chro-,Emquanto,Juão Gouveia,Nascente,Pires,MLESTRE,d'Oli,Te-Deum,tiro,Carredes,Obra,Íugidio,"Rosinha
+Rio-Manso",zás,luva,Egre-,Quan-,Vellas,André Cavaleiro,pelludo,"Governador
+Civil",Magistratura,Clerigo da Curia,Mertola,clle,"Cavallei-
+ro!",ma Torre,Natal o Cavalleiro,d'onde Tructesindo,Melodrama,torre d'Almenara,Credo,Ireneia,Amadis,Molle,Dbanqueta,Hotel Mondego,Pen,N'aquelle,Lettras,Torre de Santa Treneia,ria elle,madre Estevani-,Adail,charuteira,"Cavallei-
+ro de Malta",Vendeia,Lousada,Fictoria,Palacete dos fidalguissimos Barrólos,ucharia,Quaes,Caçadas,chapéo,Doa,ci,Tres,Socegae,Governador,marroquim,Troia,Corre,Videirinha,"sa-
+cudindo",Gracinha,mattagal,Feitosa,Cortiga,Jejando,Fica-,Ahi,Cavallari,Camaras,Commendador Romão Barros,Toros,bellez,"Afri-
+ca...",Formosa,Calle,Oli-,Santa Maria de Cra-,Alca-,Louredo,Douro e Minho,Paço formoso,castello de prôa,"Mariquinhas
+Marges",Regimento,S. Fulgeneio,Administra-,Iv,Bispo...,Cemitério,rua das Vendas,camalho,Torre Redonda,Largo do Chafariz,"Es
 
-feira",Obrigado,"estrada de Villa-
-Clara",Ai o Fidalgo,d'Hespanha,Doutor,Terreiro da Louci,Ga,Graça,Marche,"Cavallei-
+ 
 
-ro",collegio,d'Africa,cirado da barbacan...,Macheque,Sophia,Mendo de Briteiros,idéa,Sinto,Domingues,Passos,Clerigo,Xo,Fidalgo,camalho,Voti,Solar de Santa Ireneia,Í,Governador,ULLUSTRE,U Cavalleiro,Justiça,Rua Grande,Bravacs,Castelhano,agucar,Lisboa es,Governador Civil de Oliveira,d'onde Tructesindo,Currespondencia,Froylas,Italianos,poeir,Alcacer,"a
-elle!",Recebedoria,a herva,Fazemos,Egreja,vella,HO,Gouveia...,extasi,Cavallei,Soólha,Biscainho,Monge,ve Emfim,V.,Alugaria,patrõa Pires,Severosa,Adail,Appareceria,"riacho das
-Donas",Ba,Ponte,pelludo,fidalguia,Lova,Villa Real de Santo Antonio,rabear,Sensibilisado,Africa-,Bra,ILLUSTRE CA,Bom Deus,Seculo,Zésinho,Queixa-perra,Formosa,triampho dessa mi-,Administrador do Concelho da Villa,bigodeira,Snr.º Condessa de Chellas,Animada,Mertola,"Fidalgo da Torre es
-trella",Litteratura,Offorccia,Freguezia,Vo,Intantas de Portugal,Maio,bandós on-,Turtesinho,"Rico-
-Homem",bre,Rua,Coudel,Cloves,Perdão,Fínis,chamma alta da vela,Morrendo,Fidalxo,Ditosos,Vocabulario de Bluteau,Guede,triste:—«As,Congo,Jordão,Mascate,"Santa Ire-
-neia de magoados harpejos",Vocês,Hotel Central,ámanhã,Meia-idade,Almirante,N'aquelle,Goncalo Rami-,Curiacios,Guadiana,sahi,Santa Theresa,collaço do moço,generadores,Tordesillas,Patriotas,Lamego,"r
-ca","collete de seda p'
-tou",Tabacaria,d'essa,Rôtinhas,Esconde,quairo,S. Do-,Gonçalo,mareha de fol-,Drancas,Ajudado,Nascente,d'uma ramada,Freixos,Setembro,bagatellas,hombiro,Governador Civil,Cavalleivo,magnolia,ILUSTRE,d'Aquilat,Torre de D. Ramire,Jejando,El-Rei — Goncalo,Para-,Deputado de Villa-Clara,Jesuina,Senhora das Candeias,Pena,boa sande,Inglez,Bemaventurança,Brabante,Toma,Tecedeiras,Banco Hypotheca-,Trn-,Titô,Obra,ponta da sombrinha,Venham,Palacio,Manhi ea Verde...,"Torre
+bre",Rigoleto,Tordezello,virotões,casarão,Deão da Sé,Sahira,Africa-,Oh,trebalha,"Bica-Santa o
+Adrião Pinto",Jã,Avenida,Mosteiro de Craquêde,Porre,Venciam,Londres,"Santa
+Ireneia",arcebispo de Thessalonica,Acor,Casa illustre,Picadeiro,Commo-,cear,urze,Villegas,telegrammas,sta,Cavalleiros,Largo d'El-Rei,Negocios,Camar E,"se-
+nhora obesa",Reino p,"Santa Ire-
+neia",boa sande,Villa,Paços d'Argelim,Soledad,"Cama-
+ras",Gongalo,Ti,lheres,Cousas,Guede,Gonçalão,Guiomar,Santa Barbara,Vim,Penedo,diligencia,Aveyras,"pa-
+relha",feijoal,guesugas,Arte,Tecedeiras,Severim,Vocabulario de Bluteau,Achas,Henriques,Mosteiro de Ribadaes,Hontem,Immediatamente,Braganças,MHa,miradoiro,Mendonças,"ava
+
+tensamente",quasi consenti-,Alemtejo,Obrigado,Samoras de Cendute,Andrésinho,Nascente reappareceu n'um rolo de poeira,d'Alvaralhão,Criticos,Ave-,Cidade,fidalguia,Rami-,guedelha,valle,d'Historia,Pego,en=,Saceudiu,Veneza,Vontade,"Manoel
+Duarte",Dellos,"ro-
+mavia",Bica,"Te-
+jo...",agucar,Paraiso,Concelhos,Landim,S. Bento,telegramma,casaes,gre,Riba-Cõa,chã,Leonez,bre Montemor,Louzad,Estontea-,Praça da Pra-,Ultramar,Jamparinas,"Castello
+serviçaes",pranchada de cavalleiro,"botica
+do Pires",Ourique,Castella,mingoa,Ulha,Christãos,los Regeneradores,Egreja das Monicas,vindima,Pitta,Reino,"Ramos
+do",Roma,Feio,a herva,nôjo,Convento de Franciscanos,Mariposa,Convento de Santa Bri-,"re-
+cuae",S. E,"Domin-
+go",Cayalleiro,"der-
+radeiro anno de",Lã,bezerro,ámanhã,Ileeti,Arrancou,Governador das Armas,creança,"Santa
+Cha",balburdia,Quartel,Cavalleiros de Santa,loja do Leão,"sobreveste ne-
+gra",Honstruoso,Braz Victorino,ElRei,Revista,Historia,"pas-
+sado",Oli,botõe,Imagin,Por-,Juizo,Valverde,Delas,Physiolo-,Mendo de Briteiros,Acolá,Currespondencia,lomba do onteiro,"joe-
+lhos",Alcacova de S.ta Ireneia,mergulhava,Bona,genchra,Realidade,Sur,Bacharel,Formatura,collegio de S. Fiel,Val-,Sabedor,Videir,n'outro,Videirinha adeantou,Nympha,"Gonça-
+lo",Jos,d'Africa,pas-,punhaes,Prompio,Sahi,escarneos d'Oliveira,Lanhoscllo,Arrendei,Rebolou,Go-,Dominava,Castanheiro,d'Hespanha,sahi,sa d'essa,Parada,idéa,Castellos,Histor,"Largo de El-
+Rei",Ru,"vi-
+sinhança",arremettida,Flor da Torre,Es,Us,pars,alegre,"chapéo de
+palha vermelha",Pereira da Rios,Jide,Colo-,chamma,Digodeira,Solha,Fidalgo da Torre chegára,Condessa de Chellas,asseteado,Polyphemo,cabego alto,Curia,Hotel Universal,Gallo,Lt,Corvello,Santa Maria,Baluarte-Velho,Andamos,Ja,Escumar,Lazareto,Marques,carrascão,"Idéa
+
+ 
+  
+
+incolheu",te,cabeço d'Avellan,Rua,Gonçalo optimo,relusia,Feitosn,Mathilde,"Gra-
+cinha",Centro» da Couraça,"lages do
+pateo","castello
+formoso",d'Abril,la-Clara,Jabutava,Canta-Pedra,Districto,Cahio,briria,Julho,Manhi ea Verde...,Christovam,tanger,Joaquim da Horta,peros,Valle de Josaphat,Santa Irencia,Panorana,Fidaigo,"Re-
+Deltos","Torre pa
+coração","Castanheiro Patrioti-
+
+nheiro",Cascaes,"Fi-
+dalgo",Ariosa,Praça da Liberdade,Baixa,Dbraes,Ai meu Fidalgo,anguio,"Braz
+Victorino","Tres-
+Caminhos",d'Além-Jordão,Vistylo,Poema,Mendes,Ensino,rio Historico,Sôlha,ponte da Portella,Chel-,Mafoma,Corõa,Pallido,Sueiro,Bu,Novecenios,Perras de Santa Treneia,Palacio,S. Do-,sa antiga,Tambem,pac,"José Casco
+dos Bravaes!",Tam-,io,Cerdal,Dem,Palha-Cã,Louren,Sabes,Moguncia,Coninho da Moleira,Presidente da Camara,"Santa
+Irencia","Cavallei-
+
+ro","Torre albar-
+ran",sos são delle,"d'Entre
+Minho-e-Douro",ecaldinho de gallinha,d'onde pendia,Annae,Ramos,Torres,Philippes,Offorccia,rão muito alto,Entrudo,bre,Hoste Real,boa Mi,Louças,"Eni
+
+Pallido",Algés,rão das fogueiras,Justiça,Poço de S. Domingos,"Governador Ci
+
+ 
+
+il de",Brocas,DE,Almoiovar,Sé,vegatão,Tanque-Grande,Italia,cemiterio,"Claro-
+Sul","Riba-
+Cavado",Sim,Pa E,Portngal,boa nova,Santa Íreneia,cabo Silleiro,Senhora da Boa Morte,haneo de pedra,Emlim,Gouveia...,Novella,Brazileiro,atravez do jardim,n'aquella nova,buço,d'Ulgoso,...,Azurara,Tristio da Cunha,beguino,egua,Venancia Rios,varzea,Deliciosos,S.,recahiu so-,Toma,ciaes,garganta de Lourenço,"Guião
+d'El-Rey","torre
+albarran","Correspondencia vin-
+gadora",sachristão,RAMIRÍ 127,Portuguezes,Coimbra Antoninha Morena,Ma-,Senhora,ladeira de S. Bento,Mo,Portugueza...,Rhetorica,El-Rei Fer-,Morte,Sobretudo,Domingues,Pros-,Tabacaria,"graca dos
+tremitos d'aza",Santa Ireneia,Craquéde,Pena,d'uma ramada,Torr,Auctoridades,Ophir,Templosinho,"convento de Santa
+Cha",Truetesindo Ramir,"Fidalgo da Torre es
+trella de repente",Goncali-,vergel,Paço,phantasia,Ricos-Homens d'Hespanha,Ha n'ella,"Tecedeiras
+Monicas",Agosto,Mendigo,Lousadas,Terreiro,escarvar,ratamtam,ceu alto,Mm,accrescentava,"Visconde de
+Rio-Manso",Piedade,"Go-
+vernador detestavel",Pe-,Villa Real de Santo Antonio,"ro-
+
+imo 5",Crime do Padre Amaro,Senhoras Infantas,d'Arte,"Bibliotheca do Paço
+
+ito...",Mindello,Ca-,Solar,Edade,arrebatadamente,D. Garcia,Mascate,"Invento-
+Aventureiros",randa,Languidamente,Pereira da Riosa,Has-de,Relhos,Egualmente,Sinto,hio-Manso,MLUSTRE,Ditosos,Hospital de Villa Clara,Vicente,"ir-
+mã",Açor negro,Assem-,patrõa Pires,"Fidalgo da Tor-
+re",Poço da Esquecida,Jornaes,"cabo de
+Santa Maria","Afri
+
+ 
+
+Africa",Deputado,"collete de seda p'
+tou",Hospital,Avê-Marias,Concelho da Villa,"Adail de Santa Ire-
+neia",Capelas da Batalha,Portugueza,Sôólha,chamma alta da vela,generadores,afan da Eleição,lomba do cerro,bagatellas,bou,ULLUSTRE,Torre de Santa Irencia,vidraça,Lisboa es,Eleiç,Boa nova,Loteria,sophar,toreia,"S. Ful-
+
+ 
+
+gencio",peri,Productores,"Mira-
+dães",moeiros,Ave-Maria,Terras,Gonçalinho,lamina d'estanho,Védor,Alcaide,Ordonho Mendes,Honra,Cas-,Intelligencia,Clarim dºOliveira,Asia Menor,Setembro,Paço com o Snr,Prado dos Ramires,Gagô,Alemquer,piga,lapella,Trucie-,"Titó
+descess",Egypto,Torre iluminára,Sea,braza,Monte-mór,bróta,guardasolinho,Tancarvilles,Volte,aquella romantica,Principes da Christandade,Coimbra...,largueza dos campos,Doutor,Sóôlha,Védor da Fazenda,Vomito,Animada,Largo,Egrejinha,Post- Seriptum,Barrôlo,Cenaculo,Administrador do Concelho,bella,Serio,Sidonia,Torre de D. Rami-,Snr,Saudade,lagrimas,solidão,Alcacova,Bayão:—mas,Tructesindo,Semanario,Impossibil,Pinhal,Açor,Resposta,Cruz das Almas,4 Pegureira,Pintainho,Hespanhas,Alva-do,Opposi,chapéo do Fidalgo,"Calle ess
+
+esso",Jide leal,Muros de Santa Ireneia,"Fidalgo da Torre es
+trella",El-Rei,jaquetão,V. E,Rio-Manso,"Torre
 
  
 
@@ -192,156 +287,61 @@ vagar
 
  
 
-samente","Carnet-Mon-
-dain",Correspondencia,Cachamiúz,Mor,Lisboa tres,"Cavallei-
-ro!",Machumba,Porque Portugal,Trans-,VALIESTRE CASA,Henriques,V. Ex,Dr,Hontem,Serras,socego,Aleac,Hudo dos Ramires,ucharia,Gallo,Bruxas,"Cama-
-ras","Adail de Santa Ire-
-neia",Leão,Claustro,Governo Civil de bracos,Corinde,Tordezello,escarvar,Oliveira...,virotões,"alto pu-
-nho dourado",sequito,charuteira,vianda,Jurei,Queira,derriba,Secretaria,Franziu,delonga,gloria,Academica,Obriga-,Languidamente,Ultramar,Alcacer-Kebir,Coninho da Moleira,Gomes,n'aquella nova,casas d'Oliveira,"Joaquim da
-Copa",dade,Populaça,"Espi-
-gal...",Sé de Zamora,"incendio do Pala-
-cio",Bom Samaritano...,Bu,"Go-
-vernador detestavel",Valle de Josaphat,Acolá,"Chafariz
+samente",Recadães,Martinho,mosteiro de Recadães,Certesa,luncta d'ouro,jardim da Torre,pedra d'uma,Sud-Express,caldeira,Senhor de Santa Ireneia,d'hera,Japão,sedinha,Graeinha,Conselheiro,Silves,Tordesillas,André,Proscratinare,ta-Pedra,eirado da barbacan,sequito,Alferes-Mór,"Treixedo
+
+    
+
+tos mil reis",Barróôlo,comprehendia,Durguezia,Chete do Districto,permitte,Circulo,Manhi,Bravacs,Fidalguia,Christo,Velha casa de Ramires,Templo,Affon-,"fr
+
+idéa de ferias",Amarante,Madeira,"Chafariz
 
  
 
  
 
-mir sagrado !","Camaras
+mir sagrado !",Nida de Christo,Enterrei,Tunis,"pa
 
  
 
-Gonçalo",vergari,"Gonça-
-Tenho",hio,"cabo do
-seu guarda-sol",S. Miguel,Roncio,Cunhaese,Sr,Ministerio,Natal,Affonsina,Barrôlo emmudeceu,"Fidalgo da Torre es
-trella de repente",Manoel,"Idéa
-
- 
-  
-
-incolheu",We/-,Arcada,Noronhas,Mi,"sa-
-cudindo",Reparti,"Largo d'El-
-Rei",Bispo,Annaes de Litteratura,Gonçalinho,Ah,Camara,Aveyras,Egualmente,Praça da Pra-,Dengalão,"Villa-
-Clara",Pará,Ionra,Carredes,Governador Civil do Districto,lapella,Borguinhão,Chut,"Pereira
-
-va",Mibeirinha,S. E,Portugueza...,Arronches,Senhora da Boa Morte!,Prosa,boa Mi,polvarinhos,veridico,terraço do jardim,Vomito,Chafariz,Duvido,Açor,cabo do renque d'alamos,Cavado,veira,lusidia,Andrê,Casa de Ramires,ee,Ti,Villa,Santa Irencia,Leoneses,Poço da Esquecida,Serena,Castellos,Palacete dos fidalguissimos Barrólos,Ouviste,Litte-,Pelourinho,Senhoras Infantas,nella,Panorcuna,"pas-
-sado",Dellos,Sim,"Governador
-Civil","ro-
-mavia",madre Estevani-,la-Clara,relogio da Camara,Santa Maria de Craquede,Mata,Im-,bellez,Ser,Roma,Fictoria,Ramilde,Lobo,Ja,Dr. Julio,rugio,Trucie-,Licença,torre albarran,"pas-
-sadas semanas",Dezembro,Vim,"Governadures
-Civis",retiro encanniçado d'hera,Mendigo,Iospedaria do Gago,Pirmina,collete,Cavaleiro,Jide,Redacções,d'onde,Custello,Certesa,Commo-,Rhetorica,El-Rei Fer-,Tanque-Grande,rão muito alto,Ribeirinha,tanger,Agasalhem,Cruz,Dr.,Annica es,Lucena,Ourique,Formatura,Com-,Gracinha,Rocilho,Poemeto,Tructezindo Ramires,veigas do Mondêgo,d'Olivi,Mande,Ai Santo,fundia,Sabe-,Regedor,Assembleia,Feitosa,El-rei,pu,Arremessado,Porto,lJonia,Hirtamente,Manhi,Hospital de Villa Clara,eirado da barbacan,Cemitério,Gareia,Nosso,Largo do Chafariz,Vellas,Torre de D. Ramires,garbo,Hoste Real,poeira da lide,Lrazia,Intelligencia,"Bica-Santa o
-Adrião Pinto",Dobraram,resoou,Gutierres,fr,"Grande Ca-
-tharina...",Roqueira,ão dos Proprios Nacionaes,buço,úmanhã,Ahi,Cidade e as Serras,Prado dos Ramires,Zambezia,toreia,"cidade d'Oli-
-veira",Ha,Pegureira,Praca,abraca,Maricas,Além-Jordão,iola,Proscratinare,Poço Velho,Pensadores,Índia,"Amarante
-
-  
-
-Rei",Monte,torcido so-,Oliveir,"Eni
-
-Pallido",pigarreanilo,piga,Ophir,Annica,chammas,Sala,sedinha,Calçadinha,Derrou,terreiro da Honra,Feitosn,Centro Regenerador da Couraça,Castanhei,"Ilespa-
-nha n'uma pandega heroica",divan,mingoa,boa nova,Ribeira sobre a rude,Senhor de Santa Ireneia,Veneza,Castello de Santa Ireneir,Districto,Concilio de Toledo,"Mira-
-dães",Andar,Excellencias,Bravaes,Eleitores,Bibliotheca,Officina,Alcaçar de Coimbra,sensac,Jos,zenia,Arte,"anci
-
-ge do Largo",Lamello,Chama,Convento de Santa Bri-,caldeira,Saudade,Winchester,Treixedo,Immediatamente Videirinha,Reisinho,aquella grande fidalga,ALLUSTRE CASA DE KAMIRES,Riosa,d'Ultramar,lreneia,Serio,Sóôlha,"valle
-de",pre rijo,Meija-Edade Portugueza,d'Orgaz,Guimarães,petroleo,comeco da villa,Braz Victorino,Titó,Rematou,tança,castellão,Septembro,Biblio-,Vou,dynastia d'Aviz,Diombo,Toca,"d'Entre
-Minho-e-Douro",Conselheiro,"Pas-
-sado",Lis-,Arcos,"re-
-cuae",pelluda,Auctoridade,Villa-Velhas,"Santa
-Ireneia",Tructe-,Jamparinas,Ponte...,Soledud,Cerejeira,Olha,"Pales-
-tina",Bom Samaritano,Cerdal,stencia,Joaquim da Porta,tenebrosa,urze,gria,Queres,ta-Pedra,Telegrammas,Lisboa,Santa Maria,braza das lareiras,Capella,chamma,Deliciosos,Simples,Rio de Janeiro,d'Oliveira,ahi,Ministro,"Casal do
-Miranda",& Central,luncta d'ouro,Europa,Bacharel,Santa-Ireneia,Fuja,tauxeado,ce,Has-de,Quaes,Ceuta,"Bica
+Mas",VALIESTRE CASA,S. Gun-,Tonra de Santa,Francezes,Relho,vulgarisar Portugal,Sophia,Sólha,Política,balsão,"Largo
+dEl-Rei",Paços de Santa Ireneia,Córtes,vo affirmo,tufava,Braz Vietorino,Sr,Circulos,Macheque,ILLUSTRE,torre:—e Titó,Saber,Videi,"ribeira de
+Crêde",casas d'Oliveira,d'elle,Velho,Encharca,Eleic,"Mosteiro de
+Recadães",Turtesinho,Maltrapilho,Querida,"Caval-
+leiro","Gonça-
+Tenho",Aleaçova,Asylo,bigodeira,triste:—«As,Pequenina,"Penedo
 
  
 
-Santa",Tas,Major,pos-,Opposi,Boa nova,Beliscava,vo affirmo,Rei,"pi
-
-rigão de malha",beguino,Arranja,Colonia,aquelle,Bernardino,rua Velha,nellas,Mos-,Supplementar,ecdeu,Senhor da Torre,bróta,Mundo,Truetesindo Ramir,sarga,idyllio,Velho,Naturalmente,Arabes,Provins,arremessaria,Bica-Velha,cendia,lina,Durlesca,Soledad,Pedagogicas,Derrou Goncalo,Olhe,F,«Cruz das Almas,Amoreira,telegramma,Policia,Barrolica,Alerta,Gramilde,Parabens,Esente,Feio,Paços de Severim,Go-,comprehender,"Tres-
-Caminhos",Mareolino do INDEPENDENTE,...,Panorama,Marte,Olha o Fidalgo da Torre,cabo d'elles!,Enternecido,Simões,Portugalsinho,Custello de Santa Ireneia,cunhal rachado,Tonifica,d'Oli,Picadeiro,"Paço
-manuelino",Praça,"Governador
-vil d'Oliveira",Dbraes,Sa-,Paço do Bispo,"An-
-dré",chapéo do Fidalgo,d'Arte,Philippes,Manoelzinho,Paços de Santa Ireneia,Administrador do Concelho,Gracinha céron,"Vo-
-tos",Jerusalem,despendurando,Sueiro,Asylo,!,Credo,do Sul,Janeiro,bebedo,Coim-,"HO
+da Saudade",Cacr-abraços,Cemiterio,Julios,A Reliquia,ALLUSTRE CASA DE KAMIRES,Ro,Mordomo-mór da Curia,Europa,Villico,Hudo dos Ramires,Amanhã,Honra de Santa Ireneia,Minas de Salomão,Aflonsino,man-,Bravo,sopeando a egua,Academica,Parou,Truetesindos,Annaes,Tavira,Naturalmente,Hespanhoes do Conde de Venavente,Arribada,do Sul,cantiga,nella,Governo Ci-,Club,Portugalsinho,Instrueção,Rico Homem,soccorro de Monte-mór,Rica-Dona,Regen,Galiléa,terreiro da Honra,"cabo do
+seu guarda-sol",Cortes,fenda,áúmanhã,Joaquim da Porta noticias dos senhores,Corinde,convento de S. Domingas,Ah,Ri-,sa,"Cu-
+nhaes",Ponte...,Amieiro,abalára,Tempos,Jjára,Tipoia,apa-,"estrada de Villa-
+Clara",metteu,Cama-,Deves,Supplementar,Corin-,fundia,Cantapedra,Licença,Costa que S. Es,torre da Camara,Manrique,atravez do casarão,"cabeca
+alta",Filho-d'Algo,Fazemos,bulhas,upa,Barrôlo emmudeceu,Tructezindo Ramires,Guadiana,Novellasinh,Denzia,Alvaralhão,Coimbra,Mordomo-Mór,Jurei,Víduinhos,cedêra,Litteratura Grega,Vocemecê,cabeliei,braco do Fidalgo,sos da matta,ULESTRE,Bra,prado d'Africa,Santa-lreneia,Districto do,"valle
+de",melancholia,Vidalgo,Affonsino,Nem,Craquéêde,Portugue-,Condado Portu-,Soledud,bom Regenerador,Santa Aidonça,"Pintai-
 
  
 
-DE RAMIN",banco de pedra,"Pego das Bi-
-chas",Torre iluminára,terra molle,ecaldinho de gallinha,Tonra de Santa,Vontade,demitto,bosque de roseiras,tristeza,Curamba,Riba-Cõa,d'agoa,"S. Ful-
+nho enfiado",Quero,Im-,velho Ramiro,Imagina,Ra-,Verde,Hespanha,Athenas,Tolhida,"Paio Ramires
+
+Põe","Governador
+vil d'Oliveira",Tejo,Grande,El-rei,Bibliotheca nacional,Capellão,Gramilde,mma,Vamos,Lenda,Snr.º D. Rosa,João,Gazela,Don Juan,terraço do jardim,"valle
+da Riosa",Conviviam,Auctoridade,Terceira,d'estanho,S. Miguel,Rosa,cunhal rachado,Pagem,Vo,Manoel,Procuradora,Arremessado,lua,Telegrammas,Administração,"Annica es
+— Quer saber",Venha,Varandinha,Ser,"Pego das Bi-
+chas",Sorte,pigarreanilo,Reriz,Snr.º,Novembro,Fidalgo da Torro,"lagar do
+Snr",Portu-,Ermigues,Dr,d'este Cavalleiro,Entra,Manoelsinho,Levita,Pensadores,Jerusalem,descancar,crystal antigo,Capital,Italianos,Sacudia,Puxou,"re-
+gou de louvores",Administrador,Mathildes,"Re-
+gedores",Chafariz,Caro,acaci,Mande,pecto,erever,Secretario Geral,Bar-,«Cruz das Almas,pedra do jardim,Atrica,Reformadores,d'Fespanha,Durlesca,Mi,Praça,"Largo d'El-
+Rei",Morrendo,Gomes,Claustro,Calçada,Gutierres,"si-
+lencio",Snr.º D. Maria,Caminho,"Elei-
+cão",Bica-Santa,Barrólinho,Patriotas,Terreiro do Paço,"Dilhares da
+Sophia",Barrolica,singelament,Manoel Relho,desterra,"U Bento de
+wazida",França,Cruz,Serra Morena,HO,Ceuta,Governador Civil de Oliveira,gros-,"Torre de D. Rami-
+
+R
 
  
 
-gencio",bella,Cruz das Almas,Sé,Sás,grbssa pocirada,Misericordia,Política,bom Barrólo,"peor
-desdouro",Mariposa,Torre aos Domingos,Miranda,Patriotismo,Provedor,Cerda,recahiu so-,elle,Borgonha,Andamos,Vaiverde,Amanhã,Démos,vergel,Cidade,Alcace,Villa Cla-,Appareço,Achas,ponta molle da orelha,Quer,Hymno,Baixa,"braço do Admi-
-nistrador",Duzentos,Pereira da Rios,Montemor,Brazil,castello de prôa,d'estanho,bebedeira,MLLUSTRE,pudicicia,ultrajava,hRosa,Revista,Mendes,Claro-Sol,Ensino,Procuradora,zás,Atravez,Bari,Deão da Sé,Serra Morena,ULESTRE,Santa Íreneia,valle surde,Fidalgo da Torre,Lenda,Ave-Maria,Pacien-,Vistylo,intencão,Santa Barbara,Villa Clara,bom Barrôlo,Vejo,Londres,Realidade,Amarante,Ilespa-,VALIESTRE CASA DE,chão do Terreiro,Mette,Perola,Morra,los Regeneradores,"Fidalgo da Tor-
-re",Melodrama,ALLUSTRE CASA DE,Dona,legoas,Convento de Santa,"banco de
-pedra",Escusados,Tam-,Por-,Visconde de Rio-Man-,Post- Seriptum,Mul-casada,d'Ulgoso,Re-,Proprios Nacionaes,Marias Mendonças,Sna Exe,cova negra,Craquede,"jale-
-ca",Tripoli,pharol,Therezas,Tor,Reriz,Grajelos,Santa-lreneia,ratamtam,soccorro de Monte-mór,Coronel Trancoso,Oliveira,Pequenina,erever,"Riba-
-Cavado",mergulhava,cear,guedelha,Chete do Districto,Oratorio,"re-
-gou de louvores",lusco fusco,sa d'essa,suecessivas,El-Rey,ermida,Moral,"ra-
-zão",Portugueza,"Calçadinha de
-Villa-Clara",Bazar do Asylo Novo,trebalha,luva,"U Bento de
-wazida",Velha casa de Ramires,aldéa,"Es
-
-ção do Fidalgo da Torre",Centro,Palestina,Musas,Abbade de Chandim,Marcolino do Independente,Mondego,Eh,Syria,Novidades,Dbanqueta,"Fidalgo da
-Torre",Templosinho,Passára,d'Fespanha,Veêde,Piedade,leaçova,Sôlha,"egua pu-
-lou",minha senhora,n'outro,Porque,Ro,telegrammas,Mindello,Serpa,Unhello,Providencia,Cavaleiro dentro da Politica,quasi,Regimento,phantasia,Maior,Fica-,Paiz,sos da matta,d'Além-Jordão,Santa Clara,Eleic,FE,Nida de Christo,esguio,Barrolinho,Polyphemo,Gom,solidão,cedêra,bezerro,Açodado,braza,Duas,d'hera,"castello
-formoso",Authoridade,Perei,Sea,Alvaralhão,"casa dos
-Souzas","l
-
-Gonçalo",Víduinhos,torre d'Almenara,"Torre
-
-do cache-nez",bengalão,Novellas,"botica
-do Pires","Cu-
-nhaes",Ribe-,"Sanches
-Lucena",Fica,Encharca,Panorcana,Portngal,agonisava,mecheu,ma Torre,Rio-Manso,Iv,Libertava,Capelas da Batalha,Palaeio,Cavallari,Pires,Elrei de Leão,braco do Titó,Limonada,França,molle,Villegas,"pas-
-
-zada",Seminario,Prdo dos Ramires,comezaina,"Ribeira
-do Coiee",Videirinha...,d'Arraz,"José Casco
-dos Bravaes!",assumpto,Heitosa,"Tam-
-
- 
-
-ro-Homem",Quan,pedregulhos d'oiro,Ariosa,Calcadinha,Portuguezes,Lopo,"Te-
-jo...","rapasola do
-Gago",chech,Brazileiro,Rocio,Deanto,Lt,Escumar,labutava,fenda,crystal antigo,Riba-Cavado,Reino p,Loteria,"Annica es
-— Quer saber",bozina de marfim,Fabrica,"Santa
-Cha",Lanhoso,"pa-
-relha","Torre pa
-coração",Voeês,Jenço,Hotel Bragança,baptisado,Calle,Fidaigo,n'este Agosto,Tibulo,"bom
-Barrôlo",Chellas,Deputado,Pintainho,Snr.º D. Graça,Mafoma,melhorára,Terreiro da Loutas,collina,Largon,Hotel Braganca,Numerou,Tristio da Cunha,Drutos,Clêves,Ileeti,Cunhaes,Golpho,physionomia,Terra,Manoel Relho,Torre de 1,bom Padre Sueiro,Athay-,Bastardo,Pa E,Santa Ma-,Instrueção Publica,"Pano-
-rama",MHa,Cerreu,faleão,Hotel Universal,"Bispo
-de Oliveira",Sol,ElRei,Digodeira,Colo-,"te-
-legrammas",Beja,Borróôlo,Ninguem,Noronha,Castello,Louredo,"Nosso Se-
-nhor",Aflonsino,Goncalinho,João ferreiro,Jouvando,"fr
-
-idéa de ferias","Honra
-de Santa Ireneia",Pe-,lages do Largo,cumas,botõe,Rico Homem,Louren,Conviviam,Defronte,Senhora da Boa Morte,Vento,tiro,chã,Japão,Vigario Geral,Terreiro,Torto,Vossê,"Afri
-
- 
-
-Africa",paro,Suevo,pégo das Bichas,Concelhos,valle muito fundo,José Casco dos Bravaes,Tempos,Obras Publica,Emquanto,Gottoso,Alcaçova procurar,Ave-,Costa,Meia-Idade Portugueza,Coitadinho,"João
-Gouveia","Oliveir
-
-São",Ribeira,abalára,Pitta,Camara...,Paço de Santa Ireneia,Gongalo,Torn,— Quem,mattagal,Historia da Sé d'Oliveira,Pegas,"Rosinha
-Rio-Manso",Racha do Moiro,vermo,Cadeia,Setiaes,"Fi-
-dalgo",Clarim dºOliveira,Della,Denemeritos,Largo d'El-Rei,d'Abril,Pego,Virotes,Minas de Salomão,Santa Maria de Craquéde,Espantado,Bispo...,RAMIES,Puxou,n'um alto,ceu alto,perança,Peccadores,Independente d'Oliveira,Castello Affonsino,melancholia,Agosto,Castanheiro Patrioti-,Caminho,Crispola...,"polici
-tam",balburdia,boston,varzea,Epocha,Dynastias,10 Snr,Terreiro da Louça,Imagens,Nacejas,Convento de Franciscanos,te,Sanches,feijoal,d'ElRei,bravio,MLUSTRE,"re-
-posteiro",perola,Governo Ci-,legua,Torre Gracinha,áúmanhã,Principe,Ceylão,Socegae,Jide leal,Enxarez,Manoel Pereira,escoucear,Villico,Peecado,genchra,"graca dos
-tremitos d'aza",Sahira,palmas,Pereira Brazileiro,DE,Côrte,tanque redondo,Chel-,lua,Christovam,egoa,atravez do jardim,"Ma
-
-rar",Saber,Reparti-,Silves,anguio,eomo,Acto,Venancia Rios,Ai Soledad,Sabedor,Asia Menor,chinella,Thessalonica,Centro» da Couraça,Baroneza,Marques,"sequito
-
-louvaminheiro","Pereira
-da Riosa",Videirinha adeantou,quasi consenti-,India,"convento de Santa
-Cha",Terceira,Pereira,Cortiga,Grainha,"si-
-lencio",compina,Nem,Alemtejo,Bruscamente Gracinha,Fatali-,Palacete inaccessivel,"Gra-
-cinha",immenso Titó,"loja do
-Ramos",T,canceira d'esmincar,"Correspondencia vin-
-gadora",chapéo,Entrudo,humbrae,briria,"Sr. Governador
-il dOliveir",S. Vicente,Republica,Braganças,Egypto,sa,Mendonça,Christãs,aquella Fé,Physiolo-,riacho das Donas,eia,Clerigo da Curia,Palavras,Paio Ramires,Barrólinho,"Santa
-Irencia",Désta,Olival,Gamas,quasi historica,sé,Instado,"Largo de El-
-Rei",Paco,Morte,Mathilde,Senhora,Alboins,Casimiras,Torre de S. Matheus,Tiló,Villa-Clara,"Oh
-Gracinha",Volte,Tabaca-,Porre,Costa Oriental,Ru,"Trei-
-xedo",Oli,Mareolino,Tejo,"se-
-nhora obesa",Sangria,carvalheiras do Casal No-,Sacavem,Goncalo,Novella...,luda de rijas,Recadães,Torre de D. Ra-,Arega,Flandres,"Assembleia da
-
-Villa",Venha,Castela,Nascente reappareceu n'um rolo de poeira,convento de S. Bento,Santa Maria de Cra-,Jargav
+s.","Teixeira de
+Carredes",compina,"Paço
+manuelino",Cachamiúz,"Sanches
+Lucena",Poente,Uavalleiro,Almocei,Epocha,ponta fina,Fica,Grande Ronda,Lugilde,riacho das Donas,Cloves

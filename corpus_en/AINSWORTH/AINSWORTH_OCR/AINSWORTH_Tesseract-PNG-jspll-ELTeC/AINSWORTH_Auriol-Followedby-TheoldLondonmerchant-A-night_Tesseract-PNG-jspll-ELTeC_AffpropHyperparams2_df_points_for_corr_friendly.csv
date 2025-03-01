@@ -1,53 +1,53 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7
-0,Rougemont,Richmond,Beaumont,DR,Monsieur Violet,Loftus,IL,Beatitudes
-1,Regent,Inn,Serpentine,25th Regiment,,,,
-2,Venice,Perth,Kenilworth,AINSWORTH,Up.ch,,,
-3,Belvoir,Rookwood,,,,,,
-4,Charles,Charing,Farquhar,Chamber,,,,
-5,South,’s,Se,South-,STATUE,Southwark,"you,—‘Ll",Watts
-6,nearest kinsman,Forest Days,Whitefriars,L. EL.,Pictures,Red,Mississippi,
-7,ROUTLEDGE,Bivouac,Routledge,,,,,
-8,flagon,Thames,St. James’ss,America,Pelham,Masses,Ivanhoe,
-9,Mosses,Calabria,Isle of Sky,,,,,
-10,Mardol,Mars,Tokay,Marion,Marked,Santa Maria,,
-11,Sea Lions,Sea,Satan,,,,,
-12,Plot,Midlothian,Bohemian Libraries,Lyndhurst,ROSICRUCIAN,,,
-13,Mackintoshes,Wintry,sepulchre,Packet,,,,
-14,Woodstock,Eastcheap,Paston,Grafton,Newton,,,
-15,Westminster,Munster Festivals,Zoroaster,W.H.,Steel Plates,master’ll,scaly sea-monster,Leicestershire
-16,LAUREL,Dauris,Laurel,laurel,Swan,,,
-17,Podrida,Old Bailey,France,Old Pair,,,,
-18,Faint,Spain,"Saint
-James's-square",Saint,"Saint
-Gives’s",Rome,,
-19,"St.
-George’s",St. Peter,St.,Antverp,,,,
-20,scagliola,Wakefield,ANTIQUARIES,Yielding,Fields,,,
-21,Sins-,Finsbury,Canterbury,Drury,Lothbury,,,
-22,Flapdragon,Barns,Curzon,Temple-bar,Barabbas,,,
-23,River,Turk,,,,,,
-24,Haliburton,Whitehall,"Hallywoed Es
-Hall",,,,,
-25,Santa,Tlosiage,Portrait,fort,Oxford,Beaafort,,
-26,HYDE PARK,Hyde Park,Park,Colours,Park-street,Paris,,
-27,the Chaplain ages,Italy,"the Alabama
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
+0,Kensington,saying’-,Nottingham,Oak Openings,Washington,Abingdon,Tinge,,
+1,Beaumont,Rougemont,Ve're,Richmond,Belvoir,Monsieur Violet,Beatitudes,,
+2,thou,Thou,Author,,,,,,
+3,Strike,Satan,Boscobel,Strand,King-street,,,,
+4,Bastille,Cornhill,sepulchre,Millbank,Billinsgit,W.H.,Achilles,,
+5,Se,Forest Days,Pictures,Mississippi,nearest kinsman,,,,
+6,Leicestershire,master’ll,Munster Festivals,Peak,Westminster,Steel Plates,Zoroaster,Bivouac,scaly sea-monster
+7,Sea Lions,Sea,Up.ch,Loftus,,,,,
+8,Haliburton,"Hallywoed Es
+Hall",Turk,STATUE,Whitehall,,,,
+9,Cristofano,Manon,anon,Red,,,,,
+10,flagon,Wakefield,Fields,Yielding,,,,,
+11,laurel,LAUREL,Dauris,Laurel,,,,,
+12,Amelia,Elia,"Queen
+Elizabeth’s time",penetralia,,,,,
+13,Mosses,Paston,Tokay,Grafton,Woodstock,Eastcheap,Newton,,
+14,Canterbury,Finsbury,Sins-,Drury,Lothbury,,,,
+15,Santa Maria,Marked,Marion,Mardol,Mars,"you,—‘Ll",,,
+16,Ninus,Flapdragon,Wyandotte,Rotterdam,Waterloo,Vignettes,,,
+17,South-,Southwark,South,,,,,,
+18,Charing,Charles,Farquhar,Whitefriars,Rookwood,,,,
+19,Old Bailey,Ivanhoe,Old Pair,,,,,,
+20,Regent,Serpentine,25th Regiment,ROME,Watts,Podrida,,,
+21,Ispahan,Chance,Chamber,,,,,,
+22,Portrait,Beaafort,fort,Oxford,ER,Tlosiage,Fra,,
+23,Phantom Ship,ANTIQUARIES,France,Antverp,Calabria,Santa,,,
+24,AINSWORTH,Perth,Kenilworth,Venice,,,,,
+25,L. EL.,Barns,Temple-bar,Barabbas,,,,,
+26,Rome,Lyndhurst,,,,,,,
+27,Italy,DR,,,,,,,
+28,"St.
+George’s",St. Peter,St.,,,,,,
+29,Inn,Pompeii,New Myers,NEW YORK,New Type,,,,
+30,Paris,Hyde Park,Park-street,Park,HYDE PARK,,,,
+31,’s,scagliola,Dunleath,Henry VEIL,,,,,
+32,"Saint
+James's-square",Faint,Spain,"Saint
+Gives’s",Saint,,,,
+33,Swan,Hermetic,,,,,,,
+34,Blenheim,KRONHEIM,KronuEIM,Byron,,,,,
+35,London Stone,LONDON,Old London,London,IL,,,,
+36,America,St. James’ss,Pelham,c.g.,Vol,Thames,,,
+37,Bohemian Libraries,ROSICRUCIAN,Plot,Midlothian,,,,,
+38,Curzon,Packet,Isle of Sky,Wintry,Mackintoshes,,,,
+39,vol,the Black Dwarf,The Inland Sea,Stepfather,Colours,the Chaplain ages,"the Alabama
 
 Il
 
-Case",Vol,Stepfather,The Inland Sea,Ve're,the Black Dwarf
-28,c.g.,Henry VEIL,vol,,,,,
-29,LONDON,Old London,London,London Stone,,,,
-30,Fra,Strand,Strike,King-street,,,,
-31,Bastille,Achilles,Millbank,Cornhill,Billinsgit,,,
-32,Ninus,ER,Boscobel,,,,,
-33,anon,Cristofano,Manon,,,,,
-34,Pompeii,Scotland,Highlands,Highland,England,Lamplight,Inn-lane,
-35,Byron,KRONHEIM,KronuEIM,Blenheim,,,,
-36,Dunleath,Thou,thou,Author,,,,
-37,ROME,Hermetic,Phantom Ship,Peak,Ispahan,Chance,,
-38,Wyandotte,Waterloo,Vignettes,Rotterdam,,,,
-39,Washington,Godolphin,china,,,,,
-40,Kensington,Tinge,Abingdon,Nottingham,Oak Openings,saying’-,,
-41,Amelia,penetralia,"Queen
-Elizabeth’s time",Elia,,,,
-42,NEW YORK,New Type,New Myers,,,,,
+Case",,
+40,Masses,Godolphin,china,,,,,,
+41,England,Highland,Lamplight,Inn-lane,Scotland,Highlands,,,
+42,Routledge,River,ROUTLEDGE,,,,,,

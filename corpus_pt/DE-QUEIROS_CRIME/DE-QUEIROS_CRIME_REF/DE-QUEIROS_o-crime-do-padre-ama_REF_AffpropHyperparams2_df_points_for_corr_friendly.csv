@@ -1,53 +1,155 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18
-0,anda,Anda,Outra-Banda,Job,Anda-me,escandalo do jornal,Suspenda,,,,,,,,,,,,
-1,Dois,l'Abbé,Bois,,,,,,,,,,,,,,,,
-2,alegre,Vista-Alegre,telegrammas,legua,,,,,,,,,,,,,,,
-3,Charonte,Ponte,Ponte Nova,posponto,UT,poz,Defronte,hontem,,,,,,,,,,,
-4,d'Ourem,Ourem,Pimentel d'Ourem,côxo,,,,,,,,,,,,,,,
-5,estrada da,estrada da Figueira,fazenda da,,,,,,,,,,,,,,,,
-6,Succedeu,Successores,succumbiu,bom successo,succedia,Redemptor,,,,,,,,,,,,,
-7,Divagava,Esfregava,socega,sôfrega,Tótó,,,,,,,,,,,,,,
-8,Officio,Santo Officio,injustificavel offendeu,Officios do Moraes,,,,,,,,,,,,,,,
-9,Hespanha,Espaçava,Japão,d'Hespanha,,,,,,,,,,,,,,,
-10,Ella,Cancella Velha,Pobre d'ella,n'ella,Syllabus,Estrella,Janellas,Bella,Bruxellas,Ellas,,,,,,,,,
-11,425|,Bonito,Diu,U.S.,bonito,Introito,Bonita,,,,,,,,,,,,
-12,"santa da
-Arregassa",Santa da Arregassa,Cortegassa,,,,,,,,,,,,,,,,
-13,Padre,Ir,Madrid,Padre-Nossos,Padre-Mestre,Deus-Padre,,,,,,,,,,,,,
-14,Peccado,sêcca,,,,,,,,,,,,,,,,,
-15,Voltava,Gostava,Repastava,Instava,"cost and with
-almost",,,,,,,,,,,,,,
-16,"Habana
-Valga-me",Repita-me,Algarve,Valsa,"Habana
-Valga-me Dios",,,,,,,,,,,,,,
-17,Deixal-a,Tel-a-heis!,Deixal-as,Casal-a,,,,,,,,,,,,,,,
-18,Agasalha-te,Fazia-te,Agasalho,,,,,,,,,,,,,,,,
-19,Sahia,sahia,Cahia-me,Bahia,,,,,,,,,,,,,,,
-20,d'Evora,Evora,Sé d'Evora,,,,,,,,,,,,,,,,
-21,rua do Norte,rua dos Condes,Snr,XXIV,tectos dos curraes,Mendes,rua da,Condes,rua dos Calafates,,,,,,,,,,
-22,hostia redonda,hostias,don,hostia,cara redonda,Credo,Capujá,,,,,,,,,,,,
-23,Redistribution,lêr,Districto,,,,,,,,,,,,,,,,
-24,Estado,bêsta,d'Estado,Sêbo,Assustado,,,,,,,,,,,,,,
-25,reliquia,Religião,Reliquia,,,,,,,,,,,,,,,,
-26,Gertrudes,deserta,Gertrudinhas,aquella Gertrudes,,,,,,,,,,,,,,,
-27,Ordenou-se,Cordeiro Paschal,d'ordens,,,,,,,,,,,,,,,,
-28,Extremoz,Extrema-Unção,"La
-Tremouille",mugiu,d'Extremoz,,,,,,,,,,,,,,
-29,Baldeschi,Debalde,escóla,,,,,,,,,,,,,,,,
-30,suffoca,suffocada,uff!_--Vá,petroleo suffocava,,,,,,,,,,,,,,,
-31,Repetiu,petroleo,Republica,,,,,,,,,,,,,,,,
-32,Morgadinho,Morgadinhos,Morgados,Morgadinho dos Poyaes,Morgado,Morgaditos,din,,,,,,,,,,,,
-33,legião dos santos,Legião d'Honra,convivencia dos santos,,,,,,,,,,,,,,,,
-34,Christo,christão,tristeza,Corpus-Christi,Bristol,Thus,Pobre de Christo!,réo,Commendador de Christo,,,,,,,,,,
-35,Porta de Ouro,porta da taberna,banco da taberna,snr,Porta do inferno,"PORTO
+0,Estado,bêsta,Assustado,d'Estado,,,,,,,,,,,,,,,
+1,Elyseos,,,,,,,,,,,,,,,,,,
+2,porta da taberna,"PORTO
 
-LIVRARIA INTERNACIONAL DE ERNESTO CHARDRON",,,,,,,,,,,,,
-36,Crime do Padre Amaro,padre Amaro,"Crime do
-Padre Amaro","CRIME
+LIVRARIA INTERNACIONAL DE ERNESTO CHARDRON",Porta de Ouro,Porta do inferno,banco da taberna,,,,,,,,,,,,,,
+3,Imagine,proxima,Imaginava,Magdalena,Emmagreceu,,,,,,,,,,,,,,
+4,terra,UT,serra,Tertiò,aterrado,Inglaterra,,,,,,,,,,,,,
+5,lha,Olha,Milhares,Batalha,Olhavam-n'o,Esguelhas,s'orgulhar,chocalhava,,,,,,,,,,,
+6,Perdão,Aperte,Perfeito,Persia,Perderam-me,Perdôe-me,perfidia,Perdôa,,,,,,,,,,,
+7,Gertrudes,III,aquella Gertrudes,deserta,Gertrudinhas,,,,,,,,,,,,,,
+8,Metto-me,Faz-me,promettia,commetter,,,,,,,,,,,,,,,
+9,Coitadinha,coitadinha,din,Coitadita,,,,,,,,,,,,,,,
+10,Ponte,hontem,posponto,Charonte,Defronte,Ponte Nova,,,,,,,,,,,,,
+11,casa do conego,Fé,tranquilla casa do conego,Casa Havaneza,aza do capão,idéa do conego,,,,,,,,,,,,,
+12,"Nossa Senhora
+das Dôres",Nossa Senhora das Dôres,Senhora das Dôres,"Nossa
+Senhora das Dôres",,,,,,,,,,,,,,,
+13,"conego
+Dias",Ó Dias,conego Dias,Dias,conego,conego selvagem,egoa,,,,,,,,,,,,
+14,Castello,Castaldus,Traste,chôro,viella do castello,monte do Castello,,,,,,,,,,,,,
+15,sacristães,sacristão,acre,Sacrificaria,,,,,,,,,,,,,,,
+16,Joia,Julia,Juliana,Biblia,,,,,,,,,,,,,,,
+17,Succedeu,Ai,succedia,succumbiu,Successores,bom successo,,,,,,,,,,,,,
+18,Gansoso,Gansosinhos,Gansosos,,,,,,,,,,,,,,,,
+19,aqui!--E,é!--E,Aquillo,,,,,,,,,,,,,,,,
+20,Critica,Critica do Brazil,Politica,Lully,,,,,,,,,,,,,,,
+21,Jure-me,Case-me,Parece-me,Lembre-me,,,,,,,,,,,,,,,
+22,Alcobaça,serra de Alcobaça,d'Alcobaça,Brito de Alcobaça,,,,,,,,,,,,,,,
+23,Saude,Job,saude,,,,,,,,,,,,,,,,
+24,Communicado,Communa,Excommunhão,,,,,,,,,,,,,,,,
+25,aquelle hombro santo,Aquelle,aquelle arsenal beato,aquelle,N'aquelle,n'aquelle,m'as,n'aquelle buraco,elle aquellas,elle vêr aquella,Aquelles,,,,,,,,
+26,herva,hervas altas,Sé,hervas humidas,bahú,,,,,,,,,,,,,,
+27,casa da S. Joanneira,S. Joanneira!,S. Joanneira,S. Joanneira e elle,Joannita,Joanna,S. Joanneira na Vieira,S. Joanneira comprehendeu,"S. Joanneira
+tagarellava",,,,,,,,,,
+28,Arcada,Cumiada,crêr,anasarca,Sôa,Carcavellos,,,,,,,,,,,,,
+29,barra da cama,cartorio da camara ecclesiastica,barra da cama:--_Amelia,,,,,,,,,,,,,,,,
+30,suffoca,petroleo suffocava,uff!_--Vá,suffocada,,,,,,,,,,,,,,,
+31,recamam,acalcam,camara,mamã,,,,,,,,,,,,,,,
+32,aquella dôce,aquella pequena capella d'aldeia,aquella,aquella bonita,Áquellas,Aquella,aquella velha,Aquellas,aquella dôr,,,,,,,,,,
+33,São da Encarnação,Senhora da Encarnação,cova da enxerga,Senhora da Incarnação,Encarnação,,,,,,,,,,,,,,
+34,Janota,Libano,saiba,Libaninho,,,,,,,,,,,,,,,
+35,Charuto,chapéo,Achava-o,Chateaubriand,Chalaça,Archanjo,charuto accêso,Michaela,pêra,chavena,Chafariz,,,,,,,,
+36,palrava,Abafava,|#pág,Arfava,gargarejava,Accumulava,"Sé
+repicava",tisnava,,,,,,,,,,,
+37,Pires,Tres,Londres,Buenos-Ayres,retreta,pressa,resonar,,,,,,,,,,,,
+38,Via-o,Via-Clara,Devia-a,Conhecia-a,,,,,,,,,,,,,,,
+39,Ahi,d'ahi,D'ahi,ahi,,,,,,,,,,,,,,,
+40,Accendiam,Accendia,suor,accêso,,,,,,,,,,,,,,,
+41,Thereza,Therezas,There,herejes,Natureza,,,,,,,,,,,,,,
+42,Pater est,Pater,festa paterna,,,,,,,,,,,,,,,,
+43,Vêr-te,vêr-me,mexe-te,Vêr,,,,,,,,,,,,,,,
+44,Santa Apolonia,Agonia,Polonia,ceremonia,Babylonia,Antonia,,,,,,,,,,,,,
+45,Gorda,gallinha gorda,Taborda,,,,,,,,,,,,,,,,
+46,guardachuvas,cabo do guardasol,pardaes,cabo da faca,guardasol,cabo dos guardachuvas,,,,,,,,,,,,,
+47,Deixal-as,Deixal-a,Tel-a-heis!,Casal-a,,,,,,,,,,,,,,,
+48,Caia,egoa baia,Maia,,,,,,,,,,,,,,,,
+49,"Arco
+do Triumpho",triumphar,triumpho,triumpho!,,,,,,,,,,,,,,,
+50,Sociedade,sociedade.--Então,Piedade,,,,,,,,,,,,,,,,
+51,Comité,Dominus,Dominára,Domingos,S. Domingos,Abominava,»,,,,,,,,,,,,
+52,tectos dos curraes,rua dos Condes,rua da,Mendes,rua dos Calafates,rua do Norte,Condes,,,,,,,,,,,,
+53,Sêbo,"concubinagens
+casuaes",concubinagem,vertigens,,,,,,,,,,,,,,,
+54,Some states do not allow disclaimers of certain,somno,Decerto,Caes do Sodré,,,,,,,,,,,,,,,
+55,"Habana
+Valga-me Dios","Habana
+Valga-me",Repita-me,Tótó,Algarve,Valsa,,,,,,,,,,,,,
+56,petroleo,Republica,Repetiu,snr,,,,,,,,,,,,,,,
+57,Universo,Universidade,perversa:--E,Versailles,,,,,,,,,,,,,,,
+58,Feche,Fechou,,,,,,,,,,,,,,,,,
+59,Vaqueira,Figueira,cavaqueira,Trigueira,,,,,,,,,,,,,,,
+60,Bethania,gania,Golgotha,,,,,,,,,,,,,,,,
+61,Nossa Senhora das Sete Chagas,Nossa Senhora da Ermida,casa da senhora condessa de,Nossa Senhora do,Nossa Senhora da Saude,Nossa Senhora da Boa Viagem,"Nossa Senhora te
+valha!",Nossa Senhora,Nossa Senhora do Lourdes...,Casamento de Nossa Senhora,,,,,,,,,
+62,falle,Fallar-lhe,Ólaré,Fallasse-me,Fallavam,,,,,,,,,,,,,,
+63,Vidalti,altares,Salt Lake City,Salta,Falta d'união,d'espada alta,,,,,,,,,,,,,
+64,Title,molle,molles,colleccionar,collegas,terra molle,collegio,collete,,,,,,,,,,,
+65,entornando-lhes,Bufa-lhe,Ia-lhe,Pesava-lhes,Devo-lhe,Coma-lhe,Devia-lhe,Cantava-lhe,Dá-lhe,Puz-lh'os,,,,,,,,,
+66,cacete,Minuete,Macaco,,,,,,,,,,,,,,,,
+67,Vejam,bocejando,Sejam,,,,,,,,,,,,,,,,
+68,S. Vicente,"S. Vicente de
+Paulo",Tu,,,,,,,,,,,,,,,,
+69,possilga,Una,Ossuna,,,,,,,,,,,,,,,,
+70,Redistribution,Districto,,,,,,,,,,,,,,,,,
+71,impenitencia,Providencia,Silencio,"Arvore da
+Sciencia",impudencia,impio,Correspondencia,Agencia Havas,Vicencia,Penitencia,Consciencia,,,,,,,,
+72,Santissimo Sacramento,missanga,Santissima,Santissimo,d'isso,Sim,Laboranti,Santíssimo,"Santissima
+Trindade,--quando ella",,,,,,,,,,
+73,Creia,Gouvêa,Gouveia,,,,,,,,,,,,,,,,
+74,Morenal,Renans,Vermorel,Sena,Morena,serena,Loreto,,,,,,,,,,,,
+75,calumnia,"Aquella
+calumnia",calumnias,caluda,Calumniou-me,insomnia,,,,,,,,,,,,,
+76,Amelia.--Foi,brazeira.--Amelia,cova d'Amelia,d'Amelia,Egypto,Ameliasinha,belleza d'Amelia,rua d'Amelia,braço d'Amelia,Amelia,,,,,,,,,
+77,Chumbem,Sabem,Tambem,Cabeça,Sabe,,,,,,,,,,,,,,
+78,sacrario,alva,Breviario,Calvario,Calvario:--«,canario,,,,,,,,,,,,,
+79,Thomar,Roma,Roma...,instincto romantico,,,,,,,,,,,,,,,
+80,Suspenda,Anda-me,Anda,anda,escandalo do jornal,Outra-Banda,,,,,,,,,,,,,
+81,Bois,Dois,,,,,,,,,,,,,,,,,
+82,d'ordens,Ordenou-se,Cordeiro Paschal,,,,,,,,,,,,,,,,
+83,borracho,pachorra,Poço do Borratem,Gamacho,,,,,,,,,,,,,,,
+84,Arco,Arco...,Circo,,,,,,,,,,,,,,,,
+85,"|
+  |#pág",Fôra,amigas fôra,Fôra rica,Roda fôra supprimida,,,,,,,,,,,,,,
+86,Beati,Merati,Beata,,,,,,,,,,,,,,,,
+87,Liberus,Berlim,Tiberio,Soberba,Ia,,,,,,,,,,,,,,
+88,Graça!,banhada de graça,poz,Fumaça,réo,Graça,,,,,,,,,,,,,
+89,legião dos santos,convivencia dos santos,Legião d'Honra,,,,,,,,,,,,,,,,
+90,Matta,Mathias,Sympathia,,,,,,,,,,,,,,,,
+91,Nervoso,vossê,vossê!?--fez Amaro,Vossê,Vossês,,,,,,,,,,,,,,
+92,familia,Familia,Thesouro das familias ou as,Milão,vigilia,,,,,,,,,,,,,,
+93,Repousarei,rua das Sousas,viella das Sousas,Sousas,Sousa,,,,,,,,,,,,,,
+94,Religião,reliquia,Reliquia,,,,,,,,,,,,,,,,
+95,Redemptor,Historia,Purgatorio,Offertorio,Rio,lavatorio,Osorio,,,,,,,,,,,,
+96,Damasco,Alipio de Vasconcellos,Alipio de Vasconcellos Godinho,Hotel de Ville,,,,,,,,,,,,,,,
+97,Santo Officio,Officio,Officios do Moraes,injustificavel offendeu,,,,,,,,,,,,,,,
+98,frontaes,taes,pedestaes,jornaes,Taes,locaes,,,,,,,,,,,,,
+99,significativa--«não,bengalão,tisica,Benedicat,Catecismo,Medicina,,,,,,,,,,,,,
+100,Joãosinho,interessesinhos,Pâcatinho,cafésinho,Gangosinhos,Minho,Godinho,Amparosinho,,,,,,,,,,,
+101,Amaro:--Ouça,Amaro:--Pois,Amaro:--Diga,Amaro:--Hoje,,,,,,,,,,,,,,,
+102,côxo,"Chão de
+Maçãs",Chão de Maçãs,maçãs assadas,,,,,,,,,,,,,,,
+103,ecclesiastica,Covilhã,Bastilha,S. Sebastiões,,,,,,,,,,,,,,,
+104,Nobres,Abre,lugubre,,,,,,,,,,,,,,,,
+105,balbuciou elle,meum,Telles,Pelletan,elle,impelle,Pobre Telles,escrevia elle,excellencia,d'elle,pelle,"...
 
-DO
-
-PADRE AMARO","CRIME
+Elle",n'elle,,,,,,
+106,idéa,Typ,Judéa,idéa das devotas,"idéa
+de Jesus",,,,,,,,,,,,,,
+107,caricias,aquella caridade,solemnidade,Nutrida,Immobilidade,Caridade,Brutalidades,Auctoridade,,,,,,,,,,,
+108,Peccado,sêcca,,,,,,,,,,,,,,,,,
+109,Indigestão,Indignus,India,brandia,Indias,,,,,,,,,,,,,,
+110,telegrammas,Vista-Alegre,legua,alegre,aceio,,,,,,,,,,,,,,
+111,Imitação,Relação,,,,,,,,,,,,,,,,,
+112,Ruça,Gostava,Voltava,Repastava,"cost and with
+almost",Instava,,,,,,,,,,,,,
+113,carne!--Então,Homens.--E,homem.--Então,homem--_não,vêl-os,,,,,,,,,,,,,,
+114,S. Carlos,sotainas,Carlota,"botica do
+Carlos",,,,,,,,,,,,,,,
+115,bom Marques,Torquemada,Marques,arquejo,,,,,,,,,,,,,,,
+116,Santa Catharina,"Santa
+Cecilia",Santa Barbara,cantaro,Sant'Anna,Jantava,Santa,Santarem,santa cruz,Santa Brigida,Santa Joanna d'Aveiro,d'Alcantara,,,,,,,
+117,Cortegassa,Santa da Arregassa,"santa da
+Arregassa",,,,,,,,,,,,,,,,
+118,Ais,saragoça,Paraiso,paraiso,apparato,arara,,,,,,,,,,,,,
+119,adormecida,Trovador,,,,,,,,,,,,,,,,,
+120,Inimigo,Rigoleto,Digo,Trigoso,Fatigou,,,,,,,,,,,,,,
+121,Gonçalves,Salve-Rainha,Rainhas,Salve-Rainhas,luzir,,,,,,,,,,,,,,
+122,Podia,invadia,Vadios,,,,,,,,,,,,,,,,
+123,comprehendia!,comprehendo,comprehendia,,,,,,,,,,,,,,,,
+124,Introito,bonito,Bonito,Bonita,,,,,,,,,,,,,,,
+125,CRIME DO PADRE AMARO *,padre Amaro,"CRIME
 
 DO
 
@@ -60,274 +162,174 @@ Obras","CRIME
 
 DO
 
+PADRE AMARO","CRIME
+
+DO
+
 PADRE AMARO
 
 
 
 
-I",CRIME DO PADRE AMARO *,,,,,,,,,,,,
-37,gavetão,platafórma,latão,,,,,,,,,,,,,,,,
-38,"National
-Library of Portugal",Biblioteca Nacional de Portugal,em Portugal,Porto,importunára,Portugal,,,,,,,,,,,,,
-39,Tremei,Treme-me,Tremer,Nemeia,,,,,,,,,,,,,,,
-40,capellinha da Barrosa,Sobros,Barrosa vêr,Barrosa,Rosa,arrojando tunicas,Barrosa fallar á,Barroca,,,,,,,,,,,
-41,Ameliasinha da S. Joanneira!,Ameliasinha da S. Joanneira,Ameliasita da S. Joanneira,saleta da S. Joanneira,Ameliasita da S. Joanneira mettida,Ameliasita,,,,,,,,,,,,,
-42,Arcada,Cumiada,anasarca,Carcavellos,,,,,,,,,,,,,,,
-43,Espero,Lausperenne,buxo,Especie,vesperas,,,,,,,,,,,,,,
-44,bocejando,Vejam,Sejam,,,,,,,,,,,,,,,,
-45,vinho de alto,Bairro Alto,baiuca,Bairro de David,chapéo alto,Bairrada,,,,,,,,,,,,,
-46,terra,aterrado,Inglaterra,terra molle,serra,Tertiò,,,,,,,,,,,,,
-47,"S.
+I",Crime do Padre Amaro,"Crime do
+Padre Amaro",,,,,,,,,,,,
+126,XI,Tremei,Tremer,Treme-me,Nemeia,,,,,,,,,,,,,,
+127,Casamento,Trento,Instinctivamente,casacão,Sarmento,,,,,,,,,,,,,,
+128,Lisboa de Amaro Vieira,_Amaro,Ribamar,Amaro,D'alli Amaro,traz Amaro,d'Amaro,Emfim Amaro,respondera:--E Amaro,,,,,,,,,,
+129,Estimava,Estupido,Estás,Estive,estrepito,,,,,,,,,,,,,,
+130,jubilo,Josepha,philosophar,conego philosophicamente,Sophia,lua,Philistinos,,,,,,,,,,,,
+131,alecrim,Primò,lagrimas,"S.
+Cypriano",,,,,,,,,,,,,,,
+132,Esfregava,socega,sôfrega,Divagava,,,,,,,,,,,,,,,
+133,by U.S. federal laws,Estigmas de S. Francisco,"S.
+Francisco",S. Francisco,triumpho Francisco,,,,,,,,,,,,,,
+134,dir-lin,Longuinhos,Carlinhos,Inglezinhos,,,,,,,,,,,,,,,
+135,"tectos baixos do
+curral coberto de colmo",Baixa,Carvalhosa,d'olhos baixos,d'olho,,,,,,,,,,,,,,
+136,Concordia,rua da Misericordia,Diu,"relogio da
+Misericordia",Misericordia,Ricoça,--_Quorum remiseris peccata,"rua da
+Misericordia",,,,,,,,,,,
+137,cortezia,Cordova,Vá,corujas,Corôa,corôa,Escorpião,,,,,,,,,,,,
+138,palerma,Una paloma,Nepal,palmas,,,,,,,,,,,,,,,
+139,tranquillisar,Vegetar,Quieta,exquisito,Quiz,,,,,,,,,,,,,,
+140,cardeaes,Malhão,Carne,falua,Carmens,malucar,Maltez,,,,,,,,,,,,
+141,"Vazes,--",bacharel Azevedo,bebedo,However,Azevedo,Sávedra,gaze,,,,,,,,,,,,
+142,gotinha de café,Tótósinha,visinhança,sombrinha,Amelinha,Vinha,Joanninha,Augustinha,travesseirinha,fresquinha,Saldanhinha,Cegonha,Mélinha,,,,,,
+143,Infelimente,vacillou de repente,Impaciente,Serpente,,,,,,,,,,,,,,,
+144,Chiado,Paradou,córado,Assombrado,,,,,,,,,,,,,,,
+145,Pavonio,pavor,Espavorida,Tavoras,,,,,,,,,,,,,,,
+146,Senhora do Rosario,Tenho,Nosso Senhor,minha senhora,Senhora Mãi,"sala branca do
+senhor conde de","Nossa
+Senhora",Senhora,"Nosso
+Senhor",santa senhora,U.S.,"Nossas
+Senhoras","boa
+senhora",boa senhora,Senhora da Alegria,Tenho-lh'o,Senhora da Piedade,,
+147,Lausperenne,Espero,Especie,vesperas,,,,,,,,,,,,,,,
+148,V. s.^a,v. s.^a Sinto,Sinto,,,,,,,,,,,,,,,,
+149,Queres,Queria,Quereria,lamuria,Quero vêr,Quero,,,,,,,,,,,,,
+150,Donations,National,Additional,,,,,,,,,,,,,,,,
+151,seminario,d'exame,d'examinar,,,,,,,,,,,,,,,,
+152,Encolhia,Contar,Cintra,Encontrava,bem.--Contou,Japão,,,,,,,,,,,,,
+153,Santa Virginia...,Santa Virgem,Parto da Santa Virgem,Santa Virginia,Virgens,,,,,,,,,,,,,,
+154,Dizia,Trazia,Traz-me,Brazil,,,,,,,,,,,,,,,
+155,Eclogas,Delecluze,Belem,Reclamára,,,,,,,,,,,,,,,
+156,És,geographia,Seraphim,Sergio,Raposo,,,,,,,,,,,,,,
+157,velludo preto,velludo,cabelluda,,,,,,,,,,,,,,,,
+158,"S.
+Paschoal Baylão",Carôcho,Rabicho,Plutarcho,,,,,,,,,,,,,,,
+159,Correia,Gomorrha,rua do Correio,torre gemeu,Correu,sorri,Torre de Babel,Corrego das Tristes,,,,,,,,,,,
+160,Natario,Natario.--Em,,,,,,,,,,,,,,,,,
+161,China,Machinalmente,machinaes,,,,,,,,,,,,,,,,
+162,Furão,murrão da véla,Ferrões,bom Ferrão,Ferrão,,,,,,,,,,,,,,
+163,n'estes,Nasceste,d'este,d'essa,,,,,,,,,,,,,,,
+164,Ir,Eugenia,genebra,braza,Coimbra,,,,,,,,,,,,,,
+165,"work
+with the phrase",Marrazes,barraca,Marrases,rouba,,,,,,,,,,,,,,
+166,platafórma,latão,gavetão,425|,,,,,,,,,,,,,,,
+167,dôce,buxo,,,,,,,,,,,,,,,,,
+168,baiuca,Bairrada,chapéo alto,Bairro Alto,Bairro de David,vinho de alto,,,,,,,,,,,,,
+169,Percebia,Percebera,Terceira,,,,,,,,,,,,,,,,
+170,Amparo,parochia,Amparo da botica,"Amparo da
+botica",botica,,,,,,,,,,,,,,
+171,Durmamos,babosa,Famosa,ramos bentos,Famosa pechincha,Snr,Infame,Diffamou,,,,,,,,,,,
+172,Preferiria,Onde Leiria,Leiria,Leiria:--«Mas,Sé de Leiria,,,,,,,,,,,,,,
+173,Pinheiro,Vimeiro,Europa,cueiro,Pinheiro deu-as,,,,,,,,,,,,,,
+174,hombreira do pateo,luva do impio,pedra do paço,jardim do Paço,Pedroso,,,,,,,,,,,,,,
+175,ámanhã,mana,Manon,Many,,,,,,,,,,,,,,,
+176,pallido,Tito-Livio,Allivia,pallio,Vivia,,,,,,,,,,,,,,
+177,Martyres,Martha,Marselheza,Parto,martyr,,,,,,,,,,,,,,
+178,planeariam,D. Maria,Mouraria,Marialva,"d'isso D. Maria
+da Assumpção voltára","Gansoso e D. Maria da
+Assumpção",,,,,,,,,,,,,
+179,"Nunes
+Ferral",Nunes,,,,,,,,,,,,,,,,,
+180,Secundò,Mundo,Endoenças,Dois Mundos,,,,,,,,,,,,,,,
+181,capellinha da Barrosa,Barrosa vêr,Barroca,Sobros,Barrosa,Rosa,arrojando tunicas,Barrosa fallar á,,,,,,,,,,,
+182,Ameliasinha da S. Joanneira,Ameliasita,Ameliasita da S. Joanneira mettida,VIII,Ameliasinha da S. Joanneira!,Ameliasita da S. Joanneira,saleta da S. Joanneira,,,,,,,,,,,,
+183,maus costumes,mesa,Ciumes,,,,,,,,,,,,,,,,
+184,"offerta do
+coração do teu amante",d'antes,"caverna
+chammejante",Nantes,pé-ante-pé,Caminhante,,,,,,,,,,,,,
+185,Padre-Mestre,Madrid,Deus-Padre,Padre,Padre-Nossos,,,,,,,,,,,,,,
+186,cotovêlo,Peixoto,Peixoto levára,,,,,,,,,,,,,,,,
+187,Estou-te,Epístola,"voltou,--e",Custou,,,,,,,,,,,,,,,
+188,sahir,sahiu d'emboscada,l'Abbé,sahiu,Sahiu,Acudam,Cahiu,,,,,,,,,,,,
+189,alameda macadamisada,Alameda Velha,Alameda,,,,,,,,,,,,,,,,
+190,Pobre d'ella,Syllabus,Janellas,Bella,n'ella,Ellas,Estrella,Ella,Cancella Velha,Bruxellas,,,,,,,,,
+191,lampeão,Campos,conego Campos,Campos-Elyseos,,,,,,,,,,,,,,,
+192,Moral,Moravam,eleitoraes,Cabraes,Moraes,liberaes,,,,,,,,,,,,,
+193,S. Chrysologo,S. Chrisolo,,,,,,,,,,,,,,,,,
+194,"cosia
+de luneta",Lisboa,aguas de Lisboa,Lisboa...,de Lisboa,estrada de Lisboa,,,,,,,,,,,,,
+195,bom Silverio d'aquelle,Silverio,bom Silverio,bom paio,silvas,,,,,,,,,,,,,,
+196,La Faute,Faute,Project Gutenberg-tm,computer virus,,,,,,,,,,,,,,,
+197,Evora,d'Evora,Sé d'Evora,,,,,,,,,,,,,,,,
+198,bocejo,Vejo,Tejo,,,,,,,,,,,,,,,,
+199,Commendador de Christo,christão,tristeza,Pobre de Christo!,Bristol,Christo,Corpus-Christi,,,,,,,,,,,,
+200,Morgaditos,Morgados,Morgadinhos,Morgadinho,Morgado,Morgadinho dos Poyaes,,,,,,,,,,,,,
+201,Brito,Pomba Espiritual,Brito apopletico,Espirito,,,,,,,,,,,,,,,
+202,Póde-lhe,Pede-lhe,Pede-os,Riam-se-lhe,,,,,,,,,,,,,,,
+203,"casa da S.
+Joanneira!","Amelia da S.
+Joanneira","S.
+Joanneira:--Muito","S.
+Joanneira.--Estás","S.
 Joanneira pacificadora","S.
 Joanneira","S.
-Joanneira!","S.
-Joanneira:--Muito","S.
-Joanneira.--Estás","Amelia da S.
-Joanneira",Ouf,Joanna,"casa da S.
-Joanneira!",,,,,,,,,,
-48,Calvario,Calvario:--«,Breviario,canario,sacrario,alva,,,,,,,,,,,,,
-49,homem.--Então,carne!--Então,Homens.--E,homem--_não,,,,,,,,,,,,,,,
-50,Pinheiro,Vimeiro,Pinheiro deu-as,rouba,cueiro,,,,,,,,,,,,,,
-51,Santa Catharina,Santarem,Santa,Sant'Anna,d'Alcantara,cantaro,Santa Joanna d'Aveiro,Santa Barbara,"Santa
-Cecilia",santa cruz,Jantava,Santa Brigida,,,,,,,
-52,Una,possilga,Ossuna,,,,,,,,,,,,,,,,
-53,Epístola,Custou,"voltou,--e",Estou-te,,,,,,,,,,,,,,,
-54,resonar,Tres,Londres,pressa,Buenos-Ayres,Pires,,,,,,,,,,,,,
-55,Quereria,lamuria,Queres,Quero,Queria,Quero vêr,,,,,,,,,,,,,
-56,Evangelho,Devaneios,Evangelhos,Aconselhou,,,,,,,,,,,,,,,
-57,vertigens,"concubinagens
-casuaes",concubinagem,,,,,,,,,,,,,,,,
-58,Seraphim,Raposo,geographia,Merati,Sergio,,,,,,,,,,,,,,
-59,Quiz,tranquillisar,exquisito,Quieta,retreta,Vegetar,,,,,,,,,,,,,
-60,S. Chrisolo,S. Chrysologo,,,,,,,,,,,,,,,,,
-61,murrão da véla,Ferrão,Furão,Europa,bom Ferrão,Ferrões,,,,,,,,,,,,,
-62,Fôra,Roda fôra supprimida,amigas fôra,Fôra rica,,,,,,,,,,,,,,,
-63,Thomar,Roma...,Roma,instincto romantico,,,,,,,,,,,,,,,
-64,Vaqueira,Figueira,cavaqueira,Trigueira,,,,,,,,,,,,,,,
-65,blasphemia,Calas-te,Calafates n.^o,Cala-te,Caligula,,,,,,,,,,,,,,
-66,Vivia,pallido,Allivia,Tito-Livio,dôce,pallio,,,,,,,,,,,,,
-67,Aquellas,Áquellas,aquella velha,Aquella,aquella pequena capella d'aldeia,aquella bonita,aquella dôr,elle vêr aquella,elle aquellas,pêra,aquella dôce,aquella,,,,,,,
-68,patarata,catarrho,Satanaz,Mataram-me,,,,,,,,,,,,,,,
-69,Imaginava,Emmagreceu,Imagine,proxima,Magdalena,vêl-os,lua,III,,,,,,,,,,,
-70,viella das Sousas,Sousas,Repousarei,Sousa,rua das Sousas,Emfim,,,,,,,,,,,,,
-71,Cheguem-se,Fez-se,,,,,,,,,,,,,,,,,
-72,Cruz,Cruzes,,,,,,,,,,,,,,,,,
-73,understand,Mande,Grande,Fernandes,,,,,,,,,,,,,,,
-74,locaes,taes,frontaes,jornaes,cardeaes,Taes,pedestaes,,,,,,,,,,,,
-75,Coitadita,Coitadinha,coitadinha,,,,,,,,,,,,,,,,
-76,ramos bentos,Famosa,Diffamou,Famosa pechincha,Durmamos,Infame,babosa,,,,,,,,,,,,
-77,Roda,incommodar,commovida,encommendar,,,,,,,,,,,,,,,
-78,Vermorel,Morena,Renans,serena,Morenal,Sena,Loreto,,,,,,,,,,,,
-79,Alipio de Vasconcellos,Hotel de Ville,Alipio de Vasconcellos Godinho,,,,,,,,,,,,,,,,
-80,Circo,Arco,Arco...,,,,,,,,,,,,,,,,
-81,Mathias,Sympathia,Matta,,,,,,,,,,,,,,,,
-82,comprehendia!,comprehendia,comprehendo,,,,,,,,,,,,,,,,
-83,João Eduardo,João,"S. João da
-Foz",Cardoso,Arco João Eduardo,,,,,,,,,,,,,,
-84,accêso,Accendia,Accendiam,,,,,,,,,,,,,,,,
-85,Caes do Sodré,Some states do not allow disclaimers of certain,somno,Decerto,,,,,,,,,,,,,,,
-86,saragoça,Title,Paraiso,paraiso,arara,Ais,apparato,,,,,,,,,,,,
-87,Excommunhão,Communicado,Communa,,,,,,,,,,,,,,,,
-88,genebra,Eugenia,Coimbra,braza,,,,,,,,,,,,,,,
-89,Gethesemani,Lethes,,,,,,,,,,,,,,,,,
-90,punho:--,piano:--Pois,medo:--Oh,,,,,,,,,,,,,,,,
-91,Encontrava,bem.--Contou,Lully,Contar,Encolhia,Cintra,,,,,,,,,,,,,
-92,Sôa,recamam,mamã,acalcam,,,,,,,,,,,,,,,
-93,pardaes,guardachuvas,cabo da faca,cabo do guardasol,guardasol,cabo dos guardachuvas,aceio,»,,,,,,,,,,,
-94,Haviam,Xavier,d'haver,,,,,,,,,,,,,,,,
-95,adormecida,!,Trovador,,,,,,,,,,,,,,,,
-96,Abafava,Accumulava,gargarejava,tisnava,"Sé
-repicava",Arfava,,,,,,,,,,,,,
-97,Pomba Espiritual,Espirito,Brito apopletico,Brito,,,,,,,,,,,,,,,
-98,Jalette,Proletariado,saleta,Jerusalem,Salento,,,,,,,,,,,,,,
-99,affectando,affecto póde,afflicto,,,,,,,,,,,,,,,,
-100,Trento,Sarmento,Casamento,casacão,Instinctivamente,Ai,,,,,,,,,,,,,
-101,Martyres,martyr,Martha,Marselheza,,,,,,,,,,,,,,,
-102,"leia
-Garriffaldi",Abalou,balbuciou,Baleia,Leia a _Historia,Royale,Pombal,Macaco e da Baleia,Leia Gavantus,,,,,,,,,,
-103,Alameda Velha,alameda macadamisada,Alameda,,,,,,,,,,,,,,,,
-104,tisica,Benedicat,Medicina,bengalão,significativa--«não,Catecismo,,,,,,,,,,,,,
-105,N'aquelle,n'aquelle,aquelle,|#pág,aquelle hombro santo,aquelle arsenal beato,n'aquelle buraco,Aquelle,Aquelles,,,,,,,,,,
-106,Poyaes,cemiterio dos Poyaes,valle triste dos Poyaes,,,,,,,,,,,,,,,,
-107,São da Encarnação,cova da enxerga,Senhora da Incarnação,Encarnação,Senhora da Encarnação,,,,,,,,,,,,,,
-108,Mundo,Endoenças,Dois Mundos,Secundò,,,,,,,,,,,,,,,
-109,Rabicho,Carôcho,Plutarcho,chocalhava,"S.
-Paschoal Baylão",,,,,,,,,,,,,,
-110,És,Estupido,Estás,estrepito,Estimava,Estive,crêr,,,,,,,,,,,,
-111,D'alli Amaro,camara,_Amaro,Lisboa de Amaro Vieira,traz Amaro,respondera:--E Amaro,Ribamar,Amaro,d'Amaro,Emfim Amaro,Egypto,,,,,,,,
-112,Macaco,Minuete,cacete,meum,,,,,,,,,,,,,,,
-113,428|,Dionysia,Dionysia póde,Dionysia...,,,,,,,,,,,,,,,
-114,d'espada alta,altares,Falta d'união,Salta,Vidalti,Salt Lake City,,,,,,,,,,,,,
-115,serra de Alcobaça,Alcobaça,Brito de Alcobaça,d'Alcobaça,,,,,,,,,,,,,,,
-116,ceremonia,Santa Apolonia,Babylonia,Polonia,Agonia,Antonia,,,,,,,,,,,,,
-117,Nunes,"Nunes
-Ferral",,,,,,,,,,,,,,,,,
-118,Praça...,Praça,botica da Praça,Praça ás Ave-Marias,Praça Nova,Praça ás Ave-Marias...,Praça:--«Então,,,,,,,,,,,,
-119,Nantes,Caminhante,"offerta do
-coração do teu amante",pé-ante-pé,d'antes,"caverna
-chammejante",,,,,,,,,,,,,
-120,Joli,Solidão,,,,,,,,,,,,,,,,,
-121,Saude,saude,,,,,,,,,,,,,,,,,
-122,Percebera,Percebia,,,,,,,,,,,,,,,,,
-123,d'essa,n'estes,d'este,Nasceste,,,,,,,,,,,,,,,
-124,bom Novaes,Vaes-te,Novaes,Novaesitos,,,,,,,,,,,,,,,
-125,Feirão,Sertejeira,Gralheira,Vieira,Babuseiras,Vigareira,Tira-m'o,Pimentas da Pojeira,Vira,Beira,bebedeira,praia da Vieira,suggerira,Beira-Alta,trapeira,Madeira,Beijo,Gralheira:--«Todos,Terceira
-126,pigarreando grosso,carretão,Carreiro,"Joanna
-Carreira",Terreiro,,,,,,,,,,,,,,
-127,Conhecia-a,suor,Via-o,Devia-a,Via-Clara,,,,,,,,,,,,,,
-128,vigilia,Milão,Familia,familia,Thesouro das familias ou as,,,,,,,,,,,,,,
-129,velludo preto,cabelluda,velludo,,,,,,,,,,,,,,,,
-130,rua da Misericordia,"rua da
-Misericordia",Concordia,"relogio da
-Misericordia",Misericordia,Ricoça,--_Quorum remiseris peccata,,,,,,,,,,,,
-131,"cosia
-de luneta",aguas de Lisboa,Lisboa,de Lisboa,Lisboa...,estrada de Lisboa,,,,,,,,,,,,,
-132,balbuciou elle,n'elle,"...
-
-Elle",impelle,excellencia,elle,d'elle,Telles,escrevia elle,Pobre Telles,Pelletan,pelle,,,,,,,
-133,Amaro:--Pois,Amaro:--Diga,Amaro:--Ouça,Amaro:--Hoje,,,,,,,,,,,,,,,
-134,Carvalhosa,d'olhos baixos,Baixa,"tectos baixos do
-curral coberto de colmo",d'olho,,,,,,,,,,,,,,
-135,Relação,Imitação,,,,,,,,,,,,,,,,,
-136,corujas,Escorpião,Corôa,cortezia,Cordova,corôa,,,,,,,,,,,,,
-137,"S. Vicente de
-Paulo",S. Vicente,,,,,,,,,,,,,,,,,
-138,Pater,Pater est,festa paterna,,,,,,,,,,,,,,,,
-139,m'as,Carlinhos,dir-lin,Inglezinhos,Longuinhos,,,,,,,,,,,,,,
-140,Moravam,Cabraes,Moraes,Moral,eleitoraes,liberaes,,,,,,,,,,,,,
-141,"Vazes,--",gaze,bebedo,Azevedo,However,Sávedra,bacharel Azevedo,,,,,,,,,,,,
-142,Cahiu,sahiu d'emboscada,sahiu,Sahiu,sahir,,,,,,,,,,,,,,
-143,Amelia,braço d'Amelia,belleza d'Amelia,d'Amelia,Ameliasinha,rua d'Amelia,Amelia.--Foi,brazeira.--Amelia,cova d'Amelia,,,,,,,,,,
-144,Critica,Politica,Critica do Brazil,,,,,,,,,,,,,,,,
-145,Acudam,Damasco,,,,,,,,,,,,,,,,,
-146,triumphar,"Arco
-do Triumpho",triumpho!,triumpho,,,,,,,,,,,,,,,
-147,Thereza,Natureza,Therezas,There,herejes,,,,,,,,,,,,,,
-148,Reclamára,Belem,Delecluze,Eclogas,,,,,,,,,,,,,,,
-149,Riam-se-lhe,Pede-lhe,Pede-os,Póde-lhe,,,,,,,,,,,,,,,
-150,sacristão,Vim,acre,sacristães,Sacrificaria,,,,,,,,,,,,,,
-151,Deus,bom Deus!,"Deus,--é Deus",côrte de Deus,Adeus,,,,,,,,,,,,,,
-152,Faute,computer virus,La Faute,,,,,,,,,,,,,,,,
-153,cartorio da camara ecclesiastica,barra da cama:--_Amelia,barra da cama,,,,,,,,,,,,,,,,
-154,bahú,alto céo,reino do céo!,chaveiro do céo,céos,,,,,,,,,,,,,,
-155,maçãs assadas,Chão de Maçãs,"Chão de
-Maçãs",,,,,,,,,,,,,,,,
-156,Traz-me,Dizia,Brazil,Trazia,,,,,,,,,,,,,,,
-157,Gonçalves,Salve-Rainha,Salve-Rainhas,Rainhas,,,,,,,,,,,,,,,
-158,passo d'obeso,Começára,Passára,,,,,,,,,,,,,,,,
-159,Biblia,Juliana,Julia,,,,,,,,,,,,,,,,
-160,mana,ámanhã,Manon,Many,,,,,,,,,,,,,,,
-161,Joãosinho,Gangosinhos,interessesinhos,Pâcatinho,Minho,cafésinho,Amparosinho,Godinho,,,,,,,,,,,
-162,Aquillo,aqui!--E,é!--E,,,,,,,,,,,,,,,,
-163,Piedade,Sociedade,sociedade.--Então,Joia,,,,,,,,,,,,,,,
-164,Questões,Vasques,sezões,,,,,,,,,,,,,,,,
-165,Fraternidade dos Povos,taciturnidade dos santos,"Eterna
-Dôr...",Eternidade,Louvores,Eternidade dos Louvores,arvores,,,,,,,,,,,,
-166,Asia,quasi calvo,quasi,,,,,,,,,,,,,,,,
-167,gallinha gorda,Taborda,Gorda,,,,,,,,,,,,,,,,
-168,Cegonha,Saldanhinha,Joanninha,visinhança,gotinha de café,Tótósinha,sombrinha,travesseirinha,Amelinha,Vinha,fresquinha,Augustinha,Mélinha,,,,,,
-169,vossê!?--fez Amaro,Vossês,chôro,vossê,Nervoso,Vossê,,,,,,,,,,,,,
-170,lagrimas,Primò,"S.
-Cypriano",alecrim,,,,,,,,,,,,,,,
-171,perversa:--E,Versailles,Universidade,Universo,,,,,,,,,,,,,,,
-172,Gansoso,Gansosinhos,Gansosos,,,,,,,,,,,,,,,,
-173,santos,Santos,Santo Ildefonso,Santo Ignacio,Santo Thyrso,Santo Ambrosio,Leia Santo Ignacio,Santo Antonios,felicidade n'este nosso santo ministerio,,,,,,,,,,
-174,Parece-me,Case-me,Lembre-me,Jure-me,,,,,,,,,,,,,,,
-175,Tiberio,Soberba,Liberus,Project Gutenberg-tm,Berlim,,,,,,,,,,,,,,
-176,Josepha,conego philosophicamente,philosophar,Philistinos,jubilo,Sophia,,,,,,,,,,,,,
-177,by U.S. federal laws,"S.
-Francisco",Estigmas de S. Francisco,triumpho Francisco,S. Francisco,,,,,,,,,,,,,,
-178,Gamacho,pachorra,borracho,Poço do Borratem,,,,,,,,,,,,,,,
-179,Impaciente,Infelimente,Serpente,vacillou de repente,,,,,,,,,,,,,,,
-180,S. Joanneira!,S. Joanneira e elle,S. Joanneira,S. Joanneira comprehendeu,Joannita,casa da S. Joanneira,S. Joanneira na Vieira,"S. Joanneira
-tagarellava",,,,,,,,,,,
-181,Provença,luzir,Villa-Franca,França,Casimira França,ripanço,,,,,,,,,,,,,
-182,collete,molles,collegas,molle,colleccionar,collegio,,,,,,,,,,,,,
-183,Cabeça,Chumbem,Sabe,Tambem,Sabem,,,,,,,,,,,,,,
-184,Beati,Beata,,,,,,,,,,,,,,,,,
-185,lageado do largo,lages,lageado,,,,,,,,,,,,,,,,
-186,Rapariga,Catharina,Parto,appareeeu,S. Gorislano,Paris,,,,,,,,,,,,,
-187,"d'isso D. Maria
-da Assumpção voltára",planeariam,Mouraria,"Gansoso e D. Maria da
-Assumpção",D. Maria,Marialva,,,,,,,,,,,,,
-188,Caia,egoa baia,Maia,,,,,,,,,,,,,,,,
-189,Moço,Poço das Bentas,benta!»--E,,,,,,,,,,,,,,,,
-190,caricias,Immobilidade,Auctoridade,Brutalidades,aquella caridade,Fé,Nutrida,Caridade,solemnidade,,,,,,,,,,
-191,V. s.^a,v. s.^a Sinto,Sinto,,,,,,,,,,,,,,,,
-192,mexe-te,vêr-me,Vêr-te,Vêr,,,,,,,,,,,,,,,
-193,Corrego das Tristes,Correia,torre gemeu,sorri,Torre de Babel,Correu,rua do Correio,Gomorrha,Ruça,,,,,,,,,,
-194,Nossa Senhora da Boa Viagem,Casamento de Nossa Senhora,Nossa Senhora,"Nossa Senhora te
-valha!",Nossa Senhora da Saude,casa da senhora condessa de,Nossa Senhora do Lourdes...,Nossa Senhora do,Nossa Senhora da Ermida,Nossa Senhora das Sete Chagas,,,,,,,,,
-195,Laboranti,Sim,Santissima,Santissimo Sacramento,Santissimo,d'isso,missanga,"Santissima
-Trindade,--quando ella",Santíssimo,,,,,,,,,,
-196,Traste,viella do castello,monte do Castello,Castello,Castaldus,,,,,,,,,,,,,,
-197,Tu,Una paloma,palrava,Nepal,palerma,palmas,,,,,,,,,,,,,
-198,lugubre,Nobres,Abre,,,,,,,,,,,,,,,,
-199,jardim do Paço,Pedroso,pedra do paço,luva do impio,hombreira do pateo,,,,,,,,,,,,,,
-200,botica,parochia,Amparo da botica,Amparo,"Amparo da
-botica",,,,,,,,,,,,,,
-201,Arriscamo-nos,Vamo-nos,,,,,,,,,,,,,,,,,
-202,Turrino,Costurava,Leituras,tonturas,,,,,,,,,,,,,,,
-203,Mulheres,"a
-Mulher",Tulherias,,,,,,,,,,,,,,,,
-204,d'ahi,Ahi,p'r'áhi,ahi,D'ahi,,,,,,,,,,,,,,
-205,Paradou,Chiado,Assombrado,córado,,,,,,,,,,,,,,,
-206,Insensivel,Confessei,Pensei,,,,,,,,,,,,,,,,
-207,necessita,Necessitava,,,,,,,,,,,,,,,,,
-208,"botica do
-Carlos",S. Carlos,sotainas,Carlota,,,,,,,,,,,,,,,
-209,Natario,Natario.--Em,,,,,,,,,,,,,,,,,
-210,Batalha,Olhavam-n'o,Olha,s'orgulhar,Milhares,Esguelhas,lha,,,,,,,,,,,,
-211,lampeão,conego Campos,Campos,Campos-Elyseos,,,,,,,,,,,,,,,
-212,véla,Peixoto levára,Peixoto,cotovêlo,,,,,,,,,,,,,,,
-213,banhada de graça,Fumaça,Vá,Graça!,Graça,,,,,,,,,,,,,,
-214,S. Domingos,Comité,Domingos,Abominava,Dominus,Dominára,,,,,,,,,,,,,
-215,Additional,Donations,National,,,,,,,,,,,,,,,,
-216,Parto da Santa Virgem,Virgens,Santa Virginia...,Santa Virginia,Santa Virgem,,,,,,,,,,,,,,
-217,gania,Ethiopia,Bethania,Golgotha,,,,,,,,,,,,,,,
-218,Historia,Osorio,Offertorio,lavatorio,Rio,Purgatorio,,,,,,,,,,,,,
-219,Fatigou,Inimigo,Digo,Trigoso,Rigoleto,,,,,,,,,,,,,,
-220,Ó Dias,conego,conego selvagem,Dias,"conego
-Dias",egoa,conego Dias,,,,,,,,,,,,
-221,"work
-with the phrase",barraca,Marrases,Marrazes,,,,,,,,,,,,,,,
-222,hervas altas,Sé,hervas humidas,herva,,,,,,,,,,,,,,,
-223,Faz-me,promettia,commetter,Metto-me,,,,,,,,,,,,,,,
-224,Machinalmente,China,machinaes,,,,,,,,,,,,,,,,
-225,Malhão,Carne,Maltez,falua,Carmens,malucar,,,,,,,,,,,,,
-226,Libaninho,saiba,Janota,Libano,,,,,,,,,,,,,,,
-227,Gouvêa,Creia,Gouveia,,,,,,,,,,,,,,,,
-228,bom Marques,Typ,arquejo,Torquemada,Marques,,,,,,,,,,,,,,
-229,maus costumes,Ciumes,mesa,,,,,,,,,,,,,,,,
-230,Indias,Indigestão,Indignus,brandia,India,,,,,,,,,,,,,,
-231,impenitencia,Silencio,Correspondencia,Vicencia,Agencia Havas,impio,"Arvore da
-Sciencia",Consciencia,Providencia,Penitencia,impudencia,,,,,,,,
-232,Leiria:--«Mas,Onde Leiria,Sé de Leiria,Preferiria,Leiria,,,,,,,,,,,,,,
-233,tisica de larynge,lençoes,Ninon de Lenclos,Jardim de Lazaro,valle de lençoes,,,,,,,,,,,,,,
-234,Covilhã,S. Sebastiões,ecclesiastica,Bastilha,,,,,,,,,,,,,,,
-235,VIII,insomnia,"Aquella
-calumnia",calumnias,Calumniou-me,caluda,calumnia,,,,,,,,,,,,
-236,charuto accêso,Chalaça,Chafariz,Archanjo,Elyseos,Michaela,chavena,Chateaubriand,Achava-o,Charuto,chapéo,,,,,,,,
-237,bom Silverio d'aquelle,silvas,Silverio,bom paio,bom Silverio,,,,,,,,,,,,,,
-238,brancos.--«Aqui,collete branco,pilar branco,,,,,,,,,,,,,,,,
-239,Perdão,Perfeito,Perdôe-me,Persia,Aperte,Perderam-me,Perdôa,,,,,,,,,,,,
-240,Tenho,santa senhora,Nosso Senhor,"sala branca do
-senhor conde de","Nossas
-Senhoras",Senhora da Alegria,boa senhora,"Nosso
-Senhor","Nossa
-Senhora",Tenho-lh'o,minha senhora,Senhora da Piedade,Senhora do Rosario,"boa
-senhora",Senhora Mãi,Senhora,,,
-241,Casa Havaneza,aza do capão,idéa do conego,tranquilla casa do conego,casa do conego,,,,,,,,,,,,,,
-242,Feche,Fechou,,,,,,,,,,,,,,,,,
-243,XI,Vejo,bocejo,Tejo,,,,,,,,,,,,,,,
-244,Ia-lhe,Pesava-lhes,Puz-lh'os,Devia-lhe,Dá-lhe,Coma-lhe,Devo-lhe,Cantava-lhe,entornando-lhes,Bufa-lhe,,,,,,,,,
-245,Ia,Pavonio,Espavorida,pavor,Tavoras,,,,,,,,,,,,,,
-246,falle,Fallavam,Fallasse-me,Ólaré,Fallar-lhe,,,,,,,,,,,,,,
-247,seminario,d'exame,d'examinar,,,,,,,,,,,,,,,,
-248,"Nossa
-Senhora das Dôres","Nossa Senhora
-das Dôres",Senhora das Dôres,"|
-  |#pág",Nossa Senhora das Dôres,,,,,,,,,,,,,,
-249,Vadios,perfidia,Podia,invadia,,,,,,,,,,,,,,,
-250,Judéa,idéa das devotas,"idéa
-de Jesus",idéa,,,,,,,,,,,,,,,
+Joanneira!",,,,,,,,,,,,
+204,Confessei,Insensivel,Pensei,,,,,,,,,,,,,,,,
+205,Porto,Portugal,"National
+Library of Portugal",em Portugal,Biblioteca Nacional de Portugal,importunára,,,,,,,,,,,,,
+206,d'haver,Xavier,Haviam,,,,,,,,,,,,,,,,
+207,collete branco,brancos.--«Aqui,pilar branco,,,,,,,,,,,,,,,,
+208,Tulherias,Mulheres,"a
+Mulher",,,,,,,,,,,,,,,,
+209,hostias,Credo,cara redonda,hostia redonda,hostia,don,,,,,,,,,,,,,
+210,Debalde,escóla,Baldeschi,,,,,,,,,,,,,,,,
+211,Solidão,Joli,,,,,,,,,,,,,,,,,
+212,Leituras,tonturas,Costurava,Turrino,,,,,,,,,,,,,,,
+213,Necessitava,Emfim,necessita,,,,,,,,,,,,,,,,
+214,valle triste dos Poyaes,Poyaes,cemiterio dos Poyaes,,,,,,,,,,,,,,,,
+215,arvores,"Eterna
+Dôr...",taciturnidade dos santos,Louvores,Ouf,Eternidade,Eternidade dos Louvores,Fraternidade dos Povos,,,,,,,,,,,
+216,Rapariga,Catharina,S. Gorislano,appareeeu,Paris,,,,,,,,,,,,,,
+217,"Joanna
+Carreira",carretão,pigarreando grosso,Terreiro,Carreiro,,,,,,,,,,,,,,
+218,sezões,Vasques,Questões,,,,,,,,,,,,,,,,
+219,Extrema-Unção,d'Extremoz,"La
+Tremouille",Extremoz,,,,,,,,,,,,,,,
+220,santos,Santo Ildefonso,Santo Ignacio,Santo Antonios,Santo Ambrosio,Santos,felicidade n'este nosso santo ministerio,Santo Thyrso,Leia Santo Ignacio,,,,,,,,,,
+221,Arco João Eduardo,Cardoso,João Eduardo,João,"S. João da
+Foz",,,,,,,,,,,,,,
+222,benta!»--E,Moço,Poço das Bentas,,,,,,,,,,,,,,,,
+223,bom Deus!,Adeus,Deus,côrte de Deus,"Deus,--é Deus",,,,,,,,,,,,,,
+224,Espaçava,d'Hespanha,Capujá,Hespanha,,,,,,,,,,,,,,,
+225,Thus,XXIV,,,,,,,,,,,,,,,,,
+226,tisica de larynge,Jardim de Lazaro,Ninon de Lenclos,valle de lençoes,lençoes,,,,,,,,,,,,,,
+227,fazenda da,estrada da Figueira,estrada da,,,,,,,,,,,,,,,,
+228,Vamo-nos,!,Arriscamo-nos,,,,,,,,,,,,,,,,
+229,mugiu,Fazia-te,428|,Agasalho,Agasalha-te,,,,,,,,,,,,,,
+230,Gethesemani,Lethes,Ethiopia,,,,,,,,,,,,,,,,
+231,Proletariado,Salento,Jalette,saleta,Jerusalem,,,,,,,,,,,,,,
+232,Pimentel d'Ourem,p'r'áhi,d'Ourem,Ourem,,,,,,,,,,,,,,,
+233,lageado do largo,lages,lageado,,,,,,,,,,,,,,,,
+234,quasi calvo,Asia,quasi,,,,,,,,,,,,,,,,
+235,Novaesitos,bom Novaes,véla,Novaes,Vaes-te,,,,,,,,,,,,,,
+236,afflicto,affectando,affecto póde,,,,,,,,,,,,,,,,
+237,piano:--Pois,medo:--Oh,punho:--,,,,,,,,,,,,,,,,
+238,Fernandes,understand,Grande,Mande,,,,,,,,,,,,,,,
+239,alto céo,céos,chaveiro do céo,reino do céo!,,,,,,,,,,,,,,,
+240,Cheguem-se,Fez-se,,,,,,,,,,,,,,,,,
+241,Mataram-me,Satanaz,catarrho,patarata,,,,,,,,,,,,,,,
+242,Evangelhos,Devaneios,Aconselhou,Evangelho,,,,,,,,,,,,,,,
+243,Praça:--«Então,Praça ás Ave-Marias,botica da Praça,Praça ás Ave-Marias...,Praça Nova,Praça...,Praça,,,,,,,,,,,,
+244,Beijo,bebedeira,Vira,Tira-m'o,praia da Vieira,Vigareira,Vim,trapeira,Beira-Alta,Vieira,Gralheira:--«Todos,suggerira,Pimentas da Pojeira,Gralheira,Madeira,Babuseiras,Feirão,Sertejeira,Beira
+245,ripanço,Casimira França,Provença,Villa-Franca,França,,,,,,,,,,,,,,
+246,Cruzes,lêr,Cruz,,,,,,,,,,,,,,,,
+247,Dionysia...,Dionysia póde,Dionysia,,,,,,,,,,,,,,,,
+248,encommendar,commovida,Roda,incommodar,,,,,,,,,,,,,,,
+249,Bahia,sahia,Cahia-me,Sahia,,,,,,,,,,,,,,,
+250,Cala-te,Caligula,blasphemia,Calafates n.^o,Calas-te,,,,,,,,,,,,,,
+251,balbuciou,Abalou,Leia Gavantus,Pombal,Macaco e da Baleia,Leia a _Historia,Royale,"leia
+Garriffaldi",Baleia,,,,,,,,,,
+252,Começára,passo d'obeso,Passára,,,,,,,,,,,,,,,,
