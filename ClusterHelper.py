@@ -67,11 +67,17 @@ class ClusterHelper:
         for cluster_id in np.unique(yhat):
             centroid = np.mean(X[yhat == cluster_id], axis=0)
             for i in np.where(yhat == cluster_id)[0]:
+                xpos, ypos = X_compressed[i]
+                # assert xpos !=0, f"Xpos is 0 for {docs[i]}"
+                # assert ypos !=0, f"Ypos is 0 for {docs[i]}"
+                if xpos == 0 or ypos == 0:
+                    print(f"Xpos or Ypos is 0 for {docs[i]}")
+
                 points.append(
                     {
                         "text": docs[i],
-                        "x_pos": X_compressed[i][0],
-                        "y_pos": X_compressed[i][1],
+                        "x_pos": xpos,
+                        "y_pos": ypos,
                         "cluster": cluster_id,
                         "centroid": centroid,
                         "is_centroid": yhat[i] == i
