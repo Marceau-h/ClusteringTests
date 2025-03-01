@@ -1,97 +1,123 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19
-0,Pierrotte,Pierrotte.n,Roberte,Pierrotte -,"Pierrotte
-Pierrotte",C(.%,"Vieille
-bete de Pierrotte",Grossiers,"PIERROTTE
-I43
-Cevenole",,,,,,,,,,,
-1,I54,I59,,,,,,,,,,,,,,,,,,
-2,tenonslo,Boulons,Consterna-,Non',Allonsl,,,,,,,,,,,,,,,
-3,Comedie,Combien,Comnme,Colombine,Comeidie,Comedie-Francaise,,,,,,,,,,,,,,
-4,songeuse,conge,Crusoe,hideuse,Angelus,5I,Confusement,,,,,,,,,,,,,
-5,Pousse,Mluse,Muse badine,Pourvu,poussde,,,,,,,,,,,,,,,
-6,"a6
-LE PETIT CHOSE","I,5",Petit Chose,"plus54
-LE PETIT","r6o
-LE PETIT","les86
-LE PETIT CHOSE","mien.2o
-LE PETIT CHOSE","2or
-LE PETIT CHOSE","porte du collegel88
-LE PETIT CHOSE",a6,"BeteI74
-LE PETIT CHOSE",,,,,,,,,
-7,Plantes,avantl,ardin des Plantes,manecanterie,"place des
-Terreaux",rue Lanterne,,,,,,,,,,,,,,
-8,saluerentIIIRIAR,II,,,,,,,,,,,,,,,,,,
-9,Quelque,amérique,Afrique,Quelquefois,Bouzanquet,Paques,Que Voulez,Menalque,Quels,eleve Menalque,val Quelquefois,magnifiquel,,,,,,,,
-10,La Porte S,victoria de la dame,La Porte,palais de la fee Porcelaine,Porte S,Port-au-Prince,Emporte,,,,,,,,,,,,,
-11,Saint-Cloud,Saint-,Saint-Petesbourg,Saint-Pierre,Saint-Theophile,Saint-Benoft,rue Saint-Benoft,rue Saint-Guillaume,P,Saint-Emilion,rue Saint-Guillaumel,Maintenant,Saint-Esprit,rue Saint-Benoit,Saint-Pierre a Montmartre,eglise Saint-Pierre,,,,
-12,Pardon,Chardon,Pardonnez,weldon,Parthenon,Pardonne,Expansion,Garçon,Iardin,,,,,,,,,,,
-13,Est,resister,kakatoes,Faust,vages,ESt-ce,mastoides,estimez,consternes,,,,,,,,,,,
-14,Rome,l1'Epitome,trompe-la-mort,laLE ROMIAN,noms.r6z,Promettez,Somme,Necro-,,,,,,,,,,,,
-15,r8,rOle,ronfla,le soleil,La creole,Peyrol,Mole,soleil,violente,Soubeyrol,,,,,,,,,,
-16,Prairie,la Prairie,,,,,,,,,,,,,,,,,,
-17,Palais-Mazarin,Cristaux,PAris,Arrivee,paraft,Paris,Parisiens,Chauve-Souris,paRfois,Parisl,Rio,Parfaitl,S,Parisien,MArie-anne,,,,,
-18,Serrieresl,Bernerette,Serrieres,Serrieres.n,desert,tapissieres,Nanterre,serrure,equerres,arriere,4,AmUser,serre-fille,premierln,E,cimetieres,,,,
-19,1N,Midi,MIdi-Opinion,MI,le Midi,O,Dit,,,,,,,,,,,,,
-20,.L,.l,,,,,,,,,,,,,,,,,,
-21,"3z-E
-E
-Or
-A","E
-Or
-A",,,,,,,,,,,,,,,,,,
-22,dejeuna,Deja,jE,secrdtaire dejeune,,,,,,,,,,,,,,,,
-23,Saint-Nizier,Nizier,Saint-Nizier.n,Saint-Nizierl,,,,,,,,,,,,,,,,
-24,Vieux-College,College,Recollets,collegel,bibliotheque du college,,,,,,,,,,,,,,,
-25,hotel Pilois,hotel,"hotel Piloisl...
-Du",L.R,tristel...,,,,,,,,,,,,,,,
-26,reponse,Apres,representee,gresil,"sous-prefectureln
-Est",Être,precipite,rang.- Presentez,"pAs eNcore
-rencontree",,,,,,,,,,,
-27,I45,I47,I49,,,,,,,,,,,,,,,,,
-28,I99,got,Escargots,Mot,wagon,peut6ot,,,,,,,,,,,,,,
-29,Anastagille,Marseille,Villle,LLLLLLL-LLLLLLLL-,Hacqueville,cette Bastille,vicille fee,LLLLL- L,Conseillez,petille,,,,,,,,,,
-30,mERci,ICI,dictce,"a47
-Ici",r6cI,Nice,,,,,,,,,,,,,,
-31,Muguets,Muguet,D,,,,,,,,,,,,,,,,,
-32,"L--
-`-",a----,"S
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20
+0,abbe Germane,rY,abbe,Germane,,,,,,,,,,,,,,,,,
+1,alle,Vallee,allezl,I,Mlle,laLE ROMIAN,val,Palerme,talle,Allez,,,,,,,,,,,
+2,Bamban,Cuba,Bandit,Bach',Lombards,Bambanl,,,,,,,,,,,,,,,
+3,got,peut6ot,Mot,wagon,Escargots,,,,,,,,,,,,,,,,
+4,Demain-,N-,Inde,LE Lendemain,O,dEmanda,,,,,,,,,,,,,,,
+5,sagne,Rh6ne,champagne,Cassagne,d'Espagne,pagna,la Bretagne,Bretagne,,,,,,,,,,,,,
+6,Cecilia,P,LIl,Religion,humilie,1N,Philistine,Chili,aIl,lilas,,,,,,,,,,,
+7,Ohel,Ohl,Heinl,- Oh,Boheme,Helasl,,,,,,,,,,,,,,,
+8,ICI,r6cI,"a47
+Ici",Nice,mERci,dictce,,,,,,,,,,,,,,,
+9,Grand-Cercle,grace,Grand-Orient,D,.,-C,Petite-Cercle,,,,,,,,,,,,,,
+10,Sonne,connaft,MASoN,Lyon,Robinson,Vienne,chiffonnee,l1'Odeon,Rhone,,,,,,,,,,,,
+11,Foin,Chinois,Champenoise,Inouï,gachisl,Chine,Loin,,,,,,,,,,,,,,
+12,Neuf-des-Après,"Chateau-
+Neuf-des-Après",F-=,,,,,,,,,,,,,,,,,,
+13,"hotel Piloisl...
+Du",hotel,hotel Pilois,L.R,tristel...,,,,,,,,,,,,,,,,
+14,"AI
+t
+I","T
+E","IX
+TU",,,,,,,,,,,,,,,,,,
+15,Montparnasse,Gymnase,h Montparnasse,theatre Montparnasse,a Montparnasse,boulevard Montparnasse,,,,,,,,,,,,,,,
+16,---rciseizzz--,"S
 ---
-e",LA--3,L----,"J 7'
-1---- I",4--,.--,Y,L---,"L--
-`",---rciseizzz--,"S
+e",L----,a----,L---,"L--
+`",e,.--,"J 7'
+1---- I","S
 -
 Lui
-L---",,,,,,,
-33,"Chateau-
-Neuf-des-Après",Neuf-des-Après,F-=,,,,,,,,,,,,,,,,,
-34,.,ELlE-ELLE-L-,eLLE,Rosellen,Grenelle,passerelle,Mademoiselle.6,Polichinelle.n,Camillel,eleves,merl Le ciel,pele-mele,Le Rosellen,abbe ruisselle,meLEsS,celebres,laquelle42,miserablel,,
-35,Dame,Dames,madameln,IMes,,,,,,,,,,,,,,,,
-36,aIl,humilie,LIl,Chili,lilas,Philistine,Cecilia,Religion,,,,,,,,,,,,
-37,.'-,a'-a,t-'-,,,,,,,,,,,,,,,,,
-38,Pier-,Mlle Pier-,piece,Hier-,,,,,,,,,,,,,,,,
-39,echantillon,"PAPILLON
-Ehl",Papillon,"PAPILLON
-Grimpe",Grillon,PAPILLON,"PAPILLON
-Ehl bienl",,,,,,,,,,,,,
-40,Frangais,Theatre-Frangais,"Theatre-
-Frangais",Theatre-Frangcais,theatre,Theatre-Francais,frangcais,,,,,,,,,,,,,
-41,Pacheco,seche,echope,sec.g6,bobeches,Pachecon,,,,,,,,,,,,,,
-42,gachisl,Chinois,Inouï,Champenoise,Chine,Loin,Foin,,,,,,,,,,,,,
-43,"-
--
--]","Wsa
--",-.s,"A
--.",f,"L-N
+L---",4--,LA--3,"L--
+`-",,,,,,,,
+17,"Bati-
+gnolles",Batignolleslo,gnol,,,,,,,,,,,,,,,,,,
+18,Pier-,piece,Mlle Pier-,Hier-,,,,,,,,,,,,,,,,,
+19,rEgardez,egayer,Regardez,E,garde-robel,gardes-du-corps,,,,,,,,,,,,,,,
+20,Vatel,hate,Bhagiratha,Chateau-,I99,Attends,,,,,,,,,,,,,,,
+21,C-,3C-,,,,,,,,,,,,,,,,,,,
+22,College,Recollets,Vieux-College,collegel,bibliotheque du college,,,,,,,,,,,,,,,,
+23,x=-,faiblement.z=-,t.t,enfaNt',bleme,Vraiment,,,,,,,,,,,,,,,
+24,Muguet,Muguets,,,,,,,,,,,,,,,,,,,
+25,baie de Naples,S,rue des,devouee,rue de Lille,pyramide d'Egypte,boue de Paris,4,joufflus de douze,rue des Dames,M. de,"place des
+Terreaux",,,,,,,,,
+26,fort Loyasse,Loyasse,Embrasse,,,,,,,,,,,,,,,,,,
+27,Blanc,Langlumeau,Blancs,la manche,Languedoc,,,,,,,,,,,,,,,,
+28,Somme,Rome,Promettez,l1'Epitome,Necro-,noms.r6z,trompe-la-mort,,,,,,,,,,,,,,
+29,Pruneaux,Beaux,Beaucaire,bordeaux,Sceaux,,,,,,,,,,,,,,,,
+30,Jacques,Iacques,Jacquesl,,,,,,,,,,,,,,,,,,
+31,"Wsa
+-","A
+-.","L-N
 
 A
-f",,,,,,,,,,,,,,
-44,Montparnasse,boulevard Montparnasse,theatre Montparnasse,h Montparnasse,Gymnase,a Montparnasse,,,,,,,,,,,,,,
-45,"sI. -
+f",-.s,"-
+-
+-]",,,,,,,,,,,,,,,,
+32,la Prairie,Prairie,,,,,,,,,,,,,,,,,,,
+33,dejeuna,jE,secrdtaire dejeune,Deja,,,,,,,,,,,,,,,,,
+34,fievres,givre,levre,fievre,Sevres,,,,,,,,,,,,,,,,
+35,Comedie,Comedie-Francaise,Comnme,Colombine,Comeidie,,,,,,,,,,,,,,,,
+36,Sarlandais,Sarlande,"college modele de
+Sarlandel",larmcs,Marsala,aSans,Sar-,,,,,,,,,,,,,,
+37,I59,I54,,,,,,,,,,,,,,,,,,,
+38,Saint-Pierre a Montmartre,Maintenant,Saint-Emilion,Saint-Esprit,Saint-,Saint-Theophile,Saint-Benoft,rue Saint-Benoit,rue Saint-Benoft,rue Saint-Guillaume,Saint-Petesbourg,Saint-Cloud,Saint-Pierre,eglise Saint-Pierre,rue Saint-Guillaumel,,,,,,
+39,Vendredil,vENDRAS,Cudra,Vendredi,TU vENDRAS DE LA,,,,,,,,,,,,,,,,
+40,menton,Mont-,Montez,Montmartre,t-=,mont-de-piete,,,,,,,,,,,,,,,
+41,Saumon,SAUMON,,,,,,,,,,,,,,,,,,,
+42,songeuse,Confusement,Crusoe,conge,Angelus,hideuse,,,,,,,,,,,,,,,
+43,Rendez,tenezl,Prés,Prenez,Comprends-tu,Comprenez,Venez,Figurez,pensezl,Entrezl,Tenezl,frenesie,,,,,,,,,
+44,Eyssettte,Musette,Eyssette,Mee Eyssette,Eyssettel,,,,,,,,,,,,,,,,
+45,l1'Academie,canape,Ca,Cadet,caraibe,Cap,ca,annongca,,,,,,,,,,,,,
+46,miserablel,abbe ruisselle,Grenelle,meLEsS,Rosellen,eLLE,ELlE-ELLE-L-,Mademoiselle.6,pele-mele,eleves,merl Le ciel,Camillel,passerelle,laquelle42,Le Rosellen,Polichinelle.n,celebres,,,,
+47,venere Lalouette,"vieux
+Lalouette",Lalouette,Mee Lalouette,baguettel,Kalatala,Lalouettel,palotte,,,,,,,,,,,,,
+48,frangcais,Frangais,Theatre-Frangais,"Theatre-
+Frangais",Theatre-Frangcais,Theatre-Francais,theatre,,,,,,,,,,,,,,
+49,Naples,Chenilles,iles Marquises,Les Chenilles,asphyxie les etrangle,les Debuts,fillesen,les86,,,,,,,,,,,,,
+50,Jugez,Caveau,Savez,Vive,avenue,vecu,Avez,savezl,bravel,RBvE,Voyez,,,,,,,,,,
+51,tolocototignan,Tolocototignan,Rana-Valo,,,,,,,,,,,,,,,,,,
+52,voyais,Vois,voirl,MOI,voila,Pilois,emouvoir,Voilh,,,,,,,,,,,,,
+53,Espa-,aUn Espa-,Raspail,,,,,,,,,,,,,,,,,,
+54,Combien,Eh bien,Eh,Bientot,Tiens,AS-tu bien,,,,,,,,,,,,,,,
+55,clocher de Saint-Germain,Saint-Germain-des-,Saint-Germain,faubourg Saint-Germain,Pres-Saint-Gervais,horloge de Saint-Germain,Maine,AInsi-Dan,.`2,Saint-Germain-des-Prés,iNN,Saint-Germain-,,,,,,,,,
+56,Rosel,Chose.8,Chosel,Choseln,Chose,"Chosel
+Or","CHIOSE
+A",Rose,,,,,,,,,,,,,
+57,sec.g6,echope,Pachecon,bobeches,seche,Pacheco,,,,,,,,,,,,,,,
+58,Saint-Nizier.n,Saint-Nizier,Nizier,Saint-Nizierl,,,,,,,,,,,,,,,,,
+59,Carmelites,Carmelites -,place d'Armes,melopee,,,,,,,,,,,,,,,,,
+60,"PAPILLON
+Grimpe","PAPILLON
+Ehl",Grillon,Papillon,"PAPILLON
+Ehl bienl",PAPILLON,echantillon,,,,,,,,,,,,,,
+61,Broum-Broum,eperdus,Perou,apergcu,Souwaroff,Fougeroux,europe,,,,,,,,,,,,,,
+62,execre,sUCRE,credence,ceda,Providence,,,,,,,,,,,,,,,,
+63,II,saluerentIIIRIAR,N,,,,,,,,,,,,,,,,,,
+64,f,cimetieres,AmUser,tapissieres,serre-fille,arriere,premierln,Serrieres,Serrieres.n,Nanterre,Serrieresl,equerres,serrure,desert,Bernerette,,,,,,
+65,.L,.l,,,,,,,,,,,,,,,,,,,
+66,Parthenon,Cunocepa,deplaft,deplume,depart,depit,par-dessus,separa,dpart,,,,,,,,,,,,
+67,Conseillez,Anastagille,cette Bastille,vicille fee,Villle,LLLLL- L,Marseille,Hacqueville,LLLLLLL-LLLLLLLL-,petille,,,,,,,,,,,
+68,Cherchons,Perrache,Mon cher,Chutl,Cachotier,Cher,du cher,hesiter,cheminee,,,,,,,,,,,,
+69,I45,"I,5",I49,I47,,,,,,,,,,,,,,,,,
+70,Pardonnez,Garçon,Pardonne,Pardon,weldon,Expansion,Chardon,Iardin,,,,,,,,,,,,,
+71,CoUCoU-BLANC,Coucou-bBlanc,Annou,"T
+
+.-1coUcoU","T
+
+.-1coUcoU-BLANC","Coucou-
+Blanc",Micou,essouffle.coUcoU-BLANC,Accoude,Coucou,Boucoyran,Coucou-Blanc,Coucou-,Coucou-Blancl,F,Couru-Blanc,Coucou-Blancl Est,,,,
+72,reveillee,RAEvE,Revolutionl,Être,reveillon,REvE,"Musc
+severe",treve,,,,,,,,,,,,,
+73,Hospitalier,Fanfan-la-Italie,moitie,d'Italie,Italiens,Italien,l'italie,italie,l'Italie,Italie,,,,,,,,,,,
+74,Quartier Latin,Moustier,Quartier-Latin,quartier,Quartier,,,,,,,,,,,,,,,,
+75,Daniel,Danielo,Danielln,,,,,,,,,,,,,,,,,,
+76,"sI. -
 I
 -
 5:
-i","sI. -
-I","16 J
+i","16 J
 as4 -
 L","I
 
@@ -109,88 +135,62 @@ y","J
 -'
 1
 x
-1",,,,,,,,,,,,,
-46,La-haut,tueras lha-haut,Autre,,,,,,,,,,,,,,,,,
-47,l'Italie,Italiens,italie,Italien,Hospitalier,d'Italie,l'italie,Fanfan-la-Italie,moitie,Italie,,,,,,,,,,
-48,la Bretagne,Cassagne,sagne,Bretagne,champagne,pagna,,,,,,,,,,,,,,
-49,RBvE,REvE,"Musc
-severe",reveillon,Revolutionl,treve,reveillee,RAEvE,,,,,,,,,,,,
-50,Quartier Latin,quartier,F,Quartier,Moustier,Quartier-Latin,,,,,,,,,,,,,,
-51,Retourne,Turc,Touraine,aTout,Soudain,Porcelaines,,,,,,,,,,,,,,
-52,voyais,Voyez,voirl,Vois,emouvoir,voila,Voilh,Pilois,MOI,,,,,,,,,,,
-53,Alsacien,continua1'Alsacien,Alsace,,,,,,,,,,,,,,,,,
-54,avenue,Vive,Avez,bravel,Savez,vecu,Jugez,Caveau,savezl,,,,,,,,,,,
-55,hate,Attends,Vatel,Chateau-,Bhagiratha,,,,,,,,,,,,,,,
-56,la-bas,Bas,Pas,ld-bas,Anastasie,l-bas,,,,,,,,,,,,,,
-57,baguettel,venere Lalouette,palotte,Mee Lalouette,Lalouette,"vieux
-Lalouette",Kalatala,Lalouettel,,,,,,,,,,,,
-58,menton,Lyon,mont-de-piete,Mont-,Montmartre,t-=,l1'Odeon,Montez,,,,,,,,,,,,
-59,rien.- A,menage,exageree,menagerie,Genies,tragedienne,,,,,,,,,,,,,,
-60,Rh6ne,Vienne,Robinson,iNN,chiffonnee,MASoN,Rhone,connaft,Sonne,annongca,,,,,,,,,,
-61,Barbette,benl,Barbetten,Barbettel,,,,,,,,,,,,,,,,
-62,grace,-C,Petite-Cercle,Grand-Cercle,Grand-Orient,,,,,,,,,,,,,,,
-63,Egypte,tempete,Tes,hote,"Es-tu betel
-Si la tete te tourne",bete,srete,Arretez,Pentecote,Odette,tete,tete empanachee,tetes,betes,La Bete,flte,discrete,croirais-tu poete,BeteI74,Angleterre
-64,separa,depit,depart,deplume,Cunocepa,dpart,deplaft,par-dessus,,,,,,,,,,,,
-65,Providence,ceda,credence,sUCRE,execre,,,,,,,,,,,,,,,
-66,"college modele de
-Sarlandel",Sarlandais,Marsala,Sar-,Sarlande,larmcs,aSans,,,,,,,,,,,,,
-67,Cachotier,Chutl,hesiter,punch,du cher,cheminee,Perrache,Cher,Mon cher,Cherchons,,,,,,,,,,
-68,Danielo,Daniel,Danielln,,,,,,,,,,,,,,,,,
-69,"Limoux
-Seulement",IMt,Amour,Limoux,,,,,,,,,,,,,,,,
-70,Chenilles,fillesen,Les Chenilles,les Debuts,iles Marquises,Naples,les86,asphyxie les etrangle,,,,,,,,,,,,
-71,L7sLL- L-L-L3,1R-A,1R-,R-L,sur-le-champ,-L,,,,,,,,,,,,,,
-72,Rosel,Chose,"CHIOSE
-A",Choseln,Chosel,"Chosel
-Or",Chose.8,Rose,,,,,,,,,,,,
-73,Pres-Saint-Gervais,faubourg Saint-Germain,horloge de Saint-Germain,AInsi-Dan,Saint-Germain-des-,Saint-Germain-des-Prés,Saint-Germain,clocher de Saint-Germain,Maine,Saint-Germain-,,,,,,,,,,
-74,Rendez,pensezl,Prés,Comprends-tu,frenesie,tenezl,Tenezl,Prenez,Venez,Entrezl,Figurez,Comprenez,,,,,,,,
-75,du Nord,dore,Or,Infortunes,victoria,,,,,,,,,,,,,,,
-76,A,buis,guipure,Marquises,Puis,,,,,,,,,,,,,,,
-77,rY,eteignez,Seigneur,Notre-Seigneur,Guigne,neud,,,,,,,,,,,,,,
-78,melopee,place d'Armes,Carmelites,Carmelites -,,,,,,,,,,,,,,,,
-79,N-,dEmanda,Demain-,LE Lendemain,Inde,,,,,,,,,,,,,,,
-80,la manche,Blancs,Blanc,Languedoc,Langlumeau,,,,,,,,,,,,,,,
-81,Coucou-bBlanc,Coucou-,"T
-
-.-1coUcoU-BLANC",Couru-Blanc,Micou,Coucou-Blanc,Coucou-Blancl,"T
-
-.-1coUcoU",Accoude,CoUCoU-BLANC,Coucou,essouffle.coUcoU-BLANC,"Coucou-
-Blanc",Boucoyran,Annou,Coucou-Blancl Est,,,,
-82,3C-,C-,,,,,,,,,,,,,,,,,,
-83,Musette,Eyssettel,Eyssette,Eyssettte,Mee Eyssette,,,,,,,,,,,,,,,
-84,I.E,mefie-toil,toitl,toi.n,e,,,,,,,,,,,,,,,
-85,tolocototignan,N,Tolocototignan,Rana-Valo,,,,,,,,,,,,,,,,
-86,.`2,Pruneaux,bordeaux,Sceaux,Beaux,Beaucaire,,,,,,,,,,,,,,
-87,Helasl,Ohl,Heinl,Boheme,Ohel,- Oh,,,,,,,,,,,,,,
-88,Embrasse,fort Loyasse,Loyasse,,,,,,,,,,,,,,,,,
-89,gardes-du-corps,egayer,rEgardez,Regardez,garde-robel,,,,,,,,,,,,,,,
-90,Luxembourg,veloursl,amisln,Tribou,Bourgeoisln,,,,,,,,,,,,,,,
-91,"IX
-TU","T
-E","AI
-t
-I",,,,,,,,,,,,,,,,,
-92,x=-,t.t,Vraiment,enfaNt',faiblement.z=-,bleme,,,,,,,,,,,,,,
-93,Lombards,Bandit,Bambanl,Bach',Cuba,Bamban,,,,,,,,,,,,,,
-94,l1'Academie,caraibe,canape,Cadet,ca,Cap,Ca,,,,,,,,,,,,,
-95,tais5o,sais,ecoutais,MIais,aimais,etais,Ma-,"maitres,-",niais,mAIs,,,,,,,,,,
-96,gnol,"Bati-
-gnolles",Batignolleslo,,,,,,,,,,,,,,,,,
-97,TU vENDRAS DE LA,Vendredil,vENDRAS,Vendredi,Cudra,,,,,,,,,,,,,,,
-98,Cevenole,Cevennes,Cevenol,,,,,,,,,,,,,,,,,
-99,Eh,AS-tu bien,Bientot,Eh bien,Tiens,,,,,,,,,,,,,,,
-100,allezl,Allez,val,Palerme,Mlle,alle,Vallee,talle,,,,,,,,,,,,
-101,Iacques,Jacquesl,Jacques,,,,,,,,,,,,,,,,,
-102,J'ai,J',,,,,,,,,,,,,,,,,,
-103,d'Espagne,aUn Espa-,Espa-,Raspail,,,,,,,,,,,,,,,,
-104,givre,Sevres,levre,fievres,fievre,,,,,,,,,,,,,,,
-105,1E.,I,SAUMON,Saumon,,,,,,,,,,,,,,,,
-106,malheureusel,Malheureuse-,Eux,Malheu-,Malgre,Malheureu-,,,,,,,,,,,,,,
-107,lisezl,suisse,Pise,aplatisse,Palais-Royal,assis,Laisse,,,,,,,,,,,,,
-108,bouteille debouchee,Ebloui,luil,Pilouittl,oUi,Ouil,,,,,,,,,,,,,,
-109,Germane,abbe,abbe Germane,,,,,,,,,,,,,,,,,
-110,rue des Dames,pyramide d'Egypte,boue de Paris,rue de Lille,baie de Naples,devouee,M. de,joufflus de douze,rue des,,,,,,,,,,,
-111,Desir-de-plaire,eclairee,Lamartine d'Elvire,Pecairel,soiree,sire-de-plaire,,,,,,,,,,,,,,
-112,europe,Souwaroff,Fougeroux,eperdus,Broum-Broum,apergcu,Perou,,,,,,,,,,,,,
+1","sI. -
+I",,,,,,,,,,,,,,
+77,Marquises,niais,"maitres,-",Ma-,mAIs,MIais,aimais,tais5o,etais,sais,ecoutais,,,,,,,,,,
+78,Desir-de-plaire,eclairee,Lamartine d'Elvire,Pecairel,sire-de-plaire,soiree,,,,,,,,,,,,,,,
+79,Cevennes,Cevenole,Cevenol,,,,,,,,,,,,,,,,,,
+80,assis,Pise,aplatisse,Laisse,Palais-Royal,suisse,lisezl,,,,,,,,,,,,,,
+81,Alsacien,continua1'Alsacien,Alsace,,,,,,,,,,,,,,,,,,
+82,violente,Mole,La creole,rOle,Peyrol,le soleil,ronfla,Soubeyrol,soleil,,,,,,,,,,,,
+83,mefie-toil,toi.n,I.E,toitl,,,,,,,,,,,,,,,,,
+84,manecanterie,avantl,Plantes,ardin des Plantes,rue Lanterne,,,,,,,,,,,,,,,,
+85,Amour,IMt,Limoux,"Limoux
+Seulement",,,,,,,,,,,,,,,,,
+86,gresil,"pAs eNcore
+rencontree",rang.- Presentez,Apres,representee,reponse,precipite,"sous-prefectureln
+Est",,,,,,,,,,,,,
+87,L7sLL- L-L-L3,sur-le-champ,1R-,1R-A,R-L,-L,,,,,,,,,,,,,,,
+88,"E
+Or
+A","3z-E
+E
+Or
+A",,,,,,,,,,,,,,,,,,,
+89,Dit,le Midi,MI,Midi,MIdi-Opinion,,,,,,,,,,,,,,,,
+90,oUi,Pilouittl,bouteille debouchee,luil,Ebloui,Ouil,,,,,,,,,,,,,,,
+91,a'-a,t-'-,.'-,,,,,,,,,,,,,,,,,,
+92,du Nord,Y,dore,Port-au-Prince,Or,Infortunes,victoria,,,,,,,,,,,,,,
+93,estimez,kakatoes,ESt-ce,vages,resister,1E.,Est,mastoides,Faust,consternes,,,,,,,,,,,
+94,"Vieille
+bete de Pierrotte","Pierrotte
+Pierrotte",Roberte,Pierrotte -,"PIERROTTE
+I43
+Cevenole",Grossiers,Pierrotte,Pierrotte.n,,,,,,,,,,,,,
+95,Egypte,srete,Odette,tempete,flte,La Bete,"Es-tu betel
+Si la tete te tourne",croirais-tu poete,Angleterre,tetes,discrete,Arretez,tete empanachee,BeteI74,tete,betes,Pentecote,A,Tes,hote,bete
+96,r8,malheureusel,Malheu-,Eux,Malheureu-,Malgre,Malheureuse-,,,,,,,,,,,,,,
+97,madameln,IMes,Dames,Dame,,,,,,,,,,,,,,,,,
+98,Porcelaines,Soudain,aTout,Retourne,Touraine,,,,,,,,,,,,,,,,
+99,victoria de la dame,palais de la fee Porcelaine,Emporte,Porte S,La Porte S,La Porte,,,,,,,,,,,,,,,
+100,veloursl,Luxembourg,amisln,Tribou,Bourgeoisln,,,,,,,,,,,,,,,,
+101,Anastasie,la-bas,Pas,l-bas,Bas,ld-bas,,,,,,,,,,,,,,,
+102,val Quelquefois,magnifiquel,amérique,Bouzanquet,eleve Menalque,C(.%,Afrique,Menalque,Quelquefois,Quels,Que Voulez,Quelque,Paques,,,,,,,,
+103,paRfois,Arrivee,Chauve-Souris,Palais-Mazarin,Cristaux,Parisien,paraft,Parfaitl,Parisiens,Rio,Parisl,PAris,MArie-anne,Paris,,,,,,,
+104,J'ai,5I,J',,,,,,,,,,,,,,,,,,
+105,punch,buis,guipure,Puis,,,,,,,,,,,,,,,,,
+106,Turc,Guigne,eteignez,Notre-Seigneur,neud,Seigneur,,,,,,,,,,,,,,,
+107,Autre,tueras lha-haut,La-haut,,,,,,,,,,,,,,,,,,
+108,Barbette,benl,Barbetten,Barbettel,,,,,,,,,,,,,,,,,
+109,Boulons,Consterna-,Non',Allonsl,tenonslo,,,,,,,,,,,,,,,,
+110,menage,Genies,rien.- A,exageree,tragedienne,menagerie,,,,,,,,,,,,,,,
+111,"plus54
+LE PETIT","2or
+LE PETIT CHOSE","mien.2o
+LE PETIT CHOSE","les86
+LE PETIT CHOSE","BeteI74
+LE PETIT CHOSE","r6o
+LE PETIT",a6,Petit Chose,"porte du collegel88
+LE PETIT CHOSE","a6
+LE PETIT CHOSE",,,,,,,,,,,
+112,Pourvu,Muse badine,Mluse,poussde,Pousse,,,,,,,,,,,,,,,,

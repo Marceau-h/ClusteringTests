@@ -1,29 +1,31 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5
-0.0,Marion,St Cecilia,Paris,,,
-1.0,Limerick,rich~,,,,
-2.0,Britain,Spain,Great Britain,,,
-3.0,Agrippina,china,,,,
-4.0,London,LONDON,,,,
-5.0,Clara Novello,Portobello,Clara,Olara,Dovetap,
-6.0,Argyloshire,Argyleshire,Yorkshire,,,
-7.0,Granville,Clara Granville’s,"Clara Gran-
-ville",Clara Granville,Finden,"Clara
-Granville"
-8.0,Scorr,Scotland,SCOTLAND,Shetland,,
-9.0,Kilmarnock,inn,Pinnock,,,
-10.0,DUBLIN,Dublin,,,,
-11.0,the arbour,Courant,,,,
-12.0,"heart,—and","earth,—by","room,—a",,,
-13.0,Seabeach,Sea,,,,
-14.0,Rosemount,Rosemount Villa,,,,
-15.0,Srveran,Geranium,,,,
-16.0,Providence,Australia,Monsieur D’Ambereau,Beaujolie,beaux,Caroline
-17.0,Holyrood,Holyrood House,,,,
-18.0,Highland,Ireland,England,GLASGOW,,
-19.0,Tattersall,Doncaster,,,,
-20.0,Ernest,MoDERN,,,,
-21.0,Agnes,Agnes Dunbar,Dunbar,Agnes.,"Agnes
-Dunbar",
-22.0,Bibles,Charles,,,,
-23.0,De Cres-,"Louis De
-Crespigny",Louis,Louis de Cres-,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4
+0.0,St Cecilia,Australia,,,
+1.0,Clara Novello,Dovetap,Clara,Olara,Portobello
+2.0,Great Britain,Britain,Spain,,
+3.0,Providence,Finden,,,
+4.0,Rosemount Villa,Rosemount,,,
+5.0,De Cres-,Louis de Cres-,"Louis De
+Crespigny",Louis,
+6.0,Seabeach,Sea,,,
+7.0,Ernest,MoDERN,,,
+8.0,LONDON,London,,,
+9.0,Dunbar,"Agnes
+Dunbar",Agnes,Agnes.,Agnes Dunbar
+10.0,Argyloshire,Argyleshire,Yorkshire,,
+11.0,Tattersall,Doncaster,,,
+12.0,Dublin,DUBLIN,,,
+13.0,"Clara Gran-
+ville",Clara Granville,Granville,"Clara
+Granville",Clara Granville’s
+14.0,Holyrood,Holyrood House,,,
+15.0,the arbour,Courant,,,
+16.0,Shetland,Scotland,SCOTLAND,Scorr,
+17.0,"earth,—by","heart,—and","room,—a",,
+18.0,Kilmarnock,Pinnock,inn,,
+19.0,Caroline,Beaujolie,beaux,Monsieur D’Ambereau,
+20.0,Limerick,rich~,,,
+21.0,Ireland,Highland,England,GLASGOW,
+22.0,Charles,Bibles,,,
+23.0,Marion,Paris,,,
+24.0,Srveran,Geranium,,,
+25.0,Agrippina,china,,,

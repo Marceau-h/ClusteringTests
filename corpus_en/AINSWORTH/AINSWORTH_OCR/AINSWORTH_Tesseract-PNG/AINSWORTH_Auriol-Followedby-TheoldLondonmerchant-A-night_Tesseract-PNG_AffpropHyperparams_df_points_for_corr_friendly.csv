@@ -1,47 +1,49 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11
-0,Inn,Inn-lane,Ninus,,,,,,,,,
-1,Westminster,Munster Festivals,Vignettes,Leicestershire,scaly sea-monster,Ww,Zoroaster,master’ll,stecl,Steel Plates,nearest kinsman,
-2,Fexh,Elia,penetralia,L. EL.,Amelia,c.g.,Wakefield,"Queen
-Elizabeth’s time",Boscobel,,,
-3,London,anon,Wyandotte,Abingdon,Curzon,Londcn Stone,Richmond,Bacon,yon’t,Old London,LONDON,
-4,AURIOL,Vol,Belvoir,Bivouac,Holbein,Colours,8vo,Emm,vol,scagliola,,
-5,Havre,Thames,Pelham,Athanor,Hamburg,Nottingham,St. James’ss,Waltham,,,,
-6,Lyndhurst,St.,"St.
-George’s",St. Peter,STATUE,W.H.,,,,,,
-7,Watts,South-,Southwark,EDWARDS,,,,,,,,
-8,Flapdragon,Clara,flagon,,,,,,,,,
-9,Haliburton,Lothbury,Canterbury,Midlothian,Finsbury,c'oth,,,,,,
-10,Marion,Marked,Mars,Cinq Mars,Warsaw,Mark,,,,,,
-11,Byron,KronuEIM,KRONHEIM,Blenheim,,,,,,,,
-12,crowne,Pompeii,ROME,Rome,,,,,,,,
-13,china,Kensington,Grafton,Washington,Godolphin,Oak Openings,Paston,,,,,
-14,Granada,Bunce,France,Fra,’s,Ovingdean Grange,Strand,,,,,
-15,Podrida,Dryden,DR,Drury,,,,,,,,
-16,Tokay,Woodstock,Rookwood,Stowe,UK,,,,,,,
-17,AINSWORTH,Forest Days,Oxford,Forum,fort,Portrait,Kenilworth,Boraa,Beaafort,,,
-18,Ivanhoe,thou,Author,Thou,,,,,,,,
-19,Sea Lions,Se,Eastcheap,The Inland Sea,Sea,Beatitudes,Japhet inSearchofaFather,Peak,sepulchre,Morse,Seto,
-20,Albany,Millbank,M.A.,,,,,,,,,
-21,Old Bailey,IL,Henry VIIL.,Billinsgit,Cornhill,IIlustrations,,,,,,
-22,ROUTLEDGE,Tlosiage,Routledge,,,,,,,,,
-23,Whitefriars,Italy,Whitehall,"Hallywoed Es
-Hall",Aldgate,,,,,,,
-24,Loftus,Turk,Pictures,,,,,,,,,
-25,f—-,Nigel,Trigce,Trigge,Tzigge,,,,,,,
-26,NEW YORK,New Type,,,,,,,,,,
-27,Tn,Tasso,Santa Maria,Santa,ANTIQUARIES,Phantom Ship,Swan,Satan,Antverp,,,
-28,HYDE PARK,Park,JT,Hyde Park,,,,,,,,
-29,Jaden,Ve're,Venice,Regent,25th Regiment,,,,,,,
-30,the Black Dwarf,Calabria,"the Alabama
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12
+0,ROME,Pompeii,crowne,Rome,,,,,,,,,
+1,HYDE PARK,Hyde Park,Park,,,,,,,,,,
+2,nearest kinsman,stecl,Westminster,Munster Festivals,Zoroaster,Steel Plates,master’ll,scaly sea-monster,Leicestershire,Vignettes,,,
+3,Emm,Temple-bar,,,,,,,,,,,
+4,Venice,Regent,Fexh,25th Regiment,Jaden,Ve're,,,,,,,
+5,DR,Podrida,Dryden,Drury,,,,,,,,,
+6,Charles,Achilles,Farquhar,Damocles,Harvey,Charing,,,,,,,
+7,flagon,scagliola,Flapdragon,,,,,,,,,,
+8,Phantom Ship,Santa,Tasso,ANTIQUARIES,Swan,Santa Maria,Satan,,,,,,
+9,Rookwood,Woodstock,Tokay,W.H.,Stowe,,,,,,,,
+10,Havre,Hamburg,Thames,Waltham,TX,Athanor,Pelham,Nottingham,,,,,
+11,Inn,Holbein,Ninus,UK,Inn-lane,,,,,,,,
+12,Rougemont,Montrose,Monsieur Violet,ROSICRUCIAN,Beaumont,,,,,,,,
+13,Mark,Mars,Warsaw,Cinq Mars,Clara,Marion,Marked,,,,,,
+14,Albany,Millbank,,,,,,,,,,,
+15,Byron,KRONHEIM,KronuEIM,Blenheim,,,,,,,,,
+16,"Saint
+James's-square",Mackintoshes,Saint,Fairfax,Isaical,,,,,,,,
+17,M.A.,Ww,,,,,,,,,,,
+18,Turk,Pictures,Loftus,JT,,,,,,,,,
+19,Aldgate,Italy,Whitefriars,Whitehall,"Hallywoed Es
+Hall",,,,,,,,
+20,Kenilworth,Forest Days,c.g.,AINSWORTH,Portrait,Forum,fort,Boraa,Oxford,Beaafort,,,
+21,Seto,Se,Sea Lions,Eastcheap,Japhet inSearchofaFather,Sea,Morse,sepulchre,Peak,The Inland Sea,Beatitudes,,
+22,Calabria,f—-,"the Alabama
 
 Il
 
-Case",,,,,,,,,
-31,Farquhar,Harvey,Charing,Damocles,Achilles,Temple-bar,Charles,,,,,
-32,Beaumont,Monsieur Violet,Rougemont,Montrose,ROSICRUCIAN,,,,,,,
-33,"Saint
-James's-square",Fairfax,Mackintoshes,Isaical,Saint,,,,,,,
-34,Rienzi,Paradiso,Jun.,Bavaria,Ispahan,TX,Mississippi,Cristofano,Paris,Isle of Skye,,
-35,Scotland,Vanbrugh,oie Highlands,bds.,England,Highlands,,,,,,
-36,Hermetic,Waterloo,America,Perth,Rotterdam,River,Lammermoor,Serpentine,Trayther,Vhere,Sheridan,ER
-37,Stepney-green,Seutree,King-street,Packet,Reeks,Park-street,,,,,,
+Case",the Black Dwarf,,,,,,,,,
+23,Belvoir,’s,Vol,Bivouac,Colours,AURIOL,8vo,vol,,,,,
+24,South-,Southwark,EDWARDS,Watts,,,,,,,,,
+25,Richmond,Wyandotte,anon,LONDON,Londcn Stone,Bacon,Old London,London,Curzon,Abingdon,yon’t,,
+26,oie Highlands,bds.,Scotland,Highlands,England,Vanbrugh,,,,,,,
+27,ROUTLEDGE,Tlosiage,Routledge,,,,,,,,,,
+28,Perth,Hermetic,Lammermoor,Sheridan,River,Serpentine,America,Vhere,Waterloo,Trayther,ER,Rotterdam,Antverp
+29,NEW YORK,New Type,Tn,,,,,,,,,,
+30,Seutree,Stepney-green,King-street,Park-street,Reeks,Packet,,,,,,,
+31,Granada,Fra,Bunce,Strand,France,Ovingdean Grange,,,,,,,
+32,Paston,Grafton,Kensington,china,Washington,Oak Openings,Godolphin,,,,,,
+33,Tzigge,Nigel,Trigge,Trigce,,,,,,,,,
+34,Jun.,Thou,thou,Ivanhoe,Author,,,,,,,,
+35,Henry VIIL.,Old Bailey,Cornhill,Billinsgit,IL,IIlustrations,,,,,,,
+36,Rienzi,Isle of Skye,Bavaria,Cristofano,Mississippi,Paradiso,Ispahan,Paris,,,,,
+37,St. James’ss,"St.
+George’s",Lyndhurst,St. Peter,St.,STATUE,,,,,,,
+38,Amelia,penetralia,Wakefield,L. EL.,Boscobel,"Queen
+Elizabeth’s time",Elia,,,,,,
+39,Haliburton,c'oth,Midlothian,Finsbury,Canterbury,Lothbury,,,,,,,

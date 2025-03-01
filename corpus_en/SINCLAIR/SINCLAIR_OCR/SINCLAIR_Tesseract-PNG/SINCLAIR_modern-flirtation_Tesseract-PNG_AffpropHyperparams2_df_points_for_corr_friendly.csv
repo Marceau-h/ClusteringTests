@@ -1,30 +1,28 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
-0,quad-,nile,Portobello,Finden,,,,,
-1,Hebe,"St
-John’s Lodge",MoDERN,,,,,,
-2,Limerick,Agrippina,L,inn,Melton,,,,
-3,Argyloshire,Leeds,Argyleshire,Yorkshire,,,,,
-4,Canada,Edinburgh,Oxford,Israel,rich~,Queensferry,,,
-5,De Cres-,china,"Louis De
-Crespigny",juve-,Australia,Rosemount,Louis,Louis de Cres-,
-6,Clara Novello,Clara,Olara,,,,,,
-7,St Cecilia,Sea,,,,,,,
-8,Scorr,Scotland,Highland,SCOTLAND,Ireland,ceil-,"heart,—and",England,Shetland
-9,Britain,Spain,United Ser-,Henry,Great Britain,mo,GLASGOW,,
-10,Jacob,us,ny,,,,,,
-11,Srveran,Courant,Geranium,,,,,,
-12,Pinnock,Seabeach,Monsieur D’Ambereau,Beaujolie,beaux,wero,,,
-13,Granville,Clara Granville’s,"Clara Gran-
-ville",Clara Granville,"Clara
-Granville",Rosemount Villa,,,
-14,Jaugh,the arbour,Tattersall,,,,,,
-15,Dovetap,"earth,—by",,,,,,,
-16,Marion,Abbey,Saul,Tho,,,,,
-17,Holyrood,Holyrood House,"room,—a",,,,,,
-18,Kelso,Paris,,,,,,,
-19,DUBLIN,Caroline,Dublin,,,,,,
-20,Ernest,Agnes,Agnes Dunbar,Dunbar,Agnes.,"Agnes
-Dunbar",,,
-21,Kilmarnock,Fife,,,,,,,
-22,Bibles,"L.60,000",Charles,,,,,,
-23,London,Providence,Doncaster,LONDON,,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9
+0,Great Britain,Britain,Spain,Melton,Rosemount,L,"St
+John’s Lodge",,,
+1,Limerick,the arbour,rich~,Paris,,,,,,
+2,Dovetap,Hebe,Pinnock,,,,,,,
+3,Providence,,,,,,,,,
+4,Charles,Edinburgh,Bibles,Australia,,,,,,
+5,De Cres-,Louis de Cres-,"Louis De
+Crespigny",Leeds,Louis,,,,,
+6,Dunbar,Ernest,juve-,"Agnes
+Dunbar",Agnes,Agnes.,Agnes Dunbar,,,
+7,Saul,Tattersall,Kelso,Jacob,Portobello,,,,,
+8,Clara Novello,"earth,—by",Clara,quad-,Olara,nile,,,,
+9,"Clara Gran-
+ville",ceil-,Rosemount Villa,Fife,Clara Granville,Canada,us,Granville,"Clara
+Granville",Clara Granville’s
+10,Kilmarnock,GLASGOW,wero,,,,,,,
+11,Shetland,Ireland,Scotland,"heart,—and",Highland,SCOTLAND,England,Scorr,,
+12,United Ser-,Marion,Sea,,,,,,,
+13,Seabeach,Beaujolie,beaux,Monsieur D’Ambereau,,,,,,
+14,Holyrood,Holyrood House,"L.60,000","room,—a",Finden,,,,,
+15,St Cecilia,ny,Abbey,Henry,,,,,,
+16,LONDON,London,Doncaster,,,,,,,
+17,Agrippina,mo,Oxford,Israel,china,,,,,
+18,Queensferry,Jaugh,,,,,,,,
+19,Argyloshire,Argyleshire,Yorkshire,,,,,,,
+20,Caroline,Dublin,DUBLIN,,,,,,,
+21,Srveran,Tho,Courant,MoDERN,inn,Geranium,,,,

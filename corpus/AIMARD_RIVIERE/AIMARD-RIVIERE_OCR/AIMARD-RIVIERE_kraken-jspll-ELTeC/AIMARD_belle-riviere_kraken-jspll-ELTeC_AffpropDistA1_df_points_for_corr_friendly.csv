@@ -1,87 +1,14 @@
 cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16,elem_17,elem_18,elem_19,elem_20,elem_21,elem_22,elem_23,elem_24,elem_25,elem_26,elem_27,elem_28,elem_29,elem_30,elem_31,elem_32,elem_33,elem_34,elem_35,elem_36,elem_37,elem_38,elem_39,elem_40,elem_41,elem_42,elem_43,elem_44,elem_45,elem_46,elem_47,elem_48,elem_49,elem_50,elem_51,elem_52,elem_53,elem_54,elem_55,elem_56,elem_57,elem_58,elem_59,elem_60,elem_61,elem_62,elem_63,elem_64,elem_65,elem_66,elem_67,elem_68,elem_69,elem_70,elem_71,elem_72,elem_73,elem_74,elem_75,elem_76,elem_77,elem_78,elem_79,elem_80,elem_81,elem_82,elem_83,elem_84,elem_85,elem_86,elem_87,elem_88,elem_89,elem_90,elem_91,elem_92,elem_93,elem_94,elem_95,elem_96,elem_97,elem_98,elem_99,elem_100,elem_101,elem_102,elem_103,elem_104,elem_105,elem_106,elem_107,elem_108,elem_109,elem_110,elem_111,elem_112,elem_113,elem_114,elem_115,elem_116,elem_117,elem_118,elem_119,elem_120,elem_121,elem_122,elem_123,elem_124,elem_125,elem_126,elem_127,elem_128,elem_129,elem_130,elem_131,elem_132,elem_133,elem_134,elem_135,elem_136,elem_137,elem_138,elem_139,elem_140,elem_141,elem_142,elem_143,elem_144,elem_145,elem_146,elem_147,elem_148,elem_149,elem_150,elem_151,elem_152,elem_153,elem_154,elem_155,elem_156,elem_157,elem_158,elem_159,elem_160,elem_161,elem_162,elem_163,elem_164,elem_165,elem_166,elem_167,elem_168,elem_169,elem_170,elem_171,elem_172,elem_173,elem_174,elem_175,elem_176,elem_177,elem_178,elem_179,elem_180,elem_181,elem_182,elem_183,elem_184,elem_185,elem_186,elem_187,elem_188,elem_189,elem_190,elem_191,elem_192,elem_193,elem_194,elem_195,elem_196,elem_197,elem_198,elem_199,elem_200,elem_201,elem_202,elem_203,elem_204,elem_205,elem_206,elem_207,elem_208,elem_209,elem_210,elem_211,elem_212,elem_213,elem_214,elem_215,elem_216,elem_217,elem_218,elem_219,elem_220,elem_221,elem_222,elem_223,elem_224,elem_225,elem_226,elem_227,elem_228,elem_229,elem_230,elem_231,elem_232,elem_233,elem_234,elem_235,elem_236,elem_237,elem_238,elem_239,elem_240,elem_241,elem_242,elem_243,elem_244,elem_245,elem_246,elem_247,elem_248,elem_249,elem_250,elem_251,elem_252,elem_253,elem_254,elem_255,elem_256,elem_257,elem_258,elem_259,elem_260,elem_261,elem_262,elem_263,elem_264,elem_265,elem_266,elem_267,elem_268,elem_269,elem_270,elem_271,elem_272,elem_273,elem_274,elem_275,elem_276,elem_277,elem_278,elem_279,elem_280,elem_281,elem_282,elem_283,elem_284,elem_285,elem_286,elem_287,elem_288,elem_289,elem_290,elem_291,elem_292,elem_293,elem_294,elem_295,elem_296,elem_297,elem_298,elem_299,elem_300,elem_301,elem_302,elem_303,elem_304,elem_305,elem_306,elem_307,elem_308,elem_309,elem_310,elem_311,elem_312,elem_313,elem_314,elem_315,elem_316,elem_317,elem_318,elem_319,elem_320,elem_321,elem_322,elem_323,elem_324,elem_325,elem_326,elem_327,elem_328,elem_329,elem_330,elem_331,elem_332,elem_333,elem_334,elem_335,elem_336,elem_337,elem_338,elem_339,elem_340,elem_341,elem_342,elem_343,elem_344,elem_345,elem_346,elem_347,elem_348,elem_349,elem_350,elem_351,elem_352,elem_353,elem_354,elem_355,elem_356,elem_357,elem_358,elem_359,elem_360,elem_361,elem_362,elem_363,elem_364,elem_365,elem_366,elem_367,elem_368,elem_369,elem_370,elem_371,elem_372,elem_373,elem_374,elem_375,elem_376,elem_377,elem_378,elem_379,elem_380,elem_381,elem_382,elem_383,elem_384,elem_385,elem_386,elem_387,elem_388,elem_389,elem_390,elem_391,elem_392,elem_393,elem_394,elem_395,elem_396,elem_397,elem_398,elem_399,elem_400,elem_401,elem_402,elem_403,elem_404,elem_405,elem_406,elem_407,elem_408,elem_409,elem_410,elem_411,elem_412,elem_413,elem_414,elem_415,elem_416,elem_417,elem_418,elem_419,elem_420,elem_421,elem_422,elem_423,elem_424,elem_425,elem_426,elem_427,elem_428,elem_429,elem_430,elem_431,elem_432,elem_433,elem_434,elem_435,elem_436,elem_437,elem_438,elem_439,elem_440,elem_441,elem_442,elem_443,elem_444,elem_445,elem_446,elem_447,elem_448,elem_449,elem_450,elem_451,elem_452,elem_453,elem_454,elem_455,elem_456,elem_457,elem_458,elem_459,elem_460,elem_461,elem_462,elem_463,elem_464,elem_465,elem_466,elem_467,elem_468,elem_469,elem_470,elem_471,elem_472,elem_473,elem_474,elem_475,elem_476,elem_477,elem_478,elem_479,elem_480,elem_481,elem_482,elem_483,elem_484,elem_485,elem_486,elem_487,elem_488,elem_489,elem_490,elem_491,elem_492,elem_493,elem_494,elem_495,elem_496,elem_497,elem_498,elem_499,elem_500,elem_501,elem_502,elem_503,elem_504,elem_505,elem_506,elem_507,elem_508,elem_509,elem_510,elem_511,elem_512,elem_513,elem_514,elem_515,elem_516,elem_517,elem_518,elem_519,elem_520,elem_521,elem_522,elem_523,elem_524,elem_525,elem_526,elem_527,elem_528,elem_529,elem_530,elem_531,elem_532,elem_533,elem_534,elem_535,elem_536,elem_537,elem_538,elem_539,elem_540,elem_541,elem_542,elem_543,elem_544,elem_545,elem_546,elem_547,elem_548,elem_549,elem_550,elem_551,elem_552,elem_553,elem_554,elem_555,elem_556,elem_557,elem_558,elem_559,elem_560,elem_561,elem_562,elem_563,elem_564,elem_565,elem_566,elem_567,elem_568,elem_569,elem_570,elem_571,elem_572,elem_573,elem_574,elem_575,elem_576,elem_577,elem_578,elem_579,elem_580,elem_581,elem_582,elem_583,elem_584,elem_585,elem_586,elem_587,elem_588,elem_589,elem_590,elem_591,elem_592,elem_593,elem_594,elem_595,elem_596,elem_597,elem_598,elem_599,elem_600,elem_601,elem_602,elem_603,elem_604,elem_605,elem_606,elem_607,elem_608,elem_609,elem_610,elem_611,elem_612,elem_613,elem_614,elem_615,elem_616,elem_617,elem_618,elem_619,elem_620,elem_621,elem_622,elem_623,elem_624,elem_625,elem_626,elem_627,elem_628,elem_629,elem_630,elem_631,elem_632,elem_633,elem_634,elem_635,elem_636,elem_637,elem_638,elem_639,elem_640,elem_641,elem_642,elem_643,elem_644,elem_645,elem_646,elem_647,elem_648,elem_649,elem_650,elem_651,elem_652,elem_653,elem_654,elem_655,elem_656,elem_657,elem_658,elem_659,elem_660,elem_661,elem_662,elem_663,elem_664,elem_665,elem_666,elem_667,elem_668,elem_669,elem_670,elem_671,elem_672,elem_673,elem_674,elem_675,elem_676,elem_677,elem_678,elem_679,elem_680,elem_681,elem_682,elem_683,elem_684,elem_685,elem_686,elem_687,elem_688,elem_689,elem_690,elem_691,elem_692,elem_693,elem_694,elem_695,elem_696,elem_697,elem_698,elem_699,elem_700,elem_701,elem_702,elem_703,elem_704,elem_705,elem_706,elem_707,elem_708,elem_709,elem_710,elem_711,elem_712,elem_713,elem_714,elem_715,elem_716,elem_717,elem_718,elem_719,elem_720,elem_721,elem_722,elem_723,elem_724,elem_725,elem_726,elem_727,elem_728,elem_729,elem_730,elem_731,elem_732,elem_733,elem_734,elem_735,elem_736,elem_737,elem_738,elem_739,elem_740,elem_741,elem_742,elem_743,elem_744,elem_745,elem_746,elem_747,elem_748,elem_749,elem_750,elem_751,elem_752,elem_753,elem_754,elem_755,elem_756,elem_757,elem_758,elem_759,elem_760,elem_761,elem_762,elem_763,elem_764,elem_765,elem_766,elem_767,elem_768,elem_769,elem_770,elem_771,elem_772,elem_773,elem_774,elem_775,elem_776,elem_777,elem_778,elem_779,elem_780,elem_781,elem_782,elem_783,elem_784,elem_785,elem_786,elem_787,elem_788,elem_789,elem_790,elem_791,elem_792,elem_793,elem_794,elem_795,elem_796,elem_797,elem_798,elem_799,elem_800,elem_801,elem_802,elem_803,elem_804,elem_805,elem_806,elem_807,elem_808,elem_809,elem_810,elem_811,elem_812,elem_813,elem_814,elem_815,elem_816,elem_817,elem_818,elem_819,elem_820,elem_821,elem_822,elem_823,elem_824,elem_825,elem_826,elem_827,elem_828,elem_829,elem_830,elem_831,elem_832,elem_833,elem_834,elem_835,elem_836,elem_837,elem_838,elem_839,elem_840,elem_841,elem_842,elem_843,elem_844,elem_845,elem_846,elem_847,elem_848,elem_849,elem_850,elem_851,elem_852,elem_853,elem_854,elem_855,elem_856,elem_857,elem_858,elem_859,elem_860,elem_861,elem_862,elem_863,elem_864,elem_865,elem_866,elem_867,elem_868,elem_869,elem_870,elem_871,elem_872,elem_873,elem_874,elem_875,elem_876,elem_877,elem_878,elem_879,elem_880,elem_881,elem_882,elem_883,elem_884,elem_885,elem_886,elem_887,elem_888,elem_889,elem_890,elem_891,elem_892,elem_893,elem_894,elem_895,elem_896,elem_897,elem_898,elem_899,elem_900,elem_901,elem_902,elem_903,elem_904,elem_905,elem_906,elem_907,elem_908,elem_909,elem_910,elem_911,elem_912,elem_913,elem_914,elem_915,elem_916,elem_917,elem_918,elem_919,elem_920,elem_921,elem_922,elem_923,elem_924,elem_925,elem_926,elem_927,elem_928,elem_929,elem_930,elem_931,elem_932,elem_933,elem_934,elem_935,elem_936,elem_937,elem_938,elem_939,elem_940,elem_941,elem_942,elem_943,elem_944,elem_945,elem_946,elem_947,elem_948,elem_949,elem_950,elem_951,elem_952,elem_953,elem_954,elem_955,elem_956,elem_957,elem_958,elem_959,elem_960,elem_961,elem_962,elem_963,elem_964,elem_965,elem_966,elem_967,elem_968,elem_969,elem_970,elem_971,elem_972,elem_973,elem_974,elem_975,elem_976,elem_977,elem_978,elem_979,elem_980,elem_981,elem_982,elem_983,elem_984,elem_985,elem_986,elem_987,elem_988,elem_989,elem_990,elem_991,elem_992,elem_993,elem_994,elem_995,elem_996,elem_997,elem_998,elem_999,elem_1000,elem_1001,elem_1002,elem_1003,elem_1004,elem_1005,elem_1006,elem_1007,elem_1008,elem_1009,elem_1010,elem_1011,elem_1012,elem_1013,elem_1014,elem_1015,elem_1016,elem_1017,elem_1018,elem_1019,elem_1020,elem_1021,elem_1022,elem_1023,elem_1024,elem_1025,elem_1026,elem_1027,elem_1028,elem_1029,elem_1030,elem_1031,elem_1032,elem_1033,elem_1034,elem_1035,elem_1036,elem_1037,elem_1038,elem_1039,elem_1040,elem_1041,elem_1042,elem_1043,elem_1044,elem_1045,elem_1046,elem_1047,elem_1048,elem_1049,elem_1050,elem_1051,elem_1052,elem_1053,elem_1054,elem_1055,elem_1056,elem_1057,elem_1058,elem_1059,elem_1060,elem_1061,elem_1062,elem_1063,elem_1064,elem_1065,elem_1066,elem_1067,elem_1068,elem_1069,elem_1070,elem_1071,elem_1072,elem_1073,elem_1074,elem_1075,elem_1076,elem_1077,elem_1078,elem_1079,elem_1080,elem_1081,elem_1082,elem_1083,elem_1084,elem_1085,elem_1086,elem_1087,elem_1088,elem_1089,elem_1090,elem_1091,elem_1092,elem_1093,elem_1094,elem_1095,elem_1096,elem_1097,elem_1098,elem_1099,elem_1100,elem_1101,elem_1102,elem_1103,elem_1104,elem_1105,elem_1106,elem_1107,elem_1108,elem_1109,elem_1110,elem_1111,elem_1112,elem_1113,elem_1114,elem_1115,elem_1116,elem_1117,elem_1118,elem_1119,elem_1120,elem_1121,elem_1122,elem_1123,elem_1124,elem_1125,elem_1126,elem_1127,elem_1128,elem_1129,elem_1130,elem_1131,elem_1132,elem_1133,elem_1134,elem_1135,elem_1136,elem_1137,elem_1138,elem_1139,elem_1140,elem_1141,elem_1142,elem_1143,elem_1144,elem_1145,elem_1146,elem_1147,elem_1148,elem_1149,elem_1150,elem_1151,elem_1152,elem_1153,elem_1154,elem_1155,elem_1156,elem_1157,elem_1158,elem_1159,elem_1160,elem_1161,elem_1162,elem_1163,elem_1164,elem_1165,elem_1166,elem_1167,elem_1168,elem_1169,elem_1170,elem_1171,elem_1172,elem_1173,elem_1174,elem_1175,elem_1176,elem_1177,elem_1178,elem_1179,elem_1180,elem_1181,elem_1182,elem_1183,elem_1184,elem_1185,elem_1186,elem_1187,elem_1188,elem_1189,elem_1190,elem_1191,elem_1192,elem_1193,elem_1194,elem_1195,elem_1196,elem_1197,elem_1198,elem_1199,elem_1200,elem_1201,elem_1202,elem_1203,elem_1204,elem_1205,elem_1206,elem_1207,elem_1208,elem_1209,elem_1210,elem_1211,elem_1212,elem_1213,elem_1214,elem_1215,elem_1216,elem_1217,elem_1218,elem_1219,elem_1220,elem_1221,elem_1222,elem_1223,elem_1224,elem_1225,elem_1226,elem_1227,elem_1228,elem_1229,elem_1230,elem_1231,elem_1232,elem_1233,elem_1234,elem_1235,elem_1236,elem_1237,elem_1238,elem_1239,elem_1240,elem_1241,elem_1242,elem_1243,elem_1244,elem_1245,elem_1246,elem_1247,elem_1248,elem_1249,elem_1250,elem_1251,elem_1252,elem_1253,elem_1254,elem_1255,elem_1256,elem_1257,elem_1258,elem_1259,elem_1260,elem_1261,elem_1262,elem_1263,elem_1264,elem_1265,elem_1266,elem_1267,elem_1268,elem_1269,elem_1270,elem_1271,elem_1272,elem_1273,elem_1274,elem_1275,elem_1276,elem_1277,elem_1278,elem_1279,elem_1280,elem_1281,elem_1282,elem_1283,elem_1284,elem_1285,elem_1286,elem_1287,elem_1288,elem_1289,elem_1290,elem_1291,elem_1292,elem_1293,elem_1294,elem_1295,elem_1296,elem_1297,elem_1298,elem_1299,elem_1300,elem_1301,elem_1302,elem_1303,elem_1304,elem_1305,elem_1306,elem_1307,elem_1308,elem_1309,elem_1310,elem_1311,elem_1312,elem_1313,elem_1314,elem_1315,elem_1316,elem_1317,elem_1318,elem_1319,elem_1320,elem_1321,elem_1322,elem_1323,elem_1324,elem_1325,elem_1326,elem_1327,elem_1328,elem_1329,elem_1330,elem_1331,elem_1332,elem_1333,elem_1334,elem_1335,elem_1336,elem_1337,elem_1338,elem_1339,elem_1340,elem_1341,elem_1342,elem_1343,elem_1344,elem_1345,elem_1346,elem_1347,elem_1348,elem_1349,elem_1350,elem_1351,elem_1352,elem_1353,elem_1354,elem_1355,elem_1356,elem_1357,elem_1358,elem_1359,elem_1360,elem_1361,elem_1362,elem_1363,elem_1364,elem_1365,elem_1366,elem_1367,elem_1368,elem_1369,elem_1370,elem_1371,elem_1372,elem_1373,elem_1374,elem_1375,elem_1376,elem_1377,elem_1378,elem_1379,elem_1380,elem_1381,elem_1382,elem_1383,elem_1384,elem_1385,elem_1386,elem_1387,elem_1388,elem_1389,elem_1390,elem_1391,elem_1392,elem_1393,elem_1394,elem_1395,elem_1396,elem_1397,elem_1398,elem_1399,elem_1400,elem_1401,elem_1402,elem_1403,elem_1404,elem_1405,elem_1406,elem_1407,elem_1408,elem_1409,elem_1410,elem_1411,elem_1412,elem_1413,elem_1414,elem_1415,elem_1416,elem_1417,elem_1418,elem_1419,elem_1420,elem_1421,elem_1422,elem_1423,elem_1424,elem_1425,elem_1426,elem_1427,elem_1428,elem_1429,elem_1430,elem_1431,elem_1432,elem_1433,elem_1434,elem_1435,elem_1436,elem_1437,elem_1438,elem_1439,elem_1440,elem_1441,elem_1442,elem_1443,elem_1444,elem_1445,elem_1446,elem_1447,elem_1448,elem_1449,elem_1450,elem_1451,elem_1452,elem_1453,elem_1454,elem_1455,elem_1456,elem_1457,elem_1458,elem_1459,elem_1460,elem_1461,elem_1462,elem_1463,elem_1464,elem_1465,elem_1466,elem_1467,elem_1468,elem_1469,elem_1470,elem_1471,elem_1472,elem_1473,elem_1474,elem_1475,elem_1476,elem_1477,elem_1478,elem_1479,elem_1480,elem_1481,elem_1482,elem_1483,elem_1484,elem_1485,elem_1486,elem_1487,elem_1488,elem_1489,elem_1490,elem_1491,elem_1492,elem_1493,elem_1494,elem_1495,elem_1496,elem_1497,elem_1498,elem_1499,elem_1500,elem_1501,elem_1502,elem_1503,elem_1504,elem_1505,elem_1506,elem_1507,elem_1508,elem_1509,elem_1510,elem_1511,elem_1512,elem_1513,elem_1514,elem_1515,elem_1516,elem_1517,elem_1518,elem_1519,elem_1520,elem_1521,elem_1522,elem_1523,elem_1524,elem_1525,elem_1526,elem_1527,elem_1528,elem_1529,elem_1530,elem_1531,elem_1532,elem_1533,elem_1534,elem_1535,elem_1536,elem_1537,elem_1538,elem_1539,elem_1540,elem_1541,elem_1542,elem_1543,elem_1544,elem_1545,elem_1546,elem_1547,elem_1548,elem_1549,elem_1550,elem_1551,elem_1552,elem_1553,elem_1554,elem_1555,elem_1556,elem_1557,elem_1558,elem_1559,elem_1560,elem_1561,elem_1562,elem_1563,elem_1564,elem_1565,elem_1566,elem_1567,elem_1568,elem_1569,elem_1570,elem_1571,elem_1572,elem_1573,elem_1574,elem_1575,elem_1576,elem_1577,elem_1578,elem_1579,elem_1580,elem_1581,elem_1582,elem_1583,elem_1584,elem_1585,elem_1586,elem_1587,elem_1588,elem_1589,elem_1590,elem_1591,elem_1592,elem_1593,elem_1594,elem_1595,elem_1596,elem_1597,elem_1598,elem_1599,elem_1600,elem_1601,elem_1602,elem_1603,elem_1604,elem_1605,elem_1606,elem_1607,elem_1608,elem_1609,elem_1610,elem_1611,elem_1612,elem_1613,elem_1614,elem_1615,elem_1616,elem_1617,elem_1618,elem_1619,elem_1620,elem_1621,elem_1622,elem_1623,elem_1624,elem_1625,elem_1626,elem_1627,elem_1628,elem_1629,elem_1630,elem_1631,elem_1632,elem_1633,elem_1634,elem_1635,elem_1636,elem_1637,elem_1638,elem_1639,elem_1640,elem_1641,elem_1642,elem_1643,elem_1644,elem_1645,elem_1646,elem_1647,elem_1648,elem_1649,elem_1650,elem_1651,elem_1652,elem_1653,elem_1654,elem_1655,elem_1656,elem_1657,elem_1658,elem_1659,elem_1660,elem_1661,elem_1662,elem_1663,elem_1664,elem_1665,elem_1666,elem_1667,elem_1668,elem_1669,elem_1670,elem_1671,elem_1672,elem_1673,elem_1674,elem_1675,elem_1676,elem_1677,elem_1678,elem_1679,elem_1680,elem_1681,elem_1682,elem_1683,elem_1684,elem_1685,elem_1686,elem_1687,elem_1688,elem_1689,elem_1690,elem_1691,elem_1692,elem_1693,elem_1694,elem_1695,elem_1696,elem_1697,elem_1698,elem_1699,elem_1700,elem_1701,elem_1702,elem_1703,elem_1704,elem_1705,elem_1706,elem_1707,elem_1708,elem_1709,elem_1710,elem_1711,elem_1712,elem_1713,elem_1714,elem_1715,elem_1716,elem_1717,elem_1718,elem_1719,elem_1720,elem_1721,elem_1722,elem_1723,elem_1724,elem_1725,elem_1726,elem_1727,elem_1728,elem_1729,elem_1730,elem_1731,elem_1732,elem_1733,elem_1734,elem_1735,elem_1736,elem_1737,elem_1738,elem_1739,elem_1740,elem_1741,elem_1742,elem_1743,elem_1744,elem_1745,elem_1746,elem_1747,elem_1748,elem_1749,elem_1750,elem_1751,elem_1752,elem_1753,elem_1754,elem_1755,elem_1756,elem_1757,elem_1758,elem_1759,elem_1760,elem_1761,elem_1762,elem_1763,elem_1764,elem_1765,elem_1766,elem_1767,elem_1768,elem_1769,elem_1770,elem_1771,elem_1772,elem_1773,elem_1774,elem_1775,elem_1776,elem_1777,elem_1778,elem_1779,elem_1780,elem_1781,elem_1782,elem_1783,elem_1784,elem_1785,elem_1786,elem_1787,elem_1788,elem_1789,elem_1790,elem_1791,elem_1792,elem_1793,elem_1794,elem_1795,elem_1796,elem_1797,elem_1798,elem_1799,elem_1800,elem_1801,elem_1802,elem_1803,elem_1804,elem_1805,elem_1806,elem_1807,elem_1808,elem_1809,elem_1810,elem_1811,elem_1812,elem_1813,elem_1814,elem_1815,elem_1816,elem_1817,elem_1818,elem_1819,elem_1820,elem_1821,elem_1822,elem_1823,elem_1824,elem_1825,elem_1826,elem_1827,elem_1828,elem_1829,elem_1830,elem_1831,elem_1832,elem_1833,elem_1834,elem_1835,elem_1836,elem_1837,elem_1838,elem_1839,elem_1840,elem_1841,elem_1842,elem_1843,elem_1844,elem_1845,elem_1846,elem_1847,elem_1848,elem_1849,elem_1850,elem_1851,elem_1852,elem_1853,elem_1854,elem_1855,elem_1856,elem_1857,elem_1858,elem_1859,elem_1860,elem_1861,elem_1862,elem_1863,elem_1864,elem_1865,elem_1866,elem_1867,elem_1868,elem_1869,elem_1870,elem_1871,elem_1872,elem_1873,elem_1874,elem_1875,elem_1876,elem_1877,elem_1878,elem_1879,elem_1880,elem_1881,elem_1882,elem_1883,elem_1884,elem_1885
-0,arive,vautou,everrons,huche,.'---;--------c=.-,Contre-,euxs,Sommes,fort Ncessite,lBelle-Riviere,echoue,G,fort Necessite,"E
- 
-
-E",accables,Contrecoeur,jou pecedent,"P' ``,-
----- --
-..:...----------:-
-316
-LA ELLIE",OUI-GRIS,Tecits,"II
-I
-
-
-
-II",BELLE IVIEnE,"S
-el
- 
- 1",Fatalement,cap des Monts-Peles,ijeune,TIT,lProserit,"E
-
-R
+0,sorl,crois,Peaux-louges,du Nord,mone,J1,Nouvelle-France,Océan,ŒiL--.-----.---a---.-----a-----=i-------------------------------------eau=il=-=je,Renard-Bleu,pese,epee,couirs,"1A
+I.I",opposea,Combien,trouves-,hommE-,IL L,"II
 
 I
-Z",oblesse,miseres,fusils7,Tes,Risque-loup,IELLE,"OR
-
-I","II
-I
-
+t
+'
+:i:
 II
-
-1N
-.:G",il:.:s-,Iermee,touner,allezl,L6on,Apes ue,drue,avie,retou,plir,L1IN,"P,-F",Mee de Maleval,concentree,fot Duquesne,"ILII
-II",Fance,guisel,- Tenez,chitaignie,epos,colons.-,marqulse,epee,stupetaclion,baon,frontiere,cascabel,Ilibustier,mneme,Tels,"IIM
-I
-II",.qu',Pittsbourg,s''1,Francais,--------.-,Frangais,Ients,- Reproduclion,laville de Pittsbourg,clairiere,Z0,Iorte,penetra,depit,toldos indiens,"I
-
-M
-III",tounure,"E
-
-E",Createur,A60,Pardon,Viens,Vienne,"I
-I
-I
-
-
-
-
-i1
-I
-I
-I
-
-I","xEZIE
-
-l
-EAU",fidele,banchages,Est,loyaut6,"I
-I
-
-ILII",reunion de Manongohela,i.naiiei,Chuque,Pavenu,"E
-
- N
- 
-I
- 
-r",BELLlE RIV1LE,".l
-
-E",- Faites,ENfIN0Y,bon7,"II
-III
-I",Iatigues,charpentee,Iiiltie------ELle-,"El
-
-l
-E",L---E---L,preveni,.-2,"I
-I
-I
-I
-IL","E
-A
-
-I",Cria-,Renard-,a-- Hlasl,Chichimeques,ain,faix,aLOrs,ellE,jura,baron de Grigny,"AI
-II
-2A",Iaut,L:---,zxzcE-,"II
-I
-II
-I",aisaiaraar,Arrives,"r,:il",IL1,"II
-
-II
-t",oppessee,Allez,vousl,Apres,Maleval,Iemmes,BrEF3r;(Frc,deji,baie d'Hudson,"III
+L.
+E",Tonne,Duquesne,"III
 
 R
 II
@@ -90,27 +17,18 @@ II
 
 
 1 L.
-1",Bege,- Allonsl,Faut,JE,Ben,taillis,GEFROY,epouvnte,Lhches,savoir7,dislance,faisos-nous7,Angle,mnaisonnette,"A' 
-t
+1",Monlmorency,----,etles,de Versailles,Rameau-d'O,faitel,.L,Iauve,Iais,Bois-l'racy,heure-:t-e,RIYILEnRE,ciell,L7,Aives,Viginie,".-:---,C-",Pa-,.'ardente,"I
 
-ES","L
+III",- Faites,"II
+filLe'
+ D",yeux7,Ee,Mnis,ELLE-----se--------------------L.,Louisl,Allehany,cavalie,Lhches,tantbt,clotue,eusset,Franeais,air2,luii,- Suis,Espace,Bisons-Hurons,J7,c-.L,IL1,Ramneau-d'Or,amour-popre,Cunadien,Prc,echoue,Quoi7,Anticosti,jou pecedent,capitaiue,ILes Indiens auxiliaires des Anglais,Longtemnps,"G
 
-E",appaence,IL M',1'epoque de nolre recit,Océan,bois-il6s,Lo,Totem,C'6tiit,matiee,N0tu,"E
+III
 
-I
-II",cpitaine,Douai-lande,Là:--a,pseudo-Ironie,hha,- Completement,Même-aux-,z=,IBBLLB HRIVIERE,Belle-Olivier,Lovelace,Altendre,FORT DUQUESNE,"II
-E
 
-I
-III 
-
-jE
-
-jE
-
-R
-
-JE","II
+S
+f
+IL","II
 II
 E.
 
@@ -122,25 +40,260 @@ I
 
 
 
-I.",GEIFFR0OH,".L.
-
+I.","I
 I
-I",CI1,cetle,Proscrit,Iin limier,Caudebec,Puuvre,Iontiere,sauvagesl A bientt,Mve,"N
+II
+2I
+t
 
-E","diables7
-- Plutot",Renard-Elle,A Beauregard,natuure,GEIFROY,desert na cela,querrezla,feuillee,"I
-I
+'","1 L.T
 -
+189
+rEI
+
+E","II
+
+E",S,"I
+iII
+aI
+1",I2,N-,s-L,M. de Grigny,hospilalitel,i arrete,Eu,comntesse de,gaiet6,car--,e:----.--------,concentree,"RIVIEnE
+La",E'i.I,Canadienne,tu6s,batnillel,forlune,baie des Marmousets,Arive,hommesrea,efuse,Alleghanys,saus,meritee,ELLe,Aae,verai,penetrer,Ioret,visge,pemiere,"II
+I
+
+I",Accidente,Indien,coeu,LIY,amoureuxl,srete,ecoliers,L-,B,.-------.-,"WZ
+-
+A",Peaux-Rouges2,"AI
+II
+2A","I
+
+
+I",lIe,"I
+
+I
+I
+
+Ii 1",chatean,A peie,chasseui,sauvagesl A bientt,"II
+
+I",hate,Celte,I4,declarer,"E
+
+R
+
+I
+Z",arrivonsl,IBBLLB HRIVIERE,"II
+I
+
+II
+
+1N
+.:G",BELLLE IYIEnE,LA HELLlE,reteni,lDevant,feuillee,"II.I
+II",baie d'Hudson,fourrue,terrass6,wigwvm,"I'
+II
+l
+R",Renard-Elle,premiere,alpio,il:.:s-,Ennui-a,"P' ``,-
+---- --
+..:...----------:-
+316
+LA ELLIE",je-------------,FORT DUQUESNE,Is,ge,Necessite,Le Renard-Bleu,senor Palamede,pouR,RIYIhE,taces,r-.----L-,Alleghany,qualre-vingts,jUsque-la,bon7,"II
+
+I
+I
+I",Wnldecl,Prosorit,Dieppe,"I
+I
+I
+
+
+
+
+i1
+I
+I
+I
+
+I","I
+A.,
+-
+300
+x---i-",Yirginie,aUtre-,"RIVIlEnE
+A",Osna-Elle-Lucie,-Z-G,s-r,fouinie,a.-,6viter.-,Eparpille,Et6,"II
+I
+
+
+E",legeret6,dilficulteset,la Couleuvre,amiti6 de cbte,"A
+ I
+l--
+I
+riii",Pros-,"I
+
+i
+I",Revenons,sanglols,moyen8,Creole,Versailles,"II
+III 
+Ii","II
+
+II",plantets,Poitou,Veuillez,ZIE,IN,lEuropeens,Couleuve,los votres,cinIndiens,voi,"II
+E
+
+I
+III 
+
+jE
+
+jE
+
+R
+
+JE",Nouvelle-Frnce,plir,ecria,Mlais,ELD,".,L",Bois-Irai,Renard-Blou,pleus,Vive,Canada,Peaux-louges qul,senlinelles,quif,"S
+IIPI
+II
+E",Malevul,porte patr,Nouvelle-Orleans,Sommes,Rendez,IL-,"2Z
+F
+
+I
+
+2
+ELLe
+
+
+i
+P","L.S.EEECih1
+---",selle,"CI
+
+I
+IL",II.i1,Bonsoir,",elle",lac lEri,bruyeres,alluma,reconnalte,Doussailles,oi,Fance,empecher,"I
+E
+I
+
+C
+
+R
+I
+I
+
+ 
+-
+ET
+ELLE",fauTe,Autel,Tacy,Voyel,gnereuse,"E
+I'
+
+ ET
+E
+II
+
+T
+L
+I
+IL",euxs,mne rappellerent i la desolante realit6,zxzcE-,palce,ILe Canadien,cpitaine,paallele,alfreux,- Reproduclion,Iouha-,regardez le soleil,Parfait,Puuvre,"LIAE
+
+II
+
+IIZ",II,"I
+
+I
+i",htes,Merci,deserl,"E.:y,:P----rrre-ree",- Pardonne,Rien N,"N
+
+I
+
+i
+5
+R",cuelle,Iouha-Hande,Mve,Faut,"I
+i
+
+
+S",s---=-ee,Canadieon,"II
+I",Misvables,stupetaclion,Rameau-d'Or,"A
+
+I
 1
 
-I","chateau de
-Beauregard",aupes,"I
-S
+II
+II",Aigle-Vous,Hurons,pintemps,lil,Relevez,Propre-,popre,jou,1'epoque de nolre recit,toldos,audacieusemenl,Grigny,comtesse de Maleval,Aucue,Iemines,Riviere,coStume,"I
 I
+I",New-Yorl,Irancais,lrancais,"T'I
+r","g2
+ 
+I",drolel,verrasl,CONTRECEUR,Fumerons-,roi de France,tfleuve Saint-Laurent,c0Tu,hha,vieillacd,"II
+III 
+
+II
+
+I.","II
+III",Londres,"E1
 
 I
--
-m1","S
+N
+La",etou,gand,voUS,Ioissements,E;.,eLLE,IL L0puis,Anglelerre,blessee,Lajeune,y---------,obeir,"mer
+
+II
+I
+1
+I",plaes,"I
+
+
+-",ompagnons,"heIN
+aIME
+
+t",egayer,celasans,litieie,"II
+vOYAGIE DE NU1I",i:::--.---------:------------:a,jusque-lh,Anglelterre,"I
+
+I
+I1",N0tu,l3erger,maquise,CI1,RIYIEE,"E
+
+
+I
+E.
+IL",HELLlE,GLFK0Y,M,caractee,i----,Villiersl,L---E---L,z-,Aiglais,noyens,Apes ue,LAn------:-L,"III 
+
+I&",aS,aniti6,"de
+ castle",Accordez,G,Losque,deserte,Manangahela,Wacondah,blancsl,banchages,Proserit,soitl,Douai-Hande,Qnelques,"9
+
+UI","IL
+
+
+II
+l",GEIFROY,aparte,EeCi,Mississipi,Bois-Ombre,TIT,GIIFIROY,odres,"I
+I
+I
+I",dnans,.:a-,Gcagse,baron do Grigny,lejeune,"I
+
+I
+I",LUi,Bois-Être7,5E E,Reviendrez,atlire,aprbes,avie,amaree,- M',Iiiltie------ELle-,Iouha-Hand6,"grIS
+
+II","E
+A
+
+I",rponse,cyes,HEl,ellE,bois-il6s,cumbree,Duquese,Vienne,lameau d',fe-blanc,Menne-,place de nolre daim,MI,SE,preveni,"El
+
+l
+E",a1,chefl,E2-,Jean-lPol,appiopiees,Venez,LIv,Lh,"II
+
+21I
+I
+
+.2",Proscrit.-,"XI
+E
+I
+ C",Chichimeques,Dinwidie,"II
+I
+I.
+
+II
+
+I
+II
+I",Ehl,Bois-irai,"1I
+II
+I
+
+1
+I",Opossum,Égal,Peaux-Rouges epa-,lche,Matheueusement,Griguy,aulres,- Arriere,"de
+Couleuvre",.l,tche,profitera-t-il7,lProserit,Enviion,Irappa,depart,Fancis,lProscrit,A%lIItl,Cher,"Ee ie e iees
+daa",arrives7,L1N,"E
+E
+t","veni
+- A",.--,lourdeset,Apes,buron de Grigny,Harison,"II
+
+II
+t",Angleterre,"II
+LE OR",Luy,"c-,r----c","S
  E
 
 AH
@@ -156,474 +309,111 @@ SI
 I
 3
 t
-LA BELLE",yeux7,e:-r- es-Ziiciiiaii i,Roproluction,Rameau-d',Cc,Jumonville,L'Indien sourit,I.1,LÀ,"I
-Ah
-E","A L
-T",ELLE-----se--------------------L.,".est;:,i","EEl
-
- ET",CI,Proscrit.-,Keproduelion,miens,263,Villiets,1'Il-de-benf,chefl,etle,srete,Bonjou,exigeez,eomte,tristemenl,faroces advesaires,--------ah,hospitalit6,tantbt,Iayelon,Mexique,oflficiers,- Partons,"ŒIl
-I",Petil-Fort,Iortement,ES,SE,le Caadien,coureius,Même,sterile,Aigle-Volant,Oih,eLLE,Gascon,nuaages,poude,bruitset,ELLE,exageree,Iouha-Hand6,surprende,Cherche,Y---,Huron,Avait,rendez-vousl,"I
-I
-
-
-I
- 
- i
-I",Bois-,l3erger,----L.',Manongahela,gEEEE,reveni,"veni
-- A","BELLlE R1ELLE
-Deux heures",Le succbs,.----es,chatean,a-.-,"F-,----P--,-êtRe",sais,lBerger7,lIe,Wad,bagaes,tfleuve Saint-Laurent,Is,adesse avee luuelle,jUsque-la,zzz:35-,Blancs,"1A
-I.I",capitaineJames Maclay,Ande,jours;.,"II
-III
-I
-II
-
-L",oula,y.,r2,y-,crois,Boune,Wurd,affairel,Y-:s,Lona,Bordeaux,PoUvez,enTourait,auixyeux,mademoiselle,Prie,Yoguons,--t--,ZIE,Peaux-Rouges epa-,"E
-
-
-IL
-
-d
-e","F
-
-I
-
-2
-ELLe
-
-
-i
-P",monts Alleghanys,Mnis,plaga,".,-","I
-I",Osna,"¬- 
- -
-.s",--z--,"ICI
+LA BELLE",atepelt,- Nullement,L'Aigle-Avait,"...
+- Pas de mots malsonnantsl",Iace,Risque-Tout,Canadiens,Regardez,il’,Aewerccr-,coinpartimentsau,fl,Ande,"ICI
 
 i
 :s
 l
-tU",M,copaguie de rigny m'eel arive,IV,Irancais,cheminee,"III
+tU",¬¬,II.L,"I
+Je",L1,deji,chteau de Beauregard,Canudienne,Chteaux-,pemier,Ouelques,paratt,L-----ra,c0,AI,L1y,pluie glacee,sterile,1'elle,.C,r-,Iume,taillis,G¬,I1,Createur,Hommes,L'Indien sourit,jela,elevees,- Allonsl,A----t,chitaignie,"I
 
-I
-CI",ehaque,place de nolre daim,Enviion,affoles,desert,reponde,Seigneu,Peau-Rouge,Allehany,"I'
-
-I",Iauves,la somme,Couleuure,Lhches banditsl,"IL
-
+I",Quelles,BBLLE,.----es,Totem,bagaes,moil,Poscrit,m-,GEIFFR0OH,E7,LÀ,Ves,dementi,"LIAE
 
 II
-l",chateau de Maleval,chteau de Beauregard,verrasl,"11
 
-Ii",rivieres Alleghany,"Z
-e.
-E",visge,BAron1,melancolie,italie,Wacondah,guerisse,sentihelles anglaises placees,"L,;.",Villlers,Reviendrez,Risque-Tout,chassel,ŒiL--.-----.---a---.-----a-----=i-------------------------------------eau=il=-=je,entreteni,- Signe,Itt,plupurt,- Gueusard,Pite,"II
-I
-Il//IL",tche,MI,"II
+IIZ
+x
+E",e’,N,Bientot,apes-midi,mnains,chasseu canadien,payeus,"E
+N",Contrecoeu,IL S,du bois-le,"L
 
-ELLE",premiere,chasseui,hommesrea,Oi voulez-vovs,Andre,Berge,Indien,conslruire,"I
+E",.-Z-,Même,abbe,.2-,point dujour,IBelle Riviere,Iort,Qand,notres,"loirs7
+- J'",iille,tistesse,plant6 le Ioten,comment7,laville de Pittsbourg,toldos indiens,"II
+iII
+II",Hande,etais apelcu,.:Z,eeoieie,Consentez,"I
 
-I
-t
-I
-
-
-N",Bois-irai,Pros-,Sois,Pestel,toldos renfemenl we tentaine de gueiers,car--,",elle",l3elle-Olivier,LIE IIECI1,Couleuve,"de
- castle",gand,Chaussée,Villies,R1,Etats-Unis,golfe du Mexique,Ilavgese,"1 L.T
--
-189
-rEI
-
-E",HBois-,.et;L.,il’,hate,meritee,"M
-I",".L
-
-I
-z
-2.-",Bas,"I
-II",Corbleul,N1,Nouvelle-France,LLr- AH,"Ci
-
-I","I
-L",Canadien loes,T----,l3elle,Amerique du Nord,Spndassin,Visages-Les,flt Ward,"asIE
-
-I
-
-T
-I
-I
-IL
- SI",L,RIYIEE,L.L----A-,beauceoup,soldatd',alpio,rponse,Iume,Aupres,wigwvm,AU CHATEAU,drole avee,aS,"II
-I
-
-I",curieuxi,avol ehtedus,IIIIIIIIIIIIIII,Prosoit,soulenir,E-,-Z-G,- Pardonne,"2E
-E",Villiersl,el,Pensa,Hande,vousf,depart,guee,plantets,Grand,touva,tete baissee,verai,trvaille,L.oR,Ierme,Franais,regardexz,ontfond6,avee,capiltaine Palamede,Relevez,L1N,Cher,F,heure-:t-e,atepelt,IN,"N
-
-I
-
-i
-5
-R",ecrasez,lches,"I
-E",parc de la comtesse,foree,popre,Lesindividus,Sans-Piste,timbe,Marigots,Pas,Couleuvre,.g-c,tomberent,"II'
-II
-II
-
-I",diables7,plaes,bandouliere,Sevres,Moi7,Caen,Pesque,Ward,A terre,IVIERNE,Rien N,Bois-Irai,nousle,BELLB,dnans,lRenard-Bleu,P,paallele,piece,ELLe,ceurl,Jerusalem,vitel,Necessite,EeCi,¬¬,"M
- 
-I","com-
-espagne",E7,ILA,"E
-II
-
-E",veni,BELLLE RIV1En,aflot,Londres,Bisons-Hurons,"I
+M
+III","III
 
 I
 I
-
-Ii 1",lUne,a¬¬.,guer-,Quebec,"III 
-
-I",E1,conteni,SIRE,Peaux-lRouges,Bois-l'racy,vincre,sorl,PaPa,"g2
- 
-I",reserve,tereu,Sicile,tfaconla,boutellle,.C,"E
-E
-
-R
-
-I
-Z",Bois-Arbres,"II
-III
- 
- I
-1I
-'
-1
-I
-I1",Voili,anxiete,UN NI L.,peparee,fourrue,gueirre,"I
+IIHI",GEFFROY,.-eer-,.'---;--------c=.-,Belle-Rivire,huche,Cnadien,demeuxez,Enlaces,Sainte,"leude cheri
+de",.Puis,Indiens,Angle,tereu,ain,"¬- 
+ -
+.s",teni,Louis3,"I
 I
 II
 II
  
 III
 I
-II",Bientot,Longtemnps,Savez,"etat de
-defense",foid,"E
-E
-t",calomniee,Or,A----t,"CI
-
-I
-IL",Procrit,Indies,Merci,"I
-I
-II
-2I
-t
-
-'",souple,Amand,.EFFROI,convenul A bienlot,reteni,"II
-III","I
-
-I
-I1",vouS Conaltre,Es,"rnn
-L",gnereuse,S',i arrete,"consentezl
-- Pardieu",I2,"II
-II
-HUI
-E",caignant,lil,blessee,lRegardez,ordes,assiger,"II
-
-
-
-
- L",sachet,comntesse de,senlinelles,D,reconnalte,Duquesne,Qu'6cria,Doussailles,chaussues,Qand,Demain-,.Puis,gare a vousl,L1,"1I
-II
+II",Rameau-d'O.,Peau-lRouge,ILA BELLI RIYILRE,ler,A Beauregard,Caen,r1l,"I
+S
 I
 
-1
-I",.2-,or----,etat,eparee,Malge,percee,fauTe,L'indifferenee,cuelle,piege,breche,"I
-
 I
-I
-l",Quelles,Nouvelle-Fance,BBLLE R1ELLE,r-N,".2-
 -
- 
-2
-
-
-E","I
-
-E
-
-I
+m1",ecrasez,L'Aigle-Volnt,"rnn
+L",IL M',"I
+E",Ange,ajouta-t-il,cher-,- Ariverons,Canadien loes,sete,Rouges,Chuque,bienl Demain,lRegardez,ille,la somme,l'Amerique,a¬¬.,5I,Pestel,r7-,Francais,Amerique septentrionale,meprenez,or----,toul,--------ah,"II
+II
+II
 f
-E",piece eclairee,Amerique,madries,seuil de la maisonnette,"II
-I
-
- 
-
-
-E",metropole canadienne,air2,- Pardieul,saclem,Bonsoir,lche,pres,Jumon-,"II
-LE OR",Les brunches,Alos,gaiet6,Pendanl,Belle-Rivire,"II
-I
-I
-I.
-I.","II
-I
-E
-
-E",Couchez,brave Bois-Elle,"S
-
-E
-E",L-----ra,CGes,Ouebec,Autre,ParcE,heminee,ajouta-t-il,tompei,Vil-,zEEEEE,amiti6 de cbte,.G,aceomplir,LIY,.A1,paratt,Fancis,Circes,Venez,poulquoi,dernie,Vraiment,IR1AVENIR,"II
-I
-A.
-
-I","II
+1",- Pas,"II
 II
-I",ouEst,Frunce,- Nullement,Opossum,i----,Virginie,avrche dupemier hoe,ELLE2,lune,Malevul,".,L",fray6,"I
-
-IIh",cinIndiens,plts,arrives7,Ailez,buron de Grigny,"I
-Je","I
-I
-IL
-III",BELLLE IYIEnE,Prossrit,coeu,Pelage,--'1,Consentez-,SURPR1SE,Losque,Nouvelle-Orleans,parviut,J1,Bois-Ombre,Leona,apes-midi,- Ariverons,Le soleil,.r-3-r-,"Francef
-- Non",vieillacd,5I,Hommes,couirs,"II
-
-I
-II
-M",- Arriere,point dujour,abbe,fene,"II
-I
-A",A4,Pean-Rouge,Nhecte,moil,"I
-
-III",pouR,alliees,"YSE
-
- ICI",Canadions,aprbes,"I
-
-i
-I","II
-III 
-
-II
-
-I.",drolel,entieement us,Dej,louha-Hande,choses7 Demanda,Manongohela,Iin,amoins,"II
-I
-I",N',pardil,LE6A L,pintemps,".,.3-",C'0étaient,i Rollon,sachem,".:AI
-i
-I","de
-Couleuvre","A
-
-I
-1
-
-II
-II",elau,Menneville,F1N,Proscrit-,Hll1,"I
-
-ii",unsgrand,"I'
-IL",Tuant,EEl,Enveloppe,mrs,atlend,compugnie,soldut,Ami,retaitel,"JE
+I",metropole canadienne,serviteuen,proscritl A,soreellerie,"JE
 III 
 
 IL
-t",dire7,"chefl
-- Attendez",alttira,"I
-cI.",l1 cria,c-.L,Nlck,".E',1","heIN
-aIME
+t",zEEEEE,"Ci
 
-t",opposea,Hurons,sete,demeuxez,.%,pourvU,cmpagne,Cecije,lroquois,A%lIItl,Amerique septentrionale,1'elle,S,A---------.--.--ELLE,Marches armoricaines,parlez1,IBelle Riviere,Atlantique,Ii-,"I
-- 
- 
- 
--,","I
-
-'N","ſl
-
-Eau",interveni,divulguee,"c-,r----c",crnelle,"II
-I
-I.
-
-II
-
-I
-II
-I",coutse,Quoi7,svit,s---=-ee,Ehl,"2Z
-F
-
-I
-
-2
-ELLe
-
-
-i
-P",a.-,Voyons,IEst,nuanoe,toul,----,Malevall,diane,mnains,teni,amour-popre,ce',besogne,"I
-I
-E",Dieul,Washington,E,A'L,"N
+z=",Kouha,tounure,Amel,SURPR1SE,"N
 grIS
 
 II
 ILII
 e
 III 
-G",briquet,repete,"6
+G","6
 
 II
  
  I
 
-I",gre de quelques-un,Beauregard,hospilalitel,tibus,comment7,Gigny,Iragais,Alleghanys,Nouvelle-Hollande,Veux-tu,Consentez,fievre,"I'
-t.
-I
-I
-I
-I
-I
-I",Louis3,LIN,Bois-Être7,noyens,r7-,"BLLLE R1YIE
-landier",ciell,EX2ET,Qnelques,lAigle-NYolant,"I
- P","I
-i
-
-
-S",Soyez,Anticosti,capitaiue,opinion2,Pdldu,M. de Grigny,porte patr,Laisse,CONTRECEUR,Coulon,bruyeres,Sije,elrange,taquenatd,cimetieres,BLLLE,fIort,-1Louis,voUS,symetrie,batnillel,x.L,"S
-IIPI
-II
-E",Il-,accompague,Lhidalgo,nombe,ariver,Dej midi,Acceptez,Italie,comtesse de Maleval,Et6,c1,ILes Indiens auxiliaires des Anglais,ŒIl,Poitou,au Havre,.en,Yous,Pyoscrilten,s5,"I
-E
-t",Canadiens,N7,"IIIIIl
-II","EH
-
-E
-
-II",baron do Grigny,"I
-
-I
-II",lout,- Ajoutant,"--g,.s-I.-r rrr",Proserit,Inais,- Suis,Aae,"II
-I",Canadieon,lille,"AH
-
-
-Il
-R
-II
-
-II
-nII",Le Renard-Bleu,gaieto,GEFFROY,"Eh
-UI",z-L.,"WZ
--
-A",l.,deserl,--a,BIELLB AIV1EIE,palce,recherchee,"I
-M",Angele,aparte,"A
-
-I
-1",c0Tu,ganie,outle,Mississipi,L’,Jamais,seplt,-7-.--,Misvables,Peaux-louges qul,Le Proscrit,Jan-Pol,Ee,El,Nouvelle-Or6as,"I
-
-
--",Saint-lLauent,luii,"loirs7
-- J'",Ramneau-d'Or,oapitaine,Louislt,"I
+I",madries,Aigle-Volant,- Signe,foteresse,MLLLE IIVIEIE,plts,L.oR,Palez,bruitset,"F-,----P--,-êtRe",Eetiiiee,"II
 I
 
-I.",pesence,1'igle-Volant,Renard-Blou,A,vOuS.,Visages-Ples,segent7,Paisienl,Inalgie,"zEEEEE
-E",c0,Ln,Heure,IANIEE,Monlmorency,la Riviere,soitl,Visages-Alors,Iusil,lBeau-,L'Aigle-Avait,JE-riisiiaa,"E.:y,:P----rrre-ree",EAU,Fort bienl,Fancais,Celles-ei,Cauadien,A7,"I
 I
-I
-.I",Enlaces,Combien,vengel,quif,LAn------:-L,Espace,saus,rien-Bleu,Rendez,"S
 
-
-
-E",La Couleuvre,Iagon,Sire,espère-et-err'`r---------------a----------------------,BELLlE,je-------------,batte,II,pironpte,n1,.'ardente,1(0,Bergel,by God,tistesse,Accidente,7I,Wnldecl,N-,Eveille,jou,E'i.I,aneantirent le Iruit,lEuropeens,"E
-
-
-I
-E.
-IL",MRS,Contrecoeu,audacieusemenl,Ocean,CGEFIFROY,gibier1,Marcher,Rameau-d,hesiter,Grigny,"I
-I
+x",JE.-',alliees,Marches armoricaines,e:-----,Dej midi,Sommes-,Franais,c:----------------,Enveloppe,"I
+cI.",E1,regardez,Viens,i Rollon,fourr6s,Moi7,"fleuve
+Saint-Laurent",hâtez,aLOrs,"II
 III
-IL",Franoe,m-,Fangais,Cana-,etendus,GG,g3i,loup-Hande,"II
-I
+I",s6,Peaux-ouest,A---,Bege,l3elle-Olivier,rie,"or,-",Couleuvre,Or,Est,enTourait,exageree,plupurt,Ierme,malte,choses7 Demanda,avol ehtedus,appuyees,Conaltre,t1,E,Bien-Aime,Huml,poude,Anjou,"II
+
+tu",s5,"E
+E
+
+R
 
 I
+Z",Iatigues,maitesse,hein,Wurd,Inalgie,verlige,epouvnte,UN NI L.,pironpte,rer,".:AI
+i
+I",cap du Chat,A7,"E
 
-x",HELLlE,Espagnol,bientot,la France,Ancre,cher-,coinpartimentsau,centve,"I
-I
-I
-I
-I",parc du chteau,Bastel,Griguy,resuma,L.--,Inliens,francais,"I'
-II
-l
-R",fort Duquesne,Mluclay,contentez,lulL rapidemonl,Matheueusement,excitee,L2,celaf,mavkawis,ceonnaissant,dilficulteset,grace,Veuillez,Telles,plant6 le Ioten,Lh,I1,pendunt,Nouvelle- francS'tait,roi de France,Sainte,GEFFIOY,"T'I
-r",merisier,eusset,Providence,r-.----L-,cotpagnon,Parfait,degout,"IVſ
-i",Point de diffrence,.L,Harison,resister,"HEl
-I",Iouha-,Qubec,coStume,Ponce-Pilate,mousquet,.T,revienlt,Montreal,l'Amerique,Carignan,A---,amaree,pemiere,MLLLE IIVIEIE,Yillies,Rameau-d'O.,Vesailles,aniti6,Iort Duquesne,IL,jurerais,lese,L'Indien,Vive,secet,C----ii,Propre-,Lejeune,L-----1,brancad,"fleuve
-Saint-Laurent",cavalie,"I
-I
+e
 
 
+3L
+x",gre,CGes,taversee,toules,elanca,Etats-Unis,capiltaine Palamede,tete,Dieul,"EH
 
+E
 
- L.I
-
-E",terrass6,"II.I
-II",chasseu,tamille,Fran-,eflechissant,Er,R,fier,"I
-I
-A","II
-
-I
-I
-I",Voyez,"II
-I
-II",Peaux-Rouges,Americains,alever,"II
-vOYAGIE DE NU1I","opinion2
-- Pas entierement",etais apelcu,Huml,Vois-tu,PensA7,sepre,moyen8,"2-,-AgIT-G",maintenant7,mediocre,Usine,Iacilite,clotue,"II
-
-T
-L
-I
-IL",Arive,GLFK0Y,blancsl,ctes-,"pei
-
-I",prepara,MIontmorency,ICI,profitera-t-il7,Tonne,"II
-II
-II 
-IL",Kouha,Poscrit,Viginie,Rameau-,vigueui,Sommes-,IELLlE IVIEE,Lajeune,L----,y---------,Conaltre,"grIS
-
-II",pemier,aeiEEE,Bien-Aime,precipitee,Canadien,remettez-le-moi,pese,Luy,passee,Aewerccr-,Peau-lRouge,extreme,senor Palamede,L.a,"II
-I
-
-
-E",pyramides de Cholula,lExcellenll,"E
-
-I
-I
-I
-I1","fort
-Rupert","II
-III 
-Ii",Contreceur,"E
-I
-
-amI1",lLorsque,los votres,cpilaine,"S
-
-D",e----e,chasseu canadien,cbte?1,faitel,d'Espagne,"II
-iII
 II","I
 
-I
-III
-I1",Seduction,Ameique,Algonquins,guand,Saut de Montmorency,baron.etRs%,.aUberge,eNcre,Anglais,"I
-I
-I
-I",Prc,lBien,"G'
 
-AH
-
-I
-
-Z",qualre-vingts,taces,du Nord,Tais-toil,Contrecur,I3ELLE,Maige,tournai,"mer
-
-II
-I
-1
-I",lOcean,s------,ilnie vix,Paris,"I
-I
-Ma
- AH",II1,Benardo,.l,"II
-I
-
-HIII",Creole,C018,Tbucher,legeret6,ille,"WIIIIII
-III 
-L","A
- I
-l--
-I
-riii",soreellerie,celui-ei,Oll,Iauve,ompagnons,egarde,amoureuxl,Louisl,appuyees,"AI
-A",ige,Ilelle-RRiviere,La Couleuvre demasqua,jespere,trouves-,"S
-n.
-I
- QU",Armnund,"El
+L",g3i,piece eclairee,seuil de la maisonnette,"E
+E","El
 
  
 I
@@ -662,35 +452,184 @@ IL
 Il
 
 
-IL",-----ecxxz,L'inconnu'arrêta,morichee,Veuiueree,Commercy,AInsi-'.5.C-2C:--::-----A----e-::=-a--,wampums,c:----------------,MP,fere,"E
+IL",A6,melancolie,heminee,jours;.,Sans-Piste,I3ELLE,comtesse de MIa-,MIn,La Couleuvre,vengel,pyramides de Cholula,JE,faireune,Soyez,I.1,cpilaine,Plt,l3elle,"El
+f
+Ii",Nouvelle-Or6as,pseudo-Ironie,Peaux-lRouges,ct de la riviere,CI,Belle-Olivier,Eeoutez,wampums,fene,".III
+II",Carignan,vincre,A---------.--.--ELLE,miens,XIY,lEh,batte,"E
+
+
+E",MP,soleil,oblesse,Marcher,"chateau de
+Beauregard",depit,Le Canadienjelta,BIELLE,maindes raquettes,penez,Pavenu,C----ii,etat,ariver,sais,guisel,attendenl,1(0,seplt,soldut,capitaihe,Vil-,Pardieul,souveni,querrezla,saint-,"pei
+
+I",Leona,lUne,193,Achives,Armnand,guee,"zEEEEE
+E",regardexz vos sentinelles,Paisienl,Dire,Tuant,lore,faix,Pdldu,souple,"II'
+II
+II
+
+I",BIELLB AIV1EIE,meuse,s-3,anne,"com-
+espagne",haron Armand,Teocalis,IKouha-Hande,Seigneu,Mluclay,pardon,"I
+I
+III
+IL",satnis reponse,Contreceur,- Est,Bois-Brles,baron.etRs%,desert,fusils7,aneantirent le Iruit,L-----1,"El
+E",cap des Monts-Peles,Voyons,Andre,Inerci,"consentezl
+- Pardieu",Iin,besogne,L’,Fatalement,"I
+Ah
+E",L'Aigle,BLLLE,zeeta,"P,-F","II
+III
+I
+II
+
+L",prisonnie,Iort Duquesne,"I
+I
+
+
+I
+ 
+ i
+I",.-Je,Consentez-,S-,MIontmorency,Villlers,Vraiment,Voyez,Ben,"II'
+1I
+
+
+M",L6on,----L.',Suveille,avrche dupemier hoe,Renard-,reveni,Couchez,amoins,Pendanl,Iayelon,"--g,.s-I.-r rrr",Fuyez,BELLlE,Voilh,Douai-Hand6,Royal-Marine,Marigots,fort Duquesnel,fort Necessite,accables,- Pourquoi7,drue,Paris,"I
+I
+Ma
+ AH","diables7
+- Plutot",epos,chateau de Maleval,".,.3-",lulL rapidemonl,Amerique du Nord,Pensa,PensA7,Vire,Mee la comtesse,"II
+-'",Saut de Montmorency,Jumon-,Ble maudit1,Jumonville,--=--=---====-5,monts Alleghanys,"Eh
+UI",zzz:35-,Albion,Menneville,Huron,elrange,Louisiane,Agis,Ioten,foid,.:,mademoiselle,t.,x.L,gand soleil,"I
+I
+
+
+
+
+ L.I
+
+E",.A1,pise,faroces advesaires,Sois,guer-,siege,Il-,retou,chevaux7 Cependant,"YSE
+
+ ICI",lExcellenll,N1,Iaiblesse,"II
+I
+II
+I",tournai,P,gaieto,severe,"xEZIE
+
+l
+EAU",baon,"I'
+IL",Demain-,.en,Le Proscrit,1'igle-Volant,Es,briquet,failliai,saclem,Es-tu fou,I11,epondre,LE6A L,Mee de Maleval,tristemenl,IEst,Petil-Fort,pexsonne annoncee,au Havre,Peaux-Rouges,r7:--,l,Le succbs,regardexz,Ion-,fier,Pilma,lesFrangais,Americains,Sicile,"II
+
+ELLE",Lile,sachet,ICI,avanl,Spndassin,clairiee,calomniee,fort Duquesne,cetle,douai,Ohio,"BELLlE R1ELLE
+Deux heures",Keproduelion,A60,Seduction,"S
+
+
+
+E",E:.LEEEE,"A L
+T",Sonne,scabrex,affairel,Rassure,L1IN,"I
+I
+E.",Oi voulez-vovs,BELLL,nousf,ceurl,Idiens,oula,Oih,As,Nlck,Cria-,"2E
+E",IV,Proscrit-,Pace,avee,vraimentl,appaence,vitel,"II
+III 
+ZZ",LLLB,lBelle-Riviere,"I
+
+
+E","aH
+
+I
+I
+
+II1I
+
+I
+i
+1",Amand,eomte,"E
+N
+
+- 
+il
+- A demain",brancad,vrenoontra,oppessee,Berge,E',Anglais,1'Il-de-Buf,HR1VIEE,C'6tiit,cimetieres,ollert,.-----------,gibier1,tauie,la Riviere,croyez-le bien,"zZ
+E
+
+I
+x1I
+I.",Ln,repondre,soulenir,senl,"S
+el
+ 
+ 1",alttira,grnd lrve,"ŒIl
+I",pardil,pendunt,"HEl
+I",L----,Ocean,"I
+III","I
+
+'N","M
+ 
+I",Proscrit,"III
+
+I
+CI",Roproluction,Angele,mneme,exigeez,Oll,V8,by God,gare a vousl,"E
+
+I
+I
+I
+I1",comtne,"E
 E
  
 
-II",Es-tu fou,maitesse,Le Canadienjelta,l,"II
+II",e----e,nousle,"II
+
+l",Visages-Alors,"II
+I
+vI",chassel,"r,:il",grace,Nouveau-,"I
+
+I
+I
+l","I
+L",allezl,egarde,outle,"II
+E",coureius,"II
+
+I
+II
+M",-1Louis,pas7,Corbleul,echappe,Guyenne,copaguie de rigny m'eel arive,Villiets,"1I
+I.I","II
+I
+IL",inllige,faire7,Virginie,eparee,Nirginie,Frunce,"Ci
+
+I",.::A,i5,Savez,lRenard-Bleu,".L
+
+I
+z
+2.-",Nord,Franoe,svit,Iagon,everrons,Ilelle-RRiviere,Presque aussitot,brave Bois-Elle,chaussues,y.,Heure,tompei,Pite,.g-c,dole,---L-,Ferney,Canadions,amarree,L.--,"E
+II
+
+E",toldos renfemenl we tentaine de gueiers,Renard-Le,diables7,malgre,Malge,Manongohela,"I
+I
+
+2",lBien,endre temoin de .son bonheue,Il3,Rameau-,"c,-",L2,"A
+I
 II
 II
-f
-1",Voil,irentrer,parcouri,Deji,BBLLE,RIYILEnRE,Dieppe,Mattre,delicatesse des Europeens,NE,empecher,- trèS,ILe Canadien,Tacy,"I
-
-
-I",E',du bois-le,pexsonne annoncee,"E
-
-
-E",hommE-,A peie,LIv,mone,Il3,Inuimurai,Erreu,"I
-III 
+II1
 I
-III
-
-l
- J",Demohl,beto,Presque aussitot,Maclay,tu6s,suivaut,"Amerique du
-Nord",lDevant,pise,Il:-,"LÀ
+N",alever,cotpagnon,Er,unsgrand,vouS Conaltre,Ward,"LÀ
 
 I
- M7",Vois,LA HELLlE,lourdeset,"III
+ M7",Maleval,Usine,celui-ei,Pſ,PoUvez,penchee,louha-Hande,S',foree,guand,I,- Partons,"Amerique du
+Nord",Caudebec,Cecije,"Z
+e.
+E",Iatiguer,"E
+I
+
+amI1",Padieul,hospitalit6,"II
+I
+I
+I.
+I.",Jamais,Pesque,Canudien,F1N,- Tenez,pres,Eveille,resuma,marqulse,nombe,Europeens,Observez,adesse avee luuelle,lches,Lhidalgo,pesence,etendus,"II
+I
+IMA",n1,Frangais,vecu,epars,"II
+I
+A",maintenant7,"I
 
 I
+t
 I
-IIHI",elevees,ecoliers,litieie,MIn,Alleghany,fl,forlune,.-eer-,".l
+
+
+N",suivaut,contentez,Yoguons,pilosoplie%,curieuxi,E-,Pean-Rouge,matiee,lBerger7,Maige,Visages-Ples,".l
 
 II
 IL
@@ -705,44 +644,158 @@ III
 
 i
 I
-2.A",Rameau-d'O,A minuit,Leu,comtesse de MIa-,.:a-,dementi,appiopiees,clairiee,Eparpille,estici,larmee,rEprit,ciencel N',"RIVIlEnE
-A",Ioten,Andel,RIV1,reposet,Ion-,"E
+2.A",lchetel,Veuiueree,capagne,BAron1,Aupres,--t--,mediocre,tfaconla,.aUberge,e:-r- es-Ziiciiiaii i,Soitl,ESt-ce,".l
 
-e
+E",interveni,fray6,Maclay,C1.-,Mexique,"E
 
+ N
+ 
+I
+ 
+r",lOcean,Venise,desert na cela,la lecon,Lesindividus,Doue,lJistorique,baron de Grigny,divulguee,savez-vous7,jurerais,Procrit,Iacilite,samaltresse,trompei,Gigny,"I
 
-3L
-x",Bergei,vrenoontra,"CI
-
-l
-M
-OR",Royal-Marine,"II
+ii",LIN,Mnais,desole,EX2ET,Fran-,Le soleil,oflficiers,atlend,Aigle-Volant roula,"I
+I
+IL
+III",Espagnol,Iemmes,remettez-le-moi,Demohl,piece,Il:-,"M
+I",Washington,Blancs,centve,trallres,Contrecur,timbe,chegz,Vois,Armnund,ordes,le Caadien,Boucle,Les brunches,trvaille,D,C'0étaient,lout,jespere,Point de diffrence,"II
+II",IL,pepare,Bonjou,.-2,II1,"II
 I
 I
 I
 III
-F",inllige,Ioret,II.i1,a1,"1I
-I.I",chevaux7 Cependant,Aucue,".III
-II","I
+F","2-,-AgIT-G",ignorais,c1,resister,Couleuure,Arrives,l1 cria,Villies,gre de quelques-un,celaf,"OR
+
+I:E
+E
+L
+
+a
+
+g",L'inconnu'arrêta,Loups-Hurons,Va-t'en,"IIIIIl
+II",Bergel,Forie,vautou,Prossrit,retaitel,Canadien,Semblables,"OR
+
+I",1'Il-de-benf,"III 
+
+I","II
+I
+I",Yous,Oui-Fine,Europe,R,Malevall,ELLE2,coutse,".L.
+
+I
+I",.EFFROI,soldatd',- Completement,Rameau-d,sentihelles anglaises placees,.et;L.,Jan-Pol,Prie,delicatesse des Europeens,Pelage,precipitee,"WIIIIII
+III 
+L",chasseu,espagne,"etat de
+defense",mrs,moi7,ontfond6,.A2,"I
+I
+
+I.",el,BELLlE RIV1LE,ILA,Iauves,Apres,IIy,Fancais,vousf,Chaussée,El,"I
+I
+I
+.I",percee,CGEFIFROY,breche,mavkawis,Lovelace,plaga,deierre,veni,Avouea,ÇA,miseres,tentee,Aise-aux-Marigots,.G,BELLB,Cherche,"II
+III
+ 
+ I
+1I
+'
+1
+I
+I1","IL,1",irentrer,bientot,Lejeune,r2,i,Bois-,Ami,conteni,la France,vousl,convenul A bienlot,Le Saint-Laurent,L'Indien,ehaque,"BLLLE R1YIE
+landier",s-g3Rg,Voili,Rameau-d',IANIEE,"t:.---
+L",ige,est',Ironie,accompague,"chefl
+- Attendez","II
+I
+
+HIII",Manongahela,ELLE,Ii-,souterain,BELLE IY1JE,IIIIIIIIIIIIIII,Benardo,entieement us,auptravant,BELLLE RIV1En,Lhches banditsl,nuaages,L,Osna,Lignorez,symetrie,recherchee,gueirre,-7-.--,beto,faisos-nous7,ai-------,parc du chteau,GEFROY,"II
+II
+II 
+IL",Vois-tu,soci6t,frontiere,"I
+- 
+ 
+ 
+-,",venezl,"I
+I
+-
+1
+
+I",grinca,Mluintenant,a-.-,Pardon,apport6e,comle,ouchee,AU CHATEAU,"asIE
+
+I
+
+T
+I
+I
+IL
+ SI",estici,Remerciez,IELLE,"I
+
+E
+
+I
+f
+E",Iorte,"ſl
+
+Eau","Francef
+- Non",Couleure,"II
+I
+A.
+
+I",z-7,italie,Marches,- Pardieul,lAigle-NYolant,Quebec,boutellle,tad,"AI
+A",Pittsbourg,bandouliere,IVIERNE,ctes-,Mlanonghahela,fere,pourvU,Soudain,- Grce,"P
+I",touva,natuure,fIort,--z--,lille,"ii'
+
+I
+E",Fort bienl,dislance,"I
+III 
+I
+III
+
+l
+ J",tete baissee,Gascon,"I
+M",.-L.,"I
+
+I
+II",".,-",Iusil,Ilibustier,"fort
+Duquesne",d'Espagne,"II
+I
+II",Laisse,Pyoscrilten,"I
+ P",Contrecoeur,excitee,"I
+12I
+L",L.L,"A
+
+I
+1",- Gueusard,"ILII
+II",Fugais,aflot,eNcre,Risque-loup,fot Duquesne,i.naiiei,Qubec,vOuS.,A terre,"I
+E
+L",gand air,L--7,EAU,reserve,crnelle,auixyeux,"EEl
+
+ ET","E
+ 
+
+E","II
+I
 
 
-E",BELLE IY1JE,Sonne,est',Menne-,"I
+
+II",Tiens,plius,.T,- Tres bienl,hG,gEEEE,Ajoutez,"I
+I
+E",ceonnaissant,--a,passee,Ameique,l1,merisier,"I
+I
+I
+I
+IL","opinion2
+- Pas entierement",opinion2,Montreal,vers6s,"I
+I
+t'",Nouvelle-Hollande,Peau-Rouge,"G'
+
+AH
+
+I
+
+Z",Ponce-Pilate,Iragais,LLr- AH,.r-3-r-,Y-:s,rendez-vousl,beauceoup,sachem,espère-et-err'`r---------------a----------------------,Qu'6cria,"I
 
 I
 I.
 I
-I","I
-E
-L","L,5",toldos,RIYIhE,Renard-Le,.:Z,pilosoplie%,tete,193,Canada,"I
-A.,
--
-300
-x---i-",ILes,Europeens,failliai,bienl Demain,Peaux-ouest,Avouea,lejeune,"E
-E
-ELLE",Inerci,J,scabrex,Celte,.L-L,- Tres bienl,Fumerons-,"or,-",lchetel,ecurt,"fort
-Duquesne",i,1'Aigle-Volant,meprenez,iille,Peaux-Rouges2,"II
-
-tu",Vire,comle,I,Lignorez,"Nouveau-
+I",clairiere,Leu,Iin limier,savoir7,Boune,Couleuwre,dernie,-----ecxxz,Douai-lande,conslruire,extreme,"Nouveau-
 
 I.1
 1
@@ -756,166 +809,24 @@ M
 
 I
 
-LA BELLL 1",comtne,dole,baie des Marmousets,Duquese,lesFrangais,N,ignorais,C1.-,"zZ
+LA BELLL 1",morichee,1'Aigle-Volant,.%,Autre,Inieux,cbte?1,Louislt,l.,C.L:.-'---elle,a-- Hlasl,lune,reposet,Telles,Vesailles,guerisse,Nouvelle- francS'tait,Providenee,Wad,N',repete,"II
+
+
+
+
+ L",claiiere,eflechissant,mollet,263,"S
+
 E
+E","CI
 
-I
-x1I
-I.",Nouvelle-Frnce,6viter.-,I4,z-7,"JE
-
-E",HEl,"leude cheri
-de",Canudien,Louisiane,arrivonsl,tad,--=--=---====-5,m-autre.5---a-,siege,Fugais,Peaux-louges,Ferney,ouchee,epondre,"LIAE
-
+l
+M
+OR",lBeau-,ilnie vix,us,"II
 II
-
-IIZ",tentee,Cunadien,"El
-E",LUi,"A
-I
-II
-II
-II1
-I
-N",Iils,l1,"LIAE
-
-II
-
-IIZ
-x
-E",Ennui-a,"N
-I",Va-t'en,gargon,Ange,Irappa,"II
--'",Versailles,cumbree,soleil,e’,"I
-III",Suveille,"II
-
-I
-t
-'
-:i:
-II
-L.
-E",Canudienne,"E
-I'
-
- ET
+HUI
+E",Dej,hesiter,Ouebec,"E
 E
-II
-
-T
-L
-I
-IL",epars,Washiington,Providenee,pleus,proscritl A,t1,Autel,"G
-
-III
-
-
-S
-f
-IL",.-----------,Nouvelle-lFrance,Le Saint-Laurent,"t-.----:sxereeEesaa-e
--
---s-.-`.-
-'
-l",deserte,IL-,e:-----,la Couleuvre,Indiens,E2-,"OR
-
-I:E
-E
-L
-
-a
-
-g","I
-12I
-L",alfreux,---L-,grnd lrve,A6,L'Aigle-Volnt,Palez,voila,Eeoutez,"II
-
-E",ler,Riviere,Saint-Laurent,deierre,lameau d',Mluintenant,Agis,Deja,Soudain,Boucle,Venise,Chteaux-,Canadienne,regardez,LLLB,Égal,Eau-Jaune,lEh,desole,Anjou,egayer,lProscrit,ge,e:----.--------,"E
-N
-
-- 
-il
-- A demain",Inieux,.-Je,France,s-3,Oui-Fine,ai-------,IL S,New-Yorl,ecria,Malgre,atlire,cyes,oi,htes,aulres,Iais,ILA BELLI RIYILRE,Anglelerre,Pardieul,- Est,saint-,Dinwidie,celasans,Semblables,savez-vous7,penez,toules,haron Armand,XIY,Quoil,tone,-L,5E E,Gcagse,"E
-E",".-:---,C-",grinca,BIELLE,faireune,"II
-I
-IMA","ii'
-
-I
-E",jusque-lh,Voilh,"9
-
-UI",Doue,Accordez,endre temoin de .son bonheue,auptravant,Nord,prisonnie,vraimentl,alluma,perdula,E:.LEEEE,ESt-ce,vecu,.--,Armnand,"XI
-E
-I
- C",Mlanonghahela,Franeais,cap du Chat,"II
-filLe'
- D","RIVIEnE
-La",Renard-Bleu,Lile,"I
-I
-t'",O,declarer,Iort,nousf,malgre,severe,l'Amerique du Nord,S-,s6,echappe,L'Aigle,chegz,claiiere,Idiens,pepare,Ouelques,Ohio,Cherie,Nirginie,eeieeie,Aives,Ble maudit1,vers6s,I11,.-L.,i:::--.---------:------------:a,Douai,maquise,anne,gand air,Albion,"Ci
-
-z=",Aigle-Volant roula,oment de veni enaide,r1l,tauie,Ioissements,G¬,Revenons,".:F'
-
-r
-I
-I",Pſ,gand soleil,coeu gonfl,"aH
-
-I
-I
-
-II1I
-
-I
-i
-1",elanca,"III 
-
-I&",aUtre-,etou,r7:--,HR1VIEE,Forie,plius,IRameau-d'O,"L.S.EEECih1
----",Teocalis,Douai-Hand6,jela,Loups-Hurons,selle,samaltresse,JE.-',penchee,Padieul,Kouha-Hande,"II
-
-l",Joignez,satnis reponse,obeir,"I
-
-I",r-,Couleuwre,z-,Iouha-Hande,soci6t,zeeta,.:,de Versailles,odres,us,"E
-I",L7,Regardez,"A---
- 
-III","II
-I
-IL",Aiglais,maindes raquettes,taversee,lrancais,Amel,"I
-
-
-L",s-g3Rg,fourr6s,"...
-- Pas de mots malsonnantsl",la lecon,Bois-Brles,hG,penetrer,"E
-N","II
-III 
-ZZ",ollert,Couleure,venezl,Iaiblesse,ca,Apes,rie,Jean-lPol,Fuyez,regardexz vos sentinelles,- Pas,t.,Nouveau-,1'Il-de-Buf,Voyel,.A2,pardon,Anglelterre,"II
-
-21I
-I
-
-.2",- M',"I
-E
-I
-
-C
-
-R
-I
-I
-
- 
--
-ET
-ELLE",Rassure,"II'
-1I
-
-
-M",verlige,malte,i5,pas7,Plt,Remerciez,Iatiguer,J',Pace,Douai-Hande,trallres,cap Rosier,BELLL,ELD,souterain,fe-blanc,L--7,"I
-
-I
-i",foteresse,IL L,Aigle-Vous,croyez-le bien,attendenl,Eu,- Abandonne-les,"I
-I
-t","IL,1",EII,"I
-iII
-aI
-1",notres,"m
-
-A",- Grce,"I
-
-I
-I",hâtez,"c,-",sanglols,Dire,meuse,Iemines,"P
+ELLE",fievre,Quoil,z=,nuanoe,JE-riisiiaa,"P
 E
 I
 T
@@ -924,33 +835,122 @@ I
 
 
 tu
-E","El
-f
-Ii",repondre,Manangahela,IIy,Yirginie,ET-,souveni,Prosorit,apport6e,L.L,Iroid,"I
-I
-II",fort Duquesnel,"I
-I
-I",mademoiselle 2,ct de la riviere,mne rappellerent i la desolante realit6,"IBois-
-Ble maudit1",Mee la comtesse,"E1
+E",ciencel N',GEFFIOY,vigueui,Iermee,Y---,ILs,EII,"m
 
-I
-N
-La",lJistorique,E;.,"II
-II",Aise-aux-Marigots,caractee,C.L:.-'---elle,"II
-I
-vI",fouinie,II.L,mollet,L-,capitaihe,etranges,"P
-I","II
-I
-1Y",amarree,senl,regardez le soleil,eclai,trompei,Rouges,moi7,douai,Faneais,bleme,"II
-
-II",voi,gre,hein,faire7,etles,L1y,"Ee ie e iees
-daa",.-------.-,B,Soitl,L2LLLLL,"II
-E",.-Z-,ÇA,IKouha-Hande,Tiens,Pilma,AI,Ironie,Iace,lore,capagne,Eetiiiee,écoutez,Rameau-d'Or,Ajoutez,eeoieie,rer,Angleterre,avanl,Francef,Cnadien,pluie glacee,As,s-r,ER,"I
-I
-E.",Pa-,.::A,Mlais,Guyenne,Viens-tu?,s-L,efuse,Achives,- Pourquoi7,GIIFIROY,Aigle-,Europe,Laissons,Observez,IL L0puis,Ves,J7,payeus,espagne,"II
-
-I",Marches,Mnais,"t:.---
-L",serviteuen,lac lEri,ILs,Osna-Elle-Lucie,"I
+A",Ailez,lroquois,O,"L,;.",- Abandonne-les,ganie,Deji,Nouvelle-lFrance,LIE IIECI1,IELLlE IVIEE,Sevres,écoutez,"I
 I
 
-2",V8
+ILII",entreteni,"I
+I
+A",Fangais,segent7,francais,IRameau-d'O,F,Laissons,fort Ncessite,Tels,Nhecte,lese,"IIM
+I
+II","II
+I
+
+ 
+
+
+E",PaPa,Kouha-Hande,Z0,rivieres Alleghany,Andel,Lona,aisaiaraar,"t-.----:sxereeEesaa-e
+-
+--s-.-`.-
+'
+l",Deja,eclai,IR1AVENIR,l'Amerique du Nord,Iaut,Viens-tu?,Grand,BrEF3r;(Frc,"S
+
+D",L'indifferenee,Bergei,"E
+
+E",A minuit,penetra,L2LLLLL,peparee,Aigle-,- Ajoutant,Tecits,Algonquins,ca,flt Ward,Pas,Faneais,"fort
+Rupert",dire7,--------.-,compugnie,".E',1",prepara,elau,"I'
+t.
+I
+I
+I
+I
+I
+I",voila,cap Rosier,La Couleuvre demasqua,"II
+I
+1Y","N
+I",Saint-lLauent,Mattre,ce',secet,Amerique,"I
+E
+t",OUI-GRIS,touner,fidele,Sire,Bois-Arbres,perdula,capitaineJames Maclay,assiger,colons.-,"I
+
+I
+III
+I1",revienlt,RIV1,Coulon,y-,Inuimurai,"I
+I
+II",ParcE,"II
+
+T
+L
+I
+IL",ET-,N7,s''1,coeu gonfl,"F
+
+I
+
+2
+ELLe
+
+
+i
+P",cheminee,Altendre,"11
+
+Ii",Francef,Commercy,Bordeaux,"I
+I
+t",7I,Saint-Laurent,R1,"II
+I
+E
+
+E",Acceptez,reponde,Tais-toil,ijeune,Celles-ei,larmee,Ancre,Cauadien,sepre,"N
+
+E",Prosoit,Visages-Les,reunion de Manongohela,Douai,GG,Hll1,s------,HBois-,L.L----A-,z-L.,aupes,Bas,"A---
+ 
+III",jura,Contre-,".est;:,i",Eau-Jaune,BELLE IVIEnE,Voil,Veux-tu,Inais,parcouri,surprende,tone,Bastel,eeieeie,Tbucher,"A' 
+t
+
+ES",aeiEEE,ecurt,oment de veni enaide,gargon,Erreu,Washiington,parviut,Atlantique,".2-
+-
+ 
+2
+
+
+E",Allez,"I
+I",bleme,J',taquenatd,Cherie,L:---,cascabel,"S
+n.
+I
+ QU","I'
+
+I",T----,Jerusalem,BBLLE R1ELLE,France,charpentee,"E
+
+I
+II",MRS,.qu',"L,5",drole avee,ILes,"E
+
+
+IL
+
+d
+e",cmpagne,ER,Italie,A4,Malgre,anxiete,--'1,EEl,affoles,A,ouEst,Tes,tomberent,tamille,degout,Itt,AInsi-'.5.C-2C:--::-----A----e-::=-a--,"IBois-
+Ble maudit1",etle,tibus,- trèS,ŒIl,Cc,Avait,golfe du Mexique,Iortement,Ilavgese,Iils,"II
+I
+Il//IL",etranges,NE,Iontiere,"I
+I
+I
+I
+I",Alos,mousquet,"JE
+
+E",Lo,L.a,loup-Hande,Beauregard,parlez1,parc de la comtesse,Joignez,arive,Iroid,"IVſ
+i",Inliens,Sije,Nouvelle-Fance,C018,.L-L,diane,caignant,Yillies,rien-Bleu,Circes,aceomplir,ES,Providence,".:F'
+
+r
+I
+I",r-N,loyaut6,Ients,piege,rEprit,"E
+I",A'L,"I
+
+IIh",-L,"AH
+
+
+Il
+R
+II
+
+II
+nII",J,Là:--a,mademoiselle 2,m-autre.5---a-,Même-aux-,poulquoi,lLorsque,Cana-,SIRE,Indies,mnaisonnette,oapitaine,"I
+II",ENfIN0Y

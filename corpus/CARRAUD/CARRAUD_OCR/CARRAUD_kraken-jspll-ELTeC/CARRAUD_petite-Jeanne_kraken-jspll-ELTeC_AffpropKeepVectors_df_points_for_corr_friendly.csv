@@ -1,38 +1,122 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13
-0.0,huche,Fuuche,Blancheo,Touches,,,,,,,,,,
-1.0,Tes,htes,Hautes-kloches,,,,,,,,,,,
-2.0,east h prandre,st houl,diset east,,,,,,,,,,,
-3.0,PANTIk,Panl,ANTIR,PAHYTIk,,,,,,,,,,
-4.0,Saint-jean,vinttn,Saint-Jean,Saint-lean,"Saint-
-Jean",,,,,,,,,
-5.0,RN sERVICE,SERVICE,RN sRVICR,serviee,RANNE BN SERVIGR,RERVICR,,,,,,,,
-6.0,Tene,ten,entendro,gene,,,,,,,,,,
-7.0,misbre,chbnevibre,pribre,bref6,,,,,,,,,,
-8.0,Est,est6e,ESt,parceeque cest,maresta plush dannaer,hestiaux,,,,,,,,
-9.0,aesoueil,louede,soupof,maes,,,,,,,,,,
-10.0,Iaine,ain,Sylvain,maine,,,,,,,,,,
-11.0,ellE,EllE,ELLE2,ELlE--,lshelle,,,,,,,,,
-12.0,proat,propes,proflt,provins,,,,,,,,,,
-13.0,ruison,ruisonnublo,ruissau,,,,,,,,,,,
-14.0,ehaeun,Etehaeun,Etchaeun,shaeune,,,,,,,,,,
-15.0,voulez,lez,voulao,Loule,voulez-vaus,,,,,,,,,
-16.0,Murgurite,seeurit6l,murut,,,,,,,,,,,
-17.0,klle,llle,Llle,Rlle,fmllleg,quolle lo put,,,,,,,,
-18.0,-Mais,- Mtais,aimais-tu,maisen,faisais,aisn,maisan,maieo,,,,,,
-19.0,valt,val,,,,,,,,,,,,
-20.0,Comment,la somme,Comment dane,,,,,,,,,,,
-21.0,hergra,herg,Lherbe,,,,,,,,,,,
-22.0,ann6es,lann6e,,,,,,,,,,,,
-23.0,"ontta puillo uu vot
-uatte",Feuillet,eeui,ille anit ikee dei,chbvrfauille,Iailleurs,puille,,,,,,,
-24.0,"volonta da
-Dieu",vollh,lDieu,,,,,,,,,,,
-25.0,"A
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14
+0.0,Solango,Solange,elange,d6sola,,,,,,,,,,,
+1.0,lann6e,ann6es,,,,,,,,,,,,,
+2.0,Louisl,buis,Louiso,oui80,Louisjouissait,Louial,grdantlLouis,Louist,Iouis,,,,,,
+3.0,ocette,Cstte,"oette
+maiaon",Mettez,tte,Aette,,,,,,,,,
+4.0,Fuuche,Touches,huche,,,,,,,,,,,,
+5.0,tout6 do,pEut6,,,,,,,,,,,,,
+6.0,Gatharine,Catharine,Ctharino,,,,,,,,,,,,
+7.0,Iois,Vois,sois,Fois,,,,,,,,,,,
+8.0,pas8e,passunt,ku pasaunt,Ce pAs,,,,,,,,,,,
+9.0,gne,eprgnee,soignerai,oampagne,,,,,,,,,,,
+10.0,Ir6chauderiel,dshir6,Prinnerie,nuudes,,,,,,,,,,,
+11.0,eharpete,iinnutp votshar entse,r6ehauff,petitl,cehargea,,,,,,,,,,
+12.0,Durand,Grand Bil,Grand-,eourt grand risuo,Grand-Hal,Grand-ai,"Grand-
+Bail",Grand-Ai,Grand-Il,Granil,Grand-ai l,granle,,,
+13.0,Colis,leglise,lisie,jolio,,,,,,,,,,,
+14.0,mattresss,mattref A leglise,Mattresse,mattr Tixior,sssvie,Mattre,,,,,,,,,
+15.0,- Veux-tu,Veux-tu done faire,Et0I,,,,,,,,,,,,
+16.0,Tixisr,Iixisr,,,,,,,,,,,,,
+17.0,NFaN B JIEANNR,betes3EANNR REN,Ieanno,BANNR,,,,,,,,,,,
+18.0,peino,lapeine,Heinl,usine6,veines,,,,,,,,,,
+19.0,Muarguerito,"actes.oR0N PATIR
+Marguertte vut rentrar",Margue-,uerita,Mlurguerito,,,,,,,,,,
+20.0,fumer tes champs.-,"Eh bionl js prendruais un de tss champs on
+pnyemnent",hamps,,,,,,,,,,,,
+21.0,proat,propes,proflt,provins,,,,,,,,,,,
+22.0,naftra,vutra,Muitra,maftre,,,,,,,,,,,
+23.0,Vons,Monsisur,Lin nisu,Isure,monsisur,,,,,,,,,,
+24.0,champ de lanne,leeturo de laete,de les lyer,,,,,,,,,,,,
+25.0,uund,Grund-il,,,,,,,,,,,,,
+26.0,lshelle,Rlle,quolle lo put,ellE,klle,ELlE--,ELLE2,EllE,,,,,,,
+27.0,Nai,venais do,lMnnaips,,,,,,,,,,,,
+28.0,Aidez,aid6,ees ides,,,,,,,,,,,,
+29.0,llan'y rontrarapus,Remantranaes,ountra,aharga do asun antratian,pus to contraindro,,,,,,,,,,
+30.0,Hautes-kloches,htes,Tes,,,,,,,,,,,,
+31.0,moisso,Issouimn,Issoudun,Inourables d'Issoudun,psisso,Laissons,rssouree,,,,,,,,
+32.0,sart,Hautes-SEG0NDR PARTIB,nePMIR PARTIR,ATRIMIR PARTIR,srtir,,,,,,,,,,
+33.0,oes,aoes,troes,,,,,,,,,,,,
+34.0,PANTIk,ANTIR,Panl,PAHYTIk,,,,,,,,,,,
+35.0,Nousla,etJRANR APOUSE,VOus,Noug,,,,,,,,,,,
+36.0,travaillaer,IJae,travalil,truavaillentl,ellae,,,,,,,,,,
+37.0,aesoueil,soupof,louede,maes,,,,,,,,,,,
+38.0,oinquanta,manquAt,,,,,,,,,,,,,
+39.0,o6t6,S6t6,,,,,,,,,,,,,
+40.0,Pierres-,Saint-Pierre,truver Pierre,"Pierres-
+Folles",,,,,,,,,,,
+41.0,lUi]1,luil,i]1,eonluit avau une bgutte,,,,,,,,,,,
+42.0,Diau,Diaeu,,,,,,,,,,,,,
+43.0,voulez,lez,voulao,Loule,voulez-vaus,,,,,,,,,,
+44.0,aprbes,Aprbes,Aprbs,Aprs,,,,,,,,,,,
+45.0,antre moiti6,moiti6,moitie,,,,,,,,,,,,
+46.0,meissan,eonnaissanee,Poonnae,Iaisse,,,,,,,,,,,
+47.0,vaele,grele,LiEelE,,,,,,,,,,,,
+48.0,porto,Ilsporta,Iort,Porte s.,port6,,,,,,,,,,
+49.0,empecher,Cher,chereher,du Cher,s6cher,Blancheo,,,,,,,,,
+50.0,trs-fort,fortPRMIIRRE,PRBMIIRRE,,,,,,,,,,,,
+51.0,Or6,or6f,,,,,,,,,,,,,
+52.0,ort de sa mhro,aa mMre,RT MRRR,,,,,,,,,,,,
+53.0,maresta plush dannaer,ESt,Est,".Est-
 
 I
-II1
+ 
+E
+
+E",ESt-ce,hestiaux,est6e,,,,,,,,
+54.0,l'italie,suita,italie,,,,,,,,,,,,
+55.0,Nannottat,Mannotte,Mannstte,loanno,,,,,,,,,,,
+56.0,east h prandre,diset east,st houl,,,,,,,,,,,,
+57.0,tqui,linquitulo,quoiquil,quittee,,,,,,,,,,,
+58.0,m6-,io m6-,,,,,,,,,,,,,
+59.0,alle,allar,alluma,fallt,,,,,,,,,,,
+60.0,mre Nanntte,mre Nannette;A6,mbre Nannette,mre Nannette,mbre Nannetta,mre Nannett,mbre Nunnette,mre Nainnette,mbre Nannetto,mbre Nanaetts,mra Nanntte,,,,
+61.0,lesameliorer,madamel,,,,,,,,,,,,,
+62.0,mnains,ain,Sylvain,Iaine,maine,,,,,,,,,,
+63.0,Grise,Écris,Paris,bris6,Jappris,prisr,,,,,,,,,
+64.0,Cala,je nae valais,ceu si e v-,jy vasl,,,,,,,,,,,
+65.0,vnie,runie,meuniere,,,,,,,,,,,,
+66.0,PATI,bAtir,pitir,,,,,,,,,,,,
+67.0,llle,Llle,fmllleg,,,,,,,,,,,,
+68.0,Jeanne.]ENANCI D JEANNH,Ieanne vellle,Jeanne6tait,Jeannel,jeanne7,Jeanno,suf-JEANNR EPOLB EP MInE.,leanne,Jeann,s3EANN,avonslEANNE,dtresse de eanne,Jaeanne,Ieanne,
+69.0,parceeque cest,paros,nit do parlsr,Par-,paruatt,,,,,,,,,,
+70.0,san ohupeau,san viilage,ILaA,san nonrrimson,,,,,,,,,,,
+71.0,horuais,orue,,,,,,,,,,,,,
+72.0,rendtt,d6fendu,Penduant,aendurantae,,,,,,,,,,,
+73.0,plaes,place,plaft,,,,,,,,,,,,
+74.0,tete,tetel,,,,,,,,,,,,,
+75.0,tta hussa at la,tta hussa,tta,,,,,,,,,,,,
+76.0,ruison,ruisonnublo,ruissau,,,,,,,,,,,,
+77.0,tomhee,tombsr,Combin,,,,,,,,,,,,
+78.0,aussI6t soulo asur,impossiblo,ssir,"pltisirquae
+iai",,,,,,,,,,,
+79.0,Lejeun,oolfre,prte,Lejeun oolporteur,,,,,,,,,,,
+80.0,LZ nnoi,honnos,bhonn,,,,,,,,,,,,
+81.0,miliau,humili6,tra humili6,,,,,,,,,,,,
+82.0,beusg,leuseuse,,,,,,,,,,,,,
+83.0,seule.3RANN RN SEVI6OR,SEVI6OR,,,,,,,,,,,,,
+84.0,lean Jusserand,lean,Jusserand,,,,,,,,,,,,
+85.0,biioux,vioux,anvio,,,,,,,,,,,,
+86.0,"ii
+
 I
-----l","IL -
+I
+
+II
+E
+E","IL M.
+
+2
+ 
+IL
+ L
+i
+ 
+eT:E","I
+E","III 
+
+II
+ Si","IL -
 II 
 iL
 l
@@ -60,227 +144,140 @@ I
 
  
 I
-E","I
-E","IL M.
-
-2
- 
-IL
- L
-i
- 
-eT:E","III 
-
-II
- Si","ii
-
-I
-I
-
-II
-E
 E","II
 
-L",PAIII,,,,,,
-26.0,granle,Grand Bil,Grand-,"Grand-
-Bail",Grand-ai l,Granil,Grand-Il,Durand,Grand-Hal,Grand-Ai,eourt grand risuo,Grand-ai,,
-27.0,.'Geeseeeeee,eonsere,psgnsee,gns,,,,,,,,,,
-28.0,mattresss,mattref A leglise,Mattresse,mattr Tixior,Mattre,sssvie,,,,,,,,
-29.0,eir,veir,chneire,,,,,,,,,,,
-30.0,Muitre Tixer,"f
-- Muattre Tixier","ndri  matue
-ixier du",pre Tixier,"pre
-Tixier",pre Iixier,Tixier,Mre Tixier,nuttre Tixior,pre ixier,,,,
-31.0,suita,italie,l'italie,,,,,,,,,,,
-32.0,s'6éveillant,surveillanee,vEille,,,,,,,,,,,
-33.0,Ormaeuux,Ormeuux,Ormenux,,,,,,,,,,,
-34.0,Nannettoe,Nannetts,"mbre
-Nannette",Nannette,mare Mannette,Nannettef,Nannetto,Mannette,Mannette idsvant dngarensement,Nannettel,"mre
-Nannette","mbre
-Nannetto",mbr Nannette,
-35.0,Colis,lisie,leglise,jolio,,,,,,,,,,
-36.0,h Diu,ai d6 Dit,,,,,,,,,,,,
-37.0,or6f,Or6,,,,,,,,,,,,
-38.0,leunne,Junne,Jounne,Iesnne,Etionnel,lunno,Jeunne,lennneet,launne,,,,,
-39.0,Iois,sois,Vois,Fois,,,,,,,,,,
-40.0,Infin,FIN,,,,,,,,,,,,
-41.0,ehevet da,etle poreher,caeher,Aehetez,ceher,hereher,Maehere,gaeho,Haues-loehes,,,,,
-42.0,Bluanehe,Jane,tane6,sane uger,,,,,,,,,,
-43.0,"pltisirquae
-iai",ssir,impossiblo,aussI6t soulo asur,,,,,,,,,,
-44.0,Aette,ocette,Cstte,Mettez,tte,,,,,,,,,
-45.0,frthos,,,,,,,,,,,,,
-46.0,du Cher,Cher,chereher,s6cher,empecher,,,,,,,,,
-47.0,milla,Guillauma,Guilluume,aumne,d6barbouillait,,,,,,,,,
-48.0,venais do,Nai,mnains,lMnnaips,,,,,,,,,,
-49.0,san ohupeau,ILaA,san viilage,san nonrrimson,,,,,,,,,,
-50.0,seule.3RANN RN SEVI6OR,SEVI6OR,,,,,,,,,,,,
-51.0,toi,toil,mets-toi,,,,,,,,,,,
-52.0,lo truaversin,"st tu prlers fisu
-aveus",aveo,Aven,Avez,AVez,,,,,,,,
-53.0,Jeann,Ieanne,Jaeanne,suf-JEANNR EPOLB EP MInE.,dtresse de eanne,jeanne7,Jeanno,Jeanne.]ENANCI D JEANNH,leanne,Jeannel,Ieanne vellle,Jeanne6tait,s3EANN,avonslEANNE
-54.0,ommana,Commae,yeu eomma,,,,,,,,,,,
-55.0,journie,journe,,,,,,,,,,,,
-56.0,stonttot,ont6,Dumiont,montee,aommonoamont des vandunges,puvont pus,,,,,,,,
-57.0,lon,Lon,,,,,,,,,,,,
-58.0,l'6curie,aur6,Isaure,auri,jaurais,,,,,,,,,
-59.0,Faut.n,Autre,d6autre,veux-auTre,lautrl,Nutre,,,,,,,,
-60.0,tta hussa,tta,tta hussa at la,,,,,,,,,,,
-61.0,foire proehaine,foid,foiro,,,,,,,,,,,
-62.0,moisso,Inourables d'Issoudun,rssouree,Issoudun,Issouimn,psisso,Laissons,,,,,,,
-63.0,Lejeun oolporteur,Lejeun,prte,oolfre,,,,,,,,,,
-64.0,Combin,tombsr,tomhee,,,,,,,,,,,
-65.0,"puuvres
-uo",Mapuuvrefille,,,,,,,,,,,,
-66.0,Aidez,ees ides,aid6,,,,,,,,,,,
-67.0,foree,A foree,la France,,,,,,,,,,,
-68.0,asast,san,dar asans rion,asans,Isanre,,,,,,,,,
-69.0,anna,Nannatte,nankin,Nunnatta,mre Nnnnatto,mbre Nannatte,,,,,,,,
-70.0,"Sainte-S-
-Ange",Sainte-Solange,sainte-Solange,,,,,,,,,,,
-71.0,Ilsporta,Porte s.,port6,Iort,porto,,,,,,,,,
-72.0,san mari,mari6,ARIIR,,,,,,,,,,,
-73.0,mademoiselle,Mesdemoiselles,,,,,,,,,,,,
-74.0,Ieau,ieau,bheaueoup,shAteau,,,,,,,,,,
-75.0,Quelques-,Quelquofois,quelguo,quelqe,A quelqus temps,quelquo,Afrique,,,,,,,
-76.0,eprgnee,gne,oampagne,soignerai,,,,,,,,,,
-77.0,BANNR,NFaN B JIEANNR,Ieanno,betes3EANNR REN,,,,,,,,,,
-78.0,Pourquaoi,hourse,our6f,our,ourRIEMIR,jardin mpour,amouR,,,,,,,
-79.0,dEmain,demand6,demandus  la maitress,,,,,,,,,,,
-80.0,Sauvez,uvece,couvertuire,,,,,,,,,,,
-81.0,rasenmmoda,as-Or,dras-tu,,,,,,,,,,,
-82.0,plaes,plaft,place,,,,,,,,,,,
-83.0,ohagrin,ohagrin quon,hagrin,ahagrin,Grind-Hail,ohigrin,rin,,,,,,,
-84.0,troes,oes,aoes,,,,,,,,,,,
-85.0,Jappris,bris6,prisr,Écris,Paris,Grise,,,,,,,,
-86.0,l hraselst,raegut,asyhine a san hrae,san hrae,,,,,,,,,,
-87.0,humili6,miliau,tra humili6,,,,,,,,,,,
-88.0,Prinnerie,Ir6chauderiel,nuudes,dshir6,,,,,,,,,,
-89.0,antre moiti6,moitie,moiti6,,,,,,,,,,,
-90.0,maftre,naftra,vutra,Muitra,,,,,,,,,,
-91.0,lUi]1,i]1,luil,eonluit avau une bgutte,,,,,,,,,,
-92.0,aueun,Meunet,Neunet-sur-,--La jeunesse,,,,,,,,,,
-93.0,Gruand-llail,Jeuan,uand,,,,,,,,,,,
-94.0,matra Tixiar,Tixiar,Iixiar,oflloiar,,,,,,,,,,
-95.0,bouher uno pibdeoe de,ner,ner  sua,,,,,,,,,,,
-96.0,Iout,iout,Outanir,,,,,,,,,,,
-97.0,Sire,sIrE,t0 Sire6,vire,,,,,,,,,,
-98.0,madamel,lesameliorer,,,,,,,,,,,,
-99.0,femma da Gerbaud,Gerband,mhmeIBANKR VYtVE,,,,,,,,,,,
-100.0,chin,Josiphine,Jasphino,Ioshine,,,,,,,,,,
-101.0,passunt,ku pasaunt,pas8e,Ce pAs,,,,,,,,,,
-102.0,dress6,bless6,lespsi,,,,,,,,,,,
-103.0,honnos,bhonn,LZ nnoi,,,,,,,,,,,
-104.0,grimuce,oen voudraias pus,Grias,,,,,,,,,,,
-105.0,nit do parlsr,paros,Par-,paruatt,,,,,,,,,,
-106.0,l etegeet,LL E,,,,,,,,,,,,
-107.0,aecoutumee,corn0s,daecord,,,,,,,,,,,
-108.0,mareh6 lo beurro,marehanderai,marehand,,,,,,,,,,,
-109.0,-Merci,blmer,reluamer,mereie,mero,,,,,,,,,
-110.0,PRBMIIRRE,fortPRMIIRRE,trs-fort,,,,,,,,,,,
-111.0,allar,fallt,alluma,alle,,,,,,,,,,
-112.0,Berry,torro,pise de terre,terrOB,In terre,,,,,,,,,
-113.0,VWatan,Abbaye,oompte,payetra eomptant,Iu eompagnio,,,,,,,,,
-114.0,cEpendant,dangar,vendange,,,,,,,,,,,
-115.0,quittee,quoiquil,tqui,linquitulo,,,,,,,,,,
-116.0,ohoso,,,,,,,,,,,,,
-117.0,elange,Solange,Solango,d6sola,,,,,,,,,,
-118.0,Veux-tu done faire,- Veux-tu,,,,,,,,,,,,
-119.0,voil,Voilh,,,,,,,,,,,,
-120.0,Heinl,usine6,veines,lapeine,peino,,,,,,,,,
-121.0,oinquanta,manquAt,,,,,,,,,,,,
-122.0,Louist,oui80,grdantlLouis,Iouis,buis,Louisjouissait,Louisl,Louial,Louiso,,,,,
-123.0,il6e-la,habill6e,,,,,,,,,,,,
-124.0,S6t6,o6t6,,,,,,,,,,,,
-125.0,Solngo,Cost,Solungo aost li-bas,,,,,,,,,,,
-126.0,voeus,uu bisn lurl,Ionis,ai-noeus bion,noee,bioen,,,,,,,,
-127.0,hamps,fumer tes champs.-,"Eh bionl js prendruais un de tss champs on
-pnyemnent",,,,,,,,,,,
-128.0,aharga do asun antratian,pus to contraindro,ountra,Remantranaes,llan'y rontrarapus,,,,,,,,,
-129.0,ort de sa mhro,RT MRRR,aa mMre,,,,,,,,,,,
-130.0,mbr Nunnette,tto,nettoyee,Nunnetto,Nunnette,Mamnnetta,"charit6 d
-lua mbre Nunnetta",,,,,,,
-131.0,Mange,gea,grange el,Eatce,d6rangeAt,,,,,,,,,
-132.0,st Paul,suupauda,pau,,,,,,,,,,,
-133.0,croyez,joyeu,Voyez,soyes,,,,,,,,,,
-134.0,chvre,vee A,ehanvre ataltettohe pat tarre,fiivre asi,,,,,,,,,,
-135.0,Mmie,MIERR,,,,,,,,,,,,
-136.0,oulture,eur6,heura,eure,aeur  Ia,,,,,,,,,
-137.0,nnl,Chamnnlhrs,Et0I,Chasun,,,,,,,,,,
-138.0,Diaeu,Diau,,,,,,,,,,,,
-139.0,anvio,vioux,biioux,,,,,,,,,,,
-140.0,de les lyer,champ de lanne,leeturo de laete,,,,,,,,,,,
-141.0,egarde,gargon,Argent-,,,,,,,,,,,
-142.0,"II
-
----
-Jeane",exueto,lJeanuet,JEANINR,,,,,,,,,,
-143.0,maltresse,pltre,maltre,,,,,,,,,,,
-144.0,PATI,pitir,bAtir,,,,,,,,,,,
-145.0,tout6 do,pEut6,,,,,,,,,,,,
-146.0,meissan,Iaisse,Poonnae,eonnaissanee,,,,,,,,,,
-147.0,Ordinaire,ILo,Narie,Ilordinarie,lordinuaire,,,,,,,,,
-148.0,iiaa,lanne,n6anne,Etianne,Iaanne,IANNk,,,,,,,,
-149.0,lean,lean Jusserand,Jusserand,,,,,,,,,,,
-150.0,rendtt,aendurantae,Penduant,m6-,d6fendu,,,,,,,,,
-151.0,grele,LiEelE,vaele,,,,,,,,,,,
-152.0,Margue-,Mlurguerito,uerita,Muarguerito,"actes.oR0N PATIR
-Marguertte vut rentrar",,,,,,,,,
-153.0,mbre Nannetta,mre Nanntte,mre Nannette;A6,mbre Nunnette,mre Nannett,mbre Nanaetts,mbre Nannetto,mre Nainnette,mbre Nannette,mra Nanntte,mre Nannette,,,
-154.0,VOus,Noug,Nousla,etJRANR APOUSE,,,,,,,,,,
-155.0,hoir,IJae,bhoire,,,,,,,,,,,
-156.0,Sais-tu,Crois,Vois-tu,Crois-tu,,,,,,,,,,
-157.0,Apres,v8pres,present]110,lepre,,,,,,,,,,
-158.0,aratt,farae do,troeuva,io m6-,trouvara,Vars,,,,,,,,
-159.0,rembedes,chanvsre,jumbe,ambeniwsrez,n6tsre Voyons,,,,,,,,,
-160.0,beusg,leuseuse,,,,,,,,,,,,
-161.0,eerivit,EER,,,,,,,,,,,,
-162.0,Aprbs,aprbes,Aprs,Aprbes,,,,,,,,,,
-163.0,Saint-Pierre,"Pierres-
-Folles",truver Pierre,Pierres-,,,,,,,,,,
-164.0,truavaillentl,travalil,ellae,travaillaer,,,,,,,,,,
-165.0,Grund-il,uund,,,,,,,,,,,,
-166.0,puillasse at une oouverture,tlllas,llas,,,,,,,,,,,
-167.0,"oette
-maiaon",maiaon,,,,,,,,,,,,
-168.0,Nannottat,loanno,Mannotte,Mannstte,,,,,,,,,,
-169.0,fand tres,au-,"au-
-trefois","au-
-tres","au-
-troes",,,,,,,,,
-170.0,cehargea,petitl,r6ehauff,iinnutp votshar entse,eharpete,,,,,,,,,
-171.0,lir,rai,etablirai,,,,,,,,,,,
-172.0,Tixisr,Iixisr,,,,,,,,,,,,
-173.0,Maman,maman,,,,,,,,,,,,
-174.0,TUlsIkMk 1ANII,T0IsIMIR,IL0ISIkME,,,,,,,,,,,
-175.0,Vons,Lin nisu,Isure,monsisur,Monsisur,,,,,,,,,
-176.0,"E
-
-E",ceu si e v-,ESt-ce,".Est-
+L","A
 
 I
- 
-E
+II1
+I
+----l",PAIII,,,,,,,
+87.0,Nutre,Faut.n,Notre Pere,d6autre,lautrl,Autre,veux-auTre,,,,,,,,
+88.0,Quelquofois,quelguo,A quelqus temps,quelqe,Afrique,quelquo,Quelques-,,,,,,,,
+89.0,SERVICE,RN sERVICE,RERVICR,RANNE BN SERVIGR,RN sRVICR,serviee,,,,,,,,,
+90.0,Outanir,iout,Iout,"E
 
-E",,,,,,,,,,
-177.0,airmonie,MOI2RR,armoie,,,,,,,,,,,
-178.0,meuniere,vnie,runie,,,,,,,,,,,
-179.0,tete,tetel,,,,,,,,,,,,
-180.0,lomhnrras,tarrang,Piarra,tarras,lembarras,,,,,,,,,
-181.0,c::BCONDB,viwreP,approndre,repondre,vindre,,,,,,,,,
-182.0,labourenrs,marhal du hourg,da Bourges,hourg,Bourges,bourgt,,,,,,,,
-183.0,pthers,Catherina,autherino garto,therine,KEt Catherine,,,,,,,,,
-184.0,horuais,orue,,,,,,,,,,,,
-185.0,aime.l0,cntimes,coIme,,,,,,,,,,,
-186.0,Ctharino,Catharine,Gatharine,,,,,,,,,,,
-187.0,terse pei,"anfhntsl lle
-v 8tre bien contente",Notre Pere,,,,,,,,,,,
-188.0,srtir,Hautes-SEG0NDR PARTIB,ATRIMIR PARTIR,sart,nePMIR PARTIR,,,,,,,,,
-189.0,pus,joeie,ipussoeiee,,,,,,,,,,,
-190.0,jy vasl,Cala,je nae valais,,,,,,,,,,,
-191.0,Dien,"tieNs -
-titsft",Etienne,Tiensl,Conviens,vtie,slietiee,Tiens,,,,,,
-192.0,depuia,depurt,,,,,,,,,,,,
-193.0,mdecin,m6decins,,,,,,,,,,,,
-194.0,voyagek,eNviee,envoy6,,,,,,,,,,,
-195.0,hargbr,bergbre,bergbr,,,,,,,,,,,
+E",,,,,,,,,,,
+91.0,Infin,FIN,,,,,,,,,,,,,
+92.0,san mari,mari6,ARIIR,,,,,,,,,,,,
+93.0,Voilh,voil,,,,,,,,,,,,,
+94.0,herg,hergra,Lherbe,,,,,,,,,,,,
+95.0,bhoire,hoir,,,,,,,,,,,,,
+96.0,Mesdemoiselles,mademoiselle,,,,,,,,,,,,,
+97.0,journe,journie,,,,,,,,,,,,,
+98.0,airmonie,armoie,MOI2RR,,,,,,,,,,,,
+99.0,lepre,present]110,v8pres,Apres,,,,,,,,,,,
+100.0,Mre Tixier,"pre
+Tixier",nuttre Tixior,Tixier,pre Iixier,pre Tixier,"f
+- Muattre Tixier",pre ixier,"ndri  matue
+ixier du",Muitre Tixer,,,,,
+101.0,corn0s,daecord,aecoutumee,,,,,,,,,,,,
+102.0,bheaueoup,shAteau,ieau,Ieau,,,,,,,,,,,
+103.0,A foree,foree,la France,,,,,,,,,,,,
+104.0,Guilluume,aumne,Guillauma,d6barbouillait,milla,,,,,,,,,,
+105.0,"au-
+trefois",au-,"au-
+tres","au-
+troes",fand tres,,,,,,,,,,
+106.0,gene,Tene,ten,entendro,,,,,,,,,,,
+107.0,maltresse,maltre,pltre,,,,,,,,,,,,
+108.0,oompte,Abbaye,payetra eomptant,Iu eompagnio,VWatan,,,,,,,,,,
+109.0,l etegeet,LL E,,,,,,,,,,,,,
+110.0,murut,seeurit6l,Murgurite,,,,,,,,,,,,
+111.0,Saint-Jean,vinttn,"Saint-
+Jean",Saint-jean,Saint-lean,,,,,,,,,,
+112.0,eNviee,envoy6,voyagek,n6tsre Voyons,,,,,,,,,,,
+113.0,Meunet,aueun,--La jeunesse,Neunet-sur-,,,,,,,,,,,
+114.0,c::BCONDB,repondre,approndre,vindre,viwreP,,,,,,,,,,
+115.0,leunne,lunno,Etionnel,lennneet,Junne,Iesnne,Jeunne,Jounne,launne,,,,,,
+116.0,farae do,Vars,aratt,trouvara,troeuva,,,,,,,,,,
+117.0,depurt,depuia,,,,,,,,,,,,,
+118.0,ceher,etle poreher,Aehetez,Maehere,caeher,Haues-loehes,ehevet da,hereher,gaeho,,,,,,
+119.0,Iixiar,Tixiar,oflloiar,matra Tixiar,,,,,,,,,,,
+120.0,Mapuuvrefille,"puuvres
+uo",,,,,,,,,,,,,
+121.0,mdecin,m6decins,,,,,,,,,,,,,
+122.0,Eatce,gea,Mange,grange el,d6rangeAt,,,,,,,,,,
+123.0,chin,Ioshine,Josiphine,Jasphino,,,,,,,,,,,
+124.0,maisen,aisn,maiaon,faisais,maieo,maisan,-Mais,- Mtais,aimais-tu,,,,,,
+125.0,pus,ipussoeiee,joeie,,,,,,,,,,,,
+126.0,Etehaeun,shaeune,ehaeun,Etchaeun,,,,,,,,,,,
+127.0,"anfhntsl lle
+v 8tre bien contente",puvont pus,Dumiont,ont6,stonttot,aommonoamont des vandunges,montee,,,,,,,,
+128.0,la somme,Comment,Comment dane,,,,,,,,,,,,
+129.0,oen voudraias pus,Grias,grimuce,,,,,,,,,,,,
+130.0,Lon,lon,,,,,,,,,,,,,
+131.0,demand6,demandus  la maitress,dEmain,,,,,,,,,,,,
+132.0,"Sainte-S-
+Ange",Sainte-Solange,sainte-Solange,,,,,,,,,,,,
+133.0,Ormenux,Ormaeuux,Ormeuux,,,,,,,,,,,,
+134.0,sane uger,Bluanehe,tane6,Jane,,,,,,,,,,,
+135.0,Grind-Hail,ahagrin,ohagrin quon,hagrin,ohagrin,rin,ohigrin,,,,,,,,
+136.0,maman,Maman,,,,,,,,,,,,,
+137.0,marhal du hourg,Bourges,labourenrs,da Bourges,bourgt,hourg,,,,,,,,,
+138.0,asast,san,Isanre,asans,dar asans rion,,,,,,,,,,
+139.0,frthos,ohoso,,,,,,,,,,,,,
+140.0,dangar,cEpendant,vendange,,,,,,,,,,,,
+141.0,exueto,"II
+
+---
+Jeane",lJeanuet,JEANINR,,,,,,,,,,,
+142.0,mareh6 lo beurro,marehand,marehanderai,,,,,,,,,,,,
+143.0,habill6e,il6e-la,,,,,,,,,,,,,
+144.0,gns,.'Geeseeeeee,eonsere,psgnsee,,,,,,,,,,,
+145.0,Ordinaire,lordinuaire,Narie,ILo,Ilordinarie,,,,,,,,,,
+146.0,"mbre
+Nannetto",Mamnnetta,Mannette,nankin,mbr Nannette,"mre
+Nannette",Nannettel,mare Mannette,Nannettoe,Nannettef,"mbre
+Nannette",Nannette,Nannetts,Mannette idsvant dngarensement,Nannetto
+147.0,ehanvre ataltettohe pat tarre,chvre,vee A,fiivre asi,,,,,,,,,,,
+148.0,chneire,veir,eir,,,,,,,,,,,,
+149.0,croyez,Voyez,soyes,joyeu,,,,,,,,,,,
+150.0,torro,pise de terre,terrOB,terse pei,In terre,,,,,,,,,,
+151.0,val,valt,,,,,,,,,,,,,
+152.0,bref6,misbre,chbnevibre,pribre,,,,,,,,,,,
+153.0,suupauda,pau,st Paul,,,,,,,,,,,,
+154.0,ner,bouher uno pibdeoe de,ner  sua,,,,,,,,,,,,
+155.0,tlllas,puillasse at une oouverture,llas,,,,,,,,,,,,
+156.0,IANNk,n6anne,Etianne,iiaa,Iaanne,lanne,,,,,,,,,
+157.0,l'6curie,Isaure,jaurais,aur6,auri,,,,,,,,,,
+158.0,lespsi,dress6,bless6,,,,,,,,,,,,
+159.0,Conviens,Etienne,Tiensl,Dien,slietiee,Tiens,vtie,"tieNs -
+titsft",,,,,,,
+160.0,Chasun,nnl,Chamnnlhrs,,,,,,,,,,,,
+161.0,Berry,MIERR,Mmie,,,,,,,,,,,,
+162.0,surveillanee,s'6éveillant,vEille,,,,,,,,,,,,
+163.0,KEt Catherine,autherino garto,pthers,Catherina,therine,,,,,,,,,,
+164.0,Sauvez,uvece,couvertuire,,,,,,,,,,,,
+165.0,asyhine a san hrae,raegut,l hraselst,san hrae,,,,,,,,,,,
+166.0,mbr Nunnette,nettoyee,Nunnette,tto,"charit6 d
+lua mbre Nunnetta",Nunnetto,,,,,,,,,
+167.0,heura,aeur  Ia,oulture,eur6,eure,,,,,,,,,,
+168.0,Crois,Vois-tu,Crois-tu,Sais-tu,,,,,,,,,,,
+169.0,lir,rai,etablirai,,,,,,,,,,,,
+170.0,mhmeIBANKR VYtVE,femma da Gerbaud,Gerband,,,,,,,,,,,,
+171.0,chbvrfauille,eeui,"ontta puillo uu vot
+uatte",puille,Iailleurs,ille anit ikee dei,Feuillet,,,,,,,,
+172.0,mero,mereie,reluamer,blmer,-Merci,,,,,,,,,,
+173.0,Nunnatta,mbre Nannatte,anna,mre Nnnnatto,Nannatte,,,,,,,,,,
+174.0,foid,foire proehaine,foiro,,,,,,,,,,,,
+175.0,cntimes,aime.l0,coIme,,,,,,,,,,,,
+176.0,Ionis,noee,bioen,uu bisn lurl,ai-noeus bion,voeus,,,,,,,,,
+177.0,vire,t0 Sire6,Sire,sIrE,,,,,,,,,,,
+178.0,yeu eomma,Commae,ommana,,,,,,,,,,,,
+179.0,toil,mets-toi,toi,,,,,,,,,,,,
+180.0,Argent-,egarde,gargon,,,,,,,,,,,,
+181.0,amouR,hourse,Pourquaoi,our6f,jardin mpour,ourRIEMIR,our,,,,,,,,
+182.0,Solngo,Cost,Solungo aost li-bas,,,,,,,,,,,,
+183.0,Gruand-llail,Jeuan,uand,,,,,,,,,,,,
+184.0,eerivit,EER,,,,,,,,,,,,,
+185.0,lembarras,tarrang,lomhnrras,Piarra,tarras,,,,,,,,,,
+186.0,hargbr,bergbre,bergbr,,,,,,,,,,,,
+187.0,h Diu,ai d6 Dit,,,,,,,,,,,,,
+188.0,rasenmmoda,as-Or,dras-tu,,,,,,,,,,,,
+189.0,vollh,lDieu,"volonta da
+Dieu",,,,,,,,,,,,
+190.0,chanvsre,rembedes,jumbe,ambeniwsrez,,,,,,,,,,,
+191.0,T0IsIMIR,TUlsIkMk 1ANII,IL0ISIkME,,,,,,,,,,,,
+192.0,"st tu prlers fisu
+aveus",Avez,lo truaversin,Aven,AVez,aveo,,,,,,,,,

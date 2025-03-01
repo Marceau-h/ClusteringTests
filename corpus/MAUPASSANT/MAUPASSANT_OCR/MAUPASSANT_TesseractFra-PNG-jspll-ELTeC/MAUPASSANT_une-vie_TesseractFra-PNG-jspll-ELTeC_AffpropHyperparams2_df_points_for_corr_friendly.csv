@@ -1,91 +1,344 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13
-0,Verneuil,rêver,hameau de Verneuil,à-,alaternes,,,,,,,,,
-1,Après-,recut,Jui,ler,,,,,,,,,,
-2,Gésirer,Lire,Faire,m’,Lemaire,surgirent.de,l'Empire,,,,,,,
-3,Étre,m-,étremoral,Étretat,,,,,,,,,,
-4,Guettez-,Béelzébuth,Gette,Comptez,J1,,,,,,,,,
-5,Normandie,Normand,Normande,Hôtel de Normandie,HU,ner,"hôtel d
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15
+0,alle,alluma,Allez-,Flle,élle,Allemagne,,,,,,,,,,
+1,sais-tu,trouves-tu,sais,Sais-tu,ER,S-,,,,,,,,,,
+2,Verneuil,à-,Lac,hameau de Verneuil,l.,rêver,alaternes,,,,,,,,,
+3,Bastia,Bas,,,,,,,,,,,,,,
+4,"VEUX
 
-Lenormand",,,,,,,
-6,Piana,jura,b,Cana,,,,,,,,,,
-7,Sace,Sacristi,Sacré-Cœur,,,,,,,,,,,
-8,Couillon,Coup,uillon,Cany,s’as-,taillis dépouillés,,,,,,,,
-9,Paulet,Poulet,Voulez,Je,etle,maïns,z0n€,souleva,piéds;. Poulet,,,,,
-10,Lu,"À l
-l'obscurité",ER,,,,,,,,,,,
-11,Femme,Hommes,Lomme,,,,,,,,,,,
-12,Faven-,émus,seulavec,venirs,rome,,,,,,,,,
-13,Méditerranée,terre,Toüt,perret,serrure,s’exalter,la-Méditerranée,Angleterre,,,,,,
-14,eval,"air
-du Val",valetsen,habitué,"AH 
- 
- 
- 
+Une grosse femme",rs,A comtesse,"VEUX
 
-du valet",Val,val,val d’Ota,val d'Ota,,,,,
-15,ponT,hé-,Pontet,tont,Jeriné,Côte,S,,,,,,,
-16,Lheure,Heure-,Ieures,Eure,heurta,Impureté,,,,,,,,
-17,HÉLAs,Adélaïde,UN,Élança,Las,,,,,,,,,
-18,lign,Patronne,Mignonne,lu,V',pau,mignonne,v’'la,,,,,,
-19,Thysbé,Providence,Encaissée,Provence,Florence,Enchaînée,,,,,,,,
-20,Goder-,Midi,Fuyez,Mira,,,,,,,,,,
-21,Réponds,IS,yme,Haït,Répondez,,,,,,,,,
-22,Le.baron,Barbes,c0chér,barôn,,,,,,,,,,
-23,s’assoupir,sson,J,Tassit,,,,,,,,,,
-24,R,|,Folle,olle,jeta,poür,Flle,Rollebosc,Bassolle,élle,Cargèse,,,
-25,ceLA,Gela,Grâce,Ts,Fection,"sa-
-ns",,,,,,,,
-26,EtJeannes’,"VEUX
-
-Jeanne",.:JEanne,Jeanné,,,,,,,,,,
-27,Suisse,buis,Roi-Louis,Ilsne,Leperthuis,d2,Marquis,,,,,,,
-28,bois bruni,Quelquefois,quem devoret,S-,bosquet,,,,,,,,,
-29,Étouvent,pothes,"couvent
-
-de Versailles","hameau d’ -
-souvent",toujoürs,,,,,,,,,
-30,Océan jusqu’,qu’,jusqu’,N'ai-je,s’,squ,,,,,,,,
-31,"VEUX
-
-I","VEUX
-
-Une grosse femme",NE,A comtesse,,,,,,,,,,
-32,aipardonna,Paris,reparue,d’,rivige,vert-de-gris,,,,,,,,
-33,d’aiguille,Marseille,Vrillette,fille;Elle,Oreilles,ille,gille,RRO A,Vrilleite,,,,,
-34,Sachez,-de-Ganache,Ganache,j-,Pyrame,,,,,,,,,
-35,É,LÀ,obséquieux,Î,quiéter,Hieux,,,,,,,,
-36,nanoir,Batte-,droïte,Batteviile,pre,Ia,,,,,,,,
-37,"loi,-la",sen,j.sensà,,,,,,,,,,,
-38,ellE,Chambre-aux-Demoiselles,Ellesse,Elle,"|
-
-- Elle",Ellé,Éternelle,moiselle de la Roche-Aubert,tonnelle,elLE,Grèce,javelle,Puiselle,Elle-s’
-39,surfabeno,éotnme,Surprise,Brise-,,,,,,,,,,
-40,Penples,qü’,Péuples,Naples,Ïl,,,,,,,,,
-41,m'’aimer,mer par-dessus,mer invisible,Ajaccio,mer r bleu À,,,,,,,,,
-42,fort rouge,Ltorturée,Rouen,,,,,,,,,,,
-43,Croyez-,Hé-,crois,Sitôt,Crott,Croquerat,,,,,,,,
-44,A84,Bas,Bastia,,,,,,,,,,,
-45,La plaine,dain,Soudain,|LE,Sainte-Hélène,Saint-Léonard,Etle,,,,,,,
-46,Jeinne,Madeleines,Romäines,la Seine,Athènes,eleis,,,,,,,,
-47,"AH 
+I",Lés,ns,E,,,,,,,,,
+5,J1,VOIX229,voilÀ,VOIX,sesavoir,VOIX195,,,,,,,,,,
+6,Réponds,Hé-,Répondez,"sa-
+ns",,,,,,,,,,,,
+7,Chinoiïs,ge,Lu,qü’,Chicorées,Chine,,,,,,,,,,
+8,Corse,R,t-la Corse,,,,,,,,,,,,,
+9,Moi,moi,D S,,,,,,,,,,,,,
+10,"J 
  AH 
+ AH","J 
+   
+ 
+ 
+ 
+ 
+ AH","AH 
+ AH",Thysbé,,,,,,,,,,,,
+11,Étre,hé-,Lys,Étretat,étremoral,,,,,,,,,,,
+12,jusqu’,qu’,j-,Océan jusqu’,-.Je',squ,,,,,,,,,,
+13,Yport,Voisine Portait,| Yport,Coco,y-,Évaporée,,,,,,,,,,
+14,pre,ieau,mon-beau-frère,UN,Madère,,,,,,,,,,,
+15,Normand,Normandie,Hôtel de Normandie,Normande,Has,"hôtel d
+
+Lenormand",,,,,,,,,,
+16,V'escalier,Rosalie,ROSALIE,nanoir,ca,s’as-,,,,,,,,,,
+17,lJulién,s’,Fe,j’,"IL N.
+
++ Julièn",m’,Julien,,,,,,,,,
+18,j.sensà,sen,Ajaccio,valetsen,el,,,,,,,,,,,
+19,es’,Étouvent,"couvent
+
+de Versailles",toujoürs,Je,éotnme,"hameau d’ -
+souvent",,,,,,,,,
+20,Cria-,Crisange,ler,changée,,,,,,,,,,,,
+21,S,Damas,Î,amazone,Be,ner son amazone,ajones,,,,,,,,,
+22,Côte,IS,,,,,,,,,,,,,,
+23,vallon sauvage d'Ota,"rue
+Sauvage",rue du Sauvage,L’,,,,,,,,,,,,
+24,naie,sernaiñes,Éloignait,,,,,,,,,,,,,
+25,savez,Savez,Avez,Goder-,,,,,,,,,,,,
+26,iand,Hollande,Fection,uand,,,,,,,,,,,,
+27,Coutelier,cueillie,Religion,"S
+
+Elie",Jülien,supplie,Lieu,wlien,Dis,etle,,,,,,
+28,"AH 
+ 
  
  J 
- X 
- 
- 
- J 
- X 
+   
+   
+ X","X 
  
  
  AH 
  
+ J 
+ X","AH 
+ 
+ 
+ 
+ 
+ 
+ J 
+     
+ 
+ 
+ 
+ J 
+ 
+ 
+ J 
+   
+ 
+ 
+
+ 
+
+47","AH 
+ 
+ J 
+   
+   
+   
+ X",halées,,,,,,,,,,,
+29,ournée,Bourse,Dour,Four-,Four,Pourriez-,el hourrue,Coursil,Livourne,lu,A84,,,,,
+30,Demain-,hümains,demAin-,V',sapins,,,,,,,,,,,
+31,Batteviile,àvec,Ù,Batte-,,,,,,,,,,,,
+32,yme,Ltorturée,Rouen,fort rouge,Ia,,,,,,,,,,,
+33,au Havre,du Havre,e Havre,le Havre,collège du Havre,1 Havre,ES,rue du Havre,,,,,,,,
+34,recut,calmé,Sitôt,Vauds,calme-toi,caleçon,,,,,,,,,,
+35,s’'augmentent,HU,Est Entendu,Dentu,,,,,,,,,,,,
+36,.$eS,,,,,,,,,,,,,,,
+37,Suisse,Roi-Louis,d2,Marquis,buis,habitué,Leperthuis,,,,,,,,,
+38,Toüt,I,Sacré-Cœur,Sacristi,Sace,,,,,,,,,,,
+39,venirs,AH,Faven-,seulavec,,,,,,,,,,,,
+40,malaDe’,alaise,Laisse-,,,,,,,,,,,,,
+41,cher,Corniche,Trébuche,Gouche,pôche,la manche,A,,,,,,,,,
+42,pothes,NE,,,,,,,,,,,,,,
+43,Vaucotte,tricotani,bécota,l’,Picot,,,,,,,,,,,
+44,ner,Le soleil,Île s’,le soleil,soleil,,,,,,,,,,,
+45,Bout,caoutchoues,Écoutez,deuxijouts,,,,,,,,,,,,
+46,Piana,droïte,Cana,RRO A,d’,,,,,,,,,,,
+47,Blesséos,Îles,Les,N'ai-je,Île,es,,,,,,,,,,
+48,Gette,Guettez-,Comptez,,,,,,,,,,,,,
+49,Élança,HÉLAs,Las,c0chér,Adélaïde,b,,,,,,,,,,
+50,obséquieux,Hieux,quiéter,,,,,,,,,,,,,
+51,z0n€,fa-,Midi,,,,,,,,,,,,,
+52,souleva,Poulet,Voulez,Paulet,piéds;. Poulet,,,,,,,,,,,
+53,Chambre-aux-Demoiselles,moiselle de la Roche-Aubert,Ellé,Elle,Mira,ellE,elLE,D|,Puiselle,tonnelle,Elle-s’,Ellesse,"|
+
+- Elle",Lo,Éternelle,javelle
+54,S'explique,Anti-physiques,Lastique,Afrique,Amérique,L'Amérique,l'Afrique,expliquA,,,,,,,,
+55,émus,GO Gp,,,,,,,,,,,,,,
+56,rivige,Bolbec,comtesse Gilberte,GIlbert,Pyrame,Gilberte,Sobrés,Alber-,,,,,,,,
+57,Ileutmème,Ile,,,,,,,,,,,,,,
+58,Fer,Tassit,s’assoupir,,,,,,,,,,,,,
+59,ceLA,Gela,,,,,,,,,,,,,,
+60,amollis,Lison,Lisan,Lise,Évisa,,,,,,,,,,,
+61,Gao,Bassolle,Folle,Rollebosc,olle,,,,,,,,,,,
+62,Ou,pau,pides,,,,,,,,,,,,,
+63,He,Juï,J,,,,,,,,,,,,,
+64,d'Italie,italie,Cuitaux,jura,Italie,,,,,,,,,,,
+65,Lomme,Hommes,Ts,Qué,Femme,,,,,,,,,,,
+66,mer par-dessus,mer r bleu À,m'’aimer,mer invisible,,,,,,,,,,,,
+67,Jeriné,Jambes,Enjamber Un Fleuve,,,,,,,,,,,,,
+68,Jui,Niolo,"À l
+l'obscurité",,,,,,,,,,,,,
+69,Après-,LÀ,F,,,,,,,,,,,,,
+70,Naples,Tolbiac,Péuples,Penples,,,,,,,,,,,,
+71,emps,temps',entemps,,,,,,,,,,,,,
+72,Haït,phare de Fécamp,t’,champagne,la Jampe,Fécamp,,,,,,,,,,
+73,Jeanné,EtJeannes’,e’,.:JEanne,"VEUX
+
+Jeanne",,,,,,,,,,,
+74,"AH 
+ 
+ 
+ 
+
+du valet",Val,val d'Ota,eval,val,"air
+du Val",val d’Ota,,,,,,,,,
+75,ongeur,sson,Songe,Sonna,Fuyez,Tongs,,,,,,,,,,
+76,pays qu’,"pays de
+L tout parsemée",golfe de Sagone,pays de Caux,Pas de lune,,,,,,,,,,,
+77,"AH 
+ 
+ X","J 
+ AH 
+ X","sur-
+
+ 
+ 
+ 
+ 
+ AH 
+   
+ X","AH 
+ X 
+ 
+ 
+ J 
+ 
+ J 
+ AH 
+ 
+ X",Grâce,"AH 
+ X","J 
+   
+   
+   
+ AH 
+ 
+ X","X 
+ 
+ 
+ 
+ AH 
+ X","AH 
+
+ 
+
+ 
+
+ 
+
+VII
+
+ 
+ 
+ 
+ 
+ 
+ AH 
+ X","X 
+ 
+ AH 
+ X","X 
+ 
+ 
+ AH 
+ X 
+ 
+ AH 
+ AH 
+ 
+ X","AH 
+ 
+ J 
+ 
+ 
+ 
+ 
+ 
+ AH 
+ 
+ 
+ 
+ 
+ 
+ X",,,,
+78,Fr bornme,Mornes,"el
+morne",,,,,,,,,,,,,
+79,surfabeno,Brise-,Surprise,,,,,,,,,,,,,
+80,Barbes,barôn,Le.baron,|LE,,,,,,,,,,,,
+81,Heure-,Ieures,Impureté,Lheure,heurta,Eure,,,,,,,,,,
+82,Vrilleite,gille,Oreilles,Marseille,d’aiguille,Vrillette,ille,fille;Elle,,,,,,,,
+83,jeta,Pontet,tont,ponT,,,,,,,,,,,,
+84,ucune,lune,,,,,,,,,,,,,,
+85,|,m-,us,,,,,,,,,,,,,
+86,bosquet,quem devoret,rome,Quelquefois,Béelzébuth,bois bruni,Dè,,,,,,,,,
+87,AImait-,Tai,Pouvait,Allait-Royal,Était-,,,,,,,,,,,
+88,Cargèse,"au-
+
+ 
+ 
+ 
+ X",au-,,,,,,,,,,,,,
+89,riseville,Varneville,Briseville,gare de Beuzeville,Batteville,Beuzeville,Brisseville,,,,,,,,,
+90,Jardin,Re-je-regarDE,regardez,,,,,,,,,,,,,
+91,Reminil,mont Riboudet,Remontée,,,,,,,,,,,,,
+92,crois,Croquerat,Croyez-,Te,Crott,,,,,,,,,,,
+93,"| |
+
+Hauts",automne’,Autrefois,LÀ-haut,,,,,,,,,,,,
+94,EH,Trois-Mares,Londres,Sèvres,poür,Apôtres,"Co |
+
+Dè rares",Fans,,,,,,,,
+95,"UNE VOIX267
+
+   
+ AH 
+ 
+ 
+ 
+ 
+ 
+ 
+ J 
+ 
+ 
+ 
+ 
+ 
+ 
+ J 
+
+../: Qu'est-ce que je deviendrai","AH 
+     
+ 
+ J 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AH 
+ 
+ 
+ 
  
  
  
  
 
-UNE VOIX67","vieux
+UNE VOIX179","UNE VOIX129
+
+m","AH 
+ 
+
+ 
+
+UNE VOIX51",UNE VOIX69,Ro-,"AH 
+   
+ AH 
+ 
+ 
+     
+   
+ 
+ 
+ 
+ 
+ 
+ X 
+ 
+ J 
+ 
+
+UNE VOIX155",,,,,,,,,
+96,Sainte-Hélène,La plaine,Saint-Léonard,Soudain,dain,,,,,,,,,,,
+97,honteuse,dormeuse,"Écu-
+meuse",meuse,,,,,,,,,,,,
+98,Ils’,gônflée,S’,,,,,,,,,,,,,
+99,mariez-les,Quittez-le,apportez-les-moi,Cany,,,,,,,,,,,,
+100,ferme d’Életot,2 L,ôrmes,,,,,,,,,,,,,
+101,Ilsne,cntra,Notre-Dame du Gros-Ventre,entru,entR-inaccoutumé.-Les châtelains,,,,,,,,,,,
+102,Fourville,Barville,terre de Barville,Goderville,Courville,,,,,,,,,,,
+103,blaient,Tiens,Oriental,BIentôt Apparut Le Village,Impatienté,,,,,,,,,,,
+104,Angleterre,mélée,s’exalter,la-Méditerranée,Méditerranée,terre,serrure,perret,,,,,,,,
+105,Grèce,"col
+fl",Cigogne,Cologne,cognac,,,,,,,,,,,
+106,s’'enfoncer,dOnc,dénonca,cütrenoncé,,,,,,,,,,,,
+107,souS,lsblouse,Vouset,,,,,,,,,,,,,
+108,Océan,éanne,Jeinne,nne,Jéanne,,,,,,,,,,,
+109,Es,agonie,ombrE,rémonie,Ci,rémonie funèbre,,,,,,,,,,
+110,Ïl,"vieux
 
  
 
@@ -112,6 +365,24 @@ UNE VOIX67","vieux
  
  
  J","AH 
+ AH 
+ 
+ J 
+ X 
+ 
+ 
+ J 
+ X 
+ 
+ 
+ AH 
+ 
+ 
+ 
+ 
+ 
+
+UNE VOIX67","AH 
    
  AH 
  
@@ -125,278 +396,17 @@ UNE VOIX67","vieux
  
  X 
  
- J",Lés,,,,,,,,,
-48,VOIX195,voilÀ,VOIX,Vauds,VOIX229,j’,sesavoir,galo,l.,,,,,
-49,Niolo,Voisine Portait,Yport,| Yport,Évaporée,,,,,,,,,
-50,Ileutmème,Ile,F,,,,,,,,,,,
-51,D S,Be,Jambes,Fer,e’,pides,Enjamber Un Fleuve,,,,,,,
-52,naie,sernaiñes,Éloignait,,,,,,,,,,,
-53,entemps,es’,temps',emps,rs,,,,,,,,,
-54,pays qu’,Ci,pays de Caux,Pas de lune,"pays de
-L tout parsemée",golfe de Sagone,,,,,,,,
-55,V'escalier,ROSALIE,Rosalie,ge,,,,,,,,,,
-56,"sur-
-
- 
- 
- 
- 
- AH 
-   
- X","X 
- 
- AH 
- X","AH 
- X","AH 
- 
- X","J 
-   
-   
-   
- AH 
- 
- X","AH 
-
- 
-
- 
-
- 
-
-VII
-
- 
- 
- 
- 
- 
- AH 
- X","AH 
- 
- J 
- 
- 
- 
- 
- 
- AH 
- 
- 
- 
- 
- 
- X","J 
- AH 
- X","X 
- 
- 
- AH 
- X 
- 
- AH 
- AH 
- 
- X","AH 
- X 
- 
- 
- J 
- 
- J 
- AH 
- 
- X","X 
- 
- 
- 
- AH 
- X",,,
-57,Livourne,el hourrue,ournée,Four,Dour,Four-,Coursil,Bourse,Pourriez-,,,,,
-58,sais,sais-tu,Sais-tu,trouves-tu,,,,,,,,,,
-59,kB,ôrmes,ferme d’Életot,ca,t’,,,,,,,,,
-60,Gilberte,Bolbec,GIlbert,Alber-,comtesse Gilberte,,,,,,,,,
-61,maison,"Tue
-oo Mais ta mère n’",maiS,aimais,,,,,,,,,,
-62,Te,blaient,Oriental,Impatienté,Tiens,BIentôt Apparut Le Village,,,,,,,,
-63,Autrefois,EH,automne’,LÀ-haut,àvec,"| |
-
-Hauts",,,,,,,,
-64,s’'enfoncer,dOnc,dénonca,Juï,cütrenoncé,,,,,,,,,
-65,Évisa,Lise,Lisan,Lison,amollis,CE,,,,,,,,
-66,Fe,Avez,savez,Savez,GO Gp,,,,,,,,,
-67,Jardin,Re-je-regarDE,regardez,,,,,,,,,,,
-68,ucune,Es,lune,,,,,,,,,,,
-69,la France,anca,s‘blancs.-,franchit,France,L{ran,,,,,,,,
-70,L’,cueillie,Coutelier,Jülien,supplie,"S
-
-Elie",Lieu,wlien,Religion,He,,,,
-71,e Havre,rue du Havre,du Havre,le Havre,1 Havre,2 L,collège du Havre,au Havre,,,,,,
-72,lJulién,Julien,Fans,"IL N.
-
-+ Julièn",,,,,,,,,,
-73,mont Riboudet,Remontée,Reminil,D|,,,,,,,,,,
-74,"au-
-
- 
- 
- 
- X",au-,Madère,mon-beau-frère,ieau,,,,,,,,,
-75,"J 
-   
- 
- 
- 
- 
- AH","AH 
- AH","J 
- AH 
- AH",Jet,,,,,,,,,,
-76,Mornes,Fr bornme,N,"el
-morne",,,,,,,,,,
-77,Ro-,"AH 
- 
- J 
-   
-   
-   
- X","AH 
- 
- 
- J 
-   
-   
- X","AH 
- 
- 
- 
- 
- 
- J 
-     
- 
- 
- 
- J 
- 
- 
- J 
-   
- 
- 
-
- 
-
-47","X 
- 
- 
- AH 
- 
- J 
- X",,,,,,,,,
-78,Océan,éanne,Jéanne,nne,,,,,,,,,,
-79,riseville,Varneville,Brisseville,Batteville,Briseville,Beuzeville,gare de Beuzeville,,,,,,,
-80,"col
-fl",cognac,Cologne,Cigogne,,,,,,,,,,
-81,fa-,Demain-,hümains,demAin-,sapins,,,,,,,,,
-82,Île s’,le soleil,soleil,Le soleil,,,,,,,,,,
-83,rue du Sauvage,"rue
-Sauvage",vallon sauvage d'Ota,,,,,,,,,,,
-84,Ils’,Écoutez,deuxijouts,caoutchoues,Bout,,,,,,,,,
-85,y-,Moi,moi,,,,,,,,,,,
-86,Amérique,Afrique,S'explique,L'Amérique,Anti-physiques,l'Afrique,expliquA,Lastique,,,,,,
-87,Damas,ajones,ner son amazone,amazone,,,,,,,,,,
-88,champagne,phare de Fécamp,la Jampe,Fécamp,Ù,,,,,,,,,
-89,Dentu,Est Entendu,s’'augmentent,,,,,,,,,,,
-90,es,Tolbiac,.$eS,alaise,malaDe’,Laisse-,,,,,,,,
-91,Allemagne,alluma,Allez-,alle,,,,,,,,,,
-92,t-la Corse,el,Corse,,,,,,,,,,,
-93,Sonna,ongeur,Tongs,Songe,,,,,,,,,,
-94,entR-inaccoutumé.-Les châtelains,cntra,Notre-Dame du Gros-Ventre,entru,,,,,,,,,,
-95,A,halées,gônflée,AH,mélée,,,,,,,,,
-96,Vaucotte,Picot,bécota,ns,tricotani,,,,,,,,,
-97,ES,Quittez-le,mariez-les,apportez-les-moi,,,,,,,,,,
-98,Ou,meuse,dormeuse,"Écu-
-meuse",honteuse,,,,,,,,,
-99,calmé,caleçon,calme-toi,,,,,,,,,,,
-100,Has,E,,,,,,,,,,,,
-101,AImait-,Pouvait,Tai,Allait-Royal,Était-,,,,,,,,,
-102,Fourville,terre de Barville,Courville,Barville,Goderville,,,,,,,,,
-103,Île,Blesséos,Les,Îles,,,,,,,,,,
-104,uand,Dis,Coco,Hollande,Lys,iand,,,,,,,,
-105,Chicorées,Qué,Chine,Chinoiïs,,,,,,,,,,
-106,Sobrés,"UNE VOIX267
-
-   
- AH 
- 
- 
- 
- 
- 
- 
- J 
- 
- 
- 
- 
- 
- 
- J 
-
-../: Qu'est-ce que je deviendrai",Gao,"AH 
-   
- AH 
- 
- 
-     
-   
- 
- 
- 
- 
- 
- X 
- 
- J 
- 
-
-UNE VOIX155","AH 
- 
-
- 
-
-UNE VOIX51","AH 
-     
- 
- J 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- AH 
- 
- 
- 
- 
- 
- 
- 
-
-UNE VOIX179","UNE VOIX129
-
-m",UNE VOIX69,,,,,,
-107,l’,italie,d'Italie,Cuitaux,Italie,,,,,,,,,
-108,agonie,Lac,ombrE,Lo,rémonie,rémonie funèbre,,,,,,,,
-109,Apôtres,Trois-Mares,Londres,Sèvres,us,"Co |
-
-Dè rares",,,,,,,,
-110,Cria-,changée,Crisange,,,,,,,,,,,
-111,Trébuche,la manche,Corniche,I,-.Je',pôche,cher,S’,Gouche,,,,,
-112,Dè,Vouset,souS,lsblouse,,,,,,,,,,
+ J",,,,,,,,,,,
+111,anca,v’'la,la France,s‘blancs.-,France,franchit,L{ran,,,,,,,,,
+112,la Seine,Romäines,N,eleis,Athènes,Madeleines,,,,,,,,,,
+113,kB,maïns,Etle,,,,,,,,,,,,,
+114,uillon,Coup,taillis dépouillés,Couillon,,,,,,,,,,,,
+115,Jet,,,,,,,,,,,,,,,
+116,Sachez,-de-Ganache,Ganache,,,,,,,,,,,,,
+117,Faire,Lemaire,Gésirer,l'Empire,surgirent.de,Lire,,,,,,,,,,
+118,Patronne,lign,mignonne,Mignonne,,,,,,,,,,,,
+119,"Tue
+oo Mais ta mère n’",Encaissée,aimais,maiS,maison,,,,,,,,,,,
+120,É,galo,,,,,,,,,,,,,,
+121,vert-de-gris,reparue,aipardonna,Paris,,,,,,,,,,,,
+122,CE,Provence,Enchaînée,Providence,Florence,"loi,-la",,,,,,,,,,

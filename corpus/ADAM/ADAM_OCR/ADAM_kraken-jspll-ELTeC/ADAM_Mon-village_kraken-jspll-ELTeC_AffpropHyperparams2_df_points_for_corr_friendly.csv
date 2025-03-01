@@ -1,101 +1,99 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15,elem_16
-0,Les bles,Eſss,piece,furolles,Garde-les,L-1,,,,,,,,,,,
-1,blame,J-,Es,L L,ne2,e,,,,,,,,,,,
-2,L’,levres,Affaires,Pres,QUE¬,Lasl,Ouvrezl,MI,lir,,,,,,,,
-3,mele,S0UIIAITS,MIais,N,je’,etais,Iais,M01 ON,jE T-e,Palais-Royal,.l,Wrail,Et¬,Mlais,,,
-4,N¬,Adonc,Feuil-,e.-¬ſ,Ca,,,,,,,,,,,,
-5,----cI,Or,Lãd,Ie,I------------,fele.as----.a-,g-----,S’,pays.r---,,,,,,,,
-6,S S.,Peie,Bonnets,Bonsoir,ordonnee,colonne Vend0me,charbon.t6,"compagnes,-",,,,,,,,,
-7,Clarisse,Mlaria,Mlarie,tE,.as¬,,,,,,,,,,,,
-8,picd,"I
-E¬",ees ds ail,le¬,chutc,,,,,,,,,,,,
-9,Norine,brin,rip’2,MAi-,Norinc,"Norinel
-Pauvre",,,,,,,,,,,
-10,ELLe,ſelLe,ellE,-:¬,elLE,ELlE,"¬
- ELle","Il’hEuRe’́ elLE S
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13,elem_14,elem_15
+0,ON,Tache,oUi-ſr,Cachez,Savoyard,S’-,montagne blanche,picd,Voyez,e,,,,,,
+1,S0UIIAITS,Iais,¬2¬,Palais-Royal,bu-,MIais,Mlais,etais,t6t  la danse,,,,,,,
+2,JEſ,ger,M01 ON,B,ſ’,piece,blme,,,,,,,,,
+3,"Va’,e",Le¬,Voee,I,,,,,,,,,,,,
+4,i’,Nſei,S2,"e.
+L",A,,,,,,,,,,,
+5,P,¬¬,Bassette,cctte ceremonie,Frotte,Basset,,,,,,,,,,
+6,SIre,"SiRe
+ i - et i",SIRe,lutaire,MI0N,Dsirce,Desiree,,,,,,,,,
+7,eE  e i e ee i le re ee g,"a5 i
+¬
+ea ee ee  e ’ n e epr",Sre eeſespriT’i,"aae
+- 
+rss  ee e e ee eſ Je",sSt  ee,rss  ee e e ee eſ,S’ree e,Fee e,,,,,,,,
+8,Ceran,chutc,afrique,derange,teursl,Cran,,,,,,,,,,
+9,Saint-Brunelle,J3,"Saint-
+Brunelle",ca,Saint-,¬5,Sainl-Brunclle,"Tout
+Saint-Brunelle",Brunelle,,,,,,,
+10,.je,S,S2*.,Yer-,J',Ie,,,,,,,,,,
+11,A32,lille,reille,OY,,,,,,,,,,,,
+12,lir,A1,L L,,,,,,,,,,,,,
+13,Manot,mangcs,E,Maman,fieux,,,,,,,,,,,
+14,chambre de,bine de Therese,S e de l e,L  eomſ¬,MN,De L,,,,,,,,,,
+15,enie,EH,Sortez,e.-¬ſ,beni,ler,Berenice,.l,mre Denis,,,,,,,
+16,Auberge,buis-l,Peie,bras-le-corps,Pas-lh,T'arreteras-tu,As-,emplis-le,,,,,,,,
+17,"Norinel
+Pauvre",Norine,brin,Norinc,13I,,,,,,,,,,,
+18,Jeacquet,Jeac-,.as¬,Jeanneton,Jean-Claude,,,,,,,,,,,
+19,fele.as----.a-,I------------,----cI,AVez,pays.r---,g-----,,,,,,,,,,
+20,i17,rip’2,S',rer,s2,,,,,,,,,,,
+21,prechez,Feuil-,precher,l.,empecher,empeche,Lasl,,,,,,,,,
+22,paRfois,.p,Crois-tu,Par,"Ll MiOISS0N
+Est l6s",,,,,,,,,,,
+23,c0,Mlon,Mlor-,Mlorlin-,rIIImne,,,,,,,,,,,
+24,Affaires,m-,levres,Ouvrezl,ne2,Pres,,,,,,,,,,
+25,peri,verildc,per labia,,,,,,,,,,,,,
+26,S-e ’e3,Eſss,¬ ¬1,Lãd,S-e ’,S-e,,,,,,,,,,
+27,Clarisse,Mlaria,S’,Paques,Mlarie,,,,,,,,,,,
+28,Eeil,le¬,Seeei,Eeeeile,"Hz
+ S
+eee iii ise",buis,Artaban,je’,S-Seet,,,,,,,
+29,pre Roux,couvent Brugnon,pre Brugnon,,,,,,,,,,,,,
+30,Sylvain,Poulains,fontaine Sainte-Radegonde,,,,,,,,,,,,,
+31,Je-E,mele,,,,,,,,,,,,,,
+32,"s2
+ A",E’,Q,C0te,- Qu',,,,,,,,,,,
+33,AuJourd',tournee,Tournez,Tous-,- Quoil,S-,fourne,,,,,,,,,
+34,parigole,Tiens,t13,Parisiens,rs,Parisien,Dizy,QUE¬,Paris,,,,,,,
+35,du Nord,Ignore,L-1,Nord,"I
+E¬",ES,,,,,,,,,,
+36,Decnis,Notre medecin,ees ds ail,D,Wotre,mre h,,,,,,,,,,
+37,MAi-,destination1,Est,C0NSCRIPTION-,,,,,,,,,,,,
+38,ordonnee,charbon.t6,Bonnets,Bonsoir,colonne Vend0me,,,,,,,,,,,
+39,endever,Entendez,rreendet,enterrement198,,,,,,,,,,,,
+40,E e eeree,pe ole e e  deiee,eSe e e e e,"S
+ee e eie",jeſe gi e,Ae e l ie eeelt e eie,leie e e eie e,"de3
+ &ee e  reaeoueiſelleſe
+e ?",Epelie ro e ele eles,ee e ere e e doe e eſe,el  e e eni e l e istere ae u eterie,nat  e e er i oers  d e ie e e ee   e leisi,leee e e l ep e e lee e e deoe,Fee e   da  ei ſiciſ,E e’e’,ile idle e eo
+41,Desirde,forcdes,ricn,dessusAotyde-,,,,,,,,,,,,
+42,Carriere-Fondue,carrieres,Chanvriers,J-,te’,chanvrieres,,,,,,,,,,
+43,Rose rcntre,Roseet,Rosel,Rose,,,,,,,,,,,,
+44,MO vILLAGE,MION VI1LAGE,N1LLAGlE.,"Rose
+MON VILLAGE",MI0N VILLAGE,vILLAGE,MO N VILLAGE,MON ILLAGE,IO yILLAGE,plaga,Figurez,,,,,
+45,alle,-:¬,M',Or,Allezl,Allez,,,,,,,,,,
+46,Ee,Perpctue,Perpetue,Perpdtue,"petiote 
+Perpctue",PETIT1ON,,,,,,,,,,
+47,¬1,jE T-e,Armandine,mitan-c0t,L2,Arman-,T1I,Vermand,S S.,,,,,,,
+48,ILe metier,Le soleil,Et¬,Ee  sle,Mole,,,,,,,,,,,
+49,ON N1ELLE,t-on Dit-cel,M1ON N1ELLE,"chose.140
+ ON N1ELLE",el,,,,,,,,,,,
+50,Morlin-,Morlincoutt,Mlorlincourt,Brlee,Morlincourt,Arrive h Morlincourt,Morlincourt tot,,,,,,,,,
+51,le’,"T.S
+ i a sos 
+toi",toi,Toinon,,,,,,,,,,,,
+52,Assure,Assis,Cassiopeel,queussi-qucumi,,,,,,,,,,,,
+53,ntete,male,BEY,"compagnes,-",tete,lEtat,salete,Alerte,MI,,,,,,,
+54,tE,JE,Devinez,Comprenez,Venez,,,,,,,,,,,
+55,Ai,MO,Riez,ieea,maric,"rie sel
+ AH",Lamariee,,,,,,,,,
+56,lettree,decoree,Ca,Agreez,a Agreez,Veeree3,,,,,,,,,,
+57,"placel -
+Courons",accouchce,-F,couseuses,gencral,,,,,,,,,,,
+58,A¬,dragon,Avez,lc,,,,,,,,,,,,
+59,Garde-les,Les bles,furolles,blame,,,,,,,,,,,,
+60,N,Adonc,io,L’,,,,,,,,,,,,
+61,aA,sans.0N,N¬,,,,,,,,,,,,,
+62,IIlMON V1ELLE,e’,M0 V1ELLE,MO N V1ELLE,falluMION,MION V1ELLE,,,,,,,,,,
+63,Es,Non-de-Non,Nom-de-Non,mrs,noml,"renom.-
+Lasl",,,,,,,,,,
+64,1(3,pau,lReviendront,s--,Vierge,pauvIe,Vieux,,,,,,,,,
+65,ELLe,ſelLe,"¬
+ ELle",ellE,ELlE,elLE,"Il’hEuRe’́ elLE S
 
 2",,,,,,,,,
-11,Roseet,Rose rcntre,Rosel,m-,D,ON,t6t  la danse,A32,Rose,,,,,,,,
-12,Ee,enie,mre Denis,beni,S2,Berenice,,,,,,,,,,,
-13,Nom-de-Non,noml,Non-de-Non,"renom.-
-Lasl",-F,ler,,,,,,,,,,,
-14,a Agreez,Veeree3,1(3,Agreez,lettree,decoree,,,,,,,,,,,
-15,Basset,Bassette,Frotte,JE,bu-,i17,cctte ceremonie,el,,,,,,,,,
-16,toi,"T.S
- i a sos 
-toi",Toinon,,,,,,,,,,,,,,
-17,T1I,¬¬,fourne,Tournez,tournee,AuJourd',M',Tous-,,,,,,,,,
-18,blmer,Saint-Brunelle,Saint-,Sainl-Brunclle,afrique,"Tout
-Saint-Brunelle","Saint-
-Brunelle",Brunelle,,,,,,,,,
-19,Mlon,Mlorlin-,Mlor-,lc,,,,,,,,,,,,,
-20,Eeeeile,"Hz
- S
-eee iii ise",Seeei,Eeil,S-Seet,,,,,,,,,,,,
-21,Allezl,Allez,Voee,alle,,,,,,,,,,,,,
-22,Arrive h Morlincourt,Morlin-,Morlincourt tot,Morlincoutt,Voyez,Mlorlincourt,Morlincourt,,,,,,,,,,
-23,C0te,A1,,,,,,,,,,,,,,,
-24,"placel -
-Courons",A,couseuses,accouchce,,,,,,,,,,,,,
-25,Fance,Francei Tiens,la France,France,dragon,Fran-,aVance,ca,franciers,,,,,,,,
-26,Carriere-Fondue,carrieres,Chanvriers,chanvrieres,,,,,,,,,,,,,
-27,T'arreteras-tu,Ceran,Paques,Cran,derange,rs,,,,,,,,,,,
-28,S-e ’e3,13I,s--,Figurez,S-e ’,S-e,,,,,,,,,,,
-29,c0,¬5,precher,prechez,empeche,empecher,,,,,,,,,,,
-30,io,Je-E,,,,,,,,,,,,,,,
-31,Artaban,Lamariee,"rie sel
- AH",maric,S,Riez,ieea,,,,,,,,,,
-32,Entendez,endever,enterrement198,rreendet,,,,,,,,,,,,,
-33,Dsirce,lutaire,MI0N,SIre,Desiree,SIRe,"SiRe
- i - et i",,,,,,,,,,
-34,MO N V1ELLE,MION V1ELLE,M0 V1ELLE,falluMION,IIlMON V1ELLE,,,,,,,,,,,,
-35,MION VI1LAGE,MO N VILLAGE,MI0N VILLAGE,"Rose
-MON VILLAGE",MON ILLAGE,IO yILLAGE,MO vILLAGE,vILLAGE,plaga,N1LLAGlE.,ricn,,,,,,
-36,lEtat,male,salete,ntete,Alerte,tete,,,,,,,,,,,
-37,Ai,montagne blanche,Cachez,Tache,B,,,,,,,,,,,,
-38,Faut,S-,"Va’,e",Q,,,,,,,,,,,,,
-39,¬ ¬1,AVez,buis,sans.0N,,,,,,,,,,,,,
-40,Armandine,mitan-c0t,Vermand,Arman-,,,,,,,,,,,,,
-41,Venez,Devinez,Comprenez,Avez,,,,,,,,,,,,,
-42,bine de Therese,E’,De L,S e de l e,MO,"e.
-L",L  eomſ¬,chambre de,,,,,,,,,
-43,Ee  sle,Le soleil,ILe metier,Mole,,,,,,,,,,,,,
-44,ES,,,,,,,,,,,,,,,,
-45,MN,Epelie,italie,S2*.,,,,,,,,,,,,,
-46,JEſ,Nord,Ignore,du Nord,,,,,,,,,,,,,
-47,mre h,rIIImne,S',Wotre,Decnis,Notre medecin,,,,,,,,,,,
-48,Assis,aA,Assure,Cassiopeel,queussi-qucumi,,,,,,,,,,,,
-49,¬2¬,Dizy,,,,,,,,,,,,,,,
-50,oUi-ſr,Le¬,E,,,,,,,,,,,,,,
-51,¬1,mrs,J',,,,,,,,,,,,,,
-52,Pas-lh,I,buis-l,emplis-le,L2,bras-le-corps,As-,,,,,,,,,,
-53,E e eeree,"S
-ee e eie",E e’e’,pe ole e e  deiee,jeſe gi e,"de3
- &ee e  reaeoueiſelleſe
-e ?",ile idle e eo,Fee e   da  ei ſiciſ,leie e e eie e,ee e ere e e doe e eſe,Ae e l ie eeelt e eie,Epelie ro e ele eles,eSe e e e e,el  e e eni e l e istere ae u eterie,leee e e l ep e e lee e e deoe,rer,nat  e e er i oers  d e ie e e ee   e leisi
-54,OY,Maman,Manot,mangcs,,,,,,,,,,,,,
-55,pre Roux,P,couvent Brugnon,Voilh,BEY,teursl,pre Brugnon,EH,,,,,,,,,
-56,gencral,e’,per labia,peri,verildc,,,,,,,,,,,,
-57,Desirde,dessusAotyde-,forcdes,,,,,,,,,,,,,,
-58,Poulains,fontaine Sainte-Radegonde,Sylvain,A¬,,,,,,,,,,,,,
-59,Savoyard,t13,J3,,,,,,,,,,,,,,
-60,parigole,ger,fieux,Paris,Parisiens,Parisien,Tiens,,,,,,,,,,
-61,te’,Vierge,Vieux,lReviendront,pauvIe,pau,,,,,,,,,,,
-62,Yer-,.p,"s2
- A",,,,,,,,,,,,,,
-63,Crois-tu,"Ll MiOISS0N
-Est l6s",.je,- Quoil,Par,paRfois,,,,,,,,,,,
-64,Jeacquet,Jeanneton,Brlee,blme,Jean-Claude,Jeac-,,,,,,,,,,,
-65,m48,s2,,,,,,,,,,,,,,,
-66,"petiote 
-Perpctue",- Qu',Perpdtue,PETIT1ON,le’,Perpctue,Perpetue,,,,,,,,,,
-67,reille,Nſei,Auberge,lille,,,,,,,,,,,,,
-68,S’-,l.,,,,,,,,,,,,,,,
-69,Est,C0NSCRIPTION-,destination1,,,,,,,,,,,,,,
-70,Sre eeſespriT’i,S’ree e,rss  ee e e ee eſ,"aae
-- 
-rss  ee e e ee eſ Je",eE  e i e ee i le re ee g,i’,Fee e,sSt  ee,ſ’,"a5 i
-¬
-ea ee ee  e ’ n e epr",,,,,,,
-71,"chose.140
- ON N1ELLE",ON N1ELLE,Sortez,t-on Dit-cel,M1ON N1ELLE,,,,,,,,,,,,
+66,blmer,Voilh,,,,,,,,,,,,,,
+67,m48,,,,,,,,,,,,,,,
+68,italie,Wrail,Epelie,,,,,,,,,,,,,
+69,Francei Tiens,franciers,Fance,aVance,Faut,Fran-,France,la France,,,,,,,,

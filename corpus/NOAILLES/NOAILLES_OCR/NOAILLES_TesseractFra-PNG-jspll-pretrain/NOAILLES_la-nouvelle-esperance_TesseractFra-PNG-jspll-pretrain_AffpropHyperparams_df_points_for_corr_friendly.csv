@@ -1,58 +1,49 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10
-0,cahors,Âlors,m’,S,Ca,,,,,,
-1,LC,Œ,,,,,,,,,
-2,boue,ouée,Bohême,Cordoue,Bois de Boulogne,bouscula,Rouen,,,,
-3,A,,,,,,,,,,
-4,Seine,chine,la Seine,veines,Ü,"la
-Seine bleue",®,,,,
-5,Autrefois,UT,EF,théètre,Fa,,,,,,
-6,Heure,Leurs,Asie Mineure,Docteur,È,Gravures,,,,,
-7,I,Ellé,Ellé soüparait,Vallée,Ë,,,,,,
-8,Quelque,II,.:+,Quelquefois,Dominique,Quelqu,Jean-Jacques,,,,
-9,Ferney,Noagrnr,Ferney qu’,hôtel de Ferney,,,,,,,
-10,Cousin,VOus,|coup,lüi,jalousie,,,,,,
-11,LS,Alsace,Grèce,Ïl,,,,,,,
-12,soleil,IL,le soleil,Tsolée,,,,,,,
-13,aimais,Madäime,voudrais,m'’aimais,,,,,,,
-14,Bruyères,château des Bruyères,,,,,,,,,
-15,L’,l’,kB,,,,,,,,
-16,Tourainé,D,Tournon,Obstinée,Sabiné,Touraine,,,,,
-17,Où,æ Où,,,,,,,,,
-18,Marsan,|,mar-,sanguinaireé,,,,,,,
-19,Versailles,Les,"les
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9,elem_10,elem_11,elem_12,elem_13
+0,salle,y.,lüi,Allemagne,Ï,Allez,Salon,V’,,,,,,
+1,Es,26À,.:+,Cest,Gravures,colombes,Suresnes,fes,Gênes,II,résédes,Es décidéde,Indes,ES
+2,enne,Eden,E Henri,S,Lausanne,Mène,Vienne,,,,,,,
+3,moütache,cher,Clichy,Michelet,He,| cher,fächerie,,,,,,,
+4,manche,Manuscrits,la manche,Nancy,Penché,,,,,,,,,
+5,Unissait,Jouissait,kB,fêchait,,,,,,,,,,
+6,ñn’,pâréts-d8 bôñne,"Ï
+L",,,,,,,,,,,
+7,‘france,france,de France,iran,mélance',Florence,la France,,,,,,,
+8,tùte,Égypte,Montez,Chantez,Somone,Suivante,Ponte,Remontée,deront,Mont-Valérien,Quittez,,,
+9,LE,barcarolle,Leurs,éle,Élle,Île,sembleé,Bengale,mule,lez,m’,Ælle,e,
+10,mar-,Marsan,CS,sanguinaireé,,,,,,,,,,
+11,Sèvres,SÈVRES,,,,,,,,,,,,
+12,Louvre,du Louvre,j’,oo L,,,,,,,,,,
+13,Suisse,Laisse,Anglais,,,,,,,,,,,
+14,BR,bruni,brouill,Br,brive,,,,,,,,,
+15,État,AT,Atlas,Latin,,,,,,,,,,
+16,Alsace,Grèce,LS,,,,,,,,,,,
+17,J'ai,J',,,,,,,,,,,,
+18,mer d’Azow,d’,Mème,,,,,,,,,,,
+19,l'Espagne,Espagne,Pologne,,,,,,,,,,,
+20,Ellé,Vallée,Ellé soüparait,|,,,,,,,,,,
+21,Cousin,|coup,jalousie,VOus,,,,,,,,,,
+22,Madäime,®,m'’aimais,aimais,voudrais,D,,,,,,,,
+23,Bruyères,château des Bruyères,,,,,,,,,,,,
+24,Phi-,Dauphiné,Au-,gènés,Sabiné,,,,,,,,,
+25,Dépuis,läis,Is,"pre=. |
+is",,,,,,,,,,
+26,Agrigente,É,Régent,Genève,Rentrée,"vent
 
-| deux bras etés",lesoir,Naples,Ileest,boules-de-neige,Re Îles,Îles,après-midi-molles,
-20,Italien,l'Italie,d'Italie,TA,,,,,,,
-21,Loire,RER,la pierre,perse,,,,,,,
-22,Qu’'y,qu’,Qui,jusqu’,au’,,,,,,
-23,lu,lune,point voluptueuse,,,,,,,,
-24,Ans,éans,CS,Hollande,Anzin,,,,,,
-25,feuillage du Luxembourg,Wurtemberg,Bourgogne,Luxembourg,y.,e,,,,,
-26,Nancy,manche,Manuscrits,la manche,Penché,,,,,,
-27,Ï,Sèvres,SÈVRES,,,,,,,,
-28,voyäge,Savez,Voyez,,,,,,,,
-29,j’,s’,Mossoul,Soupirs,s’assoupir,rASOIr,,,,,
-30,lez,Élle,Lucile,Île,sembleé,éle,LE,Ælle,mule,barcarolle,
-31,lagarde,Vosges,jardin des Vosges,Di,,,,,,,
-32,niérée,Corinthe,Corée,Ÿ zor,,,,,,,
-33,Allemagne,É,Allez,alluma,salle,Salon,,,,,
-34,Jouissait,Unissait,fêchait,,,,,,,,
-35,Pour-,Journées,Courbée,Jours,Îles jours,,,,,,
-36,CU,cubañs,,,,,,,,,
-37,Messine,colombes,Es décidéde,résédes,Es,fes,Cest,ES,Gênes,Suresnes,Indes
-38,moütache,fächerie,E Henri,Clichy,V’,cher,Michelet,| cher,He,,
-39,"NOUVELLE ESPÉRANCE
+Î",,,,,,,,
+27,Be,Berlin,,,,,,,,,,,,
+28,Vosges,Î,Di,lagarde,jardin des Vosges,,,,,,,,,
+29,Säbien,Fäbieñ Mauri,,,,,,,,,,,,
+30,Courbée,Jours,Journées,Îles jours,Pour-,A,,,,,,,,
+31,l’,L’,,,,,,,,,,,,
+32,l'Italie,d'Italie,Italien,TA,,,,,,,,,,
+33,Docteur,Heure,Asie Mineure,,,,,,,,,,,
+34,"les
 
-ver","NOUVELLE ESPÉRANCE
-
-alables",Noûs,A NOUVELLE,"LA NOUVELLE ESPÉRANCE 287
-
-Elle",Nouvelle,Hérelle,Appelle,demandaitelle,Nouvelle s’,
-40,J'ai,J',E,,,,,,,,
-41,"-
-
-— Vois-tu",Bois,Voix,Oise,Sois,l'Oise,oise,,,,
-42,Fontenayÿ,"VII
+| deux bras etés",après-midi-molles,Versailles,Les,lesoir,Re Îles,Naples,Îles,boules-de-neige,Ileest,,,,
+35,Ferney,Ferney qu’,hôtel de Ferney,Noagrnr,,,,,,,,,,
+36,F,E,,,,,,,,,,,,
+37,Tolède,Anatolie,Mélancolie,Jolie,Joie,,,,,,,,,
+38,tenay,"VII
 
   
  
@@ -62,37 +53,45 @@ Elle",Nouvelle,Hérelle,Appelle,demandaitelle,Nouvelle s’,
  
     
 
-Henri de Fontenay",Grenade,tenaÿy,Fontenay,tenay,,,,,
-43,Curieuse,Dété,Célérinage,térieux,Märie,Veux-,,,,,
-44,"pre=. |
-is",läis,Is,Dépuis,,,,,,,
-45,Phi-,Dauphiné,Au-,gènés,,,,,,,
-46,l'Espagne,Espagne,Pologne,,,,,,,,
-47,mettant,et’,t’,,,,,,,,
-48,État,AT,Latin,Atlas,,,,,,,
-49,fl+,Paris végétal,"Ï
-L",Paris T,Partez,Parme,Paris,,,,
-50,Lausanne,Mène,Vienne,A1,Eden,enne,,,,,
-51,Effort,conñu,ET - Non,sion,wagon,Fon,sälon,,,,
-52,Naf,CR,mMéna-,nacre,Menacée,,,,,,
-53,Pas,Assise,Passe,,,,,,,,
-54,Tolède,Joie,Mélancolie,Jolie,Anatolie,,,,,,
-55,Saint-Cloud,affirmait}.,maintienäet,maine,main,Lendemain.-Et,,,,,
-56,brive,brouill,BR,bruni,Br,,,,,,
-57,pâréts-d8 bôñne,ñn’,,,,,,,,,
-58,Rosée,Rome,Trocadéro,Tyrol,Rose,Los Rs,Rozée,,,,
-59,Bengale,Berlin,Be,,,,,,,,
-60,rue n’,rue de Tournon,"rue Jean-
-Bart",rue de l'Ancienne-Comédié,"rue madame
-Fortier",massif de myosotis,de Saxe,rue de,"—-
-Elle promit de prendre ses repas",,
-61,la France,de France,mélance',Florence,‘france,Î,iran,france,,,
-62,Suisse,Anglais,Laisse,,,,,,,,
-63,d’,Mème,mer d’Azow,,,,,,,,
-64,deront,Mont-Valérien,Chantez,Remontée,Suivante,Somone,Égypte,Ponte,tùte,Quittez,Montez
-65,Louvre,oo L,du Louvre,,,,,,,,
-66,Agrigente,Rentrée,"vent
+Henri de Fontenay",tenaÿy,fl+,Fontenay,Fontenayÿ,Grenade,,,,,,,
+39,Soupirs,s’assoupir,Mossoul,rASOIr,s’,,,,,,,,,
+40,Lucile,lune,lu,alluma,point voluptueuse,,,,,,,,,
+41,l'Oise,Voix,Bois,oise,Oise,"-
 
-Î",Genève,Régent,,,,,,
-67,Fäbieñ Mauri,Säbien,,,,,,,,,
-68,F,VI,26À,‘aiguille,mul oreiller,Séville,,,,,
+— Vois-tu",A1,È,Sois,,,,,
+42,feuillage du Luxembourg,Luxembourg,Wurtemberg,Bourgogne,,,,,,,,,,
+43,Fa,t’,et’,,,,,,,,,,,
+44,de Saxe,"—-
+Elle promit de prendre ses repas",rue de Tournon,rue de l'Ancienne-Comédié,"rue Jean-
+Bart",rue de,massif de myosotis,rue n’,"rue madame
+Fortier",,,,,
+45,cubañs,CU,,,,,,,,,,,,
+46,Où,æ Où,LC,,,,,,,,,,,
+47,maintienäet,Saint-Cloud,affirmait}.,maine,main,Lendemain.-Et,,,,,,,,
+48,Los Rs,Tyrol,Rozée,Rome,Trocadéro,Rosée,Rose,Œ,,,,,,
+49,perse,la pierre,Loire,RER,Ü,,,,,,,,,
+50,le soleil,soleil,IL,Tsolée,,,,,,,,,,
+51,"NOUVELLE ESPÉRANCE
+
+ver",Nouvelle s’,demandaitelle,I,"NOUVELLE ESPÉRANCE
+
+alables",Appelle,A NOUVELLE,Nouvelle,"LA NOUVELLE ESPÉRANCE 287
+
+Elle",Hérelle,Noûs,,,
+52,Hollande,mettant,éans,Ans,Anzin,,,,,,,,,
+53,Ïl,Dominique,Quelquefois,Jean-Jacques,Ë,Quelque,Quelqu,,,,,,,
+54,EF,UT,Autrefois,théètre,,,,,,,,,,
+55,Effort,conñu,sälon,wagon,sion,Fon,ET - Non,,,,,,,
+56,Curieuse,Veux-,Dété,Märie,Célérinage,térieux,,,,,,,,
+57,bouscula,Cordoue,Rouen,Bois de Boulogne,ouée,boue,Bohême,,,,,,,
+58,"la
+Seine bleue",chine,la Seine,Messine,Seine,veines,,,,,,,,
+59,CR,Naf,Menacée,mMéna-,nacre,,,,,,,,,
+60,au’,jusqu’,Qui,qu’,Qu’'y,,,,,,,,,
+61,Ÿ zor,niérée,Corinthe,Corée,,,,,,,,,,
+62,Savez,voyäge,Voyez,,,,,,,,,,,
+63,Âlors,Ca,cahors,,,,,,,,,,,
+64,Obstinée,Touraine,Tournon,Tourainé,,,,,,,,,,
+65,Assise,Pas,Passe,,,,,,,,,,,
+66,Parme,Partez,Paris T,Paris végétal,Paris,,,,,,,,,
+67,mul oreiller,VI,‘aiguille,Séville,,,,,,,,,,
