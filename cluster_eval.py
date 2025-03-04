@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+import numpy as np
 import polars as pl
 from sklearn.metrics import rand_score, adjusted_rand_score, mutual_info_score, normalized_mutual_info_score, \
     adjusted_mutual_info_score, homogeneity_score, completeness_score, v_measure_score, fowlkes_mallows_score, \
@@ -58,6 +59,7 @@ def do_one_ref(ref, hyp_dir):
 
     ref_df = pl.read_ndjson(ref)
     y = ref_df[y_col].to_numpy()
+    y = np.nan_to_num(y, nan=-1)
 
     res = {"lang": lang}
     pbar = tqdm(list(find_hyps(hyp_dir)))
@@ -70,6 +72,7 @@ def do_one_ref(ref, hyp_dir):
         hyp_df = pl.read_ndjson(hyp)
 
         yhat = hyp_df[y_col].to_numpy()
+        yhat = np.nan_to_num(yhat, nan=-1)
         coords = hyp_df[x_cols].to_numpy()
 
         try:
