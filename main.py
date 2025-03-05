@@ -45,6 +45,20 @@ def recursive_find_docs(path: Path) -> Generator[Path, None, None]:
         elif p.suffix == ".txt":
             yield p
 
+def cluster_core(path: Path, entities: list) -> None:
+    for name, cluster_method in cluster_methods.items():
+        points, clusters, dp, dpc = cluster_method(entities)
+        with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
+            json.dump(points, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
+        with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
+            json.dump(clusters, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
+
+        dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
+        dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
+        dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
+
+        dpc_to_friendly_csv(dpc, path.parent / f"{path.stem}_{name}_df_points_for_corr_friendly.csv")
+
 
 def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
     error_file = path.parent / f"{path.stem}_error.txt"
@@ -54,9 +68,9 @@ def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
             return
 
         result_files = list(path.parent.glob(f"{path.stem}_*.json"))
-        # if len(result_files) == len(cluster_methods) * 2:
-        #     print(f"Skipping {path} because all results are already present")
-        #     return
+        if len(result_files) == len(cluster_methods) * 2:
+            print(f"Skipping {path} because all results are already present")
+            return
 
     with path.open("r", encoding="utf-8") as f:
         text = f.read()
@@ -70,18 +84,8 @@ def do_1_text(path: Path, lang:str='fr', resume:bool=True) -> None:
 
     entities = list(entities_sm | entities_lg)
 
-    for name, cluster_method in cluster_methods.items():
-        points, clusters, dp, dpc = cluster_method(entities)
-        with open(path.parent / f"{path.stem}_{name}_points.json", "w", encoding="utf-8") as f:
-            json.dump(points, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
-        with open(path.parent / f"{path.stem}_{name}_clusters.json", "w", encoding="utf-8") as f:
-            json.dump(clusters, f, ensure_ascii=False, default=ClusterHelper.numpyToPythonType)
+    cluster_core(path, entities)
 
-        dp.to_json(path.parent / f"{path.stem}_{name}_df_points.jsonl", orient="records", lines=True)
-        dpc.to_json(path.parent / f"{path.stem}_{name}_df_points_for_corr.jsonl", orient="records", lines=True)
-        dpc.to_csv(path.parent / f"{path.stem}_{name}_df_points_for_corr.csv", index=False)
-
-        dpc_to_friendly_csv(dpc, path.parent / f"{path.stem}_{name}_df_points_for_corr_friendly.csv")
 
 def do_1_text_constructor(resume:bool=True):
     def do_1_text(path: Path, lang:str='fr') -> None:
@@ -191,9 +195,55 @@ def reset_errors(path: Path) -> None:
     else:
         raise ValueError(f"{path} is not a file or a directory")
 
+
+def do_1_text_from_corr(path: Path, corr_path:Path) -> None:
+    try:
+        df_corr = pd.read_csv(corr_path)
+        assert df_corr.shape[1] == 3
+    except (pd.errors.ParserError, AssertionError):
+        df_corr = pd.read_csv(corr_path, sep=';')
+
+    assert df_corr.cluster_corrected.isna().sum() < df_corr.shape[0]
+    df_corr.cluster_corrected.fillna(-1, inplace=True)
+
+    entities = df_corr["text"]
+    entities = list(set(entities))
+
+    cluster_core(path, entities)
+
+def main_from_corr(txt_paths : list[Path], corr_paths : list[Path]) -> None:
+    assert len(txt_paths) == len(corr_paths), "The number of txt_paths and corr_paths must be the same"
+
+    warnings.simplefilter("ignore")  # Ignore warnings in this scope
+    print("Caution: The warnings will be ignored (too many warnings otherwise)")
+
+    pbar = tqdm(zip(txt_paths, corr_paths), total=len(txt_paths))
+    for txt_path, corr_path in pbar:
+        pbar.set_postfix(txt=txt_path, corr=corr_path)
+        do_1_text_from_corr(txt_path, corr_path)
+
 if __name__ == "__main__":
-    corpus, lang = Path("corpus"), "fr"
+    # corpus, lang = Path("corpus"), "fr"
     # corpus, lang = Path("corpus_en"), "en"
     # corpus, lang = Path("corpus_pt"), "pt"
+
     # reset_errors(corpus)
-    main(corpus, lang, True)
+
+    # corpus, lang = Path("corpus_en/AGUILAR_home-influence"), "en"
+    # corpus, lang = Path("corpus/AIMARD_TRAPPEURS"), "fr"
+    #
+    # main(corpus, lang, True)
+
+    txt_paths = [
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP.txt"),
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base.txt"),
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG.txt"),
+    ]
+
+    corr_paths = [
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr-annot-OK.csv"),
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr-annot-OK.csv"),
+        Path("corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_TesseractFra-PNG/AIMARD_les-trappeurs_TesseractFra-PNG_AffpropKeepVectors_df_points_for_corr-annot-OK.csv"),
+    ]
+
+    main_from_corr(txt_paths, corr_paths)
