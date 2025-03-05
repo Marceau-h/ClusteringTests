@@ -67,6 +67,9 @@ def do_one_ref(ref, hyp_dir):
         if "GT" in hyp.name:
             pbar.write(f"Skipping {hyp.name} (GT)")
             continue
+        elif "AffpropDistA1" in hyp.name:
+            pbar.write(f"Skipping {hyp.name} (AffpropDistA1)")
+            continue
 
         pbar.set_description(hyp.name)
         hyp_df = pl.read_ndjson(hyp)
@@ -74,11 +77,12 @@ def do_one_ref(ref, hyp_dir):
         yhat = hyp_df[y_col].to_numpy()
         yhat = np.nan_to_num(yhat, nan=-1)
         coords = hyp_df[x_cols].to_numpy()
+        coords = np.nan_to_num(coords, nan=-1)
 
-        try:
-            dists = cosine_distances(coords)
-        except ValueError:
-            dists = None
+        # try:
+        #     dists = cosine_distances(coords)
+        # except ValueError:
+        #     dists = None
 
         res[
             hyp.name.replace("_df_points.jsonl", "").split("_")[-1]
@@ -89,9 +93,9 @@ def do_one_ref(ref, hyp_dir):
             },
             **(
                 {
-                    metric: do_metric(metric, yhat, dists)
+                    metric: do_metric(metric, yhat, coords)
                     for metric in pos_metrics
-                } if dists is not None else {}
+                } if coords is not None else {}
             )
         }
 
@@ -136,7 +140,7 @@ if __name__ == '__main__':
         res[ref.name] = do_one_ref(ref, hyp_dir)
 
     with open("res.json", "w", encoding="utf-8") as f:
-        json.dump(res, f)
+        json.dump(res, f, indent=4, ensure_ascii=False)
 
 
 
