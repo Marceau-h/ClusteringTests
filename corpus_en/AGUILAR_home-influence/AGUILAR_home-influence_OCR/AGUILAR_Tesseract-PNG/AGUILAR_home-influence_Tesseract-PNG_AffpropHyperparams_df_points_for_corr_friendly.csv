@@ -1,28 +1,29 @@
-cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8
-0,thou,Caithness,Thou,Elizabethan,Sabbath,,,,
-1,Plymouth,Portsmouth,Truth,,,,,,
-2,England,Highland,Glamorgan,Moorlands,Old England,Ireland,Leander,Llangwillan,
-3,Seaton,Crarton,Torrington,Ashburton,LiBRARY,Earth,"itself,—Morton",Barbary,Tn
-4,MS,Samboese,Esq,Samboe,,,,,
-5,British America,me?—oh,Bricuriy,"South
-America",T—.,,,,
-6,Gehazi,Hamiltou,Grahame,Cheltenham,,,,,
-7,Easter,Osteroe,Feroe,Euphrosyne,the Feroe Islands,Berry Pomeroy,Exeter,,
-8,Lady,Jady,JT,,,,,,
-9,Cecil,Oakwood,deceit,Madeira,,,,,
-10,Scotland,Atlantic,Scotsmen,the Shetland Isles,,,,,
-11,Hasty,Wales,wasa,Psalm,,,,,
-12,Percy?—let,Pembroke,Percy,Perey,Algiers,,,,
-13,Nurse Langford,North,fort,Oxford,myrtle,Milford,comfort,,
-14,Denmark,"promise,—if",Sweden,Providence,Benevolence,,,,
-15,Edinburgh,INDIA,India,,,,,,
-16,"Luey
-Harcourt",Harcourt,Harding,Tus,,,,,
-17,Ellen,Italy,Lelly,,,,,,
-18,Caroline,Collins,Halifax,n’t,Lina,,,,
-19,Swansea,"the Sea
-Queen","birds,—(several sea",&c.,moment”—she,Seneca,the Sea Queen,hearda,
-20,Delmont,Seldon Grange,LONDON,London,STORY.—A CONFESSION,,,,
-21,Mr,MR,,,,,,,
-22,Devonshire,New York,Yorkshire,,,,,,
-23,Dearest Eleanor,Nota,Greville Manor,Germany,Manor,,,,
+cluster,elem_0,elem_1,elem_2,elem_3,elem_4,elem_5,elem_6,elem_7,elem_8,elem_9
+0,Plymouth,Portsmouth,Truth,,,,,,,
+1,Mr,MR,,,,,,,,
+2,Crarton,LiBRARY,"itself,—Morton",Seaton,Torrington,Barbary,Ashburton,Earth,,
+3,Providence,Sweden,Benevolence,"promise,—if",Denmark,,,,,
+4,Milford,Oxford,fort,Nurse Langford,myrtle,North,comfort,,,
+5,Tus,,,,,,,,,
+6,Halifax,Lina,Caroline,Collins,Elizabethan,,,,,
+7,&c.,Yorkshire,New York,Devonshire,,,,,,
+8,Atlantic,Scotsmen,Scotland,the Shetland Isles,,,,,,
+9,Percy,Pembroke,Algiers,Perey,Percy?—let,,,,,
+10,STORY.—A CONFESSION,Seldon Grange,LONDON,Delmont,London,,,,,
+11,wasa,Hasty,Psalm,Sabbath,Wales,,,,,
+12,Highland,Leander,Glamorgan,Ireland,JT,Llangwillan,England,Old England,the Feroe Islands,Moorlands
+13,Lady,Jady,,,,,,,,
+14,Gehazi,Cheltenham,Grahame,Hamiltou,Tn,T—.,,,,
+15,Germany,Greville Manor,Nota,Dearest Eleanor,Manor,,,,,
+16,Swansea,hearda,the Sea Queen,"the Sea
+Queen","birds,—(several sea",Seneca,moment”—she,,,
+17,Oakwood,Cecil,Madeira,deceit,,,,,,
+18,n’t,INDIA,India,Edinburgh,,,,,,
+19,Esq,Samboese,Samboe,,,,,,,
+20,Italy,Ellen,Lelly,,,,,,,
+21,Thou,Caithness,thou,MS,,,,,,
+22,"Luey
+Harcourt",Harding,Harcourt,,,,,,,
+23,Easter,Feroe,Euphrosyne,Exeter,Osteroe,Berry Pomeroy,,,,
+24,"South
+America",Bricuriy,me?—oh,British America,,,,,,
