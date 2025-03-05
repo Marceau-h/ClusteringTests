@@ -101,8 +101,15 @@ def do_one_ref(ref, hyp_dir):
 
     return res
 
+def get_book_name_and_ocr_from_path(path: str)->tuple[str, str]:
+    parts = path.split("_")
+    book_name = parts[0]
+    ocr = parts[1]
+    return book_name, ocr
 
 if __name__ == '__main__':
+    res_dir = Path("evaluation_results")
+    res_dir.mkdir(exist_ok=True)
     # ref = Path("outp/AGUILAR_REF_GT_df_points.jsonl")
     # hyp_dir = Path("corpus_en/AGUILAR_home-influence/AGUILAR_REF")
     #
@@ -139,8 +146,32 @@ if __name__ == '__main__':
     for ref, hyp_dir in zip(refs, hyp_dirs):
         res[ref.name] = do_one_ref(ref, hyp_dir)
 
-    with open("res.json", "w", encoding="utf-8") as f:
+    with open(res_dir / "res.json", "w", encoding="utf-8") as f:
         json.dump(res, f, indent=4, ensure_ascii=False)
 
+    df = []
 
+    for ref_name, ref_res in res.items():
+        lang = ref_res["lang"]
+        for hyp, hyp_res in ref_res.items():
+            if hyp == "lang":
+                continue
+            for metric, metric_res in hyp_res.items():
+                book_name, ocr = get_book_name_and_ocr_from_path(ref_name)
+                df.append(
+                    {
+                        "ref": ref_name,
+                        "hyp": hyp,
+                        "metric": metric,
+                        "value": metric_res,
+                        "lang": lang,
+                        "book_name": book_name,
+                        "ocr": ocr,
+                    }
+                )
 
+    df = pl.DataFrame(df)
+
+    df.write_csv(res_dir / "df.csv")
+    df.write_parquet(res_dir / "df.parquet")
+    df.write_ndjson(res_dir / "df.jsonl")
