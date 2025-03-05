@@ -24,6 +24,8 @@ def from_for_corr_and_points_to_gt_points(
 
     df_points = pd.read_json(path_to_points, lines=True)
 
+    print(df_corr.shape, df_points.shape)
+
     df_joined = df_points.merge(df_corr, on='text', how='outer')
     # del df_corr, df_points
 
@@ -131,29 +133,20 @@ if __name__ == "__main__":
         {"lang": "fr"}
     ] * len(corrs_fr)
 
-
     # corrs = [
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points_for_corr-annot_OK2.csv",
-    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points_for_corr-annot-OK-note.csv",
-    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr_friendly_corr-annot-OK.csv",
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points_for_corr-annot_OK2.csv",
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points_for_corr-annot-OK2.csv",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points_for_corr-annot-OK.csv",
     # ]
     #
     # points = [
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Tesseract-PNG/AGUILAR_home-influence_Tesseract-PNG_AffpropHyperparams2_df_points.jsonl",
-    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_OCR/AIMARD-TRAPPEURS_kraken/AIMARD_les-trappeurs_Kraken-base_AffpropKeepVectors_df_points.jsonl",
-    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropKeepVectors_df_points.jsonl",
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_home-influence_OCR/AGUILAR_Kraken/AGUILAR_home-influence_Kraken_AffpropHyperparams2_df_points.jsonl",
-    #     "corpus_en/AGUILAR_home-influence/AGUILAR_REF/AGUILAR_home-influence_REF_AffpropHyperparams2_df_points.jsonl",
+    #     "corpus/AIMARD_TRAPPEURS/AIMARD-TRAPPEURS_REF/AIMARD_les-trappeurs_PP_AffpropHyperparams2_df_points.jsonl",
     # ]
     #
     # outputs = [
-    #     "outp/AGUILAR_home-influence_Tesseract-PNG_GT_df_points.jsonl",
-    #     "outp/AIMARD_les-trappeurs_Kraken-base_GT_df_points.jsonl",
     #     "outp/AIMARD_les-trappeurs_PP_GT_df_points.jsonl",
-    #     "outp/AGUILAR_home-influence_Kraken_GT_df_points.jsonl",
-    #     "outp/AGUILAR_home-influence_REF_GT_df_points.jsonl",
+    # ]
+    #
+    # bonus_fields = [
+    #     {"lang": "fr"}
     # ]
 
     for corr, point, output, bf in tqdm(zip(corrs, points, outputs, bonus_fields), total=len(corrs)):
